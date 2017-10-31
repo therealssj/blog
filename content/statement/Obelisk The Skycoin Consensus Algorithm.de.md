@@ -37,44 +37,23 @@ Obwohl der Proof of Stake-Algorithmus das Sicherheitsproblem der 51%-Attacke ang
 
 Dieses Prinzip erhöht die ökonomische Barriere eine 51%-Attacke zu starten signifikant, weil die finanziellen Kosten, eine Mehrheit der Tokens zu erwerben, sehr wahrscheinlich die potentielle Gewinne übersteigt. Wenn ein Angreifer es schafft die Mehrheit der Coins als Stakeholder zu besitzen, dann wird er am größten unter den Auswirkungen der Attacke, bezüglich der Stabilität des Netzwerkes sowie des externen Werts der Cryptowährung, leiden.
 
+Obwohl die Barriere der Netzwerkattacken auf die menschliche Ebene gehoben wurde, verursacht PoS einen zentralisierenden Impuls, der mindestens genauso stark, wenn nicht sogar stärker, als der von PoW ist. Joseph Young fasst dies seinem Vergleich der beiden Systeme auf [coinfox.info](http://www.coinfox.info/) zusammen "Ein System, bei dem der größte Stakeholder umfangreiche Kontrolle und Authorität über technische, aber auch ökonomische Aspekte des Netzwerk hat, verursacht eine bedeutende Monopolproblematik." Während in PoW das Abstimmen über die Implementation von technischen Änderungen des Netzwerks "aufgeteilt (wird) zwischen Minern und anderen essentiellen Mitgliedern der Community", wird im PoS-System "die technische Fähigkeit Änderungen ohne den Willen der Community, Unternehmen, Minern und anderen Entwicklern den größten Stakeholdern eingeräumt. Diese Zentralisation der Abstimmungsmacht, eigentlich also der Kontrolle über das Netzwerk, verfehlt das Prinzip einer auf distributed ledger basierenden Cryptowährung, indem es dem komplette Prinzip der Verteilung aller Elemente im Netzwerk und der Abwesenheit einer zentralen Behörde widerspricht."
 
-Yet, although raising the barriers to human-led attacks on the network, PoS
-creates a centralizing impulse which is as strong as, if not stronger than, in
-the case of PoW. As Joseph Young summarizes in his comparison of the two
-systems at [coinfox.info](http://www.coinfox.info/), “A system where the major
-stakeholder enjoys extensive control and authority over both technical and
-economic aspects of the network creates a major monopoly problem.” While in PoW
-voting on the implementation of technical changes to the network “is divided
-among miners, developers and other crucial members of the community,” in a PoS
-system “major stakeholders have a technical ability to make any changes they
-like without considering the will of the community, businesses, miners and
-developers. This centralisation of voting power and, essentially, control of
-the network defeats the purpose of a distributed ledger-based cryptocurrency
-since it contradicts its entire principle of distributing all elements within
-the network to avoid the presence of a central authority.”
+## Obelisk: Skycoins verteilter Konsens-Algorithmus
 
-## Obelisk: Skycoin's distributed consensus algorithm
+Um diese Zentralisationsproblematik anzupacken, schreitet Skycoin über PoW/PoS hinaus.
+Ein verteilter Konsens-Algorithmus namens Obelisk wird verwendet, welcher die Einflussnahme, in Übereinkunft mit einem Netz des Vertrauens (web of trust), im Netzwerk verteilt. Im Wesentlichen hat jeder Knoten eine Liste der Knoten, die er abonniert hat und die Dichte der Abonnenten eines Knotens bestimmt seinen Einfluss im Netzwerk. Jedem Knoten ist eine persönliche Blockchain zugeteilt, welche als eine Art "öffentlicher Rundfunkchannel" funktioniert, indem alle Aktionen des Knotens sichtbar sind und öffentlich einsehbar. Da alle Konsensusentscheidungen und Kommunikationen auf der persönlichen Blockchain eines Knotens erscheinen, kann die Community die Knoten sehr einfach auf Betrügen oder Kollisionen kontrollieren. Wie Entscheidungen im Netzwerk getroffen werden und welcher Knoten welche Entscheidung beeinflusst, ist vollständig transparent.
 
-To tackle this centralization problem, Skycoin moves beyond PoW/PoS.
-It uses a distributed consensus algorithm, called Obelisk, which
-distributes influence over the network according to a “web of trust”. In
-essence, every node has a list of other nodes that it subscribes to, and the
-density of a node’s network of subscribers determines its influence on the
-network. Each node is assigned a personal blockchain which acts as a “public
-broadcasting channel” on which all of a node’s actions are visible and
-publicly recorded. As all consensus decisions and communication occur through
-the personal blockchains of each node, the community can very easily audit
-nodes for cheating or collusion. How decisions on the network are made and
-which nodes influence those decisions is completely transparent.
+Das öffentliche Protokoll der persönlichen Blockchain eines jeden Knotens, erlaubt dem Netzwerk auf Abtrünnige zu reagieren und die Verbindung mit diesen weniger vertrauenswürdigen oder bösartigen Knoten zu trennen, was zu einem Zusammenziehen des Netzwerks in einen kleineren, aber vertrauenswürdigeren, Kern führt. Infolgedessen hat die Community prinzipiell die Möglichkeit, bei einer zu konzentrierten (oder zu wenig konzentrierten) Macht, sowie bei Misstrauen gegen knotenbetreibende Personen, die Balance der Power im Netzwerk auszugleichen, indem sie als Kollektiv ihre Vertrauensbeziehung im Netzwerk ändern. Die Rechenschaft der Knoten gegenüber der Community und die Prüfungen von Drittparteien, sowie die Transparenz der Konsensfindung, stärken die Entscheidungsfindung im Kollektiv und führt deshalb ein höchstdemokratisches und dezentrales Element in das Netzwerk ein.
 
-The public record left by each node’s personal blockchain allows the network
-to react to defections by severing connections with less trustworthy or
-malicious nodes, contracting the network to a smaller and denser core of
-trusted nodes. Hence, in principle, if the community does not trust the nodes
-representing them or feels that power within the network is too concentrated
-(or not concentrated enough) the community is able to collectively shift the
-balance of power in the network by collectively changing their trust
-relationships in the network. The accountability of nodes to the community and
+Dieses System bietet einem digitalen Währungssystem viele Vorteile, signifikant reduzierte Transaktionszeiten, keine Benötigung von Mining-Equipment, sowie großartige Sicherheit.
+
+*Lest mehr:*
+
+* *[Skycoin Konsens-Algorithmus Whitepapers](https://www.skycoin.net/whitepapers)*
+* *[Obelisk The Skycoin Consensus Algorithm | Information Pages](/overview/obelisk-skycoin-consensus-algorithm-information-pages/)*
+
+The accountability of nodes to the community and
 3rd party audits as well as the transparency of consensus strengthens
 collective decision-making and thus introduces a highly democratic and
 decentralizing element to the network.
@@ -85,4 +64,4 @@ transaction times, no mining requirement, and greater security.
 *Read more:*
 
 * *[Skycoin Consensus Algorithm Whitepapers](https://www.skycoin.net/whitepapers)*
-* *[Obelisk The Skycoin Consensus Algorithm | Information Pages](/overview/obelisk-skycoin-consensus-algorithm-information-pages/)*
+* *[Obelisk Der Skycoin Konsens-Algorithmus | Informationsseite](/overview/obelisk-skycoin-consensus-algorithm-information-pages/)*
