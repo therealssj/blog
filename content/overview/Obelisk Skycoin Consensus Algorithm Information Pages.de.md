@@ -1,5 +1,5 @@
 +++
-title = "Obelisk: Skycoin Consensus Algorithm | Information Pages"
+title = "Obelisk: Skycoin Konsens-Algorithmus| Informationsseiten"
 tags = [
     "Overview",
     "Consensus",
@@ -12,148 +12,103 @@ categories = [
 author = "johnstuartmill"
 +++
 
-![Obelisk The Skycoin Consensus Algorithm](/img/obelisk-the-skycoin-consensus-algorithm.png)
+![Obelisk Skycoin Konsens-Algorithmus](/img/obelisk-the-skycoin-consensus-algorithm.png)
 
 <!-- MarkdownTOC autolink="true" bracket="round" -->
 
-- [Consensus highlights](#consensus-highlights)
-    - [Why consensus](#why-consensus)
-    - [High scalability and low-energy consumption](#high-scalability-and-low-energy-consumption)
-    - [Robust to coordinated attacks](#robust-to-coordinated-attacks)
-    - [The “51-percent Attack”](#the-%E2%80%9C51-percent-attack%E2%80%9D)
-    - [Hidden IP addresses](#hidden-ip-addresses)
-    - [Independence of clock synchronization](#independence-of-clock-synchronization)
-    - [Two type of nodes: Consensus and Block-making](#two-type-of-nodes-consensus-and-block-making)
-- [How Skycoin Consensus Algorithm works](#how-skycoin-consensus-algorithm-works)
-- [References](#references)
+- [Konsensus-Highlights](#consensus-highlights)
+    - [Warum Konsens](#why-consensus)
+    - [Hohe Skalierbarkeit und niedriger Energieverbrauch](#high-scalability-and-low-energy-consumption)
+    - [Robust gegenüber koordinierten Attacken](#robust-to-coordinated-attacks)
+    - [Die "51%-Attacke"](#the-%E2%80%9C51-percent-attack%E2%80%9D)
+    - [Versteckte IP-Adressen](#hidden-ip-addresses)
+    - [Unabhängig von der Taktsynchronisation](#independence-of-clock-synchronization)
+    - [Zwei Knotentypen: Konsens und Blockerschaffend](#two-type-of-nodes-consensus-and-block-making)
+- [Wie der Skycoin Konsens-Algorithmus funktioniert](#how-skycoin-consensus-algorithm-works)
+- [Referenzen](#references)
 
 <!-- /MarkdownTOC -->
 
 
-## Consensus highlights
+## Konsensus-Highlights
 
-### Why consensus
+### Warum Konsensus
 
-Skycoin Consensus Algorithm ("Obelisk") synchronizes the state of Skycoin
-blockchain across all the network nodes. This results in consistent accounting,
-i.e. when calculating coin balance for a given public key (or address)
-yields same value at each node that performed the calculation.
+Der Skycoin Konsens-Algorithmus ("Obelisk") synchronisiert den Zustand der Skycoin-Blockchain quer über alle Netzwerkknoten. Dies resultiert in einer konsistenten Buchführung, wenn also der Kontostand eines gegebenen öffentlichen Schlüssels (oder Adresse) berechnet werden soll, liefert jeder Knoten dasselbe Ergebnis bei der Berechnung.
 
-### High scalability and low-energy consumption
+### Hohe Skalierbarkeit und niedriger Energieverbrauch
 
-By design, the algorithm is a scalable and computationally-inexpensive
-alternative to proof-of-work, therefore both the consensus algorithm and
-block-making can be run on a budget hardware that have low price and low
-energy consumption, thus making the cryptocurrency network more robust
-to possible centralization attempts (i.e. via node being affordable to
-general public).
+Durch das Design bedingt ist der Algorithmus hoch skalierbar und eine günstig berechenbare alternative zu Proof-of-Work, deshalb kann der Konsens-Algorithmus und das Blockerschaffen auf einer low-budget Hardware mit niedrigem Energieverbrauch und niedrigen Anschaffungskosten laufen, was das Cryptowährungsnetzwerk robuster gegenüber Zentralisierungsversuchen machen (sprich die Knoten sind für die breite Masse erschwinglich).
 
-### Robust to coordinated attacks
+### Robust gegenüber koordinierten Attacken
 
-Our Consensus Algorithm (i) converges fast, (ii) requires minimal
-network traffic, and (iii) can withstand a large-scale coordinated
-attack by a well-organized network of malicious nodes. The algorithm is
-non-iterative, fast, can be run on a sparse network with only
-nearest-neighbor connectivity (e.g. on Mesh Network), and works well in
-the presence of cycles in the connectivity graph (i.e. DAG-type
-connectivity is *not* required).
+Unser Konsens-Algorithmus (i) konvergiert schnell, (ii) verlangt minimalen Netzwerktraffic und (iii) widersteht groß angelegten, koordinierten Attacken von einem gut organisierten Netzwerk bösartiger Knoten. Der Algorithmus ist nicht iterativ, schnell und kann auf einem dünn besetzen Netzwerk mit auschließlich nächster-Nachbar-Konnektivität (z.B. auf einem vermaschten Netz (mesh network)) laufen, funktioniert zudem auch gut, wenn Zyklen im Konnektivitätsgraph vorhanden sind (sprich DAG-mäßige Konnektivität ist *nicht* benötigt).
 
-### The “51-percent Attack”
+### Die "51%-Attacke"
 
-In a limited sense, the base version of the Algorithm can be subject to
-this attack. Specifically, when the modified or malicious nodes who are
-in majority broadcast a protocol-compliant and UTXO-compliant candidate
-block, such block wins the consensus. However, a block with any sort of
-non-compliance is dropped by the (unmodified) Algorithm before the block
-gets a chance to participate in consensus trial.
+In einer eingeschränkten Ansicht kann die Basisversion des Algorithmus Ziel einer solchen Attacke sein. Speziell wenn die modifizierten oder bösartigen Knoten in der Mehrheit sind und einen protokollkonformen, UTXO-konformen Blockkandidaten versenden und dieser die Konsensfindung gewinnt. Allerdings wird ein Bock, der auf irgendeine Weise nicht Regelkonform ist, sofort von dem (unmodifizierten) Algorithmus ausgeschieden, bevor der Block die Chance bekommt an dem Konsensprozess teilzunehmen.
 
-Consensus nodes can optionally utilize a Web-of-Trust concept in such a
-way that consensus-related messages that come from unknown nodes (i.e.
-signed by untrusted public keys) are ignored.
+Konsensknoten können optional das Konzept des Netz-des-Vertrauens verwenden, indem Nachrichten von unbekannten Knoten (sprich signiert mit vertrauensunwürdigen öffentlichen Schlüsseln) bezüglich des Konsensprozessen ignoriert werden.
 
-When Web-of-Trust mode is enabled, starting a very large number of
-malicious consensus nodes in order to (a) cause blockchain fork or (b)
-disrupt the consensus process would have little effect, unless a vast
-majority of Web-of-Trust members unwittingly include those malicious
-nodes into their local lists of trusted nodes.
+Wenn das Netz-des-Vertrauens eingeschaltet ist, würde das Zuschalten einer großen Menge an bösartigen Konsensknoten um (a) einen Blockchainfork auszulösen, (b) den Konsensprozess zu unterbrechen, wenig Wirkung zeigen, sofern nicht eine große Menge der Mitglieder des Netz-des-Vertrauens unwissentlich diese bösartigen Knoten in ihre lokale Liste von vertrauenswürdigen Knoten aufnehmen würden.
 
-### Hidden IP addresses
+### Versteckte IP-Adressen
 
-The nodes are addressed by their cryptographic public key. Node’s IP
-address is only known to the nodes to which it is connected directly.
+Die Knoten werden mittels ihres kryptographischen öffentlichen Schlüssels adressiert. Die IP-Adresse der Knoten ist nur den Knoten bekannt, zu denen sie eine direkte Verbindung haben.
 
-### Independence of clock synchronization
+### Unabhängig von der Taktsynchronisation
 
-The Algorithm does not use “wall clock” (i.e. calendar date/time).
-Instead, block sequence numbers that are extracted from validated
-consensus- and blockchain- related messages are used to calculate node’s
-internal time. This can be informally called “block clock”.
+Der Algorithmus nutzt keine "Wanduhr" (sprich kalendarisches Datum/Zeit). Stattdessen werden Blocksequenznummern verwendet, welche aus validen konsens- und blockchainrelatierten Nachrichten extrahiert werden, um die knoten-interne Zeit zu berechnen. Die kann informell als "Blocktakt" bezeichnet werden.
 
-### Two type of nodes: Consensus and Block-making
+### Zwei Knotentypen: Konsens und Blockerschaffend
 
-A consensus node receives its input from one or more block-making nodes.
-The algorithms for consensus and block-making are separate, yet they
-both operate on same data-structures. We mention block-making where it
-helps understanding the Consensus Algorithm and how it integrates with
-the rest of the system.
+Ein Konsensknoten erhält seinen Input von einem oder mehreren blockerschaffenden Knoten. Der Algorithmus für den Konsens und das Blockerschaffen sind separat, dennoch operieren sie beide auf denselben Datenstrukturen. Wie erwähnen das Blockerschaffen an den Stellen, an denen es hilft den Konsens-Algorithmus zu verstehen und wie er sich in das restliche System integriert.
 
-Both type of nodes always performs authorship verification and fraud
-detection of incoming date. Fraudulent or invalid messages are detected,
-dropped and never propagated; peer nodes engaged in suspicious
-activities are disconnected from, and their public keys are banned.
+Beide Knotentypen führen immer die Verifikation des Authors durch und die Betrugserkennung des eingehenden Datums. Betrügerische oder ungültige Nachrichten werden erkannt, ausgeschieden und niemals verbreitet; Verbindungen mit Peer-Knoten, die in verdächtige Aktivitäten verwickelt sind, werden abgetrennt und ihre öffentlichen Schlüssel werden gebannt.
 
-## How Skycoin Consensus Algorithm works
+## Wie der Skycoin Konsens-Algorithmus funktioniert
 
-For exposition purposes only, the following description assumes that (i)
-each node is both block-maker and consensus participant, and (ii)
-consensus-related messages generated by non-trusted nodes are accepted,
-i.e. no filtering based on web-of-trust is performed. A full
-implementation (i.e. without these simplifying assumptions) will be
-available in Skycoin GitHub repository. For simulation results and a
-detailed, diagrammatic example of one consensus trial, see [\[1\]](#references). A
-simulation of a network with trust relationship, although using a
-different than Skycoin algorithm, can be found in [\[2\]](#references). The
-description of Skycoin Consensus Algorithm follows.
+Aus darstellerischen Gründen setzt die folgende Beschreibung voraus, dass (i) jeder Knoten zugleich Konsens, als auch Blockerschaffend ist, (ii) konsens-relatierte Nachrichten von nicht-vertrauenswürdigen Knoten werden akzeptiert, sprich kein filtern basiert nach dem Netz-des-Vertrauens wird durchgeführt. Die volle Implementation (sprich ohne diese vereinfachenden Annahmen) wird auf Skycoins Github-Repository verfügbar sein. Für die Simulationsergebnisse und die detaillierten schematischen Beispiele des Konsensprozesses, siehe [\[1\]](#references). Eine Simulation, welche die Vertrauenswürdigkeit beachtet, kann hier, jedoch für einen anderen als den Skycoin-Algorithmus, gefunden werden [\[2\]](#references). Die Beschreibung des Skycoin Konsens-Algorithmus folgt.
 
-1.  *Block-making*. Each block-making node collects new
-    transactions, verifies them against the UTXO of the desired sequence
-    number, packages the compliant transactions into a new block, and
-    broadcasts the block to the network.
+1. *Blockerschaffen*. Jeder blockerschaffende Knoten sammelt neue Transaktionen 
+    und verifiziert diese mit den UTXO der gewünschten Sequenznummer, 
+    bündelt die konformen Transaktionen in einen neuen Block zusammen 
+    und verbreitet diesen Block im Netzwerk.
+    
+2. *Sammeln von Blöcken*. Jeder Konsens-Knoten sammelt die Blöcke, 
+    welche von den Blockerschaffern generiert wurden und packt diese 
+    in einen Container (abgesondert von der Blockchain) kodiert mit der Blocksequenznummer.
 
-2.  *Collecting blocks*. Each consensus node collects the
-    blocks generated by block-makers, and puts them into a container
-    (separate from blockchain) keyed by block’s sequence number.
+3. *Auswählen des gewinnenden Blocks*. Jeder Konsens-Knoten findet, 
+    nachdem eine ausreichend große Menge [^1] von Blockkandidaten erhalten wurden 
+    oder nachdem andere Kriterien erfüllt wurden, den Block, der von 
+    der Mehrheit der Blockerschaffer generiert wurde. 
+    Gleichstände werden deterministisch gelöst. Derartige Blöcke werden 
+    mit "lokale Gewinner"[^2] markiert und an die lokale Blockchain hinzugefügt. 
+    Der zugehörige Schlüsselwert zur Blocksequenznummer des lokalen Gewinners wird gelöscht, 
+    damit der Speicherplatz wieder freigegeben wird. 
+    Der Hashwert des lokalen Gewinners wird verbeitet/verkündet. 
 
-3.  *Selecting winning block*. Each consensus node, upon
-    receiving a sufficiently large number[^1] of candidate blocks or
-    upon meeting other criteria, finds the block that was made by the
-    largest number of block-makers. Ties are resolved deterministically.
-    Such block is labeled “local winner”[^2] and is appended to the
-    local blockchain. The key-value pair corresponding to the block
-    sequence number of the local winner is deleted, thus
-    reclaiming storage. Hash code of local winner
-    is broadcast/announced.
+4. *Verifikationsschritt*. Jeder Knoten behält Statistiken über die, 
+    von anderen Knoten gemeldeten lokalen Gewinner. Wenn lokale Gewinner von
+    allen oder den meisten Knoten gemeldet wurden [^3], bestimmt der Knoten den 
+    globalen Gewinner für die spezifische Sequenznummer. Wenn der globale Gewinner der
+    lokale Gewinner ist, dann fährt der Knoten wie oben beschrieben fort.
+    Anderenfalls entscheidet der Knoten, basierend auf externen Daten und 
+    lokalen Protokollen, zwischen (a) Resynchronisation mit dem Netzwerk, 
+    oder (b) Ausscheiden aus dem Konsensprozess und/oder Blockerschaffen, 
+    oder (c) behalten seiner Blockchain und Anfordern eines Notstopps.
+    
+[^1]: Dies ist ein konfigurierbarer Parameter des Algorithmus.
+[^2]: Unter bestimmten idealen Bedinungen, lokale Gewinner (für eine 
+    gegebene Blocksequenznummer) sind alle identisch, sprich enthalten 
+    eine identische Menge an Transaktionen. Der Unterschied entsteht durch die 
+    Netzwerklatenz, hohe Frequenz an Transaktionen, Nachrichtenzustellung außerhalb der Reihe, 
+    Nachrichtenverlust, Störungen durch bösartige Knoten etc.
+[^3]: Diese Nummer kann festgelegt werden, zum Beispiel, indem man rekursiv vertrauenswürdige Knoten 
+    fragt, die öffentlichen Schlüssel ihrer gelisteten vertrauenswürdige Knoten anzugeben.
 
-4.  *Verification step*. Each node keep statistics on local
-    winners reported by other nodes. When local winners have been
-    reported by all or most of the nodes[^3], the node determines the
-    global winner for the particular sequence number. If the global
-    winner is the local winner, then the node continues to function
-    as above. Otherwise the nodes decides, based on external data and
-    local logs, between (a) re-synchronizing itself with the network
-    or (b) dropping from participating in consensus and/or block-making
-    or (c) keeping its blockchain and requesting an emergency stop.
-
-[^1]: This is a configurable parameter of in the Algorithm.
-[^2]: Under certain ideal conditions, local winners (for a given block
-    sequence number) are all the same, i.e. include identical set of
-    transactions. The difference arises due to network latency, high
-    frequency of transactions, out-of-sequence message delivery, message
-    loss, malfunctioning or malicious nodes etc.
-[^3]: This number can be determined, for example, by asking trusted
-    nodes to report public keys of their trusted nodes, recursively.
-
-## References
+## Referenzen
 
 \[1\] johnstuartmill et al. A Distributed Consensus Algorithm for
 Cryptocurrency Networks.
@@ -165,7 +120,7 @@ for Consensus over P2P Network.
 <https://github.com/skycoin/whitepapers/blob/master/Sky-%20Opinion%20Dynamics%20Based%20Consensus%20for%20P2P%20Network%20with%20Trust%20Relationships.pdf>
 201?
 
-*Read more:*
+*Lest mehr:*
 
-* *[Skycoin Consensus Algorithm Whitepapers](https://www.skycoin.net/whitepapers)*
-* *[Obelisk The Skycoin Consensus Algorithm](/statement/obelisk-skycoin-consensus-algorithm/)*
+* *[Skycoin Konsens-Algorithmus Whitepapers](https://www.skycoin.net/whitepapers)*
+* *[Obelisk der Skycoin Konsens-Algorithmus](/statement/obelisk-skycoin-consensus-algorithm/)*
