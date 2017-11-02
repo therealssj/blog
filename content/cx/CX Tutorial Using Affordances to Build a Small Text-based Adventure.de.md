@@ -26,13 +26,13 @@ categories = [
 
 Dieses Tutorial stellt ein textbasiertes "Spiel" vor (der User interagiert nicht mit dem Programm,
 er kann die Entscheidungen des Charakters nicht beeinflussen), welches eine 
-anforderungsreagierende Architektur(#challenge-response-architecture)
+[anforderungsreagierende Architektur](#challenge-response-architecture)
 nutzt, um zu bestimmen welche Aktionen der Spielcharakter ausführen kann.
 Der komplette Quellcode kann hier gefunden werden [CXs Repository](https://github.com/skycoin/cx),
 in der Datei *examples/text-based-adventure.cx*.
 
-Das Spiel beschreibt ein Abenteuer eines Reisenden, welcher vor einem Monster flieht (Nächsten Monat
-ist schließlich Halloween). Wenn der Reisende eine bestimmte Anzahl von Stunden überlegt (das sind nur 
+Das Spiel beschreibt ein Abenteuer eines Reisenden, welcher vor einem Monster flieht (nächsten Monat
+ist schließlich Halloween). Wenn der Reisende eine bestimmte Anzahl von Stunden überlebt (das sind nur 
 Iterationen in einer *for*-Schleife), hört das Monster auf den Reisenden zu verfolgen. 
 Ein Beispiel einer Runde ist unten:
 
@@ -69,14 +69,14 @@ halt() Arguments:
 65: call to halt
 ```
 
-Wie man sehen kann wird ein Error produziert, wenn man stirbt (das ist angebracht, denn es ist 
+Wie man sehen kann, wird ein Error produziert wenn man stirbt (das ist angebracht, denn es ist 
 eine erschreckende Situation für einen Programmierer).
 
 # anforderungsreagierende Architektur
 
-In dieser Architektur wird eine Frage stellt und verschiedene Agenten (in diesem Fall Funktionen)
-müssen diese Frage beantworten. Eine einfache Frage wäre "Wer kann im Moment ausgeführt werden?" und diese 
-Funktionen die ausgeführt werden können werden ausgeführt werden.
+In dieser Architektur wird eine Frage gestellt und verschiedene Agenten (in diesem Fall Funktionen)
+müssen diese Frage beantworten. Eine einfache Frage wäre "Wer kann im Moment ausgeführt werden?" und die 
+Funktionen die ausgeführt werden können, werden daraufhin ausgeführt.
 
 Die folgende Prototyp einer Funktion repräsentiert die möglichen Aktionen,
 welche während des Abenteuers des Reisenden eintreten können.
@@ -106,7 +106,7 @@ affExpr("laufen", "ja|nein", 0)
 laufen(falsch)
 ```
 
-Im obigen Code such *remArg()* nach einem Ausdruck mit dem "laufen"-Tag und entfernt dessen Argument. 
+Im obigen Code sucht *remArg()* nach einem Ausdruck mit dem "laufen"-Tag und entfernt dessen Argument. 
 Dies wird getan, damit das Aufforderungssystem die Argumente, welche zum Ausdrucksoperator gesendet werden 
 können, auflistet. Danach sagt *affExpr()* CX, "unter allen Argumenten, die an *laufen* gesendet werden 
 können, können *ja* oder *nein* als Argumente verwendet werden und wende die 
@@ -138,8 +138,8 @@ Die erste Regel kann gelesen werden, als "Ich werde befragt, wenn du überlegst 
 
 Die Regeln im zweiten Block (die vier Regeln nach der ersten Leerzeile) sagen dem Aufforderungssystem "niemals" *ja* 
 als Argument zu akzeptieren. Wir machen dies, weil wir das als Standardverhalten haben möchten, aber wir können später
-Regeln aufstellen, die dieses Verhalten überschreiben. Dieses Überschreiben passiert mit in den letzten vier Regeln.
-Im Prinzip sagt dieser Regelblock CX *ja* als Argument zu akzeptieren, wenn ein bestimtmes Objekt im Objektstapel 
+Regeln aufstellen, die dieses Verhalten überschreiben. Dieses Überschreiben passiert in den letzten vier Regeln.
+Im Prinzip sagt dieser Regelblock CX, *ja* als Argument zu akzeptieren, wenn ein bestimmtes Objekt im Objektstapel 
 vorhanden ist.
 
 # Objekte
@@ -150,7 +150,7 @@ zu lassen, wird *addObject("monster")*  ausgeführt. Wenn sich der Reisende dazu
 dem Kampf zu fliehen, wird das "monster"-Objekt vom Stapel entfernt.
 
 Im Falle der *chance*-Aktion kann sich das Monster dazu entscheiden, dem Reisenden ein paar Sekunden 
-zu schenken, sodass dieser überlegen kann, was er als nächstes tun möchte. Um dies zu realisieren wird 
+zu schenken, sodass dieser überlegen kann was er als nächstes tun möchte. Um dies zu realisieren wird 
 das "kampf"-Objekt entfernt (da das Monster den Kampf noch nicht beginnen möchte), aber das 
 "monster"-Objekt verbleibt auf dem Stapel.
 
@@ -158,17 +158,6 @@ das "kampf"-Objekt entfernt (da das Monster den Kampf noch nicht beginnen möcht
 
 Das CX Aufforderungssystem nutzt Objekte und Regeln um komplexe Entscheidungen darüber zu treffen,
 wie Aufforderungen gefiltert werden sollen.
-
-
-By using objects, we can decide what actions will be activated or
-deactivated. For this example, a small amount of actions are being
-considered for this activation process, and the benefit of using this
-architecture could seem worthless at first sight. Nevertheless, more
-complex rules involving more objects could be defined, and a single
-rule could be in charge of activating several nodes in a big network
-of actions. Also, in this example only two possible arguments are
-considered: *yes* and *no*; we could have more arguments, and actions
-that accept different types of arguments other than booleans.
 
 Indem Objekte verwendet werden können wir entscheiden, welche Aktionen aktiviert oder deaktiviert
 werden sollen. Für dieses Beispiel wurden eine kleine Menge an Aktionen für den 
