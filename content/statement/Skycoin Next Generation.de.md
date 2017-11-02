@@ -1,5 +1,5 @@
 +++
-title = "Skycoin is a Next Generation Cryptocurrency"
+title = "Skycoin ist die nächste Generation Cryptowährung"
 tags = [
     "Decentralization",
     "Ideology",
@@ -11,86 +11,35 @@ categories = [
 ]
 +++
 
-*This is an archived post from the bitcointalks thread on May 06 2014.*
+*Dies ist ein archivierter Post aus dem Bitcointalksthread von 6. May 2014.*
 
->Quote from: -Greed- on May 05, 2014, 04:25:46 PM
-+1 for skycoin being truly 2nd-gen coin. Bitcoin and all its forks are
-first-gen IMO.
+> Zitat von: -Greed- am 5. May 2015 um 04:25:46 nachmittags
++1 dafür, dass Skycoin tatsächlich ein Coin der zweiten Generation ist. 
+Bitcoin und all seine Gabelungen sind alle erste Generation IMO.
 
-Some of the things we are laying the foundations for are third gen. A working,
-usable coin, with a clean code base and good security, no mining, no 51%
-attack and a reason to use the coin is just second gen.
+Wir legen die Grundlage für die dritte Generation. Eine funktionierenden, nützlichen Coin mit sauberer Codebasis und guter Sicherheit, keinem Mining, keiner 51%-Attacke sowie einem Grund den Coin zu benutzen, was an sich schon zweite Generation ist.
 
-Digital contracts, communication and identity infrastructure lay the
-foundation for the third gen. We do not know what the third gen will look
-like, but believe that it will involve platforms and 3rd party applications.
+Digitale Verträge, Kommunikation und Identitätsinfrastrukture legen die Grundlage für die dritte Generation. Wir wissen nicht, wie die dritte Generation aussehen wird, aber wir vermuten es wird Plattformen und Anwendungen von Drittparteien involvieren.
 
-A first gen coin is extremely easy to fork. You just change the hash function
-or the name and logo and then release it. The first generation was about
-marketing. Bitcoin and then Dogecoin were the most successful coins in the
-first gen. Bitcoin has a strong community, the strongest merchant adoption and
-ecosystem. Dogecoin has the best community, the best marketing and wide
-adoption among younger users.
+Ein Coin der ersten Generation ist extrem einfach abzuzweigen. Man ändert einfach die Hashfunktion oder den Namen und das Loge und veröffentlicht ihn dann. Bei der ersten Generation ging es nur um das Marketing. Bitcoin und Dogecoin waren die erfolgreichsten Coins der ersten Generation. Bitcoin hat eine starke Community hinter sich, die größte Händleradoption und Ökosystem. Dogecoin hat die beste Community, das beste Marketing und die größte Adoption unter jüngeren Usern.
 
-Between the second and third gen, we are seeing features like messaging for
-communication between addresses and other extensions. You cant fork the coin
-because your fork is no longer compatible with the ecosystem of the original.
+Zwischen der zweiten und dritten Gerenation werden wir Features wie Nachrichtenversand zwischen Adressen und andere Erweiterungen sehen. Man kann den Coin nicht abzweigen, denn die Abzweigung (fork) ist dann nicht mehr mit dem Ökosystem des Originals kompatibel.
 
-At the same time, between the second and third generation the new platforms
-increase interoperability between first generation coins. Any two coins become
-automatically convertible between each other at the spot price. You dont care
-if they accept Bitcoin or which basket of currencies they accept, because it
-is the same for the end user. They just go to their wallet and hit "pay" and
-select the currency to pay in and which wallet they want to pay out of.
+Zur selben Zeit, zwischen der zweiten und dritten Generation, werden die neuen Plattform die Interoperabilität der Coins der ersten Generation erhöhen. Beliebige Paare von Coins werden automatisch umwandelbar mit ihrem aktuellen Preis. Man schert sich darum, ob sie Bitcoin akzeptieren oder welchen Korb von Währungen sie akzeptieren, denn es ist für den Endnutzer dasselbe. Sie gehen einfach in ihr Wallet und klicken auf "bezahlen" und wählen die Währung, in der sie zahlen möchten und aus welchem Wallet sie bezahlen möchten.
 
-The third gen will have more community currencies or companies issuing their
-own currencies as gift cards ("small tent" special purpose currencies). In the
-second generation, we are seeing wallstreet exchanges and banks integrating
-Bitcoin as a commodity, like Gold. They are trading Bitcoin as a commodity,
-but have not adapted to run their infrastructure on Bitcoin type systems.
+Die dritte Generation wird mehr Communitywährungen haben oder auch Firmen, welche ihre eigene Währung als Geschenkkarten herausgeben ("small tent" Währungen für spezielle Zwecke). In der zweiten Generation werden die Wallstreetexchanges und Banken Bitcoin als Handelsware integrieren sehen, ähnlich wie Gold. Sie handeln Bitcoin als Handelsware und haben ihre Infrastruktur aber noch nicht mit der Fähigkeit versehen, auf Systemen wie Bitcoin zu laufen. 
 
-In the third generation, we might see new banks and exchanges which build
-their whole transaction infrastructure from cryptographic primitives, receipts
-and contracts. A user of an offshore bank has a receipt and counter-receipts
-from each transaction and the counterparties. The bank cannot steal his money
-or change his balance. The bank cannot authorize or forge a receipt for
-sending money to a third party without the users cryptographic signature. All
-banks expose a common API.
+In der dritten Generation könnten wir neue Banken und Exchanges sehen, welche ihre eigene Transaktionsinfrastruktur aus kryptographischen Primitiven bilden, Belege und Verträge. Ein User einer offshore Bank hat einen Beleg und erhält einen Nachweis für jede Transaktion den den Gegenparteien. Die Bank kann sein Geld nicht stehlen oder sein Kontostand ändern. Die Bank kann kein Beleg authorisieren oder erfinden um Geld an eine Drittpartei zu senden, ohne die kryptographische Signatur des Users. Alle Banken stellen eine gemeinsame API bereit.
 
-The things in the account no longer have to be currency pairs but can be other
-assets. All fiat is the same. You do not have separate systems and a separate
-database table for different types of fiat. The system handles all fiat
-transactions in a consistent way.
+Die Dinge im Account müssen nicht länger Währungspaare sein, sondern können auch andere Vermögen umfassen. Jede Fiat ist dasselbe. Man braucht keine separaten Systeme und separaten Datenbanken für verschiedene Typen von Fiat. Das System verwaltet jede Fiat-Transaktion auf eine konsistente Weise.
 
-In the third generation, anyone can issue bonds and options. Previously, there
-was counterparty risk for options. Only large financial players could issue
-options on equities. A large company is less likely to default from a bad
-options position. In the third generation, anyone can issue options. Options
-are digital contracts and the performance of the option contract is guaranteed
-by assets in third party escrow. Crypto-assets become accounting mechanisms
-for legacy assets.
+In der dritten Generation kann jeder Anleihen und Optionsscheine herausgeben. Davor gab es ein Kontrahentenausfallrisiko für Optionsscheine. Nur große finanzielle Akteure konnten Optionsscheine auf ihre Aktien eröffen. Eine großes Unternehmen wird unwahrscheinlicher zahlungsunfähig durch einen schlechten Optionsschein. In der dritten Generation kann jeder Optionsscheine herausgeben. Optionsscheine sind digitale Verträge und die Ausübung des Vertrages wird treuhänderisch durch das Vermögen einer Drittpartei garantiert. Crytovermögen werden Abrechnungsmechanismen für legale Vermögen.
 
-Many coins such as Mastercoin, Ethereum and colored coins are trying to jump
-to gen three. However, we believe that gen three will emerge organically on
-top of infrastructure developed for gen two coins.
+Viele coins wie Mastercoin, Ethereum und andersfarbige Coins versuchen auf den Zug der dritten Generation aufzuspringen. 
+Jedoch glauben wir, dass die dritte Generation organisch aufbauend, auf der zugrundegelegten Infrastruktur der zweiten Generation von Coins, entstehen wird.
 
-Bitcoin has extremely poor extensibility for standards, so you have three
-wallets and three different wallet implementations and no interoperability, no
-interoperability between exchange APIs and no roadmap which allows third party
-developers to drive protocol evolution. Personal blockchains in Skycoin are
-designed be generic and allow users to individually upgrade their nodes to
-support new scripting languages, types of contracts and put control of the
-protocol in the hands of users and third party devs. The wire protocol is
-extensible and allows association of new applications with the Skycoin daemon.
+Bitcoin ist extrem schlecht erweiterbar für neue Standards, man hat also drei Wallets und drei verschiedene Implementierungen und keine Interoperabilität, sowie keine Interoperabilität zwischen Exchange APIs und auch keine Roadmap, welche es Drittpartei-Entwicklern erlaubt, den Fortschritt des Protokolls voranzutreiben. Persönliche Blockchains in Skycoin sind generisch und erlauben es dem User individuell ihre Knoten für verschiedene neue Skriptsprachen zu aktualisieren, neuen Arten von Verträgen und generell geben sie die Kontrolle des Protokolls in die Hände der User und Drittpartei-Entwicklern. Das Wire-Protokoll ist erweiterbar und erlaubt die Verbindung mit neuen Anwendungen des Skycoin-Daemon.
 
-We had to invent personal blockchains, so that individual users and developers
-could experiment and extend the protocol without threatening the mainchain.
-Colorcoin and other coins embedded on the blockchain will never be able to
-achieve the functionality required for practical use, because the Bitcoin
-developers have been forced to disable op codes for security,  there is no
-mechanism in the blockchain for pulling in the required data for a practical
-system of financial contracts and any experimentation with new protocols
-requires a blockchain fork.
+Wir mussten persönliche Blockchains erfinden, damit jeder individuelle User und Entwickler experimentieren kann, ohne die Primärchain zu gefährden. Colorcoin und andere Coins, eingebettet auf der Blockchain, werden niemals die benötigte Funktionalität erreichen um praktischen Nutzen zu ermöglichen, weil die Bitcoin-Entwickler OP-Code aus Sicherheitsgründen deaktivieren mussten - es gibt keinen Mechanismus in der Blockchain um die benötigten Daten für praktischen Nutzen von finanziellen Verträgen einzuholen und jedwede Experimente erfordern einen Blockchain-Fork.
 
-If the evolution of the ecosystem stops at where Bitcoin is today, the full
-potential of crypto currencies will never be realized.
+Wenn die Evolution der Ökosystem da stoppt, wo Bitcoin heute ist, dann wird das volle Potential von Crypotwährungen niemals realisiert werden.
