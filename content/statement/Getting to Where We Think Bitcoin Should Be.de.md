@@ -13,7 +13,7 @@ categories = [
 ]
 +++
 
-*Dies ist ein archivierter Post dem Bitcointalksthread vom 23. April 2014.*
+*Dies ist ein archivierter Post aus dem Bitcointalksthread vom 23. April 2014.*
 
 > Zitat von: **JFK01** am 23. April 2014 um 01:54:50 nachmittags
 
