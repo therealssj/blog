@@ -1,5 +1,5 @@
 +++
-title = "Skycoin BBS v4.1 Release Announcement"
+title = "Skycoin BBS v4.1 Release Ankündigung"
 tags = [
     "Development",
     "BBS",
@@ -12,32 +12,33 @@ categories = [
 ]
 +++
 
-Skycoin BBS v4.1 has been released!
+Skycoin BBS v4.1 wurde veröffentlicht!
 
-[![Skycoin BBS Showcase 4 - YouTube](https://i.ytimg.com/vi/6ZqwgefYauU/0.jpg)](https://youtu.be/6ZqwgefYauU)
+[![Skycoin BBS Vorzeigeprojekt 4 - YouTube](https://i.ytimg.com/vi/6ZqwgefYauU/0.jpg)](https://youtu.be/6ZqwgefYauU)
 
-## Change Log
-- User interface improvements.
-- Implemented service discovery (connections to other nodes are now automatically managed).
-- Improved remote submission of board content (implemented via service discovery).
-- Simplified process of board creation and hosting.
-- Improvements to CXO data structure.
+## Änderungsprotokoll
+- Verbesserungen der Benutzeroberfläche.
+- Implementierung der Serviceentdeckung (Verbindungen zu anderen Knoten werden nun automatisch verwaltet).
+- Verbesserte remote Einreichung von Brettinhalten (implementiert via Serviceentdeckung).
+- Vereinfachung der Bretterstellung (board creation) und dessen Webhosting.
+- Verbesserungen der CXO Datenstruktur.
 
-The next release will bring about even more exciting features! Watch this space to keep up to date.
+Das nächste Release wird noch mehr spannende Features mit sich bringen! Schaut hier regelmäßig rein um auf dem Stand 
+Dinge zu bleiben.
 
 ## Binaries
 
-These are avaliable for 64bit windows, mac and linux.
+Diese sind für 64-Bit Windows, Mac und Linux verfügbar.
 
 - https://downloads.skycoin.net/bbs/skycoin_bbs_4.1_linux_amd64.zip
 - https://downloads.skycoin.net/bbs/skycoin_bbs_4.1_osx_amd64.zip
 - https://downloads.skycoin.net/bbs/skycoin_bbs_4.1_windows_amd64.zip
 
-## Source Code
+## Quellcode
 
-Avaliable on GitHub. \
+Verfügbar auf GitHub. \
 https://github.com/skycoin/bbs
 
 ## Community
 
-[Click here to join the discussion on Telegram!](https://t.me/skycoinbbs)
+[Klicke hier um der Diskussion auf Telegram beizutreten!](https://t.me/skycoinbbs)
