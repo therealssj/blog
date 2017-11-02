@@ -59,137 +59,129 @@ bounty = 20
 >>>> zu einer Adresse und diese speichert dann 10 Coins in einer Ausgabe, 
 >>>> welche von dieser Adresse besitzt wird.
 
->>>>
+>>>> Es werden keine Kosten hinzugefügt. Es beweist nur, dass man 10 Coins besitzt. 
+>>>> Es beweist, dass man den privaten Schlüssel für einen öffentlichen Kennt, 
+>>>> wessen Adresse 10 Coins aufweist. Man kann diese Coins immernoch ausgeben.
 
->>It does not add a cost. It just proves that you own 10 coins. It proves you
->>know the private key, for a public key, whose address has 10 coins in it. You
->>can still spend the coins.
+>>>> Die Idee ist, die obere Grenze der Anzahl von Knoten zu begrenzen. Wenn 10 coins 
+>>>> gehalten werden müssen und es gibt insgesamt 100 Millionen Coins, begrenzt es das Netzwerk 
+>>>> nach oben auf 10 Millionen Knoten. Die obere Grenze scheint aktuell mathematisch nicht 
+>>>> nützlich zu sein, aber sie ist etwas, was wir im Hinterkopf behalten sollten.
 
->>The idea is that it upper bounds the number of nodes. If 10 coins must be
->>held and there are 100 million coins, then it upper bounds the network at 10
->>million nodes. The upper bound does not appear to be mathematically useful
->>right now, but is something we should keep in mind.
+>>>> Wenn ein Obelisk-Knoten betrieben wird, "vertraut" dieser zufälligen Peers. 
+>>>> Der User kann einige Knoten von Hand eingeben, welchen vertraut werden soll (Exchanges oder 
+>>>> vertrauenswürdige Community-Mitglieder). Ein Knoten wird mit dem Hash seines
+>>>> öffentlichen Schlüssels identifiziert über DHT gefunden. Es ist nicht wie bei Bitcoin,
+>>>> wo Knoten IP:Port-Paare sind. Man kann seinen Computer herumbewegen und die Identität
+>>>> des Knotens beruht nicht auf der IP-Adresse.
 
->>When a new Obelisk node is run, it will "trust" some random peers. The user
->>can also add a few nodes by hand that it trusts (exchanges or trusted
->>community members). A node is identified by its public key hash and found by
->>DHT. Its not like Bitcoin where nodes are IP:port pairs. You can move your
->>computer around and the identity of the node does not depend on its IP
->>address.
+>>>> Wir wollen, dass das Netzwerk sicher ist, indem zufällige Knoten gewählt werden. 
+>>>> Wir wollen keine Situation wie bei Ripple, in der drei Entwickler das Netzwerk 
+>>>> kontrollieren. Jedoch wollen wir auch eine Situation verhindern, in der jemand
+>>>> 200,000 Knoten betreibt und versucht die Vertrauensbeziehung mit neuen Usern einzugehen.
+>>>> Diese Sybil-Attacken-Knoten können immernoch, im Allgemeinen, keine 51%-Attacke ausführen, 
+>>>> aber alles Mögliche, dass die Kosten der Attacke erhöht ist sinnvoll.
 
->>We want the network to be secure with random nodes being chosen. We dont want
->>a situation like Ripple, where the three developers nodes control the
->>network. However, we wanted to prevent a situation, where someone runs
->>200,000 nodes and tries to collect the trust relationships from new users.
->>These Sybil attacks nodes, still cannot 51% attack generally, but anything
->>that increases the cost of the attack is still useful.
+>>>> Vielleicht werden wir es so begrenzen, dass neue User nur zufällig gewählten Knoten vertrauen, 
+>>>> welche eine Coinbilanz aufweisen. Vertrauensbeziehungen würden nicht getrennt werden, wenn der Knoten 
+>>>> keine Coinbilanz aufweisen kann, aber sie würden keine neuen zufälligen User erhalten.
 
->>Maybe, we restrict it so that new user will only randomly trust nodes that
->>have a coin balance. Trust relationships wont be severed if the node does not
->>have a coin balance, but they just wont get new random users.
+>>>> Der Konnektivitätsgraph für Vertrauensbeziehungen sollte vermeintlich ein komplett 
+>>>> verbundener Zufallsgraph sein. Einige Knoten (vertrauenswürdige Community-Mitgleider, Exchanges, 
+>>>> Webseiten, Organisationen) werden eine höhere Anzahl an Vertrauensbeziehungen haben, was
+>>>> der Konsenszeit für den Block-Konsens unterstützt. Es reduziert den Netzwerkdurchmesser 
+>>>> ein wenig. Einige Knoten werden verwendet werden um den Konsens zu verifizieren (man wählt
+>>>> ein Haufen von Exchanges oder verschiedene öffentliche Schlüssel), diese Knoten beeinflussen
+>>>> den Konsensprozess nicht, aber fungieren als "Konsensorakel" um zu überprüfen, ob der Knoten 
+>>>> mit dem Netzwerk übereinstimmt.
 
->>The connectivity graph for trust relationships, is supposed to be a fully
->>connected random graph. A few nodes (trusted community members, exchanges,
->>websites, organizations) will have more trust relationships and that helps
->>the convergence time for block consensus a bit. It reduces the network
->>diameter a bit.  Some nodes will be used to verify consensus (you choose a
->>bunch of exchanges or different public keys), these nodes do not affect
->>consensus decisions, but are "consensus oracles" to check if your node has
->>converged with network.
+>>>> Wenn zwei große Exchanges zu einem unterschiedlichen Konsens für einen bestimmten Block kommen,
+>>>> ist das ein Problem. Dies könnte auf einen Netzwerkspalt hindeuten oder auf eine Attacke auf 
+>>>> das Netzwerk. Exchanges könnten den Handel bis zur Behebung des Problems aussetzen.
 
->>If two large exchanges have different consensus for a particular, block, that
->>is a problem. It could indicate a netsplit or an attack on the network.
->>Exchanges may want to suspend trading until the issue is resolved.
+>>>> Obelisk ist Skycoins verteiter Konsensknoten? Ich dachte immer der Skycoind ist der Knoten...
 
->Obelisk is skycoin's distribute consensus node? I was think the skycoind is
->the node...
+Genau. 
 
-Yes.
+Skycoin hat eine Blockchain. Die Blockchain ist auf 
+https://github.com/skycoin/skycoin/tree/develop/src/coin.
+Diese gliedert die Blöcke auf und kümmert sich um unausgegebene Ausgaben und Transaktionen.
 
-Skycoin has a blockchain. The blockchain is in
-https://github.com/skycoin/skycoin/tree/develop/src/coin. This parses the
-blocks and deals with unspent outputs and transactions.
+Skywire ist der Daemon und hat eine "Service-Architektur". Es kann auf Services laufen, 
+wie Blockchain synchronisierenden Services und anderen Dingen. Das Meshnet (vermaschtes Netz) ist 
+zurzeit auf Skywire aufbauend implementiert (obwohl dies sich dies ändern könnte).
 
-Skywire is the daemon and has a "service architecture". It can run services,
-such as blockchain syncing service and other things. The meshnet is currently
-being implemented as a service on top of Skywire (although this may need to
-change).
+Der Konsensmechanismus findet unabhängig von der Blockchain statt. Obelisk-Knoten (welche 
+vermutlich als ein Skywire-Service implementiert werden) haben eine Blockchain. Jeder Knoten hat
+einen öffentlichen Schlüssel. Dieser öffentliche Schlüssel identifiziert den Obelisk-Knoten.
+Jeder Obelisk-Knoten hat eine eigene Blockchain (es gibt auf dieser Chain keine Coins).
+Der Knoten erschafft einen neuen Block und signiert diesen mit seinem privaten Schlüssel.
+Die Obelisk-Blockchain wird verwendet, um den Konsens zu verhandeln (den neuen Head in der
+Skycoin-Blockchain bestimmen). Obelisk verwendet Ben-Ors für den zufälligen Konsens. Jeder Obelisk-Knoten 
+hat seine Liste von anderen Knoten, die er abonniert hat. Diese Knoten beeinflussen den Konsens
+und die Abstimmungsentscheidungen für den lokalen Knoten. Für nicht-pathologische Netzwerktopologien
+passt sich der lokale Konsens nachweislich dem globalen Konsens an.
 
-The consensus mechanism is outside of the blockchain. Obelisk nodes (which will
-probably will be implemented as a Skywire service) have a blockchain.
-Each node has a public key. The public key identifies the Obelisk node.
-Each Obelisk node has its own blockchain (there are no coins in this chain).
-The node creates a new block and signs it with its private key.
-The Obelisk blockchains are used to negotiate consensus (determining the head
-block in the Skycoin blockchain). Obelisk uses Ben-Or's for randomized
-consensus. Each Obelisk node has a list of other nodes it subscribes to.
-Those nodes influence consensus and voting decisions for the local node.
-For non-pathological network topologies, the local consensus provably converges
-in to a global consensus.
+Jeder Knoten stimmt über den nächsten Block in der Chain ab. Ein Knoten schlägt
+den nächsten Knoten vor und die Knoten stimmen dann über diesen Nachfolger ab. 
+Die Stimmen werden in den Obelisk-Blockchains eines jeden Knotens veröffentlicht. 
+Dein Knoten stimmt zufällig zwischen den Alternativen ab und wechselt seine Entscheidung
+nach einer Weile. Sobald 40% deiner Peers (die Knoten, die du abonniert hast) einen Konsens
+erreicht haben, wechselt man zu diesem Kandidaten. Das Netzwerk kann auf mehreren Abzweigungen 
+auf einmal abstimmen, dies verlangsamt nicht das Warten auf einen Konsens. Die Abzweigungen
+werden mit der Zeit auf einzelne Chains zurechtgestutzt. Aufteilungen von zwei oder drei Blöcken sind normal,
+aber nach einigen Bestätigungen wächst die Wahrscheinlichkeit, dass ein Block zurückkehrt
+exponentiell gegen 0. Wenn eine Transaktionen auf allen Chains der Kandidaten ausgeführt wurde, 
+dann ist sie im Wesentlichen ausgeführt, selsbt wennsich die betreffende 
+Konsens-Chain noch nicht entschieden hat.
 
-Each node votes on the next block in the chain. A node proposes the next
-block and the nodes vote on the successor. The votes are published in the
-blocks in the Obelisk blockchain for each node. Your node votes randomly
-between the alternative and flips its vote every once in a while. Once 40% of
-your peers (the nodes you are subscribed to) have reached a consensus, you
-switch to that candidate. The network can vote on multiple forks at once, it
-does not slow down waiting for a consensus. The forks are pruned to a single
-chain over time. Splits of two or three block are normal, but after a few
-confirmations the probability of the block being reverted decreases
-exponentially to zero. If a transaction has been executed on all candidate
-chains, then it is essentially executed, even if the particular consensus chain
-has not been decided yet.
+Das ist binäres Ben-Ors und Skycoin wird etwas verwenden, dass ein wenig schneller und weiterentwickelter ist, 
+wenn mehrere potentiell nachfolgenden Blöcke aus dem Netzwerk zur Auswahl stehen. Randomisierung ist wichtig
+um die Teilgraphen des Netzwerk am feststecken zu hindern. Der Abstimmungsprozess ist eine Form des "Glühens", 
+bei der jeder Knoten unabhängig voneinander zum globalen Konsens findet,  ausschließlich bedingt
+durch seine lokal verfügbaren Informationen.
 
-That is binary Ben-Or's and Skycoin will use something slightly more advanced,
-that is faster when there are multiple successor blocks to choose from in the
-consensus set. Randomization is important to keep sub-graphs of the network
-from getting stuck. The voting process is a form of "annealing" where each
-node will arrive at the global consensus independently, only from its local
-information.
+Der Konsensprozess findet in der Öffentlichkeit statt. Ein Knoten veröffentlicht Blöcke, signiert diese mit 
+seinem privaten Schlüssel und diese Blöcke werden Peer-zu-Peer zwischen den Abonnenten der Chain repliziert. 
+Es gibt dann keine "Konsensorakel", was Knoten sind, die genutzt werden um den Konsens zu verifizeren,
+diesen aber nicht beeinflussen. Man wählt also den öffentlichen Schlüssel einiger Exchanges und einigen
+vertrauenswürdigen Community-Mitgliedern und dein Knoten wird diese verwenden um zu bestimmen, 
+falls mal etwas nicht ganz richtig sein sollte. Dies wird verwendet um Netzwerkspalte zu verhindern. 
+Dies schützt ebenso vor einer Attacke, bei der ein Hacker den eigenen Router kontrolliert 
+und somit auch die Möglichkeit zu Verbindung der Peers, zu denen man eine Verbindung aufbauen möchte.
 
-The consensus process happens in public. A node publishes blocks, signs them
-with their private key and the blocks are replicated peer-to-peer between
-subscribers of the chain. Then there are "consensus oracles" which are nodes
-that are used to verify consensus but do not influence consensus. So you might
-choose the public keys of a few exchanges and a few trusted community members
-and your node will use those to detect if something is wrong. This is used to
-detect netsplits. This also protects against an attack, where a hacker
-controls your router and can control the peers you are able to connect to.
+Wenn eine Knoten im Netzwerk auftaucht und versucht das Netzwerk zur Akzeptanz einer anderen Chain 
+zu bekommen (51%-Attacke, umkehren der Transaktionen), wird er üblicherweise ignoriert.
+Die meisten 51%-Attacken benötigen bösartiges Knotenverhalten, was automatisch erkannt wird und darin endet, dass 
+abonnierte Knoten diesen bösartigen Knoten von ihrer Vertrauensliste streichen. Die einfachste Strategie der
+51%-Attacke ist mathematisch simpel zu beweisen, nämlich das versucht wird Transaktionen umzukehren, denn 
+dies erfordert das Rückdatieren von Block-Konsensentscheidungen.
+Es erfordert das veröffentlichen von zwei signierten Blöcken mit derselben Sequenznummer, wir haben daraus also 
+eine automatisch verbannende Straftat für einen Knoten gemacht.
 
-If a node shows up to network and tries to get the network to accept a
-different chain (51% attack, reverting transactions), it usually gets ignored.
-Most 51% attacks require malignant node behavior which is automatically
-detected and results in a subscribing node removing the malignant node from
-their trust list. The easiest 51% attack strategy is easy to detect and prove
-with mathematical certainty that it was intended as an attempt to revert
-transactions, because it require backdating block consensus decisions.
-It requires publishing two signed blocks with the same sequence number,
-so we just made this an automatically bannable offence for a node.
+Wir versuchen die letzte Möglichkeit der 51%-Attacke zu eliminieren, welche so funktioniert,
+dass ein Teilnetzwerk der Knoten offline geht (Netzaufspaltungsattacke), sich dann 
+wieder mit einer anderen Konsens-Blockchain anschließt und versucht diese dem Netzwerk aufzuzwängen 
+um Transaktionen rückgangig zu machen. Die meisten dieser Attacken werden fehlschlagen, weil das 
+Teilnetzwerk nicht genug Einfluss haben wird.
 
-We are trying to eliminate the last possible 51% attack, which is when a
-subnetwork of nodes goes offline (netsplit attack) and then rejoins the
-network with a different blockchain consensus and tries to force this on the
-network to revert transactions. Most of these attacks will fail, because the
-subnetwork will not have enough influence.
+Diese Attacke ist schwierig zustande zu bringen. Im Falle einer erfolgreichen 51%-Attacke ist eine Lösung, 
+das gesamte Netzwerk einzufrieren und jeden User/Knoten individuell auswählen zu lassen, welche Chain 
+die valide ist und die attackierenden Knoten manuell bannen zu lassen. 
+Das Konsensorakel erlaubt jedem Knoten mit hoher Wahrscheinlichkeit zu wissen, ob der Zustand synchronisiert ist 
+und ob der globale Konsens erreicht wurde oder ob sie ein Teil des Teilgraphen der Netzaufspaltung sind. 
+Wir glauben, dass es für jeden Knoten möglich ist, mit hoher Wahrscheinlichkeit und gegebenen lokalen Informationen, 
+zu wissen, ob ein Knoten während eines Konsensprozesses offline war - ist dies der Fall, so soll dieser Knoten, 
+der offline war und plötzlich aufgetaucht ist und versucht dem Netzwerk eine Chain aufzuzwängen, ignoriert werden. 
 
-This attack is still very difficult to pull off. In case there is
-a successful 51% attack, one solution is to freeze the network and let each node/user
-individually choose which chain is the valid one and let people ban the attacking
-nodes manually. The consensus oracle allows each node, with high probability, to
-know if the state is synced and if global consensus has been reached or if
-they are part of a netsplit subgraph. We think its possible for each node to
-know with a high probability of correctness from local information, whether a
-node was offline during a consensus decision and then ignore nodes that
-were offline who suddenly appear and try to force a chain fork on the network.
+Bei Bitcoin ist es so, dass wenn man die meiste Hashingpower hat, kann man Transaktionen umkehren, wann auch immer man es für richtig hält.
 
-In Bitcoin, if you have the most hashing power, you can revert transactions
-whenever you want.
+Bei Skycoin muss folgendes erfüllt sein um Transaktionen umzukehren:
 
-In Skycoin, to revert transactions:
-
-- You much control a large number of nodes
-- The nodes you control must be "influential" and trusted within the network
-  topology
+- Kontrolle über eine große Anzahl von Knoten
+- Die Knoten, welche man kontrolliert, müssen "einflussreich" sein und vertraut sein innerhalb
+  der Netzwerktopologie
+- 
 - Your nodes need to exhibit extremely blatant pathological attack behavior
   without the behavior being detected, because detection would result in losing
   the trust relationships you need to attack the network.
