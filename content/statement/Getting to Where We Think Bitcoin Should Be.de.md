@@ -1,5 +1,5 @@
 +++
-title = "Dahin kommen wo Bitcoin längst sein sollte"
+title = "Dahin kommen, wo Bitcoin längst sein sollte"
 tags = [
     "Decentralization",
     "Bitcoin",
