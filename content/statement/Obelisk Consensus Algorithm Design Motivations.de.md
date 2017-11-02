@@ -181,27 +181,23 @@ Bei Skycoin muss folgendes erfüllt sein um Transaktionen umzukehren:
 - Kontrolle über eine große Anzahl von Knoten
 - Die Knoten, welche man kontrolliert, müssen "einflussreich" sein und vertraut sein innerhalb
   der Netzwerktopologie
-- 
-- Your nodes need to exhibit extremely blatant pathological attack behavior
-  without the behavior being detected, because detection would result in losing
-  the trust relationships you need to attack the network.
-- Your nodes need to be in a pathological attack topology, without it being
-  detected (most bot nodes will be trusted by very few humans and be very obvious)
-- You must be able get the nodes you control to collude in a way that results
-  in a successful attack (this is not very straightforward)
-- If the attack succeeds, you must prevent the network from reverting the
-  attack by hand (very difficult if people lost coins or money because of the
-  attack)
+- Deine Knoten müssen extrem eklatantes pathologisches Angriffsverhalten aufweisen,
+  ohne dass dieses Verhalten detektiert wird, weil die Detektierung in dem Verlust
+  der Vetrauensbeziehung enden würde, welche man benötigt um das Netzwerk anzugreifen.
+- Deine Knoten müssten in einer pathologischen Angriffstopologie sein, ohne detektiert zu werden
+  (die meisten Bot-Knoten werden von sehr wenigen Menschen Vertrauen erfahren und sehr offensichtlich sein)
+- Man muss seine kontrollierten Knoten in einer Art und Weise kolludieren, welche in einer
+  erfolgreichen Attacke endet (dies ist nicht gerade offensichtlich)
+- Wenn die Attacke erfolgreich ist, muss man verhindern, dass das Netzwerk manuell vor die Attacke zurückfällt 
+  (Dies ist sehr schwierig, denn Leute werden Coins oder Geld aufgrund der Attacke verlieren)
+  
+Um zu beweisen, dass es geschützt gegen 51%-Attacken ist, muss man alle Annahmen die man trifft aufschreiben 
+und ein einfaches mathematisches Model kreieren, anschließend beweisen unter welchen Bedingungen geschehen
+und unter welchen Bedingungen, Dinge nicht geschehen können. Sobald man die Bedingungen, die für eine Attacke
+nötig sind, kennt, versucht man diese zu eliminieren und wenn man dies nicht kann, macht man sie so schwierig 
+wie nur irgendwie möglich. Man erhöht die Kosten für die Attacke oder reduziert die Wahrscheinlichkeit,
+dass eine spezifische Attacke funktioniert. Dann reduziert man auch den Lohn und den Anreiz, den eine Attacke bereitstellt.
 
-To prove it iss 51% attack proof, you have to write down the assumptions you are
-making and then create a simple mathematical model and then prove the
-conditions under which things can and cannot happen in the model. Once you
-know the conditions that an attack is possible under, you try to eliminate
-them and if you cant eliminate them, you make them as difficult as possible.
-You increase the cost of an attack and you reduce the probability that a
-specific attack will succeed. Then you reduce the payoff and incentives for
-the attack.
-
-The consensus process is simple and easy to model, but unintuitive without
-seeing it. There will be a javascript site eventually that has an animated
-consensus process you can play with.
+Der Konsensprozess ist ein schlichtes und einfaches Modell, aber nicht gerade intuitiv ohne es zu betrachten.
+Es wird irgendwann eine Javascriptseite geben, welche einen animierten Konsensprozess darstellt, 
+mit dem man herumspielen kann.
