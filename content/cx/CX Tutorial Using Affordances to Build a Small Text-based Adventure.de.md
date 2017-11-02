@@ -1,5 +1,5 @@
 +++
-title = "CX Tutorial: Using Affordances to Build a Small Text-based Adventure"
+title = "CX-Tutorial: Aufforderungen nutzen um ein kleines textbasiertes Adventure zu erschaffen"
 tags = [
     "CX",
     "CX Tutorials",
@@ -14,162 +14,151 @@ categories = [
 
 <!-- MarkdownTOC autolink="true" bracket="round" depth="2" -->
 
-- [Introduction](#introduction)
-- [Challenge-response Architecture](#challenge-response-architecture)
-- [Affordance System](#affordance-system)
-- [Objects](#objects)
-- [Conclusion](#conclusion)
+- [Einführung](#introduction)
+- [anforderungsreagierende Architektur](#challenge-response-architecture)
+- [Aufforderungssystem](#affordance-system)
+- [Objekte](#objects)
+- [Fazit](#conclusion)
 
 <!-- /MarkdownTOC -->
 
-# Introduction
+# Einführung
 
-This tutorial presents a text-based "game" (the user does not interact
-with the program, and can not influence the character's decisions) that uses a
-[challenge-response architecture](#challenge-response-architecture) to
-determine what are the possible actions the game's character can
-do. The full source-code can be found in
-[CX's repository](https://github.com/skycoin/cx), in the file *examples/text-based-adventure.cx*.
+Dieses Tutorial stellt ein textbasiertes "Spiel" vor (der User interagiert nicht mit dem Programm,
+er kann die Entscheidungen des Charakters nicht beeinflussen), welches eine 
+anforderungsreagierende Architektur(#challenge-response-architecture)
+nutzt, um zu bestimmen welche Aktionen der Spielcharakter ausführen kann.
+Der komplette Quellcode kann hier gefunden werden [CXs Repository](https://github.com/skycoin/cx),
+in der Datei *examples/text-based-adventure.cx*.
 
-The game describes the adventure of a traveler that is escaping from a
-monster (Halloween is coming next month, after all). If the traveler
-survives certain number of hours (well, these are just iterations in a
-*for* loop), the monster will stop chasing the traveler. An example of
-a session is below:
-
+Das Spiel beschreibt ein Abenteuer eines Reisenden, welcher vor einem Monster flieht (Nächsten Monat
+ist schließlich Halloween). Wenn der Reisende eine bestimmte Anzahl von Stunden überlegt (das sind nur 
+Iterationen in einer *for*-Schleife), hört das Monster auf den Reisenden zu verfolgen. 
+Ein Beispiel einer Runde ist unten:
 
 ```
-The traveler keeps following the lane, making sure to ignore any pain.
-Howling and growling, the monster is coming.
-Bravery comes into sight, in the hope of living for another night.
-Naive, and even dumb, but the traveler's act leaves the monster numb.
-North, east, west, south. Any direction is good,
-as long as no monster can be found.
-Howling and growling, the monster is coming.
-The traveler runs away, and cowardice lets him live for another day.
+Der Reisende folgt dem Weg, ignoriert seine Schmerzen.
+Heulen und Knurren, das Monster kommt.
+Heldenmut kommt zum Vorschein, in der Hoffnung noch eine weitere Nacht zu leben.
+Naiv und etwas dämlich, aber das Verhalten des Reisenden betäubt das Monster.
+Norden, Osten, Westen, Süden. Jede Richtung ist gut, solange kein Monster gefunden wird.
+Heulen und Knurren, das Monster kommt.
+Der Reisende rennt weg und seine Feigheit lässt ihn einen weiteren Tag leben.
 
-You survived.
+Du hast überlebt.
 ```
 
-If the traveler decides to fight the monster and his heroic attempt
-fails, the game ends. An example of a game ending is:
+Wenn der Reisende sich dazu entscheidet das Monster zu bekämpfen und sein
+heroischer Versuch scheitert, endet das Spiel. Ein Beispiel eines Spielendes ist:
 
 ```
-North, east, west, south. Any direction is good,
-as long as no monster can be found.
-Howling and growling, the monster is coming.
-Bravery comes into sight, in the hope of living for another night.
-But failure describes this fend and, suddenly, this adventure comes to an end.
+Norden, Osten, Westen, Süden. Jede Richtung ist gut, solange kein Monster gefunden wird.
+Heulen und Knurren, das Monster kommt.
+Heldenmut kommt zum Vorschein, in der Hoffnung noch eine weitere Nacht zu leben.
+Aber ein Fehlschlag beschreibt diese Abwehr und plötzlich kommt dieses Abenteuer zu einem Ende.
 
-You died.
+Du bist gestorben.
 
 Call's State:
 flag:			true
 nonAssign_32:		""
 
 halt() Arguments:
-0: "You died."
+0: "Du bist gestorben."
 
 65: call to halt
 ```
 
-As you can see, an error is raised if you die (this is suitable, as
-it's a scary situation for a programmer).
+Wie man sehen kann wird ein Error produziert, wenn man stirbt (das ist angebracht, denn es ist 
+eine erschreckende Situation für einen Programmierer).
 
-# Challenge-response Architecture
+# anforderungsreagierende Architektur
 
-In this architecture, a question is raised and different agents (in
-this case, functions) must answer to that question. A simple question
-that can be asked is "Who can be executed at this moment?" and those
-functions that are allowed to execute will do so.
+In dieser Architektur wird eine Frage stellt und verschiedene Agenten (in diesem Fall Funktionen)
+müssen diese Frage beantworten. Eine einfache Frage wäre "Wer kann im Moment ausgeführt werden?" und diese 
+Funktionen die ausgeführt werden können werden ausgeführt werden.
 
-The following function prototypes represent the possible actions that
-can occur during the traveler's adventure.
+Die folgende Prototyp einer Funktion repräsentiert die möglichen Aktionen,
+welche während des Abenteuers des Reisenden eintreten können.
 
 ```
-func walk (flag bool) () {}
-func noise (flag bool) () {}
-func consider (flag bool) () {}
+func laufen (flag bool) () {}
+func geräusch (flag bool) () {}
+func überlege (flag bool) () {}
 func chance (flag bool) () {}
-func fightResult (flag bool) () {}
-func theEnd (flag bool) () {}
+func kampfErgebnis (flag bool) () {}
+func dasEnde (flag bool) () {}
 ```
 
-# Affordance System
+# Aufforderungssystem
 
-Another function must coordinate the function calls. In this case,
-CX's affordance system is used to determine if an action is allowed to
-run or not.
-
-```
-yes := true
-no := false
-
-remArg("walk")
-affExpr("walk", "yes|no", 0)
-:tag walk;
-walk(false)
-```
-
-In the code above, *remArg()* looks for an expression with the "walk"
-tag and removes its argument. This is done in order to make the
-affordance system list the arguments that can be sent to the
-expression's operator. Next, *affExpr()* is telling CX "among all the
-arguments that can be sent to *walk*, tell me if *yes* or no *no* can
-be used as arguments, and apply the *0th* option from the affordance
-list that you return."
-
-The previous procedure is applied to all the actions that can happen
-during the traveler's adventure. For each of these actions, the
-following rules are queried to determine if the action should be
-allowed or not:
+Eine weitere Funktion muss die Funktionsaufrufe koordinieren. In diesem Fall wird das 
+CX Aufforderungssystem dazu verwendet, um zu bestimmen, ob es erlaubt ist eine Aktion 
+auszuführen, oder nicht.
 
 ```
-setClauses("
-          aff(walk, yes, X, R) :- X = monster, R = false.
-          aff(noise, yes, X, R) :- X = monster, R = false.
+ja := wahr
+nein := falsch
 
-          aff(consider, yes, X, R) :- R = false.
-          aff(chance, yes, X, R) :- R = false.
-          aff(fightResult, yes, X, R) :- R = false.
-          aff(theEnd, yes, X, R) :- R = false.
+remArg("laufen")
+affExpr("laufen", "ja|nein", 0)
+:tag laufen;
+laufen(falsch)
+```
 
-          aff(consider, yes, X, R) :- X = monster, R = true.
-          aff(chance, yes, X, R) :- X = fight, R = true.
-          aff(fightResult, yes, X, R) :- X = fight, R = true.
-          aff(theEnd, yes, X, R) :- X = died, R = true.
+Im obigen Code such *remArg()* nach einem Ausdruck mit dem "laufen"-Tag und entfernt dessen Argument. 
+Dies wird getan, damit das Aufforderungssystem die Argumente, welche zum Ausdrucksoperator gesendet werden 
+können, auflistet. Danach sagt *affExpr()* CX, "unter allen Argumenten, die an *laufen* gesendet werden 
+können, können *ja* oder *nein* als Argumente verwendet werden und wende die 
+*0th*-Option der Aufforderungssystemliste, die du zurückerhälst, an."
+
+Die vorherige Prozedur wird auf alle Aktionen, die während des Abenteuers des 
+Reisenden auftreten können, angewendet. Für jede dieser Aktionen werden die folgenden Regeln
+befragt, um zu bestimmen ob die Aktion erlaubt sein sollte oder nicht.
+
+```
+setzeKlauseln("
+          aff(laufen, ja, X, R) :- X = monster, R = falsch.
+          aff(geräusch, ja, X, R) :- X = monster, R = falsch.
+
+          aff(überlege, ja, X, R) :- R = falsch.
+          aff(chance, ja, X, R) :- R = falsch.
+          aff(kampfErgebnis, ja, X, R) :- R = falsch.
+          aff(dasEnde, ja, X, R) :- R = falsch.
+
+          aff(überlege, ja, X, R) :- X = monster, R = wahr.
+          aff(chance, ja, X, R) :- X = kampf, R = wahr.
+          aff(kampfErgebnis, ja, X, R) :- X = kampf, R = wahr.
+          aff(dasEnde, ja, X, R) :- X = tot, R = wahr.
         ")
 ```
 
-The first rule can be read as "I will be queried if you're considering
-to send the *yes* argument to the *walk* action. If the object
-*monster* is present, then this argument is *not* an option."
+Die erste Regel kann gelesen werden, als "Ich werde befragt, wenn du überlegst mir ein *ja* Argument für die 
+*laufen*-Aktion zu senden. Wenn das Objekt *monster* präsent ist, ist dieses Argument *nicht* eine Option."
 
-The rules in the second block (the 4 rules after the first empty line)
-tell the affordance system to "never" accept a *yes* argument. We do
-this because we want this to be the default behaviour, but we can
-later declare rules that override this behaviour. This override
-process happens with the last 4 rules. Basically, this block of rules
-is telling CX to accept *yes* as arguments if a particular object is
-present in the object stack.
+Die Regeln im zweiten Block (die vier Regeln nach der ersten Leerzeile) sagen dem Aufforderungssystem "niemals" *ja* 
+als Argument zu akzeptieren. Wir machen dies, weil wir das als Standardverhalten haben möchten, aber wir können später
+Regeln aufstellen, die dieses Verhalten überschreiben. Dieses Überschreiben passiert mit in den letzten vier Regeln.
+Im Prinzip sagt dieser Regelblock CX *ja* als Argument zu akzeptieren, wenn ein bestimtmes Objekt im Objektstapel 
+vorhanden ist.
 
-# Objects
+# Objekte
 
-Some of the actions add or remove objects from the object stack. For
-example, whenever the *noise* action decides to make the monster
-appear, *addObject("monster")* is executed. If the traveler decides to
-run away from the fight, the "monster" object is removed from the
-stack.
+Einige der Aktionen fügen Objekte vom Objektstapel hinzu, oder entfernen sie.
+Zum Beispiel, wann auch immer die *geräusch*-Aktion entscheidet das Monster erscheinen
+zu lassen, wird *addObject("monster")*  ausgeführt. Wenn sich der Reisende dazu entscheidet vor 
+dem Kampf zu fliehen, wird das "monster"-Objekt vom Stapel entfernt.
 
-In the case of the *chance* action, the monster can decide to spare
-the traveler a few more seconds to see what he will decide to do
-next. To do this, the "fight" object is removed (as the monster does
-not want to start a fight yet), but the "monster" object remains.
+Im Falle der *chance*-Aktion kann sich das Monster dazu entscheiden, dem Reisenden ein paar Sekunden 
+zu schenken, sodass dieser überlegen kann, was er als nächstes tun möchte. Um dies zu realisieren wird 
+das "kampf"-Objekt entfernt (da das Monster den Kampf noch nicht beginnen möchte), aber das 
+"monster"-Objekt verbleibt auf dem Stapel.
 
-# Conclusion
+# Fazit
 
-CX's affordance system uses objects and rules to make complex
-decisions about how affordances are going to be filtered.
+Das CX Aufforderungssystem nutzt Objekte und Regeln um komplexe Entscheidungen darüber zu treffen,
+wie Aufforderungen gefiltert werden sollen.
+
 
 By using objects, we can decide what actions will be activated or
 deactivated. For this example, a small amount of actions are being
@@ -180,3 +169,12 @@ rule could be in charge of activating several nodes in a big network
 of actions. Also, in this example only two possible arguments are
 considered: *yes* and *no*; we could have more arguments, and actions
 that accept different types of arguments other than booleans.
+
+Indem Objekte verwendet werden können wir entscheiden, welche Aktionen aktiviert oder deaktiviert
+werden sollen. Für dieses Beispiel wurden eine kleine Menge an Aktionen für den 
+Aktivierungsprozess in Betracht gezogen und der Vorteil dieser Architektur könnte zunächst
+nutzlos erscheinen. Nichtsdestotrotz können komplexere Regeln kreiert werden, die mehr Objekte involvieren
+und eine einzige Regel könnte das Kommando über die Aktivierung etlicher Knoten in einem Netzwerk von 
+Aktionen haben. Zudem werden in diesem Beispiel nur zwei mögliche Argumente in Betracht gezogen: 
+*ja* und *nein*; wir hätten mehr Argumente kreieren können und zugehörige Aktionen, welche andere 
+Typen von Eingabeargumenten als Booleans akzeptieren.
