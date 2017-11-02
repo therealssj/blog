@@ -1,5 +1,5 @@
 +++
-title = "Obelisk Consensus Algorithm Design Motivations"
+title = "Obelisk Konsens-Algorithmus Design-Beweggründe"
 tags = [
     "Obelisk",
     "Consensus",
@@ -12,49 +12,54 @@ categories = [
 bounty = 20
 +++
 
-*This is an archived post from the bitcointalks thread on June 19 2014*
+*Dies ist ein archivierter Post aus dem Bitcointalksthread vom 19. Juni 2014.*
 
->Quote from: yxxyun on June 19, 2014, 02:52:38 AM
+> Zitat von: yxxyun am 19. Juni um 02:52:38 morgens
 
->>Quote from: skycoin on June 19, 2014, 02:31:59 AM
+>> Zitat von: skycoin am 19. Juni 2014 um 02:31:59 morgens
 
->>>Quote from: FrictionlessCoin on June 18, 2014, 09:15:07 PM
+>>> Zitat von: FrictionlessCoin am 18. Juni 2014 09:15:07 abends
 
->>>>Quote from: skycoin on June 18, 2014, 09:08:56 PM
+>>>> Zitat von: skycoin am 18. Juni 2014 um 09:08:56 abends
 
->>>>Development Update:
+>>>> Entwicklungsupdate:
 
->>>>We figured out way of preventing Sybil attack using a hybrid Proof of
->>>>Stake system.
+>>>> Wir haben einen Weg herausgefunden, wie Sybil-Attacken durch die Verwendung 
+     eines hybriden Proof-of-Stake-Systems verhindert werden können.
+     
+>>>> Um einen Knoten zu erstellen, muss man erst beweisen, dass man Coins besitzt. 
+>>>> Sagen wir 10 Coins. Man sendet 10 Coins zu Adresse A. Dann sendet man 10 Coins
+>>>> von Adresse A zu Adresse B. Dann führt man eine Signature hinzu, indem man den 
+>>>> öffentlichen Schlüssel von A nutzt um die Nachricht in seiner 
+>>>> Obelisk-Blockchain zu signieren.
 
->>>>To create a node, you must prove you have coins. Say 10 coins. You send 10
->>>>coins to address A. Then you send the 10 coins from address A to address B.
->>>>Then you add a signature using the public key in address A to sign a message
->>>>in your Obelisk blockchain.
+>>>> Alternativ kann man seinen öffentlichen Schlüssel für die Adresse A bekanntgeben
+>>>> und dann einfach eine Nachricht mit diesem öffentlichen Schlüssel signieren.
+>>>> Der Knoten muss dann in einem bestimmten zeitlichen Intervall, oder innerhalb einer 
+>>>> bestimmten Anzahl von bewegten Reserve-Blöcken eine Signatur bekanntgeben, um 
+>>>> die Vertrauensbeziehung mit anderen Peers aufrecht zu erhalten.
 
->>>>Alternatively, you could publish the public key for address A and then just
->>>>sign a message with that public key. The node would have to publish a
->>>>signature every time period, or within some number of blocks of the reserve
->>>>coins being moved, in order to maintain valid trust relationships with other
->>>>peers.
+>>>> Alternativ kann man Proof of Burn erfordern (Beweis durch verbrennen), bei dem
+>>>> die Coins von Adresse A zu Adresse B gesendet werden, für welche kein privater
+>>>> Schlüssel bekannt ist. Proof of Burn kollidiert aber mit dem Vorsatz, dass niemand 
+>>>> die gesamte Blockchain herunterladen muss um einen Knoten laufen lassen zu können,
+>>>> ist also eher unwahrscheinlich.
 
->>>>Alternatively, proof of burn could be required, where the coins are sent from
->>>>address A to an address B that has no private key. Proof of burn conflicts
->>>>with the requirement that no one should need to download the whole blockchain
->>>>from the beginning to operate a full node, so is unlikely.
+>>>> Dieses System begrenzt die Anzahl von Obelisk-Knoten nach oben und beschränkt
+>>>> die Fähigkeit Obelisk-Knoten laufen zu lassen auf Coin-Besitzer.
+>>>> Die obere Grenze der Anzahl der Knoten und die Coin-Bedingungen fügen eine 
+>>>> weitere Schicht gegen die Sybil-Attacke hinzu.
 
->>>>This system upper bounds the number of Obelisk nodes and restricts the
->>>>ability to run Obelisk nodes to coin holders.
->>>>The upper bound on the number of nodes and coin requirements adds
->>>>another layer of Sybil attack protection.
+>>>> Bin mir nicht sicher, wie das eine Sybil-Attacke verhindern soll.
+>>>> Fügt ihr nicht einfach nur Kosten für das Hinzufügen eines Knoten zum Netzwerks hinzu 
+>>>> und deshalb verursacht eine Sybil-Attacke finanzielle Kosten?
 
->>>Not sure how this prevents a Sybil attack.
->>>Are you simply adding a cost to adding a node to network and therefore a
->>>sybil attack will require a financial cost to do so?
+>>>> Dies ist aktuell nur eine Idee. Habe eine Verbesserung gefunden. Jeder Obelisk-Knoten 
+>>>> hat einen öffentlichen Schlüssel. Wir hashen diesen öffentlichen Schlüssel
+>>>> zu einer Adresse und diese speichert dann 10 Coins in einer Ausgabe, 
+>>>> welche von dieser Adresse besitzt wird.
 
->>Just an idea at this stage. Found an improvement. Each Obelisk node, has a
->>public key. We hash the public key into an address and then it stores 10
->>coins in an output owned by that address.
+>>>>
 
 >>It does not add a cost. It just proves that you own 10 coins. It proves you
 >>know the private key, for a public key, whose address has 10 coins in it. You
