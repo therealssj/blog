@@ -11,7 +11,7 @@ categories = [
 ]
 +++
 
-*Dies ist ein archivierter Post aus dem Bitcointalksthread von 6. May 2014.*
+*Dies ist ein archivierter Post aus dem Bitcointalksthread vom 6. May 2014.*
 
 > Zitat von: -Greed- am 5. May 2015 um 04:25:46 nachmittags
 +1 dafür, dass Skycoin tatsächlich ein Coin der zweiten Generation ist. 
