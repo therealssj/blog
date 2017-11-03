@@ -214,7 +214,6 @@ Einige der Problem von Bitcoin können behoben werden, wie etwa die Signaturgest
 Andere Probleme sind fundamental und können nicht adressiert werden, ohne dass ein komplett
 neuer Rahmen definiert werden muss, wie etwa die Verlässlichkeit von Proof-of-Work und den Minern.
 
-
 # Skycoins Sicherheitsphilosophie
 
 Sicherheit ist ein Prozess der kontunierlichen Identifikation und Befestigung gegen Bedrohungen.
@@ -233,96 +232,70 @@ Stakeholdern, Insitutitionen und Usern den größten Schaden zufügen würde. Di
 komplettes neu gestalten von Bitcoin an beiden Enden, von der Walletgeneration zum Blockchain-Konsens 
 und von den fundamentalen Innovation in zahlreichen anderen Gebieten.
 
+Die meisten Verluste in Bitcoin resultieren aus den Unzulänglichkeiten des Designs,
+ein Mangel an Usability, und Fehler der Endnutzer, nicht etwa aus fundamental technischen 
+Attacken auf Softwareebene oder der Mathematik. Skycoin muss beides adressieren, die sich 
+abzeichnenden mathematischen Bedrohungen und die Sicherheitsrisiken, welche die schlecht 
+überlegte Nutzerfahrung von Bitcoin für alltägliche Nutzer kreiert hat. Die schlechte Usability
+und das Design hat die User gezwungen die Sicherheitsvorkehrungen zu kompromittieren, was dazu 
+geführt hat, dass Millionen von Dollar gewohnheitsmäßig auf unsicheren Webwallets liegen. 
+Trotz der regelmäßigen Bedrohungen und massiven Diebstählen, über welche täglich von den 
+Medien berichtet wird, wurden durch schlechte Usability mehr Bitcoins verloren, als durch all die 
+Bemühungen der Kriminellen.
 
-Most of the losses in Bitcoin derive from
-deficiencies in design, a lack of usability, and end user
-mistakes rather than fundamental technical attacks in
-the software or mathematics. Skycoin must address
-both the looming existential mathematical threats
-and the security perils that Bitcoin’s incomplete and
-poorly thought out user experience has created for
-everyday users. The poor usability and design has
-forced users to compromise security, with millions
-of dollar routinely relying on insecure web wallets.
-Despite the frequent and massive thefts reported by
-the media on a daily basis, to date more Bitcoin have
-been lost due to usability issues than all the efforts of
-criminals to steal Bitcoin.
+Fast die Hälfte aller existierenden Bitcoins wurden nie aus ihrer initialen Adresse bewegt und
+werden dies auch nie, weil sie, als unwiderherstellbare Walletdateien verloren sind, 
+als Wallets verloren gegangen sind, oder über Missverständnisse, was tatsächlich beim Backup eines
+Wallets gespeichert wird verloren gegangen sind. Mt.Gox hat kürzlich gemeldet, dass sie 
+200,000 Bitcoin in einem Wallet "gefunden" haben, von dem sie sich nicht bewusst waren, dass
+es überhaupt Bitcoin hält. Das Wallet wurde bisher ignoriert und hätte leicht durch einen Fehler 
+gelöscht worden können. Wallets werden regelmäßig für leer gehalten, weil Computersoftware 
+nicht fähig war das Wallet, was mit einer "zu alten" Software erstellt wurde, zu laden.
+Deshalb treten viele der Sicherheitsrisiken bezüglich Bitcoin auf dem Level der Usability, 
+der Endnutzer und der Exchanges auf.
 
-As many as half of all existing Bitcoins have
-never been moved from their initial addresses and
-never will be because they are lost as unrecoverable
-wallet files, lost wallets, or misunderstandings of
-what was actually being backed up in a wallet file.
-Mt. Gox recently reported “finding” 200,000 Bitcoin
-in a wallet they were unaware carried Bitcoins. The
-wallet had been previously ignored and could have
-easily been deleted by mistake. Wallets are frequently
-mistaken as empty because computer software was
-unable to load a wallet created by software that is “too
-old”. Thus most security issues concerning Bitcoin
-occur at the level of usability, end users and exchange
-security.
+Der Rest dieses Abschnitts behandelt einige der neuen Techniken die wir, in Kooperation mit 
+unseren Partnern entwickelt haben, um Sicherheitsrisiken auf Netzwerklevel zu adressieren und
+um die Skycoin-Blockchain sicherer als vorherige Netzwerke zu machen.
 
-The rest of this section covers some of the new
-techniques we have created in cooperation with our
-partners to address network level security issues and
-render the Skycoin blockchain more secure than
-previous networks.
+Wir haben mathematisch bewiesen das unser System einen Konsens erreicht, die 
+geforderten Sicherheitseigenschaften hat und unter normalen Netzwerkbedingungen
+gut operiert. Wir haben einige aufregende neuen Datenstrukturen, welche bisher
+in noch keinem anderen Coin oder Stück Software gesehen wurden. Im Moment
+arbeiten wir an einem Prototypen des System für den Einsatz. Die Skycoin-Entwicklung
+ist iterativ. Es wird, während wir uns durch die Details arbeiten, bekannte Fehler adressieren 
+sowie Feedback erhalten und das System testen, Änderungen, Verbesserungen und Verfeinerungen geben.
 
-We have proven mathematically that our system
-achieves consensus, has the security properties we want
-and operates well under normal network conditions.
-We have some exciting new data‐structures that have
-not been seen in any coin or piece of software before.
-At the moment we are prototyping the system for
-deployment. The Skycoin development process is
-iterative. There will be changes, improvements and
-refinements as we work through the details, address
-known flaws, test the system and get feedback.
+# Transparenz und Sicherheit: Obelisk und öffentliche Verbreitungskanäle
 
-# Transparency And Security: Obelisk And Public Broadcast Channels
+Um die mit dem Bitcoin-System verbundenen Probleme zu adressieren, implementiert die
+Skycoin zugrundeliegende Technologie die Blockchain in der Form 
+eines öffentlichen Verbreitungskanals. Jeder kann die Kette lesen, aber nur der Besitzer 
+kann Blöcke für sie prägen. Damit ein Block für eine persönliche Kette valide ist, muss er
+mit dem privaten Schlüssel des Besitzers signiert sein. Jeder Knoten in diesem System des 
+Konsens-Algorithmus (Obelisk) hat eine persönliche Blockchain und diese ist der Kern-Primitiv 
+des Obelisk-Systems.
 
-To address the commitment problems associated
-with the Bitcoin system, the technology underlying
-our Skycoin implements the blockchain in the form
-of a public broadcast channel. Everyone can read
-the chain, but only the owner can mint blocks for it.
-To be valid for a personal chain, each block must be
-signed by the owners private key. Each node in this
-consensus algorithm system (Obelisk) has a personal
-blockchain and it is the core primitive in the Obelisk
-system.
+Der öffentliche Verbreitungskanäle stellt verhängt mehrere Einschränkungen:
 
-The public broadcast channel imposes several
-constraints:
+### * Sobald ein Block veröffentlich wurde, kann er nicht mehr unveröffentlicht werden
 
-### * Once A Block Is Published, It Cannot Be Unpublished
+Blöcken werden von Peer-zu-Peer zwischen allen Abonennten kopiert. Sobald ein Block
+veröffentlicht wurde, verbreitet er sich zu allen Abonennten. Man müsste alle Peers
+die den Block erhalten haben zerstören, um den Block aus dem Internet zu löschen.
 
-Blocks are replicated peer to peer to
-all subscribers. Once a block has been
-published, it spreads to all subscribers.
-You have to destroy all peers who have
-received the block to erase it from
-internet.
+### * Ein Knoten kann keine andere Version eines vorangegangenen Blocks ohne Detektierung veröffentlichen
 
-### * A Node Cannot Publish A Different Version Of An Earlier Block Without Detection
+Blöcke sind nummeriert und würden detektiert werden, wenn ein Knoten zwei Blöcke mit derselben
+Sequenznummer signiert hätte.
 
-Blocks are numbered and it would
-be detected if the node signed two
-different blocks with the same
-sequence number.
+### * Ein Knoten kann den Zeitstemptel des Erhalten eines Blocks nicht rückdatieren, ohne die Veröffentlichung des Block zu verzögern
 
-### * A Node Cannot Backdate The Timestamp On The Receipt Of A Block, Without Delaying The Publication Of A Block
+Zeitstempel zählen nur nach oben, Zeitstempel erhöhen sich monoton mit der Blocksequenznummer.
 
-Timestamps only go up, timestamps
-increase monotonously with block
-sequence count.
+### * Ein Block in der Mitte der Kette kann nicht geändert werden, ohne dass jeder andere nachfolgende Block ungültig wird
 
-### * A Block In The Middle Of The Chain Cannot Be Changed Without Invalidating Every Block That Comes After It
-
-In a hash chain, each block header contains
-a hash of the previous block.
+In einer Hashkette enthält jeder Header eines jeden Blocks, den Hash seines Vorgängers.
 
 # Obelisk
 
