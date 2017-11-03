@@ -14,7 +14,7 @@ categories = [
 
 - [Einführung in Skycoin](#skycoin-introduction)
 - [Innovation und Fehler von Bitcoin und den gegenwärtigen Blockchain-Protokollen](#innovations-and-flaws-with-bitcoin-and-the-current-blockchain-protocols)
-- [Innovation erzeugt von Bitcoin](#innovations-produced-by-bitcoin)
+- [Innovationen erzeugt von Bitcoin](#innovations-produced-by-bitcoin)
 - [Größte Fehler von Bitcoin](#major-flaws-of-bitcoin)
 - [Gewünschte Eigenschaften für Systeme des verteilten Konsens für digitale Konten](#desirable-properties-for-systems-of-distributed-consensus-for-financial-ledgers)
 - [Skycoins Sicherheitsphilosophie](#skycoin-security-philosophy)
@@ -22,7 +22,6 @@ categories = [
 - [Obelisk](#obelisk)
 - [Einfacher binärer Konsensalgorithmus: Auswählen zwischen zwei Blöcken](#simple-binary-consensus-algorithm-choosing-between-two-blocks)
 - [Konsens auf mehreren konkurrierenden Zweigwahlen (branch choices)](#consensus-on-multiple-concurrent-branch-choices)
-- [Consensus On Multiple Concurrent Branch Choices](#consensus-on-multiple-concurrent-branch-choices)
 
 <!-- /MarkdownTOC -->
 
@@ -299,107 +298,73 @@ In einer Hashkette enthält jeder Header eines jeden Blocks, den Hash seines Vor
 
 # Obelisk
 
-Each Obelisk node (Skycoin Consensus Node)
-has a public key (an identity) and personal blockchain
-(a public broadcast channel). Consensus decisions
-and communication happen within the personal
-blockchains of each Obelisk node. This is a public
-record of everything a node does. This allows the
-community to audit nodes for cheating and collusion.
-It gives the community a way to identify nodes which
-are participating in attacks on the network and
-it makes public how decisions in the network are
-being made and which nodes are influencing those
-decisions.
+Jeder Obelisk-Knoten (Skycoin Konsensknoten) hat einen öffentlichen Schlüssel (eine Identität) 
+und eine persönliche Blockchain (einen öffentlichen Verbreitungskanal). Konsensentscheidungen
+und die Kommunikation geschieht innerhalb der persönlichen Blockchain eines jeden Obelisk-Knotens.
+Dies erlaubt der Community den Knoten auf Betrug und Kollisionen zu prüfen. Es schafft für die Community 
+außerdem einen Weg Knoten zu identifizieren, welche sich an einer Attacke gegen das Netzwerk beteiligen und 
+zudem macht es Entscheidungen, die im Netzwerk getroffen werden, öffentlich, sowie welche Knoten diese 
+Entscheidungen beeinflussen.
 
-Each node has a list of other nodes that it
-subscribes to. Nodes with more subscribers are more
-“trusted” and yield more influence in the network. If
-the community does not trust the nodes representing
-them or feels that power within the network is too
-concentrated (or not concentrated enough) the
-community is able to collectively shift the balance of
-power in the network by collectively changing their
-trust relationships in the network.
+Jeder Knoten hat eine Liste von anderen Knoten die er abonniert hat. Knoten mit mehreren Abonnenten sind
+"vertrauenswürdige" und erbringen mehr Einfluss im Netzwerk. Wenn die Community Misstrauen gegen die 
+knotenbetreibenden Personen hat ode das Gefühl hat, dass die Macht im Netzwerk zu konzentriert 
+(oder zu wenig konzentriert) ist, hat sie die Möglichkeit als Kollektiv ihre Vertrauensbeziehungen 
+im Netzwerk ändern um die Macht im Netzwerk auszugleichen.
 
-Node subscription relationships can be
-random and/or can be formed through web of trust
-(subscribe to nodes of people you know and people
-in the community you trust).
+Die Beziehung von Knotenabonnenten kann zufällig sein und/oder sie kann mittels eines 
+Netz des Vertrauens ausgebildet werden (abonnieren der Knoten von Leuten denen man vertraut und 
+die man kennt und Leuten aus der Community, denen man vertraut).
 
-When a node receives a new block from a chain
-it is subscribed to, it publishes the hash of the block
-it publishes. This is a public acknowledgment of the
-receipt of the block. Each block is timestamped
-and counter-references blocks from other chains.
-This creates a dense interlinked chain of block
-acknowledgments. These chains establish causal
-relationships and can act as a distributed time
-stamping system as described in the next section.
-This allows the network to prove that data did not
-exist or was not published to the network or establish
-that particular nodes were active or offline during a
-particular time interval.
+Wenn ein Knoten einen neuen Block von einer Kette, die er abonniert hat, erhält, veröffentlicht
+dieser den Hash des Block den dieser veröffentlicht. Dies ist eine öffentliche Bestätigung 
+des Erhaltens des Blocks. Jeder Block ist zeitgestempelt und querverweist auf Blöcke von 
+anderen Ketten. Dies schafft eine dichte verflochtene Kette von Blockbestätigungen. 
+Diese Kette baut kausale Beziehungen auf und kann als eine Art verteiltes Zeitstempelsystem agieren,
+wie im nächsten Abschnitt beschrieben. Dies erlaubt dem Netzwerk zu beweisen, dass Daten nicht existierten,
+oder nicht im Netzwerk veröffentlicht wurden, oder nachzuweisen, dass bestimmte Knoten in einem bestimmte 
+Zeitintervall aktiv oder offline waren.
 
-The current Obelisk consensus algorithm
-is based upon Ben‐Or’s randomized consensus
-algorithm.
+Der aktuelle Obelisk-Konsens-Algorithmus basiert auf Ben-Ors randomisierten Konsens-Algorithmus
 
-A Sybil attack in a random graph (worst case)
-allows the Sybil nodes to control consensus, but the
-nodes are unable to revert transactions, removing the
-only economic incentive to attack the network. In real
-world graphs the Sybil resistance of the network is
-actually very high and running a node is moderately
-costly in terms of bandwidth, which makes large
-botnets prohibitive.
+Eine Sybil-Attacke auf einen zufälligen Graphen (schlechtester Fall) erlaubt dem Sybil-Knoten
+den Konsens zu kontrollieren, aber die Knoten sind nicht dazu fähig, Transaktionen umzukehren, was
+den einzig ökonomischen Anreiz dieser Attacke entfernt. In echten Graphen ist die Sybil-Resistenz des 
+Netzwerks tatsächlich sehr hoch und das Betreiben eines Knoten, moderat ausgedrückt, sind die Kosten der Bandbreite,
+was große Botnetze untragbar macht.
 
-Trust relationships are scarce and can be
-rescinded. In the event of an attack, the network
-reacts by severing connections to less trustworthy
-nodes and contracting to a smaller core of trusted
-nodes. The public record left by each node’s personal
-blockchain makes it very easy to identify the nodes
-participating in an attack. As attacking nodes are
-identifed, individuals sever relationships with those
-nodes, reducing their influence. Therefore, the major
-benefits of the Skycoin network are:
+Vertrauensbeziehungen sind knapp und können aufgehoben werden. Im Falle einer Attacke reagiert das Netzwerk,
+indem es die Verbindung zu weniger vertrauenswürdigen Knoten abtrennt und sich zu einem kleineren Kern an 
+vertrauenswürdigen Knoten zusammenzieht. Die öffentliche Akte jedes Knotens macht es sehr einfach, die an der 
+Attacke teilnehmenden Knoten zu erkennen. Sobald attackierende Knoten identifiziert sind, kappen die 
+Einzelpersonen ihre Beziehung mit diesen Knoten, was deren Einfluss reduziert. Deshalb sind die großen
+Vorteile des Skycoin Netzwerks:
 
-- Skycoin consensus is democratic and nodes are run by the community
-- Skycoin node consensus is public
-- Every node is accountable to the community and 3rd party audits
-- Influence within the skycoin consensus system is democratic and transparent (but unequal)
+- Der Skycoin Konsens ist demokratisch und die Knoten werden von der Community betrieben
+- Der Konsens der Skycoin-Knoten ist öffentlich
+- Jeder Knoten ist der Community und Drittpartei-Prüfungen gegenüber rechenschaftspflichtig 
+- Einfluss innerhalb des Skycoin Konsenssystems ist demokratisch und transparent (aber ungleich)
 
-# Simple Binary Consensus Algorithm: Choosing Between Two Blocks
+# Einfacher binärer Konsensalgorithmus: Auswählen zwischen zwei Blöcken
 
-Each voting decision is a hash pair (A,B). A is
-the hash of the parent of the block and B is the hash of
-the block. Each node votes on the next block
-it believes should be the consensus block. If 40% of
-the nodes it is subscribed to have the same candidate
-for consensus, the node changes its consensus to that
-block. The node flips randomly between candidates
-until consensus is reached.
+Jede Stimmentscheidung ist ein Hashpaar (A,B). A ist der Hash des Elternteils des Blocks und 
+B ist der Hash des Blocks selbst. Jeder Knoten stimmt für den nächsten Block ab, von dem er 
+denkt, dass dieser der Konsensblock sein sollte. Wenn 40% der abonnierten Knoten eines Knotens 
+einen gleichen Kandidaten für den Konsens haben, ändern der Knoten seine Stimme zu diesem Block. 
+Die Knoten wechseln zufällig zwischen Kandidaten, solange bis der Konsens erreicht ist.
 
-# Consensus On Multiple Concurrent Branch Choices
+# Konsens auf mehreren konkurrierenden Zweigwahlen (branch choices)
 
-A more advanced system publishes (A,B,P),
-where P is a value from 0 to 1. P values across all
-successors to block would sum to 1. This allows for
-concurrent consensus decisions on multiple chain
-branches.
+Ein fortgeschritteneres System veröffentlich (A,B,P), wobei P ein Wert zwischen 0 und 1 ist. 
+Die P-Werte aller Nachfolger eines Blockes addieren sich zu 1 auf. Dies erlaubt eine konkurrierende
+Konsensentscheidung auf mehreren Kettenabzweigungen (chain branches).
 
-If the majority of nodes in the network are
-honest, they will also converge to the same consensus.
+Wenn die Mehrheit der Knoten des Netzwerks ehrlich sind, werden sie zu demselben Konsens konvergieren.
 
-Skycoin also has a limited form of Proof of
-Stake. We bias voting in favor of blocks with a larger
-transaction fee.
+Skycoin hat also eine limitierte Version des Proof-of-Stake. Wir beeinflussen das Abstimmen zum Vorteil 
+von Blöcken mit größeren Transaktionsgebühren.
 
-If there are only two possible consensus
-choices for a given parent and both blocks execute
-your transaction, then the transaction is effectively
-executed regardless of which of the two blocks end up
-chosen by the network. The probability of reversion
-of an early consensus decision declines exponentially
-with block depth.
+Wenn es nur zwei mögliche Konsensentscheidungen für ein gegebenes Elternteil gibt und beide Blöcke 
+deine Entscheidung ausführen, ist die Entscheidung effektiv ausgeführt, unabhängig davon, welcher
+der beiden Blöcke letztendlich vom Netzwerk ausgewählt wird. Die Wahrscheinlichkeit der Korrektur
+einer frühzeitigen Konsensentscheidung fällt exponentiell mit der Blocktiefe.
