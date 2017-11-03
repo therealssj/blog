@@ -12,28 +12,28 @@ categories = [
 
 <!-- MarkdownTOC autolink="true" bracket="round" depth="2" -->
 
-- [CX Introduction](#cx-introduction)
-- [Project's Repository](#projects-repository)
+- [Einführung in CX](#cx-introduction)
+- [Repository des Projekts](#projects-repository)
 - [Syntax](#syntax)
-- [Affordances](#affordances)
-    - [Arity Restrictions](#arity-restrictions)
-    - [Type Restrictions](#type-restrictions)
-    - [Existential Restrictions](#existential-restrictions)
-    - [Identifier Restrictions](#identifier-restrictions)
-    - [Boundaries Restrictions](#boundaries-restrictions)
-    - [User-defined Restrictions](#user-defined-restrictions)
-- [Strict Typing System](#strict-typing-system)
-- [Compiled and Interpreted](#compiled-and-interpreted)
-    - [Read-Eval-Print Loop](#read-eval-print-loop)
-    - [Meta-programming Commands](#meta-programming-commands)
-    - [Stepping](#stepping)
-    - [Interactive Debugging](#interactive-debugging)
-- [Integrated Evolutionary Algorithm](#integrated-evolutionary-algorithm)
-- [Serialization](#serialization)
+- [Aufforderungen](#affordances)
+    - [Aritätsrestriktionen](#arity-restrictions)
+    - [Typrestriktionen](#type-restrictions)
+    - [Existentialrestriktionen](#existential-restrictions)
+    - [Bezeichnerrestriktionen](#identifier-restrictions)
+    - [Grenzrestriktionen](#boundaries-restrictions)
+    - [Userdefinierte Restriktionen](#user-defined-restrictions)
+- [striktes Typisierungssystem](#strict-typing-system)
+- [Kompiliert und Interpretiert](#compiled-and-interpreted)
+    - [Lesen-Evaluieren-Ausgeben Schleife](#read-eval-print-loop)
+    - [Meta-Programmierung Kommandos](#meta-programming-commands)
+    - [Stufung](#stepping)
+    - [Interaktives Debugging](#interactive-debugging)
+- [Integrierte evolutionäre Algorithmen](#integrated-evolutionary-algorithm)
+- [Serialisierung](#serialization)
 
 <!-- /MarkdownTOC -->
 
-# CX Introduction
+# Einführung in CX
 
 CX is both a specification and  a programming language designed to
 embrace a new programming paradigm based on the concept of
