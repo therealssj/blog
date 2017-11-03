@@ -1,5 +1,5 @@
 +++
-title = "Skycoin Overview"
+title = "Skycoin Übersicht"
 tags = [
     "Skycoin",
 ]
