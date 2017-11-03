@@ -12,279 +12,227 @@ categories = [
 
 <!-- MarkdownTOC autolink="true" bracket="round" depth="1" -->
 
-- [Skycoin Introduction](#skycoin-introduction)
-- [Innovations And Flaws With Bitcoin And The Current Blockchain Protocols](#innovations-and-flaws-with-bitcoin-and-the-current-blockchain-protocols)
-- [Innovations Produced By Bitcoin](#innovations-produced-by-bitcoin)
-- [Major Flaws Of Bitcoin](#major-flaws-of-bitcoin)
-- [Desirable Properties For Systems Of Distributed Consensus For Financial Ledgers](#desirable-properties-for-systems-of-distributed-consensus-for-financial-ledgers)
-- [Skycoin Security Philosophy](#skycoin-security-philosophy)
-- [Transparency And Security: Obelisk And Public Broadcast Channels](#transparency-and-security-obelisk-and-public-broadcast-channels)
+- [Einführung in Skycoin](#skycoin-introduction)
+- [Innovation und Fehler von Bitcoin und den gegenwärtigen Blockchain-Protokollen](#innovations-and-flaws-with-bitcoin-and-the-current-blockchain-protocols)
+- [Innovation erzeugt von Bitcoin](#innovations-produced-by-bitcoin)
+- [Größte Fehler von Bitcoin](#major-flaws-of-bitcoin)
+- [Gewünschte Eigenschaften für Systeme des verteilten Konsens für digitale Konten](#desirable-properties-for-systems-of-distributed-consensus-for-financial-ledgers)
+- [Skycoins Sicherheitsphilosophie](#skycoin-security-philosophy)
+- [Transparenz und Sicherheit: Obelisk und öffentliche Verbreitungskanäle](#transparency-and-security-obelisk-and-public-broadcast-channels)
 - [Obelisk](#obelisk)
-- [Simple Binary Consensus Algorithm: Choosing Between Two Blocks](#simple-binary-consensus-algorithm-choosing-between-two-blocks)
+- [Einfacher binärer Konsensalgorithmus: Auswählen zwischen zwei Blöcken](#simple-binary-consensus-algorithm-choosing-between-two-blocks)
+- [Konsens auf mehreren konkurrierenden Zweigwahlen (branch choices)](#consensus-on-multiple-concurrent-branch-choices)
 - [Consensus On Multiple Concurrent Branch Choices](#consensus-on-multiple-concurrent-branch-choices)
 
 <!-- /MarkdownTOC -->
 
-# Skycoin Introduction
+# Einführung in Skycoin
 
-Skycoin is based on technology
-which introduces a new cryptographic primitive
-known as a public broadcast channel. It also introduces
-a new consensus algorithm implementation, called
-Obelisk, which mitigates the commitment problems
-arising from the Proof-of-Work and mining processes
-underlying Bitcoin, thus addressing a host of security
-issues associated with the latter. Obelisk is not a
-single algorithm, but an implementation employing
-multiple techniques to deliver specific security
-guarantees.
+Skycoin basiert auf einer Technologie, welche neue kryptographische Primitive einführt, 
+bekannt als ein öffentlicher Verbreitungskanal. Er führt ebenso die Implementation eines
+neuen Konsens-Algorithmus ein, genannt Obelisk, welcher die verbundenen Probleme, die aus
+dem Proof-of-Work-Konzept und dem Miningprozess entstehen, entschärft und eine Heerschar 
+der, aus dem Mining resultierenden Sicherheitsprobleme, adressiert.
+Obelisk ist nicht nur ein einfacher Algorithmus, sondern viel mehr eine Implementierung,
+welche mittels mehrerer Techniken spezifische Sicherheiten garantiert.
 
-# Innovations And Flaws With Bitcoin And The Current Blockchain Protocols
+# Innovation und Fehler von Bitcoin und den gegenwärtigen Blockchain-Protokollen
 
-In Bitcoin, new transactions are placed into
-a block, which is appended to the blockchain. Any
-peer in the Bitcoin network can create new blocks.
-Each block therefore has a single parent but one or
-more valid successors (children). The chains form a
-tree and the core problem that Bitcoin solves is getting
-every node in the network to agree on which of the
-prospective chains in the chain tree is the consensus
-blockchain.
+Bei Bitcoin werden neue Transaktionen in einem Block untergebracht, 
+welcher dann an die Blockchain angeknüpft wird. Jeder Peer des Bitcoin-Netzwerkes
+kann neue Blöcke generieren. Jeder Block hat deshalb genau ein Elternteil, aber mehrere
+valide Nachfolger (Kinder). Die Kette (chain) formt einen Baum und das Kernproblem das Bitcoin
+gelöst hat ist, dass sich alle Knoten im Netzwerk einig sind, welche der prospektiven Kette
+dem Konsens entspricht.
 
-Bitcoin uses a technique called Proof‐of‐Work
-(PoW) to determine a unique blockchain. A valid
-block requires a hash value, which is below a target
-value. Nodes add transactions to a new block and
-randomly try nonces until a valid hash for a block
-is found.
+Bitcoin nutzt eine Technik des Names Proof-of-Work (PoW) um eine eindeutige Blockchain zu 
+bestimmen. Ein valider Block erfordert einen Hashwert, welcher unterhalb eines Zielknotens liegt. 
+Knoten fügen Transaktionen zu einem neuen Block hinzu und wählen zufällig Nonces bis ein valider 
+Hash für einen Block gefunden wurde.
 
-A function is used to create a total ordering
-of chains in the block tree. The chain which has the
-highest difficulty and required the most hashing
-operations to produce is “the longest chain” and
-forms the consensus chain. The notion of “block
-depth” and “difficulty” create a total ordering over
-all linear chains in the block tree and only the most
-resource intensive chain is accepted to produce the
-consensus chain.
+Eine Funktion wird verwendet um absolute Ordnung unter den Ketten des Blockbaums zu schaffen. 
+Die Kette mit der höchsten Schwierigkeit und die die meisten Hashingoperationen benötigt,
+ist die "längste Kette" und formt die Konsenskette. Die Vorstellung der "Blocktiefe" und 
+"Schwierigkeit" schaffen eine totale Ordnung über alle linearen Ketten des Blockbaumes und 
+nur die ressourcenintensivsten Kette wird zur Produktion der Konsenskette akzeptiert.
 
-Bitcoin nodes connect to each other randomly
-and each node relays the most difficult chain of
-blocks that it knows about to its peers. If one node
-has a more difficult to produce chain than another
-connected peer, the peer will receive the blocks
-sequentially. The peer will evaluate the function and
-decide whether the received chain is more difficult
-to produce and thus potentially switch its consensus
-to the received chain. The peer will then advertise
-its new chain to its peers. In this way, consensus is
-propagated throughout the network and all nodes
-reach the same consensus.
+Bitcoin-Knoten bauen Verbindungen untereinander zufällig auf, jeder Knoten übermittelt die
+schwierigste ihm bekannte Kette seinen Peers. Wenn ein Knoten eine schwierigere Kette als ein
+anderer verbundener Peer hat, dann erhält der Peer die Blöcke der Reihe nach in der richtigen 
+Reihenfolge. Der Peer wird die Funktion evaluieren und entscheiden, ob die erhaltene Kette 
+schwieriger zu produzieren ist und potentiell seinen Konsens für dieser Kette treffen.
+Der Peer wird dann anschließend diese Kette seinen Peers anpreisen. Auf diese Weise wird der
+Konsens durch das Netzwerk hindurchpropagiert und alle Knoten kommen zu einem Konsens.
 
-Bitcoin does not assume that nodes have
-identities and does not assume that nodes are honest.
-Nodes may send other nodes any data and it cannot
-affect consensus decisions because difficulty is
-something that can be independently verifed on its
-own merit.
+Bitcoin geht nicht davon aus, dass die Knoten Identitäten haben und ehrlich sind.
+Knoten dürfen anderen Knoten Daten senden und es kann den Konsens nicht beeinflussen,
+denn die Konsensentscheidung ist etwas, dass unabhängig, alleine durch ihren eigenen Wert
+getroffen werden kann.
 
-# Innovations Produced By Bitcoin
+# Innovation erzeugt von Bitcoin
 
-### * The Blockchain
+### * Die Blockchain
 
-A single data structure that everyone
-can possess.
+Eine einzelne Datenstruktur die jeder besitzen kann.
 
-### * Public Ledger For Transactions
+### * Öffentliches Konto für Transaktionen
 
-Storing financial transactions in the
-blockchain.
+Speichern der finanziellen Transaktionen auf der Blockchain.
 
-### * Use Of PoW And Difficulty Retargeting To Maintain A Constant Rate Of Block Production
+### * Nutzen von PoW und wiederholende Schwierigkeitsausrichtung um eine konstante Rate der Blockerschaffung zu gewähren
 
-### * Use Of Public Key Hashes As Addresses
+### * Nutzen der Hashes von öffentlichen Schlüsseln als Adresse
 
-Public keys are not disclosed until
-used.
+Öffentliche Schlüssel werden nicht bekanntgegeben, bis sie benutzt werden.
 
-### * Use Of “outputs” For Balances
+### * Nutzen der "Ausgaben" für Bilanzen
 
-It ignores trying to create divisible digital
-cash: To pay $20 from a $25 output,
-send $20 to person and $5 back to
-yourself.
+Es ignoriert den Versuch, teilbares digitales Geld zu erschaffen: 
+Um $20 aus einer $25 Ausgabe zu bezahlen, sendet man $20 Dollar 
+zu der Person und $5 zurück zu sich selbst.
 
-### * Pow Difficulty Function And Block Depth
+### * PoW Schwierigkeitsfunktion und Blocktiefe
 
-First use of a function that defines total
-ordering on block trees. The public ledger
-circumvents the double spending problem
-of traditional digital cash.
+Erste Verwendung einer Funktion, welche eine totale Ordnung auf Blockbäumen 
+definiert. Das öffentliche Konto umgeht das Problem der doppelten Ausgaben von 
+traditionellem digitalen Geld.
 
-# Major Flaws Of Bitcoin
+# Größte Fehler von Bitcoin
 
-These are the issues that must be addressed in the
-development of new cryptocurrency solutions. Bitcoin
-should be regarded as an embryonic cryptocurrency
-upon which future developments must improve. The
-technology upon which Skycoin is based addresses
-Bitcoin’s major deficiencies by redesigning the entire
-system of distributed consensus.
+Es gibt Probleme, welche bei der Entwicklung neuer Lösungen 
+für kryptographische Währungen adressiert werden müssen.
+Bitcoin sollte als Cryptowährung im Embryostadium betrachtet werden, 
+bei dem sich die zukünftige Entwicklung verbessern muss. Die Technologie
+auf der Skycoin basiert adressiert die großen Unzulänglichkeiten von Bitcoin, 
+indem man sie das komplette System der verteilen Konsensfindung neu gestaltet.
 
-### * Consensus Decisions In Bitcoin Are Not Final And Can Be Reverted
+### * Konsensentscheidungen in Bitcoin sind nicht endgültig und können umgekehrt werden
 
-A person or organization that can rent
-or buy enough hashing power can
-revert transactions.
+Eine Person oder Organisation, welche genügend Hashpower mieten kann, 
+hat die Möglichkeit Transaktionen umzukehren.
 
-### * Bitcoin Achieves Network Consensus But Individual Bitcoin Nodes Are Highly Vulnerable To Adversaries Who Control The Routers Through Which Packets Pass
+### * Bitcoin erreicht Netzwerkkonsens aber individuelle Bitcoin-Knoten sind höchst gefährdet durch Gegner, welche den Router kontrollieren, durch den die Pakete wandern
 
-A router-controlling adversary has
-absolute control over the view of a
-node and can arbitrarily influence the
-node’s consensus decisions.
+Ein routerkontrollierender Gegner hat absolute Kontrolle über die Sicht 
+eines Knotens und kann willkürlich die Konsensentscheidung des Knotens
+beeinflussen.
 
-### * Bitcoin Exchanges Have Become Highly Vulnerable To Attack
+### * Bitcoin-Exchanges sind hoch anfällig gegenüber Attacken geworden
 
-Skilled attackers may employ 51%
-attacks and the buying and selling of
-alt coins at Bitcoin exchanges to drive
-the latter into insolvency.
+Erfahrene Angreifen können 51%-Attacken durchführen und 
+durch das Kaufen und Verkaufen von Altcoins auf Bitcoin-Exchanges
+dieses in die Insolvenz treiben.
 
-### * Banks And Gambling Sites Have Become Vulnerable To 51% Attacks
+### * Banken und Wettseiten sind hoch anfällig gegenüber 51%-Attacken geworden
 
-### * As Bitcoin Matures, The Buying Of Options Against Bitcoin And Attacks Against The Networks Become More Profitable
+### * Sowie sich Bitcoin entwickelt, sind die Optionsscheine gegen Bitcoin und Attacken gegen das Netzwerk profitabler geworden
 
-In the future, successful attacks on
-Bitcoin could result in several hundred
-millions of dollars in profit from
-options trading.
+In der Zukunft könnten erfolgreiche Attacken gegen Bitcoin,
+mit dem Handel von Optionsscheinen, Profite in der Höhe von 
+hunderten Millionen Dollar erzielen.
 
-### * States With Strong Capital Controls, As Well As Competing Corporations, May Directly Attack The Bitcoin Network To Protect Their Financial Interests
+### * Staaten mit hoher Kapitalverkehrskontrolle, sowie konkurrierende Unternehmen könnten das Bitcoin-Netzwerk direkt attackieren um ihre finanziellen Interessen zu wahren
 
-Such entities may easily absorb the
-costs of attacking the network and
-undermining Bitcoin’s security.
+Solche Instanzen können die Kosten für eine Netzwerkattacke 
+mit Leichtigkeit stemmen und die Sicherheit von Bitcoin
+untergraben.
 
-### * Services That Allow “cloud Hashing” And Rental Of 3rd Party Hash Power Are Increasingly Successful
+### * Services welche "Cloud-Hashing" und das Mieten der Hashpower von Drittparteien anbieten sind zunehmend erfolreich
 
-Many large pools now have the ability
-to rent the hash power for a majority
-attack.
+Viele große Pools haben nun die Möglichkeit Hashpower 
+für eine Mehrheitsattacke zu mieten.
 
-### * Hackers Can Use Numerous Security Holes In Routers And Networking Equipment To Steal Coins From Banks And Exchanges
+### * Hacker können zahlreichen Sicherheitslücken in Routern und Netzwerkequipment nutzen um Coins von Banken und Exchanges zu stehlen
 
-An attacker can control the peers
-connected to a Bitcoin node and ensure
-connections to attacker-controlled
-nodes. For instance, an attacker may
-introduce a deposit transaction to the
-side chain of a bank and get the bank
-to issue a withdraw transaction which
-is then relayed to the main network.
+Ein Angreifer kontrolliert die Peers die mit einem Bitcoin-Knoten
+verbunden sind und kann sicherstellen, dass die Verbindung nur mit 
+den von ihm kontrollierten Knoten aufgebaut wird. Zum Beispiel kann ein 
+Angreifer eine Einzahlungstransaktion auf eine Seitenkette (side chain) 
+einer Bank einbringen und die Bank dann dazu bringen, eine Abhebtransaktion 
+auszugeben, welche anschließend an das Hauptnetzwerk weitergeleitet wird.
 
-### * Bitcoin Cannot Offer Security At A Low Cost
+### * Bitcoin kann keine kostengünstige Sicherheit bieten
 
-The Bitcoin network is using immense
-and exponentially growing amounts of
-electricity. Bitcoin’s security purposely
-relies upon creating as much electrical
-waste as possible. As security is related
-to the cost of achieving majority hash
-rate, the cost of running the Bitcoin
-network are constantly driven up. In
-a well-designed system, $1 in security
-costs $1000 to circumvent. In Bitcoin
-the ratio is $1 to $1. In addition, this is
-environmentally irresponsible.
+Das Bitcoin-Netzwerk nutzt eine immense und exponentiell 
+wachsende Menge an Elektrizität. Bitcoins Sichheit beruht 
+bewusst darauf, soviel Elektrizität als nur möglich zu verschwenden. 
+Da die Sicherheit mit den Kosten verbunden ist, welche notwendig sind 
+um die Mehrheit der Hashingpower zu erreichen, werden diese Kosten, das 
+Bitcoin-Netzwerk zu betreiben, konstant nach oben getrieben.
+In einem gut entworfenem System kostet $1 an Sicherheit $1000 um diese 
+zu umgehen. Bei Bitcoin ist das Verhältnis $1 zu $1. Zusätzlich dazu ist
+die ganze Sache umwelttechnisch unverantwortlich.
 
-### * Bitcoin Fundamentally Cannot Decrease Transaction Times Without Compromising Security
+### * Bitcoin ist es grundlegend nicht möglich die Transaktionszeiten zu senken ohne die Sicherheit zu kompromittieren
 
-Bitcoin transactions take on average
-10 minutes to get included in a block,
-and more time is required for more
-security.
+Bitcoin-Transaktionen brauchen im Schnitt 10 Minuten um in einen 
+Block integriert zu werden und mehr Zeit wird für höhere Sicherheit benötigt.
 
-# Desirable Properties For Systems Of Distributed Consensus For Financial Ledgers
 
-The criteria on which Bitcoin can be improved are:
+# Gewünschte Eigenschaften für Systeme des verteilten Konsens für digitale Konten
 
-### * No Double Spending
+Die Kriterien, in welchen Bitcoin verbessert werden kann, sind folgende:
 
-Once a transaction has executed,
-it should be impossible to revert
-consensus. Consensus should be as
-irreversible as possible.
+### * Keine doppelten Ausgaben
 
-### * Efficiency
+Sobald eine Transaktion ausgeführt ist, sollte es unmöglich sein den Konsens
+rückgängig zu machen. Der Konsens sollte so unumkehrbar wie nur möglich sein.
 
-The cost to run a perfectly secure
-ledger should be extremely low.
+### * Effizienz
+
+Die Kosten ein perfekt abgesichertes Konto zu betreiben
+sollten extrem niedrig sein.
 
 ### * Speed
 
-The system should allow transactions
-to be confirmed within seconds.
+Das System sollte Transaktionen innerhalb von Sekunden bestätigen.
 
-### * Transparency
+### * Transparenz
 
-It should be easy to audit and identify
-malicious nodes.
+Es sollte einfach sein bösartige Knoten zu überprüfen und zu identifizieren.
 
-### * Router Attack Security
+### * Routerattackensicherheit
 
-Nodes should be able to detect if their
-consensus differs from the network.
+Knoten sollten in der Lage sein zu erkennen,
+ob ihr Konsens sich von dem des Netzwerks unterscheidet.
 
-Some security properties should remain intact
-even if the vast majority of nodes in the network are
-malicious and colluding.
+Einige Sicherheitseigenschaften sollten auch dann aufrechterhalten bleiben,
+wenn die große Mehrheit der Knoten des Netzwerks bösartig und konspirierend ist.
 
-On a fundamental level, many of the security
-issues associated with the Bitcoin system arise from the
-inherent commitment problem of the Proof of Work
-and mining processes. Its security issues represent
-a real-world Byzantine General Problem. Incentives
-exist for participants to manipulate verification
-processes, by engaging in bribery and hacking for
-instance. Attackers will manipulate system clocks,
-compromise routers, use hash collisions, flood the
-network with hundreds of thousands of bots and
-exploit signature malleability.
+Auf einem fundamentalen Level sind viele der angeborenen Sicherheitsprobleme
+des Bitcoin-Systems verbunden mit dem Proof-of-Work-System und dem Miningprozess.
+Seine Sicherheitsprobleme repräsentieren die generell auch real-vorkommende
+byzantinische Problematik. Anreize existieren für Teilnehmer die Verifikationsprozesse zu 
+manipulieren, beispielsweise mittels Bestechung und Hacking.
+Angreifer werden den Systemtakt manipulieren, die Router kompromittieren, Hashkollisionen 
+erzeugen, das Netzwerk mit hunderten und tausenden von Bots fluten um die 
+Signaturgestaltbarkeit auszunutzen.
 
-A secure system must not only protect against
-every known attack, but be robust enough to evolve
-and adapt to future attacks. Some issues in Bitcoin
-can be fixed, such as signature malleability. Other
-issues are fundamental and cannot be addressed
-without defining an entirely new framework, such as
-the reliance on Proof of Work and miners.
+Ein sicheres System muss nicht nur gegen jede bekannte Attacke geschützt sein,
+sondern auch robust genug sein um sich gegen zukünftige Attacken weiter zu entwickeln.
+Einige der Problem von Bitcoin können behoben werden, wie etwa die Signaturgestaltbarkeit.
+Andere Probleme sind fundamental und können nicht adressiert werden, ohne dass ein komplett
+neuer Rahmen definiert werden muss, wie etwa die Verlässlichkeit von Proof-of-Work und den Minern.
 
-# Skycoin Security Philosophy
 
-Security is a process of continuous identification
-and fortification against threats. A good system
-achieves “defense in depth”, has multiple redundant
-systems and will survive the complete failure of
-any individual measure. Good security requires the
-differentiation between threats which are existential
-and those which are mere annoyances.
+# Skycoins Sicherheitsphilosophie
 
-While it is obvious that no single system can
-eliminate all security threats and simultaneously
-achieve all the objectives listed above, Skycoin
-represents the next step in cryptocurrency technology
-because it takes a modular layered approach to
-security and uses different systems to enforce
-particular guarantees. Skycoin security is focused on
-addressing the existential threats faced by Bitcoin and
-protecting users from day-to-day threats, attempting
-to give the highest degree of protection against the
-class of attacks that would infict the greatest losses
-upon its users, stakeholders and institutions. This
-requires a complete redesign of Bitcoin at both ends
-from wallet generation to blockchain consensus and
-fundamental innovation is several other areas.
+Sicherheit ist ein Prozess der kontunierlichen Identifikation und Befestigung gegen Bedrohungen.
+Ein gutes System erreicht "tiefgehende Verteidigung", hat mehrere redundante Systeme und wird
+das totale Versagen individueller Maßnahmen überleben. Gute Sicherheit benötigt die Unerscheidung
+zwischen Bedrohung, welche existentiell sind und solchen, welche nur Belästigungen sind.
+
+Während es offensichtlich ist das kein einzelnes System alle Sicherheitsrisiken eliminieren kann 
+und gleichzeitig alle oben genannten Zielsetzungen erfüllen kann, repräsentiert Skycoin den nächsten 
+Schritt in der Technologie der Cryptowährungen, denn es nutzt den bausteinförmigen Ansatz zum
+Erreichen von Sicherheit und verwendet verschiedene Systeme, um diverse spezielle Garantien
+geben zu können. Skycoins Sicherheit fokusiert sich auf die Adressierung der exisitierenden Bedrohungen,
+welchen Bitcoin sich gegenübergestellt sieht, und dem Schutz der User vor alltäglichen Bedrohungen, 
+im Versuch den höchsten Grad an Sicherheit gegen die Klasse von Attacken zu gewährleisten, welche
+Stakeholdern, Insitutitionen und Usern den größten Schaden zufügen würde. Dies benötigt ein
+komplettes neu gestalten von Bitcoin an beiden Enden, von der Walletgeneration zum Blockchain-Konsens 
+und von den fundamentalen Innovation in zahlreichen anderen Gebieten.
+
 
 Most of the losses in Bitcoin derive from
 deficiencies in design, a lack of usability, and end user
