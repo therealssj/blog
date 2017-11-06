@@ -35,23 +35,20 @@ categories = [
 
 # Einführung in CX
 
-CX is both a specification and  a programming language designed to
-embrace a new programming paradigm based on the concept of
-affordances. Affordances allow a program to know what actions can and
-cannnot be done by it. For example, we can ask the program what
-arguments can be sent to a function, and the program will return a
-list of possible actions. After having decided what action from the
-list is appropriate, we can choose one of the options and the program
-will apply the chosen action. As a consequence of CX's affordance system, a
-genetic programming algorithm is built and provided as a native
-function, which can be used to optimize the program's structure during
-runtime.
+CX ist beides, eine Spezifikationssprache und eine Programmiersprache, designt um ein neues 
+Paradigma, basierend auf dem Konzept der Aufforderung zu begrüßen.
+Aufforderungen erlauben es einem Programm zu wissen, welche Aktionen ausgeführt werden können
+und welche nicht. Zum Beispiel können wir das Programm fragen, welche Argumente einer Funktion
+mitgegeben werden können und das Programm antwortet mit einer Liste der möglichen Aktionen.
+Nachdem entschieden wurde, welche Aktion der Liste angebracht ist, können wir eine der Aktionen 
+wählen und das Programm wird die gewählte Aktion anwenden. Konsequenz des CXs Aufforderungssystems 
+ist die Erstellung eines genetisches Programmieralgorithmus, der angeborene Funktion bereitgestellt wird 
+und genutzt werden kann, um die Programmstruktur während der Laufzeit zu optimieren. 
 
-The CX specification states that both a compiler and an interpreter
-must be accessible to the programmer. The interpreter can be accessed
-through a read-eval-print loop, where the programmer can interactively
-add and remove elements to a program. Once the program has been
-finished, it can be compiled in order to increase its performance.
+Die CX-Spezifikation besagt, dass dem Programmierer ein Compiler sowie ein Interpreter zugänglich
+sein müssen. Der Interpreter kann leicht durch eine Lesen-Evaluieren-Ausgeben-Schleife aufgerufen 
+werden, in der der Programmierer interaktiv Elemente dem Programm hinzufügen und entfernen kann.
+Nachdem das Programm beendet ist kann es kompiliert werden, um dessen Performance zu verbessern.
 
 The typing system in CX is very strict. The only "implicit casting"
 occurs when the parser determines what is an integer, a float, a
