@@ -200,45 +200,41 @@ Scope anderer Module.
 
 ### Bezeichnerrestriktionen
 
-Adding new named elements are commonly candidate actions for affordances. A
-restriction that arises when trying to apply such type of affordance
-is to ensure a unique identifier for the new element to avoid
-redefinitions. The affordance system can either generate a unique
-identifier in the element's scope, or can ask the programmer to
-provide a suitable identifier.
+Das Hinzufügen von neu benannten Elementen sind übliche Kandidaten für Aktion von Aufforderungen.
+Eine Restriktion, welche beim Versuch solche Typen von Aufforderungen anzuwenden, ist das sicherstellen 
+einer eindeutigen Bezeichnung des neuen Elements, damit Redefinitionen umgangen werden. 
+Das Aufforderungssystem kann entweder innerhalb des Scopes des Elements eine eindeutige Bezeichnung
+erstellen, oder den Programmierer nach einer angemessenen Bezeichnung fragen.
 
-### Boundaries Restrictions
+### Grenzrestriktionen
 
-CX provides native functions for accessing and modifying elements from
-arrays. Examples of an array reader and an array writer are:
-
+CX stellt standardmäßig Funktionen für das Zugreifen und Modifizieren von Elementen aus Arrays bereit.
+Beispiele eines Array-Lesers (reader) und eines Array-Schreibers (writer) sind:
 
 ```
 readI32([]i32{0, 10, 20, 30}, 3)
 writeF32([]f32{0.0, 10.10, 20.20}, 1, 5.5)
 ```
 
-In the first expression, an array of four 32 bit integers is accessed
-at index 3, which returns the last element of the array. In the second
-expression, the second element of an array of three 32 bit floats is
-changed to 5.5. If any of these arrays was accessed using either a
-negative index or an index which exceeds the length of the array, an
-"out of boundaries" error is raised.
+Im ersten Ausdruck wird auf ein Array von vier 32-Bit Integern zugegriffen an der
+Indexposition 3, welche das letzte Element des Arrays zurückgibt.
+Im zweiten Ausdruck wird das zweite Element eines Arrays aus drei 32-Bit Floats 
+auf den Wert 5.5 geändert. Wenn auf eines der beiden Arrays mit einem negativen Index
+oder einem Index außerhalb der Länge des Arrays zugegriffen werden würde, würde ein
+"außerhalb der Grenzen"-Error auftreten.
 
-By obeying only the type restrictions, the affordance system will tell
-the programmer that any 32 bit integer argument can be used as an
-index to access any array. Although these programs would compile, out
-of boundaries errors are very probable to occur if the programmer does not
-pay extra attention to what is being chosen to be applied.
+Wenn nur die Typrestriktionen befolgt werden, wird das Aufforderungssystem dem Programmierer
+sagen, dass ein beliebiges 32-Bit Integer Argument als Index verwendet werden kann, um auf
+das Array zuzugreifen. Obwohl diese Programme kompilieren würden, sind "außerhalb der Grenzen"-Errors
+sehr wahrscheinlich, außer der Programmierer würde dem ausgewählten Index für die Anwendung besondere
+Aufmerksamkeit schenken.
 
-The affordance system needs to filter the affordances according to the
-following criteria: discard any negative 32 bit integer, and discard
-any 32 bit integer which exceeds the length of the array being sent to
-the array reader or writer.
+Das Aufforderungssystem muss die Aufforderungen nach den folgenden Kriterien filtern:
+Verwerfen von jeglichen negativen 32-Bit Integern, verwerfen von jeglichen 32-Bit Integern, welche
+die Länge des Arrays überschreiten und an das Array als Array-Schreiber oder Array-Leser gesendet werden.
 
-### User-defined Restrictions
-*Note: The user-defined restrictions system is still in its
- experimental stages.*
+### Userdefinierte Restriktionen
+*Vermerk: Das userdefinierte Restriktionssystem ist aktuell noch im Experimentierstadium.*
 
 The basic restrictions described above should at least guarantee that
 the program does not encounter any runtime errors. These restrictions
