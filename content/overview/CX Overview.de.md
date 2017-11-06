@@ -50,62 +50,55 @@ sein müssen. Der Interpreter kann leicht durch eine Lesen-Evaluieren-Ausgeben-S
 werden, in der der Programmierer interaktiv Elemente dem Programm hinzufügen und entfernen kann.
 Nachdem das Programm beendet ist kann es kompiliert werden, um dessen Performance zu verbessern.
 
-The typing system in CX is very strict. The only "implicit casting"
-occurs when the parser determines what is an integer, a float, a
-boolean, a string, or an array. If a function requires a 64 bit
-integer, for example, one has to use a cast function to explicitly
-convert it to the required type.
+Die Typisierung in CX ist sehr strikt. Das einzige "implizite Casting" tritt auf, wenn der Parser 
+bestimmt was ein Integer ist, ein Float, ein Boolean, ein String oder ein Array. Wenn zum Beispiel 
+eine Funktion einen 64 Bit Integer als Eingabeparameter benötigt, muss man explizit mittels
+einer Cast-Funktion zum geforderten Typ konvertieren.
 
-Lastly, a CX program can be completely serialized to byte arrays,
-maintaining its execution state and structure. This serialized version
-of a program can be deserialized later on, and continue its execution
-in any device that has a CX interpreter/compiler.
+Zu guter Letzt kann ein CX-Programm vollständig in Byte-Arrays serialisiert werden,
+was es seinen Ausführungszustand und seine Struktur behalten lässt. Diese serialiserte 
+Version eines Programmes kann später deserialisiert werden, um die Ausführung, auf einem 
+beliebigen Gerät mit CX Interpreter/Compiler, fortzusetzen.
 
-In the following sections, the CX features discussed in the above
-paragraphs are described in more detail.
+Die folgenden Abschnitte gehen auf die oben besprochenen CX-Features detaillierter ein.
 
-# Project's Repository
+# Repository des Projekts
 
-The source code of the project can be downloaded from its Github
-repository:
-[https://github.com/skycoin/cx](https://github.com/skycoin/cx). The
-repository includes the specification file, documentation, examples,
-and the source code itself.
+Der Quellcode des Projekts kann aus seinem Github-Repository heruntergeladen werden:
+[https://github.com/skycoin/cx](https://github.com/skycoin/cx). 
+Das Repository enthält die Spezifikationsdatei, Dokumentation, Beispiele und natürlich
+den Quellcode selbst.
 
 # Syntax
 
-As was mentioned in the introduction, CX is both a specification and a
-programming language. The CX specification does not impose a syntax,
-but rather the structures and processes that a CX dialect must
-implement in order to be considered a CX. As a consequence, one could
-implement a two CX dialects, one with a Lisp-like syntax, and another
-one with a C-like syntax. This underlaying language is called CX Base,
-or "the base language." In this document, an implementation is used to
-showcase the capabilities of the specification, although its purpose
-is not only to serve as an academic tool, but to become a complete and
-robust language that can be used for general purposes.
+Wie schon in der Einführung erwähnt ist CX zugleich Spezifikations-, als auch Programmiersprache. 
+Die CX-Spezifikation verhängt keine Syntax, sondern die Strukturen und Prozesse, welche ein CX-Dialekt 
+implementieren muss um als CX erachtet zu werden.
+Das hat zur Konsequenz, dass man zwei CX-Dialekte implementieren kann, einen mit einer lisp-ähnlichen
+Syntax und einen anderen mit c-ähnlicher Syntax. Diese zugrundeliegende Sprache wird CX-Base genannt,
+oder auch "die Basissprache". In diesem Dokument wird eine Implementation genutzt, um die Möglichkeiten
+der Spezifikation zu präsentieren, obwohl deren Zweck nicht nur das dienen als akademisches Tool ist, 
+sondern sie soll eine vollständige und robuste Sprache für universale Anwendungen werden.
 
-The CX used in this document has the goal to have a syntax as similar
-as possible to Go's syntax.
+Die in diesem Dokument verwendete CX hat das Ziel eine Syntax aufzuweisen, welche der Syntax der 
+Sprache Go so ähnlich wie nur möglich ist.
 
-# Affordances
+# Aufforderungen
 
-A programmer needs to make a plethora of decisions while constructing
-a program, e.g., how many parameters a function must receive, how many
-parameters it must return, what statements are needed to obtain the
-desired functionality, and what arguments need to be sent as
-parameters to the statement functions, among others. The affordance
-system in CX can be queried to obtain a list of the possible actions
-that can be applied to an element. In this context, examples of elements are
-functions, structs, modules, and expressions.
+Ein Programmierer muss eine Plethora von Entscheidungen während der Konstruktion eines Programmes 
+treffen, beispielweise unter anderen wie viele Parameter eine Funktion erhält, wie viele Parameter sie 
+zurückgibt, welche Statements benötigt werden um die gewünschte Funktionalität zu erhalten und
+welche Argumente dieser Statement-Funktion als Parameter mitgegeben werden müssen. Das Aufforderungssystem
+in CX kann befragt werden, um eine Liste der möglichen Aktion, die auf einem Element angewandt werden können,
+zu erhalten. In diesem Kontext stehen Elemente für Funktionen, Strukturen (structs), Module und 
+Ausdrücke (expressions).
 
-Without having a set of rules and facts that dictate what must be the
-logic and purpose behind a program, one can determine some basic
-restrictions that, at least, guarantee that a program will be
-semantically correct. The affordance system provides such restrictions
-as the first filtering layer, and are explained below.
+Ohne einen Satz von Regeln und Fakten zu haben, die diktieren was der Zweck und die Logik hinter einem
+Programm sein müssen, kann man jedoch einige einfache Einschränkungen bestimmen, welche zumindest die
+semantisches Korrektheit eines Programms garantieren. Das Aufforderungssystem stellt solche Einschränkungen
+als erste Filterschicht bereit und wird unten näher beschrieben.
 
-### Arity Restrictions
+### Aritätsrestriktionen
 
 Expressions in CX can return multiple values. This creates a challenge
 for the affordance system, as the number of variables that receive
