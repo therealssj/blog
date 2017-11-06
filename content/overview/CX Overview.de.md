@@ -100,42 +100,36 @@ als erste Filterschicht bereit und wird unten näher beschrieben.
 
 ### Aritätsrestriktionen
 
-Expressions in CX can return multiple values. This creates a challenge
-for the affordance system, as the number of variables that receive
-the output arguments of an expression need to match the number of
-outputs defined by the expression's operator.
+Ausrücke in CX können mehrere Werte zurückgeben. Dies kreiert eine Herausforderung für das Aufforderungssystem,
+da die Anzahl an Variablen, welche die Ausgabenargumente eines Ausdrucks erhält, der Anzahl der Ausgaben,
+die durch den Operator des Ausdrucks definiert werden, entsprechen muss. 
 
 ```
 out1, out2, ..., outN := op(inp1, inp2, ..., inpM)
 ```
 
-If the example above is correct, then *op* needs to output *N*
-arguments. This problem can become even more challenging if we
-consider that *op*'s definition can be changed by the affordance
-system itself or by the user in the future: as soon as *op*'s
-definition changes, new affordances can be applied to any expression
-which uses *op* as its operator, because the number of variables that
-receive *op*'s output arguments are now in mismatch.
+Wenn das obige Bespiel korrekt ist, dann muss *op* Argumente in der Anzahl von *N* zurückgeben. 
+Dieses Problem wird noch schwieriger, wenn wir bedenken das die Definition von *op* vom 
+Aufforderungssystem selbst, oder vom User, zukünftig geändert werden könnte: Sobald sich die Definition
+von *op* verändert, können neue Aufforderungen zu jedem Ausdruck, der *op* als Operator verwendet, angewendet
+werden, weil die Anzahl der erwarteten Ausgabevariablen von *op* nun nicht mehr mit den tatsächlich ausgebenen
+übereinstimmen.
 
-The previous logic also implies that if the number of receiving
-variables matches the number of output parameters of the expression's
-operator, the action of adding new receiving variables can no longer
-be performed.
+Die bisherige Logik impliziert ebenso, dass wenn die Anzahl der eingehenden Variablen gleich der Anzahl der 
+Ausgabeparameter des Operators des Ausdrucks ist, die Aktion des weiteren Hinzufügens neuer eingehender 
+Variablen nicht mehr ausgeführt werden kann.
 
-Arity restrictions also apply to input arguments in expressions, i.e.,
-if a function call has already all of its input arguments defined,
-then the affordance system should not enlist adding another argument
-as a possible action. Likewise, if an expression is trying to call an
-operator with fewer arguments than the required, the affordance
-system, when queried, should tell the programmer that adding a new
-argument to the function call is possible.
+Aritätsrestriktionen können ebenso auf Eingabeargumente von Ausdrücken angewendet werden, sprich ein 
+Funktionsaufruf hat bereits alle seine Eingabeargumente festgelegt, dann sollte das Aufforderungssystem 
+als potentielle Aktion keine weiteren Argumente zum Hinzufügen einberufen. Gleichermaßen sollte das 
+Aufforderungssystem, sofern befragt worden, dem Programmierer mitteilen, dass das Hinzufügen von neuen 
+Argumenten zum Funktionsaufruf möglich ist, sofern ein Ausdruck versucht einen Operator mit weniger als den benötigten Argumenten aufzurufen.
 
-**Example:**
+**Beispiel:**
 
-*Note: string concatenation has not been implemented yet. Also, the
-print functions always append a newline at the end of the string being
-printed. A future version of the CX implementation presented in this
-document will address these issues.*
+*Vermerk: String-Verknüpfungen wurden noch nicht implementiert. Ebenso fügt die Print-Funktion
+stets eine neue Zeile an das Ende des ausgegebenen Strings an. Eine zukünftige Version der 
+CX-Implementation, die in diesem Dokument vorgestellt wird, adressiert diese Probleme.*
 
 ```
 var age i32 = 18
@@ -152,11 +146,9 @@ func main () () {
     advance("North")
 }
 ```
-
-In the example above, the call to *advance* in the *main* function
-lacks one argument. If one queries the affordance system, the system
-should enlist, among other things, an action similar to:
-
+Im obigen Beispiel fehlt dem Aufruf von *advance* in der *main*-Funktion ein Argument. 
+Wenn man das Aufforderungssystem befragt sollte dieses, unter anderen Dingen, Aktionen, ähnlich wie 
+die Folgenden, anwerben:
 ```
 ...
 (k)       AddArgument advance age
@@ -164,58 +156,49 @@ should enlist, among other things, an action similar to:
 ...
 ```
 
-where k represents an arbitrary index. As one can see, the affordance
-system is telling the programmer that two of the possible actions that
-can be done are to add another argument to the advance function, and
-the global definitions *age* and *steps* are among the options to act
-as arguments.
+wobei k den arbiträren Index repräsentiert. Wie man erkenne kann, sagt das Aufforderungsystem dem 
+Programmierer, dass zwei der möglichen durchführbaren Aktionen, das Hinzufügen eines weiteren Arguments 
+zur advance-Funktion ist, sowie das die globalen Definitionen *age*, *steps* als mögliche Argumente in Betracht
+kommen.
 
-It is noteworthy to mention that affordances should always be
-enumerated, and their order should be constant over several calls to
-the affordance system. The reason behind this is that the programmer
-should be able to indicate the system what affordance is to be applied
-after examining the query's result.
+Es ist bemerkenswert, dass die Aufforderungen stets aufgezählt sein sollte und deren Ordnung sollte 
+konstant über mehrere Aufrufe des Aufforderungssystems bleiben. Der Grund dafür ist, dass der Programmierer
+in der Lage sein sollte dem System anzugeben, welche Aufforderung nach dem Begutachten der Befragung
+angewendet werden soll.
 
-### Type Restrictions
+### Typrestriktionen
 
-The common behaviour in programming languages is to have a typing system
-which restricts the programmer from sending arguments of unexpected
-types to function calls. Even in weakly typed programming languages,
-an operation such as `true / "hello world"` should raise an error
-(unless in the case of an
-[esoteric language](https://en.wikipedia.org/wiki/Esoteric_programming_language),
-of course). CX follows a very
-[strict typing system](#strict-typing-system), and arguments that are
-not exactly of the expected type should not be considered as
-candidates for affordances' actions (although a workaround is to wrap
-these arguments in cast functions before being shown as affordances).
+Das übliche Verhalten von Programmiersprachen ist es, ein Typisierungssystem zu haben, welches den
+Programmierer im Senden von unerwarteten Argumenten in Funktionsaufrufen einschränkt. 
+Selbst in schwach-typisierten Programmiersprachen verursachen Operationen wie `true / "hello world"`
+einen Error (außer natürlich im Falle einer [esoterischen Sprache](https://en.wikipedia.org/wiki/Esoteric_programming_language)). CX befolgt ein sehr 
+[striktes Typisierungssystem](#strict-typing-system) und Argumente, welche nicht exakt dem erwarteten
+Typen entsprechen, sollten nicht als Kandidaten für die Aufforderungsaktionen betrachtet werden (obwohl
+ein Workaround wäre, diese Argumente in Cast-Funktionen einzuhüllen, bevor sie dem Aufforderungssystem
+gezeigt werden).
 
-Type restrictions must also be considered when assigning a new value
-to an already existant variable. In CX, a variable declared of a
-certain type must remain of that type during all of its lifetime
-(unless it is removed using meta-programming commands/functions and
-created anew). Thus, a variable declared to hold a 32 bit integer should not
-be considered as a candidate to receive a 64 bit float output
-argument, for example.
+Typrestriktionen müssen auch beim Zuweisen eines neuen Wertes zu einer bereits existierenden Variable
+bedacht werden. In CX muss eine Variable, die mit einem bestimmten Typ deklariert wurde, diesen Typ 
+während ihrer gesamten Lebenszeit behalten (solange dieser nicht mittels meta-programmierungs Kommandos/
+Funktionen entfernt wird und erneut deklariert wird). Deshalb sollte eine, als 32-Bit Integer deklarierte 
+Variable nicht als Kandidat für das Erhalten eines 64-Bit Float Ausgabewerts in Betracht bezogen werden. 
 
-### Existential Restrictions
+### Existentialrestriktionen 
 
-This type of restriction can seem trivial at first sight: if an
-element does not exist, an affordance that involves it should not
-exist either. Nevertheless, this restriction becomes a challenge once
-we consider a situation where a function was renamed, and it has
-already been used as an operator in expressions throughout a
-program. If the program is in its source code form, this problem is
-reduced to a simple "search & replace" process, but if it's during
-runtime, the affordance system becomes very useful: an affordance
-to change the identifier bound to this operator.
+Dieser Typ von Restriktionen kann auf den ersten Blick trivial erscheinen: Wenn ein Element nicht 
+existiert, sollte eine Aufforderung, die des involviert, ebenso nicht existieren. Nichtsdestotrotz 
+wird diese Restriktion zur Herausforderung, wenn wir eine Situation in Betracht ziehen, in der eine
+Funktion umbenannt wurde und durchgehend durch ein Programm bereits als Operator in Ausdrücken 
+verwendet wurde. Wenn das Programm in der Form seines Quellcodes ist, wird dieses Problem auf ein 
+einfaches "Suchen & Ersetzen"-Problem reduziert, aber während der Laufzeit wird das Aufforderungssystem
+sehr nützlich: Eine Aufforderung um die an diesen Operator gebundene Bezeichnung zu ändern.
 
-Even if an element has not be renamed, determining if an element
-exists or not is not trivial. The elements to be used in affordances
-must be searched in the call stack's current scope, in the global
-scope, and in other modules' global scopes.
+Selbst wenn ein Element nicht umbenannt worden ist, ist das Bestimmen, ob ein Element existiert
+oder nicht keinesfall trivial. Die in den Aufforderungen zu verwendenen Elemente müssen auf dem 
+Aufrufsstack gesucht werden und zwar innerhalb des aktuellen Scopes, des globalen Scopes und im 
+Scope anderer Module.
 
-### Identifier Restrictions
+### Bezeichnerrestriktionen
 
 Adding new named elements are commonly candidate actions for affordances. A
 restriction that arises when trying to apply such type of affordance
