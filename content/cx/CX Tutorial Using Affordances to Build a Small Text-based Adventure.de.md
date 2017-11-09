@@ -1,5 +1,5 @@
 +++
-title = "CX-Tutorial: Aufforderungen nutzen um ein kleines textbasiertes Adventure zu erschaffen"
+title = "CX-Tutorial: Affordanzen nutzen um ein kleines textbasiertes Adventure zu erschaffen"
 tags = [
     "CX",
     "CX Tutorials",
@@ -16,7 +16,7 @@ categories = [
 
 - [Einführung](#introduction)
 - [anforderungsreagierende Architektur](#challenge-response-architecture)
-- [Aufforderungssystem](#affordance-system)
+- [Affordanzsystem](#affordance-system)
 - [Objekte](#objects)
 - [Fazit](#conclusion)
 
@@ -90,10 +90,10 @@ func kampfErgebnis (flag bool) () {}
 func dasEnde (flag bool) () {}
 ```
 
-# Aufforderungssystem
+# Affordanzsystem
 
 Eine weitere Funktion muss die Funktionsaufrufe koordinieren. In diesem Fall wird das 
-CX Aufforderungssystem dazu verwendet, um zu bestimmen, ob es erlaubt ist eine Aktion 
+CX Affordanzsystem dazu verwendet, um zu bestimmen, ob es erlaubt ist eine Aktion 
 auszuführen, oder nicht.
 
 ```
@@ -107,10 +107,10 @@ laufen(falsch)
 ```
 
 Im obigen Code sucht *remArg()* nach einem Ausdruck mit dem "laufen"-Tag und entfernt dessen Argument. 
-Dies wird getan, damit das Aufforderungssystem die Argumente, welche zum Ausdrucksoperator gesendet werden 
+Dies wird getan, damit das Affordanzsystem die Argumente, welche zum Ausdrucksoperator gesendet werden 
 können, auflistet. Danach sagt *affExpr()* CX, "unter allen Argumenten, die an *laufen* gesendet werden 
 können, können *ja* oder *nein* als Argumente verwendet werden und wende die 
-*0th*-Option der Aufforderungssystemliste, die du zurückerhälst, an."
+*0th*-Option der Affordanzsystemliste, die du zurückerhälst, an."
 
 Die vorherige Prozedur wird auf alle Aktionen, die während des Abenteuers des 
 Reisenden auftreten können, angewendet. Für jede dieser Aktionen werden die folgenden Regeln
@@ -136,7 +136,7 @@ setzeKlauseln("
 Die erste Regel kann gelesen werden, als "Ich werde befragt, wenn du überlegst mir ein *ja* Argument für die 
 *laufen*-Aktion zu senden. Wenn das Objekt *monster* präsent ist, ist dieses Argument *nicht* eine Option."
 
-Die Regeln im zweiten Block (die vier Regeln nach der ersten Leerzeile) sagen dem Aufforderungssystem "niemals" *ja* 
+Die Regeln im zweiten Block (die vier Regeln nach der ersten Leerzeile) sagen dem Affordanzsystem "niemals" *ja* 
 als Argument zu akzeptieren. Wir machen dies, weil wir das als Standardverhalten haben möchten, aber wir können später
 Regeln aufstellen, die dieses Verhalten überschreiben. Dieses Überschreiben passiert in den letzten vier Regeln.
 Im Prinzip sagt dieser Regelblock CX, *ja* als Argument zu akzeptieren, wenn ein bestimmtes Objekt im Objektstapel 
@@ -156,8 +156,8 @@ das "kampf"-Objekt entfernt (da das Monster den Kampf noch nicht beginnen möcht
 
 # Fazit
 
-Das CX Aufforderungssystem nutzt Objekte und Regeln um komplexe Entscheidungen darüber zu treffen,
-wie Aufforderungen gefiltert werden sollen.
+Das CX Affordanzsystem nutzt Objekte und Regeln um komplexe Entscheidungen darüber zu treffen,
+wie Affordanzen gefiltert werden sollen.
 
 Indem Objekte verwendet werden können wir entscheiden, welche Aktionen aktiviert oder deaktiviert
 werden sollen. Für dieses Beispiel wurden eine kleine Menge an Aktionen für den 
