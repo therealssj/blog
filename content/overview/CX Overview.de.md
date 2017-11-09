@@ -318,23 +318,20 @@ Compiler bereitzustellen. Ein interpretiertes Programm ist, wie zu erwarten, wes
 Gegenstück, aber erlaubt ein flexibleres Programm. Diese Flexibilität kommt von den Meta-Programmier-Funktionen und
 Affordanzen, welche die Programmstruktur während der Laufzeit beeinflussen können.
 
-A compiled program needs a more rigid structure than an interpreted
-program, as many of the optimizations leverage this rigidity. As a
-consequence, the affordance system and any function that operates over
-the program's structure will be limited in functionality in a compiled
-program.
+Ein kompiliertes Programm benötigt eine starrere Struktur als ein interpretiertes, da für viele der Optimisierungen 
+diese Starrheit wirksam verwendet wird. Die Konsequenz daraus ist, dass das Affordanzsystem und jede Funktion, welche
+auf der Programmstruktur operiert, limiert wird, auf die Funktionalitäten bei einem kompilierten Programm. 
 
-The compiler should be used when performance is the biggest concern,
-while a program should remain being interpreted when the programmer
-requires all the flexibility provided by the CX features. In the
-following subsections, some of these features are presented, without
-the aim of serving as a tutorial, but rather as a mere introduction.
+Der Compiler sollte verwendet werden, wenn die Performance das größte Anliegen ist, während ein Programm interpretiert
+bleiben sollte, wenn der Programmier die bereitgestellte Flexibilität der CX-Features benötigt. In den folgenden
+Unterabschnitten werden einige dieser Features vorgestellt, jedoch ohne das Ziel als Tutorial zu dienen, sondern nur als
+eine Vorstellung.
 
-### Read-Eval-Print Loop
+### Lesen-Evaluieren-Ausgeben Schleife (Read-Eval-Print Loop)
 
-The read-eval-print loop (REPL) is an interactive tool where a
-programmer can input new program elements and evaluate them. Starting
-a new REPL session will print the following messages to the console:
+Die Lesen-Evaluieren-Ausgeben Schleife (REPL) ist ein interaktives Tool, in dem der Programmierer neue 
+Programmelemente eingeben und evaluieren kann. Eine neue REPL-Sitzung wird die folgenden Nachrichten
+auf der Konsole ausgeben:
 
 ```
 CX REPL
@@ -343,9 +340,8 @@ More information about CX is available at https://github.com/skycoin/cx
 *
 ```
 
-The "*" tells the programmer that the REPL is ready to receive a new
-line of code. The REPL will keep reading input from the user until a
-semicolon and a new line character are encountered.
+Der "*" sagt dem Programmierer, dass REPL bereit ist eine neue Zeile Code zu empfangen. Die REPL 
+wird bis zur Eingabe eines Semicolos und einer Zeilenvorschubzeile die Eingabe des Users lesen. 
 
 If no program was initially loaded into the REPL, CX will start with
 an empty program. This can be seen if the `:dProgram true;`
