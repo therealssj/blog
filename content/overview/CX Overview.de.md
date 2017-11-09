@@ -25,8 +25,8 @@ categories = [
 - [Striktes Typisierungssystem](#strict-typing-system)
 - [Kompiliert und Interpretiert](#compiled-and-interpreted)
     - [Lesen-Evaluieren-Ausgeben Schleife](#read-eval-print-loop)
-    - [Meta-Programmierung Kommandos](#meta-programming-commands)
-    - [Stufung](#stepping)
+    - [Meta-Programmierbefehle](#meta-programming-commands)
+    - [Stepping](#stepping)
     - [Interaktives Debugging](#interactive-debugging)
 - [Integrierte evolutionäre Algorithmen](#integrated-evolutionary-algorithm)
 - [Serialisierung](#serialization)
@@ -179,8 +179,8 @@ gezeigt werden).
 
 Typrestriktionen müssen auch beim Zuweisen eines neuen Wertes zu einer bereits existierenden Variable
 bedacht werden. In CX muss eine Variable, die mit einem bestimmten Typ deklariert wurde, diesen Typ 
-während ihrer gesamten Lebenszeit behalten (solange dieser nicht mittels meta-programmierungs Kommandos/
-Funktionen entfernt wird und erneut deklariert wird). Deshalb sollte eine, als 32-Bit Integer deklarierte 
+während ihrer gesamten Lebenszeit behalten (solange dieser nicht mittels Meta-Programmierbefehlen/
+funktionen entfernt wird und erneut deklariert wird). Deshalb sollte eine, als 32-Bit Integer deklarierte 
 Variable nicht als Kandidat für das Erhalten eines 64-Bit Float Ausgabewerts in Betracht bezogen werden. 
 
 ### Existentialrestriktionen 
@@ -315,7 +315,7 @@ Zum Beispiel, `byteAToStr` castet ein Byte-Array zu einem String und `i32ToF32` 
 
 Die CX-Spezifikation schreibt einen CX-Dialekt vor, um dem Entwickler zugleich einen Interpreter und einen
 Compiler bereitzustellen. Ein interpretiertes Programm ist, wie zu erwarten, wesentlich langsamer als sein kompiliertes 
-Gegenstück, aber erlaubt ein flexibleres Programm. Diese Flexibilität kommt von den Meta-Programmier-Funktionen und
+Gegenstück, aber erlaubt ein flexibleres Programm. Diese Flexibilität kommt von den Meta-Programmierfunktionen und
 Affordanzen, welche die Programmstruktur während der Laufzeit beeinflussen können.
 
 Ein kompiliertes Programm benötigt eine starrere Struktur als ein interpretiertes, da für viele der Optimisierungen 
@@ -343,9 +343,8 @@ More information about CX is available at https://github.com/skycoin/cx
 Der "*" sagt dem Programmierer, dass REPL bereit ist eine neue Zeile Code zu empfangen. Die REPL 
 wird bis zur Eingabe eines Semicolos und einer Zeilenvorschubzeile die Eingabe des Users lesen. 
 
-If no program was initially loaded into the REPL, CX will start with
-an empty program. This can be seen if the `:dProgram true;`
-meta-programming command is given as input:
+Wenn kein Programm anfänglich in die REPL geladen wurde, wird CX mit einem leeren Programm starten. 
+Dies kann erkannt werden, wenn der `:dProgram true;` Meta-Programmierbefehle als Eingabe gegeben ist:
 
 
 ```
@@ -355,11 +354,10 @@ Program
 *
 ```
 
-The REPL is only printing the word "Program" followed by an empty
-line. As a first step, a new module and function can be declared:
+Die REPL gibt nur das Word "Program" aus, gefolgt von einer leeren Zeile.
+Als einen ersten Schritt können ein neues Modul und eine Funktion deklariert werden:
 
-As the first steps, a new *main* module and a new *main* function
-should be declared:
+Als erste Schritte sollten einen neues *main*-Modul und eine neue *main*-Funktion deklariert werden:
 
 ```
 * package main;
@@ -375,62 +373,48 @@ Program
 *
 ```
 
-As can be seen, the program structure is being printed every time a
-new element is added to the program.
+Wie gesehen kann, wird die Programmstruktur jedesmal ausgegeben, wenn dem Programm ein neues Element 
+hinzugefügt wird.
 
-### Meta-programming Commands
+### Meta-Programmierbefehle
 
-`:dProgram` was used in the subsection above. Any statement that
-starts with a colon (:) is part of a category of instructions known as
-"meta-programming commands."
+`:dProgram` wurde im obigen Unterabschnitt verwendet. Jedes Statement, dass mit einem Doppelpunkt (:) beginnt,
+ist ein Teil der Kategorie der Instruktionen, bekannt als "Meta-Programmierbefehle".
 
-Declaring elements in the REPL instructs CX to add them to the
-program's structure. But, as in many other programming languages,
-these declarations are limited to only be added, and at most be
-redefined.
+Elemente in der REPL zu deklarieren instruiert CX, diese zu der Programmstruktur hinzuzufügen. Aber wie in vielen
+anderen Programmiersprachen auch, sind diese Deklarationen limitiert darauf hinzugefügt zu werden, bestenfalls werden sie 
+neu definiert.
 
-But, as in many other programming languages that provide a REPL, the
-programmer is limited to adding new elements to a program and, at
-most, redefining elements. Meta-programming commands allow the
-programmer to be in more control on how the program's structure is
-being modified.
+Wie aber in vielen anderen Programmiersprachen die eine REPL bereitstellen ist auch hier der Programmierer darauf limitiert,
+einem Programm neue Elemente hinzuzufügen und höchstenfalls Elemente neu zu definieren. Meta-Programmierbefehle erlauben 
+es dem Programmierer, bessere Kontrolle, über die Art und Weise wie die Programmstruktur modifiziert wird, zu haben.
 
-`:dProgram`, `:dState`, and `:dStack` are used for
-debugging purposes only, by printing the program's structure, the
-current call's state, and the full call stack to the user,
-respectively. `:step` instructs the interpreter to go forward or
-backward in its execution. `:package`, `:func`, and `:struct`, known
-as *selectors*, are used to change the program's scope. `:rem` gives
-the programmer access to *removers*, which can be used to selectively
-remove elements from a program's structure. `:aff` is used to access
-CX's affordance system; this meta-programming command is used to both
-query and apply affordances for the different elements of a
-program. Lastly, `:clauses` is used to set a module's clauses to be used by the
-[user-defined restrictions system](#user-defined-restrictions);
-`:object` and `:objects` are used for adding and printing objects,
-respectively; and the last two meta-programming commands: `:query`,
-which is used for setting the module's query, and `:dQuery` which is a
-helper for debugging the user-defined restrictions.
+`:dProgram`, `:dState`, und `:dStack` werden ausschließlich für Debugging-Zwecke verwendet, durch die Ausgabe in folgender 
+Reihenfolge von, der Programmstruktur, dem aktuellen Befehlsaufrufszustand und dem vollen Aufrufsstack des Users.
+`:step` instruiert den Interpreter einen Schritt vorwärts oder rückwärts in seiner Ausführung zu gehen. `:package`, `:func` 
+und `:struct`, bekannt als *selectors* (Selektoren), werden verwendet um den Scope des Programms zu ändern. `:rem` gibt 
+dem Programmierer Zugriff auf die *removers* (Entferner), welche verwendet werden können, um selektiv Elemente aus der
+Programmstruktur zu entfernen. Zuletzt die `:clauses` (Klauseln), welche verwendet werden um die Klauseln eines Moduls
+zu setzen, die von dem [userdefinierten Restriktionssystem](#user-defined-restrictions) verwendet werden; `:object` und 
+`:objects` werden in dieser Reihenfolge für das Hinzufügen und Ausgeben von Objekten verwendet; die letzten beiden 
+Meta-Programmierbefehle `:query`, welches für das Konfigurieren der Anfragen des Moduls verwendet wird und `:dQuery`, welches ein Helfer für das Debuggen der userdefinierten Restriktionen ist.
 
-### Stepping
+### Stepping (Stufung)
 
-A program started in REPL mode can be initialized with a program
-structure defined in a source file. For example:
-current directory
+Ein Programm, das im REPL-Modus gestartet wurde, kann mit einer in einer Quelldatei definierten Programmstruktur
+initialisiert werden. Zum Beispiel_
+Aktuelles Verzeichnis
 
 ```
 $ ./cx --load examples/looping.cx
 
 ```
 
-loads `looping.cx` from the examples directory (the full list of
-examples can be found in the
-[project's repository](https://github.com/skycoin/cx)). Even though a
-program has been loaded, it has not yet been executed. In the REPL, in
-order to execute a program one has to use the meta-programming command
-`:step`. To run a program until the end, `:step 0;` must be used. But
-`:step` is interesting because it can take other integers as its
-argument (even negative integers). For example:
+lädt `looping.cx` aus dem Beispieleverzeichnis (die volle Liste von Beispielen kann im 
+[Projekt Repository](https://github.com/skycoin/cx) gefunden werden). Auch wenn ein Programm geladen wurde, wurde 
+es noch nicht ausgeführt. In der REPL muss man um ein Programm auszuführen, den Meta-Programmierbefehl `:step` verwenden.
+Um ein Programm bis zum Ende durchlaufen zu lassen, muss `:step 0` verwendet werden. `:step` ist jedoch interessant,
+denn es kann auch andere Integer als Argument erhalten (sogar negative Interger). Zum Beispiel:
 
 ```
 CX REPL
@@ -472,21 +456,17 @@ Likewise, we should "go back in time" if the REPL is instructed to
 *
 ```
 
-After instructing CX to advance 5 steps again, the 2 is printed again
-to the console. It must be noted that the counter is not just being
-assigned with a different value. What is happening is that the call
-stack is being reverted to a previous state.
+Nachdem CX instruiert wurde weitere 5 Schritte zu machen, wird die 2 auf der Konsole ausgegeben.
+Es muss beachtet werden, dass der Zählen nicht nur mit einem anderen Wert belegt wird. Was ist passiert ist,
+dass der Aufrufsstack auf seinen vorherigen Zustand umgekehrt wird.
 
-### Interactive Debugging
+### Interaktives Debugging
 
-A CX program will enter the REPL mode once an error has been
-found. This behaviour gives the programmer the opportunity to debug
-the program before attempting to resume its execution.
+Ein CX-Programmier wird den REPL-Modus betreten, sobald ein Error gefunden wurde. Dieses Verhalten gibt dem 
+Programmierer die Möglichkeit, dass Programm zu debuggen, bevor versucht wird seine Ausführung fortzusetzen.
 
-In the example below, a division by 0 error is raised, the REPL alerts
-the programmer about the error, the last call in the call stack is
-dumped, and the REPL continues its execution.
-
+Im Beispiel unten wird ein Error wegen der Division mit 0 erhoben, die REPL alarmiert den Programmierer über 
+den Error, der letzte Aufruf des Aufrufsstack wird gedumpt und die REPL führt mit der Ausführung fort.
 
 ```
 CX REPL
@@ -522,11 +502,11 @@ main
 :func main {...
 	*
 ```
-
-Likewise, if a program is given as input to the CX interpreter,
-without calling the REPL, but an error is raised, the REPL will be
-called for the programmer or system administrator to debug the
-program:
+Gleichermaßen wird, wenn bei einem gegebenen Input eines Programmes an den CX-Interpreter, ohne den Aufruf
+der REPL aber mit dem Erheben eines Errors, die REPL für den Programmierer/Systemadmin aufgerufen, 
+um das Programm zu debuggen.
+Gleichermaßen wird, wenn der CX-Interpreter bei einem gegeben Programm als Input einen Error erhebt, ohne dass die REPL 
+aufgerufen wurde, diese für ihn (oder den Systemadmin) gestartet, um das Programm zu debuggen.
 
 ```
 $ ./cx examples/program-halt.cx
@@ -547,48 +527,41 @@ More information about CX is available at https://github.com/skycoin/cx
 *
 ```
 
-# Integrated Evolutionary Algorithm
+# Integrierte evolutionäre Algorithmen
 
-The affordance system and meta-programming functions in CX allow the
-flexibility of changing the program's structure in a supervised
-manner. However, affordances can still be automated by having a
-function that selects the index of the affordance to be applied.
+Das Affordanzsystem und die Meta-Programmierfunktionen von CX erlauben 
+die Flexibilität die Programmstruktur auf eine beaufsichtigte Weise
+zu ändern. Allerdings können Affordanzen trotzdem automatisiert werden,
+indem eine Funktion den Index der zu verwendenen Affordanz auswählt.
 
-`evolve` is a native function that constructs user-defined functions
-by using random affordances. An iterative process is used to test
+`evolve` ist eine systemeigenen Funktion, welche user-definierte Funktionen
+konstruiert, indem zufällige Affordanzen verwendet werden. Ein iterativer
+Prozess wird für das Testen verwendet.
 
-`evolve` follows the principles of evolutionary computation. In
-particular, evolve performs a technique called genetic
-programming. Genetic programming tries to find a combination of
-operators and arguments that will solve a problem. For example, you
-could instruct `evolve` to find a combination of operators that, when
-sent 10 as an argument, returns 20. This might sound trivial, but
-genetic programming and other evolutionary algorithms can solve very
-complicated problems.
+`evolve` befolgt die Prinzipien der evolutionären Berechnung. Im speziellen führt
+evole eine Technik durch, welches genetisches Programmieren genannt wird. 
+Genetisches Programmieren versucht die Kombination für Operatoren und Argumente
+zu finden, welche ein Problem lösen. Zum Beispiel kann man `evolve` instruieren 
+die Kombination von Operatoren zu finden, welche bei 10 als gegebenem Argument,
+20 ausgibt. Dies mag trivial klingen, aber genetische Programmierung und andere 
+evolutionäre Algorithmen können sehr schwere Probleme lösen.
 
-In the *examples* directory from the repository, one can find an
-example (*examples/evolving-a-function.cx*) that describes the process for
-evolving a
-[curve-fitting](https://en.wikipedia.org/wiki/Curve_fitting) function.
+Im dem *examples*-Verzeichnis des Repositorys kann man ein Beispiel (*examples/evolving-a-function.cx*)
+finden, dass den Prozess eines [Curve-Fitting](https://en.wikipedia.org/wiki/Curve_fitting) beschreibt.
 
-# Serialization
+# Serialisierung
 
-A program in CX can be partially or fully serialized to a byte
-array. This serialization capability allows a program to create a
-program image (similar to
-[system images](#https://en.wikipedia.org/wiki/System_image)), where
-the exact state at which the program was serialized is
-maintained. This means that a serialized program can be deserialized,
-and resume its execution later on. Serialiation can also be used to
-create backups.
+Ein Programm in CX kann teilweise oder vollständig zu einem Byte-Array serialisiert werden. 
+Die Serialisierung erlaubt es dem Programm ein Abbild des Programms zu erstellen (ähnlich wie bei
+[Systemabbilder](#https://en.wikipedia.org/wiki/System_image)), in dem der exakte Zustand des 
+Programms zum Zeitpunkt der Serialisierung erhalten bleibt. Dies bedeutet, dass ein serialisiertes
+Programm deserialisiert werden kann und seine Ausführung zu einem späteren Zeitpunkt fortführen kann. 
+Serialisierung kann ebenso für das Erstellen von Sicherungen (Backups) verwendet werden.
 
-A CX program can leverage its integrated features to create some
-interesting scenarios. For example, a program can be serialized to
-create a backup of itself, and start an
-[evolutionary algorithm](#integrated-evolutionary-algorithm) on one of
-its functions. If the evolutionary algorithm finds a function that
-performs better than the previous definition, one can keep this new
-version of the program. However, if the evolutionary algorithm
-performed badly, the program can be restored to the saved backup. All
-of these tasks can be automated.
-
+Ein CX-Programm kann seine integrierten Features einsetzen, um interessante Szenarien zu erschaffen.
+Zum Beispiel kann ein Programm serialisiert werden, um eine Sicherung von sich selbst zu schaffen 
+und einen [evolutionären Algorithmus](#integrated-evolutionary-algorithm) auf einer seiner Funktionen
+zu starten. Wenn der evolutionäre Algorithmus eine Funktion findet, die besser performed als die
+vorherige Definition, kann man diese neue Version des Programms behalten. Hingegen wenn der evolutionäre
+Algorithmus schlecht performed, kann das Programm aus dem gesicherten Abbild wiederhergestellt werden. 
+All diese Arbeitsschritte können automatisiert werden.
