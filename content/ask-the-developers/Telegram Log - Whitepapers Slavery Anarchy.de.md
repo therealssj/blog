@@ -322,13 +322,13 @@ die Unterdrückung durch die Regierung in den Neunzigern.
 
 **Vadim 🛌**
 
-Ich finde es seltsam, dass die Leute über die Anonymität der in Kryptographie Interessierten überrascht sind.
+Ich finde es seltsam, dass die Leute von der Anonymität, der in Kryptographie Interessierten, überrascht sind.
 
 **Artem Kotelskiy**
 
 Ich halte nichts von gegenseitigen Geheimhaltungsvereinbarungen(NDA).
 
-Ich glaube, dass kompetente Leute niemals NDAs unterschreiben würden. 
+Ich glaubte, dass kompetente Leute niemals NDAs unterschreiben würden. 
 
 Offensichtlich lag ich in meiner Annahme falsch. 
 
@@ -342,7 +342,7 @@ Eure Entwickler und Wissenschaftler sind also besorgt um ihr Geld und ihr (vermu
 
 Was für eine Welt. 
 
-Sie vergessen, dass ALLE professionellen Mathematiker und Kryptographen entweder für das Militär oder die Regierung arbeiten.
+Sie vergessen, dass ALLE professionellen Mathematiker und Kryptographen entweder für das Militär, oder die Regierung arbeiten.
 
 **Synth** *[Antwort an Artem Kotelskiy]*
 
@@ -350,9 +350,9 @@ Jeder der bei Google arbeitet oder einem anderen der Fortune 500. Wir haben Comm
 
 **Artem Kotelskiy**
 
-Die einzige Sache wie ich glaube, über die ein professioneller Wissenschaftler besorgt ist, ist die Sicherheit. 
+Die Sichheit ist die einzige Sache, wie ich glaube, welche professionelle Wissenschaftler bekümmert.
 
-Ja, ich glaube nur nicht das Google/Amazon derart großartige Unternehmen sind. 
+Ja, ich glaube nur nicht, dass Google/Amazon derart großartige Unternehmen sind. 
 
 Jedoch sind die Mitarbeiter durchaus kompetent.
 
@@ -378,7 +378,7 @@ Traurig.
 
 Außerdem funktioniert die USA so, dass selbst veröffentlichte Informationen/Forschungsergebnisse der Geheimhaltung unterliegen. 
 
-Wenn also eine Person ein Stipendium erhält oder durch Subventionen der Regierung unterstützt wird und an Source Routing oder ähnlichem gearbeitet hat und dies anschließend veröffentlicht wird, so obliegt diese Person immernoch der gesetzlichen Haftung, wenn die Information/Forschungsergebnis in späteren Projekten verwendet wird.
+Wenn also eine Person ein Stipendium erhält oder durch Subventionen der Regierung unterstützt wird und an Source Routing oder ähnlichem gearbeitet hat und dies anschließend veröffentlicht wird, so obliegt diese Person immernoch der gesetzlichen Haftung, wenn die Technologie in späteren Projekten verwendet wird.
 
 Wenn sie während der Entwicklung der Algorithmen an einer Universität tätig waren, dann kann die Universität ihre geistigen Besitzansprüche geltend machen. 
 
@@ -388,7 +388,7 @@ Jeder, der in den USA lebt, wird also von Anwälten terrorisiert.
 
 Ich verstehe. Schwer zu glauben, dass es Universitäten in den USA gibt, welche solche geistigen Besitzansprüche geltend machen würden.
 
-Aber ich stehe immernoch zu meinem Argument: Ich finde, dass es auf eurer Website erklärt werden sollte warum die Entwickler geheim sind.
+Aber ich stehe immernoch zu meinem Argument: Ich finde, dass auf eurer Website erklärt werden sollte, warum die Entwickler unbekannt sind.
 
 **Synth**
 
@@ -400,7 +400,7 @@ Ah, aber das würde doch Aufmerksamkeit erregen?
 
 **Artem Kotelskiy** *[Antwort an Synth]*
 
-Könntest du einen Link schicken oder einige Stichworte von Fällen, bezüglich der geistigen Besitzansprüche, nennen ? 
+Könntest du einen Link schicken oder einige Stichworte von Fällen, bezüglich der geistigen Besitzansprüche, nennen? 
 
 Google und Cisco sind Unternehmen.
 
@@ -410,8 +410,7 @@ Sie sind nicht geheim. Die Leute sind nur zu dumm um auf Github zu schauen.
 
 Bei Skycoin geht es nicht darum wer den tollsten Entwickler in seinem Beratungsausschuss(advisory board) hat.
 
-Die Website dreht sich um den Coin und um die Technologie. 
-Wir glauben nicht an Beratungsausschüsse oder populäre CEO-Schwanzvergleiche.
+Die Website dreht sich um den Coin und um die Technologie. Wir glauben nicht an Beratungsausschüsse oder populäre CEO-Schwanzvergleiche.
 
 **Artem Kotelskiy**
 
@@ -428,23 +427,23 @@ Aber hier ist eine simple Sache.
 
 Ich mag das Projekt. 
 
-Die Zukunft der Projekts ist vollständig in Hand der Entwickler. 
+Die Zukunft des Projekts liegt vollständig in der Hand der Entwickler. 
 
-Es würde also helfen zu wissen wer sie sind, was ihre Werte und Überzeugungen sind um zu entscheiden, 
+Es würde also helfen zu wissen wer sie sind und was sie für ihre Werte und Überzeugungen haben, um zu entscheiden, 
 ob ich lediglich Skycoin-Besitzer sein werde, oder sogar einen Skycoin-node betreiben werde. 
 
-Aber ich versteh es schon, du meinst, dass Code und Abwicklung für sich selbst sprechen, das ist in Ordnung.
+Aber ich versteh schon, du meinst, dass Code und Ausführung für sich selbst sprechen, das ist in Ordnung.
 
 **Synth**
 
 Geh du los und dox dich selbst, liefer all deine Dokumente deiner Regierung und 
-bezahle deine Steuern der Zentralbank die dich besitzt. Menschliches Vieh bitte antreten zur Strichkodierung.
+bezahle deine Steuern an die Zentralbank die dich besitzt. Menschliches Vieh bitte antreten zur Strichkodierung.
 
-Das ist der exakte Gegensatz weshalb Bitcoin geschaffen wurde.
+Das ist der exakte Gegensatz des Grunds, aus dem Bitcoin geschaffen wurde.
 
 **Artem Kotelskiy**
 
-Ja also, es gibt verschiedene Stufen ein Krypto-Anarchist zu sein.
+Nun ja, es gibt verschiedene Stufen ein Krypto-Anarchist zu sein.
 
 **Vadim 🛌**
 
@@ -472,8 +471,8 @@ Sklaverei oder Freiheit. Es gibt keine Abstufungen.
 
 **Artem Kotelskiy**
 
-Ich verstehe. Der nächste Diskussionspunkt wäre alos zu erörtern, ob die Regierung gut oder böse ist(sagen wir mal die US-Regierung). 
-Ich weiß das ich diese Diskussion verlieren würde, also lassen wir das. Ich verstehe deinen Blickwinkel vollstens. 
+Ich verstehe. Der nächste Diskussionspunkt wäre also zu erörtern, ob die Regierung gut oder böse ist (sagen wir mal die US-Regierung). 
+Ich weiß, dass ich diese Diskussion verlieren würde, also lassen wir das. Ich verstehe deinen Blickwinkel vollstens. 
 Er unterscheidet sich von meinem dahingegen, dass ich mehr an die Güte glaube und das es ein Spektrum an Freiheitsgraden gibt. 
 Es könnte aber sein, dass ich einfach nur jung und unerfahren bin.
 
@@ -481,9 +480,9 @@ Es könnte aber sein, dass ich einfach nur jung und unerfahren bin.
 
 "Freiheit zu Pornos zu masturbieren", "Freiheit Marihuana zu rauchen", "Freiheit Anal-Sex zu haben", "Freiheit sich Heroin zu spritzen", "Freiheit in der freien Marktwirtschaft herumzulaufen und für jemand anderen Geldes wie ein Sklave zu schuften", "Freiheit zu Shoppen!".
 
-Sklaverei bezieht sich nicht darauf Sklave zu sein oder frei zu sein. Es dreht sich darum entweder unabhängig(frei) oder abhängig(Sklave) zu sein.
+Sklaverei bezieht sich nicht darauf Sklave zu sein oder frei zu sein. Es dreht sich darum entweder unabhängig (frei) oder abhängig (Sklave) zu sein.
 
-Zuerst macht man Leute aus überlebensgründen abhängig, danach gibt man ihnen gefakte "Freiheiten" damit es zu keiner Revolte kommt. Das ist der Weg wie man eine Gesellschaft in ein Arbeitslager verwandelt - man gebe ihnen genug freie Pornos, Prozac und Zoloft bis man stubenreine "glückliche Sklaven" hat, welche sich eine Alternative nicht einmal mehr vorstellen können.
+Zuerst macht man Leute aus Überlebensgründen abhängig, danach gibt man ihnen gefakte "Freiheiten" damit es zu keiner Revolte kommt. Das ist der Weg wie man eine Gesellschaft in ein Arbeitslager verwandelt - man gebe ihnen genug freie Pornos, Prozac und Zoloft bis man stubenreine "glückliche Sklaven" hat, welche sich eine Alternative nicht einmal mehr vorstellen können.
 
 Sieh dir an wie frei diese Leute sind mit ihren $750.000 Schulden ihres Studienkredits, welchen sie nicht abzahlen werden bis sie tot sind! Lol. Es ist der reinste Hohn.
 
@@ -493,7 +492,7 @@ Jeder trifft seine eigene Entscheidungen.
 
 Manche Leute bauen ihr Essen selbst an und leben davon. 
 
-Ich komme aus einem Land, indem die Hälfte der Bevölkerung auf diese Art und Weise lebt und es ist in Ordnung. 
+Ich komme aus einem Land, indem die Hälfte der Bevölkerung auf diese Art und Weise lebt und es läuft gut. 
 
 Ich denke, wenn jemand wirklich frei sein möchte, dann kann er das sein.
 
@@ -507,7 +506,7 @@ Nein, es ist nicht so leicht zu erraten.
 
 **Synth**
 
-Jeder der kein Sklave sein möchte ist jetzt plötzlich ein Anarchist ? Lol.
+Jeder der kein Sklave sein möchte, ist jetzt plötzlich ein Anarchist ? Lol.
 
 "Whoa. Whoa. Whoa. Ich möchte kein Anarchist sein. Ich meine, ein bisschen Sklaverei ist in Ordnung, aber der Gebieter sollte etwas netter zu den Sklaven sein." Lol.
 
@@ -527,13 +526,13 @@ An bedeutet ohne.
 
 Archon bedeutet "Meister" oder "Herrscher". 
 
-Anarchie bedeutet demnach "ohne Meister" oder ohne Herrscher. All diese Wörter werden in ihrer Aussage verdreht um die Öffentlichkeit und die Ungebildeten zu verspotten.
+Anarchie bedeutet demnach "ohne Meister" oder ohne Herrscher. All diese Wörter werden in ihrer Aussage verdreht, um die Öffentlichkeit und die Ungebildeten zu verspotten.
 
 **Artem Kotelskiy**
 
 Wie auch immer. 
 
-Bleibt dran mit Skycoin, ich hoffe inständig das Skycoin es mehr Menschen ermöglicht keinem Herrscher zu unterstehen.
+Bleibt dran mit Skycoin, ich hoffe inständig, dass Skycoin es mehr Menschen ermöglicht keinem Herrscher zu unterstehen.
 
 **Artem Kotelskiy** *[Antwort an Synth]*
 
@@ -549,13 +548,11 @@ Lol.
 
 **Synth** *[Antwort an Artem Kotelskiy]*
 
-
 Nein, das Problem ist die menschliche Natur. 
 
-Man kann keine Sklaven befreien. Sie werden schlichtweg und ergreifend einen anderen Meister finden. Sie haben sich dafür entschieden Sklaven zu sein. Sie wollen nur einen Sklaventreiber mit einer angenehmeren Peitsche haben. 
+Man kann keine Sklaven befreien. Sie werden schlichtweg und ergreifend einen anderen Meister finden. Sie *wollen* und haben sich dafür entschieden Sklaven zu sein. Sie möchten nur einen Sklaventreiber mit einer angenehmeren Peitsche haben. 
 
 Sieh dir an wie Menschen spontan einen Herrscher bestimmen, der ihnen sagt was zu tun ist, wie sie zu leben haben und was sie zu fürchten haben. Alles, weil sie es ablehnen das selbst zu tun.
-
 
 **matthieu** *[Antwort an Artem Kotelskiy]*
 
@@ -563,7 +560,7 @@ Tatsächlich könnte es dem Coin einen größeren Nutzen bringen, wenn man die I
 
 **matthieu**
 
-Synth, bisher wusste ich nichts von deiner persönlichen Motivation und tiefgründigen Ideologie. Jetzt da sie mir bekannt ist, bin ich ein noch größerer Unterstützer des Coins. Es ist wichtig daran zu erinnern was das endgültige Ziel der Sache ist...Viele Leute vergessen das und wollen einfach nur Millionäre über Nacht werden indem sie in ICOs einsteigen.
+Synth, bisher wusste ich nichts von deiner persönlichen Motivation und tiefgründigen Ideologie. Jetzt da sie mir bekannt ist, bin ich ein noch größerer Unterstützer des Coins. Es ist wichtig daran zu erinnern, was das endgültige Ziel der Sache ist...Viele Leute vergessen das und wollen einfach nur Millionäre über Nacht werden, indem sie in ICOs einsteigen.
 
 **Synth** *[Antwort an matthieu]*
 
