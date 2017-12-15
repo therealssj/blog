@@ -16,7 +16,7 @@
  +
  +Em 2015, a Comissão Federal das Comunicações dos Estados Unidos (FCC, na sigla em inglês) instituiu regras de neutralidade de rede classificando a Internet como de utilidade pública. Isso impediu os provedores de Internet (ISPs) de priorizar certos sites em detrimento de outros e encorajaram uma internet gratuita e aberta, onde todas as empresas e indivíduos poderiam prosperar. 
  +
- +Agora, com o presidente do FCC Ajit Pai, nomeado por Trup, um voto para reduzir as proteções a neutralidade da rede está se aproximando. Pai foi nomeado em 2 de outubro para um segundo mandato de cinco anos, apesar do protesto generalizado em relação à sua agenda. Petições com dezenas de milhares de assinaturas foram impotentes para evitar esse resultado. Com Pai no comando, é apenas uma questão de tempo antes da neutralidade da rede ser desmantelada.
+ +Agora, com o presidente do FCC Ajit Pai, nomeado por Trump, um voto para reduzir as proteções a neutralidade da rede está se aproximando. Pai foi nomeado em 2 de outubro para um segundo mandato de cinco anos, apesar do protesto generalizado em relação à sua agenda. Petições com dezenas de milhares de assinaturas foram impotentes para evitar esse resultado. Com Pai no comando, é apenas uma questão de tempo antes da neutralidade da rede ser desmantelada.
  +
  +## Como fica a Internet sem neutralidade?
  +
