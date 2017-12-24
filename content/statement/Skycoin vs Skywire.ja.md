@@ -1,10 +1,4 @@
-+++
-title = "Skycoin vs Skywire"
-tags = [    "Skywire",]
-bounty = 4
-date = "2017-08-30"
-categories = [    "Skywire",    "Statement",]
-+++
++++title = "Skycoin vs Skywire"tags = [    "Skywire",]bounty = 4date = "2017-08-30"categories = [    "Skywire",    "Statement",]+++
 SkycoinとSkywireはSkycoinプロジェクトにおいて二つの別々の要素です。Skycoinはブロックチェーンです。Skywireは[mesh network](https://en.wikipedia.org/wiki/Mesh_networking)です。
 まずSkycoinが初めにつくられました。これはそれ自体で独立しています。ビットコインのもつ問題を解決するためにつくられました。ビットコインの最大の問題は、ビットコインの中央集権化を引き起こすminingです。ビットコインが暗号やソフトウェアのバグに主に関係していたといったそのほかの問題も、[transaction malleability](https://en.bitcoin.it/wiki/Transaction_Malleability)などの問題を引き起こしました。
 Skycoinは[Obelisk](https://www.skycoin.net/whitepapers)と呼ばれる新しいコンセンサスアルゴリズムを開発しました。このアルゴリズムは、mining（または[Proof-of-Stake](https://en.wikipedia.org/wiki/Proof-of-stake)のような他の代替手段）を排除します。これは[ホワイトペーパー](https://www.skycoin.net/whitepapers)の内容です。コンセンサスアルゴリズムは、ネットワークのセキュリティを確保するためにweb-of-trustメカニズムを使用します。ネットワーク内の各ノードは、信頼できるピアの一覧を持ちます。あなたはお互いにブロックを共有します。[double spend](https://en.wikipedia.org/wiki/Double-spending)を含むブロックなどの不良ブロックがある場合には、あなたはそのブロックを拒否し、信頼できるピアを行うことができます。ネットワークには多くの悪意あるノードが潜んでいる可能性がありますが、それを信頼しなければ影響はないのです。
