@@ -1,4 +1,10 @@
-+++title = "Skycoin vs Skywire"tags = [    "Skywire",]bounty = 4date = "2017-08-30"categories = [    "Skywire",    "Statement",]+++
++++
+title = "Skycoin vs Skywire"
+tags = [    "Skywire",]
+bounty = 4
+date = "2017-08-30"
+categories = [    "Skywire",    "Statement",]
++++
 Skycoin and Skywire are two separate components of the Skycoin Project.Skycoin is the blockchain. Skywire is the [mesh network](https://en.wikipedia.org/wiki/Mesh_networking).
 Skycoin was built first. It can stand on its own. It was created to addressproblems that Bitcoin has. The biggest problem that Bitcoin has is mining,which leads to the centralization of Bitcoin. The other problems that Bitcoinhad mostly related to cryptography or software bugs, leading to problems suchas [transaction malleability](https://en.bitcoin.it/wiki/Transaction_Malleability).
 Skycoin developed a new consensus algorithm called [Obelisk](https://www.skycoin.net/whitepapers)that eliminates mining (or other alternatives such as[Proof-of-Stake](https://en.wikipedia.org/wiki/Proof-of-stake)).This is what the [whitepapers](https://www.skycoin.net/whitepapers) are about.The consensus algorithm uses a web-of-trust mechanism to secure the network.Each node in the network has a small listed of trusted peers.You share blocks with each other. If there's bad blocks, such as a block thatcontains a [double spend](https://en.wikipedia.org/wiki/Double-spending),you reject it and so do your trusted peers. There can be many maliciousnodes in the network, but it will have no impact if you do not trust them.
