@@ -4,7 +4,7 @@ tags = [
     "Ask the Developers",
 
 ]
-bounty = 10
+bounty = 20
 date = "2017-09-18"
 categories = [
     "Ask the Developers",
