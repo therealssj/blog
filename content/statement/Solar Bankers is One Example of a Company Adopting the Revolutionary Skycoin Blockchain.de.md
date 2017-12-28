@@ -12,13 +12,14 @@ categories = [
 ]
 +++
 
-Höhere Geschwindigkeit, verbesserte Sicherheit und besserer Schutz der Privatsphäre - Skycoin bietet all diese Vorteile durch seine Open-Source-Plattform. Die innovative Technologie, die Skycoin vorantreibt, steht jedem zur Verfügung. Aktuell werden mehr und mehr Unternehmen auf Skycoin und dessen Vorteile aufmerksam und nutzen diese für ihre Geschäftsmodelle.
+Höhere Geschwindigkeit, verbesserte Sicherheit und besseren Datenschutz - Skycoin bietet all diese Vorteile durch seine Open-Source-Plattform. Die innovative Technologie, die Skycoin vorantreibt, steht jedem zur Verfügung. Aktuell werden mehr und mehr Unternehmen auf Skycoin und dessen Vorteile aufmerksam und nutzen diese für ihre Geschäftsmodelle.
 
 Ein Beispiel ist [Solar Bankers](https://solarbankers.com/), ein revolutionäres Energieunternehmen. Solar Bankers nutzt die Möglichkeiten der Blockchain, um die Energiebranche zu dezentralisieren. Bei Solar Bankers können Kunden durch die patentierte High-Tech-Solaranlagen von zuhause aus Solarenergie erzeugen. Die erzeugte Energie kann von Kunden direkt mit ihren Nachbarn über die SunChain und dessen Währung, den SunCoin, gehandelt werden.
 
 Der Preis eines SunCoins wird über das Marktangebot und die Marktnachfrage ermittelt. Mit diesem dezentralisiertem Energiehandel auf Peer-to-Peer-Basis besteht keine Abhängigkeit mehr zu Energieversorgern. Dieses einzigarte Geschäftsmodell ist umweltfreundlich, profitabel und fördert Eigenverantwortlichkeit -- und dies wird alles auf der Skycoin Plattform realisiert.
 
-Like Skycoin, Sunchain has a consensus algorithm that eliminates the need for mining. It also features Skycoin’s speed and privacy, with fast, untraceable transactions that use the CoinJoin protocol. Solar Bankers shows how businesses can use Skycoin technology to decentralize finance, bringing economic power back to the individual and eliminating corporate middlemen.
+Sunchain nutzt, ebenso wie Skycoin, einen Konsenzalogrithmus, der die Notwendigkeit zum Mining überflüssig macht. Das CoinJoin Protocoll hat hinsichtlich Geschwindigkeit, Datenschutz und Nicht-Zurückverfolgbarkeit von Transaktionen dieselben Eigenschaften, wie Skycoin. Solar Bankers zeigt, wie Unternehmen die Skycoin-Technik zur dezentralisierten Finanzabwicklung nutzen können, um die ökonomische Selbstbestimmung zurück in die Hände jedes Einzelnen zu legen und Mittelsmänner abzuschaffen.
+
 
 Solar Bankers and other companies choose to build their currencies on Skycoin for one simple reason: Skycoin offers better technical features than other open-source platforms. It has best-in-class encryption, speed, and reliability. Plus, it’s absolutely private.
 
