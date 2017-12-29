@@ -193,105 +193,100 @@ Chen氏が自身のメイン/パブリックgithubアカウントを使ってい
 
 Skycoinに関して引き続き情報を集めていこうと思います。
 
-１つだけ問題なのは、
-ここで
-
+デベロッパーの身元はいずれ公に明かされることになるのでしょうが。
 
 **Synth** *[In reply to Artem Kotelskiy]*
 
-+8 years of drama. You could make a movie about this.
+８年も続く開発の歴史です。映画も作れるような濃い内容ですよ。
 
 **Synth** *[In reply to Artem Kotelskiy]*
 
-No. it wont. People still cannot even figure out who the Bitcoin devs are!
+身元が割れることはないでしょう。いまだbitcoinの初期デベロッパーの身元すらわかっていないのです。
 
 **Artem Kotelskiy**
 
-Hopefully
+そう願いましょう。
 
-Still, why not go to Switzerland?
+しかし、なぜスイス移住は選択肢にないのですか？
 
-And have superopen development just like ethereum?
+また、SkycoinもEthereumのように透明性の高い開発環境にすればよいのではないですか？
 
 **Synth** *[In reply to Artem Kotelskiy]*
 
-For what?
+なぜスイスなのですか？
 
-eighty people should move to switzerland?
+プロジェクトに携わる８０人をスイスに移住させるのですか？
 
 **Artem Kotelskiy**
 
-Ok..
-
-I mean, the organization can go there and be protected somehow
+そうですね、組織の本部をスイスに移せば、保護を受けられるのかなと思いました。
 
 **Synth**
 
-Its on github so does not matter the country they are in.
+開発はgithubで行われているので、本部の場所は問題になりません。
 
-Protected from what? No one has tried to attack skycoin devs yet.
+何からの保護ですか？Skycoinの開発チームが攻撃を受けた例はまだありませんが。
 
 **Artem Kotelskiy**
 
-But you are saying that people are scared to say they are involved with the project
+Skycoinとの関わりを公にすることをデベロッパーは避けていると言っていたので、保護が必要なのかと思いました。
 
-I just don't understand why?
+しかし、なぜ身元を明かさないのですか。
 
 **Synth**
 
-for tax reasons
+税金の関係です。
 
 **Artem Kotelskiy**
 
-No
 
-Can't believe this
+いや、半ば信じがたいですね。
 
-Why don't you want to pay taxes?
+なぜ税金を払いたくないのですか？
 
 **Vadim 🛌**
 
-why would anyone want:D
+なぜ税金を払いたいのですか？
 
 **Monty Crypto (Xa no)**
 
-Lol, yeah everyone else loves paying taxes
+そうですね、みんな税金を払いたいと思っているでしょう。（笑）
 
 **Artem Kotelskiy**
 
-I don't see how rejecting to pay taxes can help your project at all
+Skycoinのプロジェクト発展と税金を払わないことに何の関係があるのですか？
 
-Please explain
+説明をお願いします。
 
 **Monty Crypto (Xa no)**
 
-There's a difference between tax evasion and tax avoidance
+脱税と節税は異なります。
 
-Tax avoidance is perfectly legal and executed by every single corporation in the world
+節税は合法であり、世界中の企業が行っています。
 
 **Synth**
 
-Imagine you have 800 million in bitcoin. Do you run down the street bragging about it?
+例えば、あなたが800万個のbitcoinを持っているとしましょう。それを公に明かしたいと思うでしょうか？
 
-Do people with security cleanances and NDA agreements go around putting faces on websites? These people do not even have Facebook accounts and NDA says they cannot tell their clients who their other clients are.
+国家機密情報保護義務や秘密情報保護契約にある人々がウェブサイトに顔と名前を掲載したいでしょうか?これらの人びとはフェイスブックアカウントを持つことも許されず、他の顧客の名前や情報を明かすことができません。
 
-Also there are IP issues with employers. If someone works at company the contract says the company owns everything they do. Including work in free time.
+また、雇用主との知的財産権の問題があります。ある企業の例では、従業員が勤務時間外に作成したものでも、企業に所有権があるとされています。 
 
-So they cannot contribute code publicly or company/employer can claim ownership and IP and causes legal problems.
+このためデベロッパーの身元を明かすと、雇用主や企業がオープンソースのプロジェクトに関する所有権を要求できてしまいます。
 
-There is a whole bunch of drama and bullshit. Anyone competent is secretive. And the people promoting themselves in public are losers.
+これとは別に、でまかせや複雑な人間関係があります。能ある鷹は爪を隠します。逆に、売名行為に働く人びとは往々にして実質が伴っていません。
 
-ALL of the early bitcoin people expected the US government to crack down in it VIOLENTLY. And that fear never went away.
+Bitcoinの初期デベロッパーの全員が、アメリカ政府の理不尽な介入を懸念していました。その懸念は現在もなくなっていません。
 
-The people entering crypto today do not remember the crypto wars and government oppression of the 90s
+仮想通貨の世界に最近入ってきた人びとは、19９０年代の仮想通貨抑圧の歴史を知らないのです。
 
 **Vadim 🛌**
 
-i find it strange that people are surprised by the anonymity of those interested in cryptography
+人びとが仮想通貨に関わる人びとの匿名性を問題にするのが、逆に私には不思議に思えます。
 
 **Artem Kotelskiy**
 
-I don't like ndas
+秘密情報保護には個人的に
 
 I would think competent people never sign nda
 
