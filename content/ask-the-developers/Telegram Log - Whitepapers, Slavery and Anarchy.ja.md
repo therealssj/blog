@@ -57,7 +57,7 @@ Chen氏は自分が何を言っているか理解してないのではないで�
 
 このミスは論文の根幹に関わるものではありませんでした。 エネルギー最小化に関するものであり、統計的物理学の分野です。
 
-Chen氏は奇妙なハッシングメカニズムと全順序集合を考案しようとしていました。これは機能しませんでしたが。 
+Chen氏は全順序集合に基づいた奇妙なハッシング関数を考案しようとしていました。これは機能しませんでしたが。 
 
 **Artem Kotelskiy**
 
@@ -109,91 +109,93 @@ Chen氏、つまり、Jiwu氏ですか?
 
 **Synth**
 
-The paper was published in a top 2 ACM computer science journel and conference for distributed database consensus and was peer reviewed.
+論文は学会でトップ２のジャーナルに掲載されました。分散型データベースの合意形成のためのACMコンピューターサイエンスジャーナルで、 もちろん他の研究者による相互評価もされています。
 
-We are only coin with peer reviewed academic paper and with simulations.
-
-**Synth**
-
-そう、Chen氏です。
-
-**Artem Kotelskiy**
-
-Didn't know about it
-
-And can't Google his involvement in eth
-
-Please provide a link
+他の研究者に相互評価された論文とシミュレーションを基礎にしているのは、数ある仮想通貨のなかでもSkycoinだけです。
 
 **Synth**
 
-We cant put on website because chen requested we did not. 80% of people involved in skycoin wont go on website or advisor board and want to hide... for various reasons
+はい、Ethereumの開発に携わっていのたはChen氏です。
 
 **Artem Kotelskiy**
 
-Yeah, that is another issue
+それは知りませんでした。
 
-I see
+Chen氏がEthereumの開発に携わっていた証拠はありますか？
 
-Why??
+リンクを教えてください。
 
 **Synth**
 
-Both in china because of potential bitcoin ban or scare mongering and in US for tax or employment reasons
+Chen氏の要望により、ウェブサイトに情報を掲載することはできません。Skycoinの開発に携わる人々の８割から、アドバイザーやデベロッパーとしてウェブサイトに名前を掲載しないようにとお願いされています。様々な理由から身元を明かしたくないようです。
 
 **Artem Kotelskiy**
 
-This is so shady))
+それはまた別の問題ですね。
 
-Why don't you go to Switzerland?
+わかりました。
 
-Indeed, I found Chen on the eth team
+しかし、何故ですか？
+
+**Synth**
+
+中国の場合はbitcoin規制の可能性を懸念して、また、アメリカの場合は税金や雇用の理由からだそうです。 
+
+**Artem Kotelskiy**
+
+それは何だか怪しいですね。（笑）
+
+スイスに行けばいいのではないですか？
+
+検索してみたところ、チェン氏とEthereumの関わりの証拠を見つけることができました。
 
 **Monty Crypto (Xa no)**
 
-Out of all coins there are very few with our kind of repository, history, papers and all, and you call this shady because we don't post some useless faces and names on our websites 😂
+数ある仮想通貨の中でも、レポジトリ、開発記録、論文などの資料が揃っているのはSkycoinくらいでしょう。何の役にも立たない顔写真や名前がないからという理由でSkycoinを怪しいというのはどうなのでしょうか。
 
 **Synth**
 
-his pubkey is in the repo of eth developers. Check his github
+Chen氏の公開鍵はEthereumデベロッパーのレポにありますよ。彼のgithubを確認してみてください。 
 
 **Monty Crypto (Xa no)**
 
-In my opinion it's shady to collection 10's if not 100's of millions through ICO's without one line of code to show for it
+私からすれば、製品に関するコードの一行も公開していない数多のICOの方がよほど怪しいと思うのですが。
 
 **Synth**
 
-The bitcoin developer who discovered the duplicate coinbase output problem also was heavily involved and two other major people but we cant put them on the website or advisor board.
+ウェブサイトやアドバイザー欄に名前を掲載できない約束になっていますが、coinbaseトランザクションが重複してアウトプットされる問題を発見したbitcoinのデベロッパー、その他２人の主要なbitcoinデベロッパーもSkycoinの開発に深く携わっています。 
 
-There is a lot of drama about this.
+これには色々と事情があるのです。
 
-Australian government was raiding peoples houses within 8 hours of them being outed as early bitcoin dev etc
+例えば、bitcoin初期デベロッパーの情報が漏れた際、オーストラリア政府は情報漏れから８時間以内に家宅捜索を行いました。
 
-And a lot of the real crypto people have security clearances and dont want to be publicly associated (but are involved in private) because of employment stuff
+また仮想通貨のデベロッパーの多くは国家機密情報に触れる立場の人物で、雇用契約があるために仮想通貨の開発が公にされることを望んでいません。
 
-**Artem Kotelskiy** *[In reply to Monty Crypto (Xa no)]*
+**Artem Kotelskiy** *[Monty Crypto (Xa no)への返答]*
 
-I was just kidding, see the "))"
+「怪しい」と言ったのは冗談ですよ。（笑）
 
 **Synth**
 
-The only people commiting with their real github names were basicly idiots with no opsec. And the other people involved dont sit on advisor boards or advertise themselves.
+githubに本名で登録しているのは運用上のセキュリティ概念のない素人だけでしょう。加えて、Skycoinプロジェクトの関係者は、アドバイザーというタイトルや売名行為に興味のないデベロッパーです。
 
-I dont even know why chen used his main/public github account. He was advised not to do that.
+Chen氏が自身のメイン/パブリックgithubアカウントを使っている理由もわかりません。そうしないようにとアドバイスされたはずですが。
 
 **Artem Kotelskiy**
 
-I see, thx a lot for an explanation
+納得しました。説明をいただきありがとうございました。
 
 **Monty Crypto (Xa no)**
 
-Haha fair enough 👍
+いえいえ、けっこうですよ。
 
 **Artem Kotelskiy**
 
-I will keep doing my research then about skycoin
+Skycoinに関して引き続き情報を集めていこうと思います。
 
-There is one problem though, all of this will come out inevitably..
+１つだけ問題なのは、
+ここで
+
 
 **Synth** *[In reply to Artem Kotelskiy]*
 
