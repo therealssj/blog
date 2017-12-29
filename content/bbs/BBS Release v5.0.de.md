@@ -39,7 +39,7 @@ Weitere Informationen sind hier zu finden: [github.com/skycoin/bbs/tree/master/c
 * Codevereinfachungen und Leistungsverbesserungen für Remote Submissions und Interaktionen mit dem Skycoin Messenger. Aktualisierung auf den aktuellen Messenger.
 * Verbesserte Leistungsfähigkeit beim File-Management.
 * Besser Behandlung von nicht validen CXO Roots.
-* Bessere Behandlung von Verbindungsunterbrechnungen.
+* Bessere Behandlung von Verbindungsunterbrechungen.
 
 ## Downloads
 
