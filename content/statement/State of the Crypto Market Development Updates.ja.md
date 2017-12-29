@@ -158,196 +158,130 @@ ByteBallsのような最近のコインにおいては、わずか数カ月で�
 
 また、SECが規制上の措置、罰金、資産押収によって設立されたという指摘が電話会議においてありました。これが、予算の出処です。
 
-- The exchanges are ranked by volume.
-- Exchanges with no fees can create infinite fake volume, so only the
-  exchanges with trading fees are included in ranking, otherwise it's
-  inaccurate
-- To pump up their volumes and stay in the top of the rankings, the
-  exchanges are doing secret rebates of trading fees and other scams to
-  inflate their volume, while the actual volume is much lower
-- The exchanges that are most aggressive about puffing their volume and who
-  are least moral are highest ranked
-- There is a huge incentive for exchanges to lie and puff their volume (which
-  is why they are only listing scam coins, who can guarantee high volumes and
-  fees)
+- 取引所は、取引量によってランク付けられている。
+- 手数料のかからない取引は無限の偽の取引を生むことができるので、取引手数料の伴う取引所だけがランク付けに含まれ、ほかの場合は不正確。
+- 取引量を増やしてランキングのトップにとまるために、取引所は取引手数料の払い戻しを秘密に行っていたり、他の詐欺を働いてたりしているため、実際の取引量よりはるかに少ない。
+- 取引所は取引量をふくらませることに積極的で、モラルが低い取引所が最も高いランクをつけている。
+- 嘘をついて取引量をふくらませるだけ大きな動機がある。（詐欺コインを載せているだけで、高い取引量と手数料を得られるから。）
 
-Exchanges will not list a coin unless they are guanteed to make a minimum of
-$5,000 or $40,000 a day in trading fees. So the coin has to be heavily marketed
-to scalp that much money off the user community after the ICO. The exchanges
-are taking 0.1% on each side (0.2% per trade because they are trading against
-themselves). So every million dollars a day of volume is draining a coin $2,000
-/day in exchange fees. Some of the coins are doing $6 or $10 million/day in
-"paid volume" or "guaranteed volume" ($12,000 or $20,000 a day in volume for
-medium sized coin). The exchange owners only care about volume.
+取引所は一日に最低5000から40000ドルの取引手数料を保証されない限り、コインを上場させません。
+よって、コインは、ICOのあとで、ユーザーコミュニティから多くのお金をかすめとるために大量に販売されないければなりません。
+取引所は片方づつから0.1%を徴収します。(自分と相手がいるためトレードあたり0.2%)
+だから、一日に100万ドルの取引量なら、取引手数料で１日に2000ドルのコインが流出しています。
+あるコインは、「払われた取引量」、「取引量の保証料」として600から1000万ドルを毎日支払っています。
+取引所のオーナーは取引量のみ気にします。
 
-The scam coins and mega-ICOs are paying the fees and working with the "market
-makers" to create the fake volume so the exchange owners know how much money
-they will make.
+詐欺コインやメガICOは、料金を払って「マーケットメーカー」と協力して偽の取引量を生成しているので、取引所のオーナーはどれくらいのお金が生まれるのかわかります。
 
-Kraken is probably the only exchange that no one complains about and is not
-screwing with the volume.
+Krakenはおそらく、誰も不満を言っておらず、その取引量に縛られていないただひとつの取引所でしょう。
 
-Most people with large orders are actually trading OTC on Bitfinex or other
-OTC platforms.
+大量に受注しているほとんどの人は、Bitfinexや他のOTCプラットフォームで実際にOTC取引をしています。
 
-Most of the exchanges are making their money on volume and do not
-have maker/taker fees so there is no real order book depth. Making it very
-easy to rig and manipulate coin prices with a relatively small amount of money
-(hence OTC must be used to fill large orders because they cannot be done on
-the order book). The market structure is just broken and optimized for
-manipulation.
+ほとんどの取引所では取引量でお金を産み、maker/taker手数料はかからないので、実際の注文帳の深さはありません。
+比較的少額の金額でコインの価格を調整し操作するのは非常に簡単です。
+（したがって、注文帳では行えないため、大量の注文を処理するためにOTCを使用する必要があります。）
+市場構造は壊れており、操作のために最適化されています。
 
-- No maker/taker fees, so a thin order book depth
-- Exchanges making all of their fees on volume
-- Exchanges ranked by fake volume (and exchanges are faking volume)
-- Hidden trading rebates
-- Paid market makers (people paid massive fees to create fake volume)
-- Inaccurate exchange rankings (by fake volume)
-- Inability to buy/sell on market (thus a need for OTC)
-- Most coins are off markets because of the hacking risk (getting Goxed)
-- Ability to easily rig billions in coin market cap with little money
-  because there is no real order book depth
-- Emphasis of exchanges on only the largest, most well marketed coins who have
-  done huge ICOs (all of which are scams). No emphasis on technology or real
-  companies
+- maker/taker手数料がなく、注文帳が浅い。
+- 取引所は取引量においてすべての手数料を決める。
+- 取引所は偽の取引量でランク付けされる。（取引は偽装された取引量）
+- 取引は裏で払い戻しされる。
+- マーケットメーカーへの支払い。（偽の取引量のために多額の費用を支払う）
+- 取引所ランキングが不正確。（偽の取引量により）
+- 市場での売買が不可。（よってOTCが必要）
+- ほとんどのコインはハッキングリスク（Goxedが被害）により市場から退避
+- 実際の注文帳の浅さにより、僅かなお金でコインの時価総額を数十億でリグレード可能。
+- 最大でのみ取引することを重視し、巨大なICO（すべてが詐欺）を行った、最もよくマーケティングされたコイン。技術や現実の会社を重視しない。
 
-So for concrete example and instance there are three micro-grid tokens and
-companies:
+具体的な実証例として、3つのマイクログリッドのトークンと企業があります。
 
-- One is launching token and is a 100 million/year existing business who has
-  been building and operating combined heating/electricity generation for
-  thirty years. Has whole legal department to deal with regulation and
-  customer pricing laws and compliance. Has existing customers and revenue.
-- The other two coins are are massive ICOs that raised tens or hundreds of
-  millions of dollars, but have no software, no employees, no experience
-  building power grids and do not even understand the regulations required
-  to operate in the markets they are raising funds in an ICO for. Has no
-  customers, no revenue, cannot even operate in the markets they are raising
-  funds for.
+- ひとつは、トークンをローンチし、1年に1億ドルの収益をもつ、30年間の暖房/発電を統合し、運用を行ってきた既存の事業者です。規制および顧客価格の法律およびコンプライアンスに対処する法務部門を擁します。 既存の顧客と収益を持っています。
+- 他の2つのコインは、数千億ドルもの資金を調達した大規模なICOであり、ソフトウェアも従業員もなく、電力網を構築する経験もなく、彼らがICOで資金を調達している市場での事業運営に必要な規制も理解していません。顧客がなく、収益もなく、資金を調達している市場でも営業することはできません。
 
-The result:
+結果:
 
-- The two scam ICOs, already have multiple exchanges lined up to list them,
-  with confirmed listing dates
-- The actual company with 100 million/year in revenue with actual power grid
-  projects, cannot even get a phone call or get the exchanges to talk to them
+- 2つの詐欺ICOは、複数の取引所が既にリストアップしており、リストされた日付が確認されている。
+- 実際の電力グリッドプロジェクトで1億ドル/年の収益を上げている実際の会社は、電話をかけたり、彼らと交流して話をすることさえできない。
 
-That is what the altcoin market looks like right now. The non-scams are
-actually being filtered out for economic reasons.
+これは今、アルトコイン市場がどのようになっているかを示しています。経済的理由から詐欺でないコインは実際には除外されています。
 
-What is happening now is:
+今起こっていること：
 
-- The latest generation of users is buying/selling 15 or 60 coins in their
-  portfolio. Someone who owns 60 coins does not have 60 wallets installed on
-  their computer. Even the altcoin investment fund people are having trouble
-  keeping 15 wallets installed to an offline computer and figuring out how to
-  do offline transaction signing for them.
-- They do not even have wallets installed for ANY of the coins. Meaning all
-  of the coins are just sitting on exchanges waiting to be looted
-- I did a survey of Ethereum users and ask them questions like "What Ethereum
-  Thin Wallet is Best? Is there something like Electrum for Ethereum? What are
-  the best Ethereum wallets?" and most of the "Ethereum Users" have never
-  actually used an Ethereum wallet or cannot answer, do not know. This means
-  all that money is on exchanges somewhere, its not in their wallets.
+- 新しい世代のユーザーは、ポートフォリオ内で15から60個のコインを購入または販売しています。60個のコインを所有している人には、コンピュータに60個のウォレットがインストールされていません。アルトコインの投資ファンドの人々でさえ、オフラインのコンピュータに15個のウォレットをインストールし、オフラインのトランザクション署名を行う方法を理解することに苦労します。
+- 彼らはいずれかのコインのためにウォレットをインストールしていない。すべてのコインは、取引所に置かれ、略奪されるのを待っていることを意味する。
+- 私はEthereumユーザーのアンケートを行い、「Ethereum Thin Walletは何がベストですか？Electrum for Ethereumのようなものはありますか？最も優れたEthereumのウォレットは何ですか？」と質問した。「Ethereumのユーザー」のほとんどは、Ethereumの財布を実際に使用したことはないか、答えられない、わからないと回答した。これは、お金がどこかの取引所にあることを意味し、ウォレットにはない。
 
-For the smaller coins (even coins valued in hundreds of millions or billions
-of dollars), many actually have almost zero real transactions, zero people
-actually with the wallet. I know this from node IP stats and harvested data I
-have seen.
+小さなコイン（数億ドルや数十億ドルの時価総額のコインでさえ）については、実際のトランザクションはほとんどゼロであり、実際にはウォレットを持っている人はほとんどいません。
+私はこのことを、ノードIPの統計情報といままで見てきた、収集したデータから知っています。
 
-Also, for the majority of the coins the volume is fake. There are coins with
-very impressive volume (which the exchanges are making a lot of money on) and
-very impressive market caps, but its all fake. Just completely fake. To get
-enough volume to get on exchanges, you have to agree to pay a market maker to
-create volume.
+また、大部分のコインについては、その取引量は偽物です。
+非常に印象的な量のコイン（取引所ではたくさんのお金を稼ぎます）と非常に印象的な時価総額ですが、その全てが偽物です。
+完全に偽装にすぎません。
+取引所への上場に十分な量を得るためには、マーケットメーカーにお金を支払うことに同意する必要があります。
 
-So some coins are giving 3 or 5 million dollars in coins to day trade on the
-exchange, to make the exchange owner money and lure in suckers and if you are
-an honest coin or not doing that, they won't list you and will complain "Your
-volume is not high enough" and to go give their friends free coins to day
-trade and make the exchanges a lot of money.
+だから、あるコインは、取引所のオーナーにお金を渡すために、また、詐欺師を誘惑するために、1日あたり300から500万ドルを取引所のコインに入れています。
+あなたが正直なコインであるか、または彼らのいう通りにしていないと、 上場リストに入らず、「あなたのコインの取引量は十分ではありません。」と、文句をいわれ、彼らに1日ごとに手数料分のコインを送り、取引所にたくさんのお金を払わされるようになります。
 
-They know the people that will do this and who wont.
+彼らはこれを行っている人と、しない人を知っています。
 
-The exchanges are making so much money on the scam and scam ICOs, that they
-will only list scam coins (which they make more money on). Their whole
-business is about volume. They can have 10 million/day in "volume" and the
-real order book depth is ten Bitcoin.
+取引所は、詐欺のコイン（彼らはより多くの金を稼ぐ）をリストするだけで、詐欺や詐欺ICOに多額の資金を投入します。
+彼らのビジネスのすべては取引量です。
+彼らは 1千万/日の「取引量」を持つことができ、実際の注文帳の深さは10 Bitcoinです。
 
-Also, most (the most popular) "Bitcoin News" websites are publishing fake
-news, "China Bans Bitcoin for the fifth time", "Russia Bans Bitcoin". Then
-when exchanges shut down something actualy happens (an event) there are ZERO
-articles about it on those website, because the REAL NEWS is not timed to
-their market pump and dumps. The media sites are literally just doing timed
-market pump and dumps with completely fake news. They are even recirculating
-fake, leaked "regulatory letters" from four years ago as "Just released China
-banned Bitcoin" news. And every single day is either a "pump day" or a "dump
-day".
+また、ほとんどの 「Bitcoin News」のウェブサイト（とても人気のある）は、 「中国がBitcoinを5回目の規制」、 「ロシア、Bitcoinを規制」というフェイクニュースを公開しています。
+そして、取引所が実際に何か起こり、落ちたとき（実際の出来事）は、それらのウェブサイト上にそれに関する記事はあがりません。
+なぜなら、本当のニュースは彼らの市場のポンプとダンプにタイミングをあわせていないからです。
+メディアサイトは文字通り、完全に偽のニュースで時間を計られたマーケットにポンプとダンプを行っています。
+彼らは、4年前から「中国は禁止していたBitcoinをちょうど開放しました」というニュースとして、偽の「規制当局の手紙」を再循環させています。
+そして、毎日 "ポンプの日"か "ダンプの日"のいずれかです。
 
-So for 90% of these projects, unless you are an insider and the one rigging
-the markets and in the cartel, you are not going to benefit from buying any of
-these coins. They have already appreciated 100x before you will even see them
-on the market. They are just popping into the top 20 out of no where now, with
-no one in public able to buy anything before the peak and then immediately
-crash afterward.
+だから、あなたが内部の人で、市場とカルテルでリギングしていない限り、これらのプロジェクトの90％において、これらのコインのいずれかを購入することで恩恵を受けることはありません。
+あなたは市場でそれらを見る前に、彼らはすでに100倍も高く評価しています。
+彼らは今どこにいてもトップ20に飛び込んでいるだけです。
+一般人はピークの前には何も買えずに、そしてすぐに崩壊します。
 
-There are almost 0 (ZERO) news websites tracking:
+次のようなニュースサイトのトラッキングはほぼありません:
 
-- Actual technology
-- Real world usage of blockchain
-- Real world development (projects with developers)
-- Smaller projects that are trying to do something more than run a pump and
-  dump for the suckers
+- 実際の技術
+- ブロックチェーンの実際の使用
+- 現実世界の開発（開発者とのプロジェクト）
+- だまされやすい人のためにポンプとダンプを行うのではなく、何かをやろうとしている、より小さなプロジェクト
 
-The whole market has been taken over completely. The libertarian aspiration of
-Bitcoin have been killed by simple greed and lust after easy money.
+市場全体が完全に引き継がれています。
+Bitcoinの自由の欲望は楽に手に入るお金への単純な貪欲と欲望によって殺されました。
 
 ---
 
-There are people who have real data (primary data) and they know which coins
-have actual users and real user communities. I track this data constantly and
-the data is pretty bad. The existing coin market is a train wreck.
+実際のデータ（プライマリデータ）を持ち、実際のユーザと実際のユーザコミュニティを持つコインを知っている人がいます。 
+私はこのデータを絶えず追跡し、データはかなり悪いです。 
+既存のコイン市場は難破船です。
 
-Since no one ever withdraws coins from the exchange, the data suggests that
-many coins are selling more coins than actually exist. The trading volume and
-activity is completely uncorrelated to any real verifiable primary metrics.
+誰も取引所からコインを引き出すことはないので、多くのコインが実際に存在するコインよりも多くのコインを販売していることを示唆しています。
+取引量とアクティビティは、実際の検証可能な主要メトリックとは完全に無関係です。
 
-People have told me that some exchanges have a history of sudden delisting of
-some coins without allowing the users to withdrawal. Which would explain what
-is happening. My attitude now is "If the coins are not in my wallet and on my
-computer, they do not exist".
+ある人々は、一部の取引所には、ユーザーに撤退させることなく、一部のコインの突然の上場廃止が行われた歴史があることを教えてくれました。
+どのようなことが起こっているか説明します。
+私の見方は、「コインが私の財布やコンピュータになければ、存在しない」ということです。
 
-Once the regulators lock out the smaller coins from the markets completely
-with white-listing, the only thing that is getting listed will be two or three
-multi-billion dollar mega-scams a month. I have no idea what this will look
-like. Only the biggest, most toxic, best dressed scams who paid off the most
-people will be able to get listed.
+一度規制当局が市場から小さなコインを完全にホワイトリストから除外すると、リストに載っているのは月に2～3億ドルのメガ詐欺コインになるでしょう。
+私はこれがどのように見えるか分かりません。
+ほとんどの人に報酬を与えた最も大きく、最も毒性があり、最高の服装をした詐欺者だけが上場することができます。
 
-The big changes to the market will be:
+市場への大きな変化は以下の通りです:
 
-- Multi-coin support (cross platform coin/wallet support standards, people
-  pulling coins off the exchanges)
-- DEX (distributed exchanges), the real and long term money has already moved
-  off the exchanges because of the hacking risk.
-- Real uses of blockchain instead of speculation (actual companies, using
-  tokens for real business functions)
+- マルチコインサポート（コインを取引所から引き出す一般人を補助するクロスプラットフォームコイン/ウォレットサポート）
+- DEX（分散型取引所）では、ハッキングリスクのために、実質的かつ長期的な資金が取引所から既に離れている。
+- 投機の代わりにブロックチェーンを実際に使用する。（実際の企業で、実際のビジネス機能にトークンを使用する。）
 
-However, the sophisticated people are doing very very well. The people who
-know what is going on.
+しかし、洗練された人々は非常によくやっています。 何が起こっているのか知っている人たちは。
 
-Many of the large investors are moving off of the exchanges to OTC.
+大規模な投資家の多くは、OTCとの取引を中止しています。
 
-They are boycotting all the coins with one or two "pre-ICOs" where the
-insiders get to buy at 1/100th the price of the public. They are ignoring the
-massive ICOs and looking at fundamentals and primary metrics.
+彼らは、インサイダーが公共の価格の1/100で購入するような、1回または2回の「プレICO」に関するすべてのコインをボイコットしています。
+彼らは大規模なICOを無視し、基本と主要な指標をみて検討しています。
 
-It is sort of obvious, to anyone that is not an idiot, that if a coin raised 1
-billion dollars in an ICO, that the price is not going to go up 100x (that 100
-billion dollars in shucks are going to come along and dump one hundred billion
-dollars into the coin so that all the people in the ICO can exit 100x when the
-bought it at before the ICO). Especially if the coin is a "Smart Contract
-Platform" with no users or applications and not Enron selling a billion
-barrels a year of oil for E-coin.
+コインがICOで10億ドルを調達すれば、その価格は100倍にならないだろうということは、馬鹿ではない誰にとっても明らかなことです。（ICOの前に買ったすべての人が100xで利確できるように、1000億ドルの倒産が起こり、1000億ドルのコインがダンプされます。）
+コインがユーザーやアプリケーションのない「スマートコントラクトプラットフォーム」であったり、Eコイン用に年間10億バレルの石油を販売しているエンロン社でない場合は特にそうです。
 
 IF:
 
