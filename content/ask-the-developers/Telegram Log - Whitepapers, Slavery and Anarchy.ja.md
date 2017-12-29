@@ -328,43 +328,41 @@ Googleをはじめとして、大企業は従業員と次のような契約を�
 
 **Synth**
 
-also the way US works is that information / research can still be classified after being published into the public domain.
+加えて、アメリカでは情報や研究が一般に公開されたあとでも、機密情報として分類することが可能になっています。
 
-So if a person gets government grant or worked on source routing or something and it is published, but that technology is used on later project they are associated with then it does not absolve them of legal liability
+例えば、研究者が政府から助成金をもらってソース・ルーティングの研究を行い、研究成果が発表されたとしましょう。後のプロジェクトでこの研究成果が使われた場合、研究者は機密情報保護に関する法的責任の範疇にあります。
 
-and if they worked at university while the algorithms were developed the university can make IP claim
+また、大学で働いている場合、研究者が開発したアルゴリズムに大学が知的財産権を要求することもできます。
 
-so everyone in the US lives terrorized by lawyers
+このため、アメリカ市民は弁護士を怯えながら生きているのです。
 
 **Artem Kotelskiy**
 
-I see. Hard to believe there are Universities in USA who would file such ip
+なるほど、アメリカの大学や企業がそんなことをするとは驚きです。
 
-But I still stand by my point
+説明をいただきましたが、それでも私は自らの論点を譲りません。
 
-I think on your homepage you should explain why devs are hidden
+Skycoinのホームページで、デベロッパーの身元が明かされていない理由を説明すべきです。
 
 **Synth**
 
-You mean like Stanford/Cisco/Googler etc
+例をあげれば、Stanford、Cisco、Googlerなどでしょう。
 
 **Artem Kotelskiy**
 
-Ah, but then this will attract attention
+しかし、説明をホームページに掲載すると注目を集めてしまいますね。
 
-**Artem Kotelskiy** *[In reply to Synth]*
+**Artem Kotelskiy** *[Synthへの返答]*
 
-Could you link or give keywords for any ip case there?
+それらの大学や企業での知的財産権問題に関するリンクや、キーワードを教えてください。
 
-Google and Cisco are companies
+**Synth** *[Artem Kotelskiyへの返答]*
 
-**Synth** *[In reply to Artem Kotelskiy]*
+githubに開発記録は残っているので、実際は身元が隠されているわけではないのですが。人びとはgithubを調べる能力もないのでしょう。
 
-They are not hidden. People are just too stupid to check github.
+Skycoinは著名なデベロッパーをアドバイザーとして雇っているなどと広報する必要はありません。
 
-Skycoin is not about bragging about who has the biggest developer dick on their advisor board.
-
-The website is about the coin and the technology. We dont believe in the advisor board, celebrity CEO dick measuring contest.
+ウェブサイトはコインと技術の情報が掲載される場所です。アドバイザーの有名度で競い合うのは無駄なことです。
 
 **Artem Kotelskiy**
 
