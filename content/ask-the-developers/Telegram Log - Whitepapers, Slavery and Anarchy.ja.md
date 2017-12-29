@@ -1,5 +1,5 @@
 +++
-title = "Telegramログ - ホワイトペーパー、Slavery and Anarchy"
+title = "Telegramログ - ホワイトペーパー、隷属、無政府主義"
 tags = [
     "Ask the Developers",
 
@@ -438,7 +438,7 @@ Bitcoinの元となった理念とは真逆の世界です。
 
 **Vadim 🛌**
 
-推測するに、ベラルーシですか？
+推測するに、あなたの出身国はベラルーシですか？
 
 **Artem Kotelskiy**
 
@@ -448,9 +448,9 @@ Bitcoinの元となった理念とは真逆の世界です。
 
 奴隷になりたくない人はみな無政府主義者でしょう。（笑）
 
-そうでない場合は、次のように自らに呟くだけでしょうか？（笑）
+そうでない場合は、次のように自らに呟くだけでしょうか？
 
-「無政府主義者はなんだか怖いですね。私自身はそうはなりたくない。程度において奴隷であるのは問題ないでしょう。ただ、主人は奴隷に対して親切にすべきだとは思います。」
+「無政府主義者はなんだか怖いですね。私自身はそうはなりたくない。程度において奴隷であるのは問題ないでしょう。ただ、主人は奴隷に対して親切にすべきだと思います。」（笑）
 
 **Artem Kotelskiy**
 
@@ -458,25 +458,19 @@ Bitcoinの元となった理念とは真逆の世界です。
 
 **Synth**
 
-Anarchist（無政府主義者）の語源はAn-archonです。Anはwithout（ない状態）を意味します。Archonは
-Archon means "master" or "ruler".
-Archon means "master" or "ruler".
-
-Anarchy means "without masters" or without rulers. All of the words are inverted to mock the public and the illiterate.
+Anarchist（無政府主義者）の語源はAn-archonです。Anはwithout（ない状態）を意味します。Archonは主人や支配者という意味です。つまり、Anarchyは支配者や主人がいない状態を指します。リテラシーの低い大衆をからかうために、語順が逆になっています。
 
 **Artem Kotelskiy**
 
-Anyway
+なにはともあれ、開発を続けてください。Skycoinが支配者を一人でも減らすのに貢献することを真摯に願っています。 
 
-Keep up the skycoin guys, I sincerely hope it will allow more people not to have masters
+**Artem Kotelskiy** *[Synthへの返答]*
 
-**Artem Kotelskiy** *[In reply to Synth]*
-
-Ok
+語源については理解しました。
 
 **Synth**
 
-Lol
+
 
 matthieu *[In reply to Synth]*
 
