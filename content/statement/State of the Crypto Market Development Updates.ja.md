@@ -1,5 +1,5 @@
 +++
-title = "State of the Crypto Market and Development Updates"
+title = "暗号通貨市場の状況と開発のアップデート"
 tags = [
     "Development",
     "Wallet Development",
@@ -30,178 +30,133 @@ categories = [
 
 ## Q&A
 
->There is no mention of a re-working of the whitepapers.
->Should this not be a priority so that your marketing that has started has
-reference material.
->This is a technical coin and so the documentation needs to be up to date.
+>ホワイトペーパーの改訂の記述がありません。
+>マーケティングが開始されていますが、参考資料は優先されるべきではないでしょう。
+>これは技術的なコインであって、資料は最新である必要があります。
 
-Everyone is so busy.
+みな忙しいのです。
 
-We are trying to get a technical writer, to just produce content and write
-articles around the info-graphics we did.
+私達はテクニカルライターを募集し、コンテンツを制作し、私達が行ったことに関する情報記事を書こうとしています。
 
->Why is it only one decimal point change in the coin?
->All other coins have 6 to 8 decimal points.
+>コインが小数点以下1桁だけしか変化しないのはなぜですか？
+>他のコインはすべて小数点以下6~8桁です。
 
-1 decimal place means ~$0.30
+現在、小数点第1位は~0.3ドルをあらわします。
 
-We will enable 2 decimal places when Skycoin hits $10. We can enable the full 6 eventually.
+Skycoinが10ドルに達すると小数点以下2桁を有効にします。
+最終的には小数点以下6桁まで有効にすることができます。
 
-We just do not want people spamming nano-transactions and bloating the blockchain with junk.
+私達は、人々がナノ取引をスパムし、ブロックチェーンに負担をかけることを望んでないのです。
 
->Why not promote the close of the telegram and the slack channel.
->Move completely to discord.
+>telegramとslackのチャンネルを閉鎖しませんか？
+>みなdiscordに移行するでしょう。
 
-No one is on Discord. We do not use the slack much.
 
-We have Sky-Messenger and our own messaging platform, so will probably move
-over there eventually.
+Discordには誰もいません。私達はあまりslackを使いません。
 
-We also have BBS and our own social media platform.
+Sky-Messengerと独自のメッセージプラットフォームがあるので、最終的にそこへ移動するでしょう。
 
->Also the telegram was set up wrong. Some people can access the news slack but
-are locked out of the BB and the main slack.
+BBSと独自のソーシャルメディアプラットフォームもあります。
 
-Telegram bans numbers/users from non-english speaking countries in English
-speaking super-channels because of spam. Get a google voice number and use
-that and then it should work.
+>telegramの設定が間違っています。newsのslackにアクセスできるのに、BBとmain slackからロックアウトされる人がいます。
 
->In my opinions alot of the alts and also BTC and its family maybe will go
-through another boom market.
+telegramはスパム対策のため英語圏のsuper channnelで非英語圏の国番号・ユーザーを禁止しています。
+Googleの音声番号を取得し、それを使用すると動くはずです。
 
-Yes. Definitely.
+>たくさんのアルトコインとビットコイン、その系列たちは、別のブーム市場を経験すると思うのです。
 
-I am seeing junk platforms with no users, trading for almost a billion dollars.
+はい、そうでしょう。
 
-Bitcoin may hit $10,000 by March.
+現在、利用ユーザーがいないにも関わらず約10億ドルを取引するジャンクプラットフォームもあります。
 
-## Summary of the Current Bitcoin Market
+３月までにBitcoinは1万ドルに到達するでしょう。
 
-This is what is happening on inside track and what we discussed recently....
+## 現在のBitcoin市場の総括
 
-We will see some ups and down, with marketing going up and down, but the volume
-of money and attention flooding into crypto-assets only keeps increasing.
+これは取引の内部で起こっていることであり、私達が最近議論したことです...
 
-However, there are VERY FEW real or legitimate coins. There are lot of coins
-with very nice looking websites and many coins with very nice looking "advisor
-boards". There are coins raising hundreds of millions of dollars in ICOs left
-and right.
+市場の上下に伴って、いくらかの浮き沈みをみるでしょうが、お金の量と暗号資産への注目はますます増え続けるでしょう。
 
-However, almost none of these coins have any software developers or have the
-ability to hire or manage software developers or the ability to architect or
-design software.
+しかし、実用されているコインや正当なコインは非常に少数しかありません。
+非常に見栄えの良いウェブサイトとともにたくさんのコインがあり、また、非常に見栄えの良い「アドバイザー委員」がつくコインもたくさんあります。
+至るところにICOで何億ドルも調達するコインがあります。
 
-However, their marketing is very good. Since they do not have to do software
-development, they can focus 100% of their energy on their marketing (instead
-of having to develop things). While the projects who are actually doing real
-things are handicapped in this market and ignored.
+しかし、これらのコインのほとんどはソフトウェア開発者がいないか、ソフトウェア開発者を雇ったり管理したり、ソフトウェアを設計したりデザインする能力はありません。
 
-Some of the projects with no developers who have raised insane amounts of
-money, have even announced that they will not open source (no one gets to see
-if they are developing software), until "their AIs are done". So they are
-going to build some type of artificial intelligence machine learning (LOL,
-what!?) before anyone can see if they are actually writing code or know how
-the system they are building is supposed to work.
+しかし、彼らのマーケティングは非常によいのです。
+彼らはソフトウェア開発を行う必要がないので、(開発する代わりに)マーケティングに100%のエネルギーを集中させることができます。
+一方、実際に現実で行われているプロジェクトはこの市場では無視されています。
 
-Since there are so few real projects, we will see MASSIVE floods of money,
-that are quite rapid, into the small number of real projects.
+驚異的な資金を調達した開発者がいないプロジェクトの中には、「AIが完成するまで」、オープンソースでない（ソフトウェアを開発しているか誰にもわからない）とアナウンスされているということさえあります。
+よって、誰かが、実際にコードを書いていているのか、あるいは構築しているシステムがどのように動いているかを知る前に、彼らはある種の人工知能機械学習（何!?）を構築しようとしています。
 
-The time to invest in these projects, between when no one cares when everyone
-is rushing in and the coin has appreciated is very brief.
+現実にうごいてるプロジェクトは非常に少ないので、私達はそのような実際のプロジェクトに対して急速に莫大な金額の資金が動く様子を見るでしょう。
 
-Previously, coins had a period where public could buy them at a low price,
-before they appreciated. It tooks years (like Litecoin and Bitcoin).
+これらのプロジェクトに投資する時間、すなわちいつみなが買いに急ぐか誰も気に留めていない状態から、コインが評価されるまでの時間はとても短いです。
 
-Then for more recent coins like ByteBalls, there were only a few months to buy
-because it exploded in price from pennies to $800 in merely a few months. Now
-the appreciation is happening even more rapidly and in an even more compressed
-time frame.
+以前は、人々がコインが評価される前にコインを低価格で購入できる時間は長くありました。
+LitecoinやBitcoinのように、数年かかりました。
 
-Now, with projects like Cardano, all of the coins are pre-sold to insiders.
-Then the coin just magically APPEARS in the top 15 out of nowhere. There is no
-period when the coin is being bought/sold by a user community. They just sell
-the coins to insiders, VCs and the already wealthy. Then the coin POPS on the
-exchange at its full price and then they pay marketers to promote it and people
-to buy it. While the insiders dump as many coins as they can.
+ByteBallsのような最近のコインにおいては、わずか数カ月で価格がペニーから800ドルまで高騰したので、購入するのに数ヶ月しかありませんでした。
+現在では、より迅速に、さらには圧縮された時間枠内で評価は行われています。
 
-So before, there was a period when the public could find a good coin, cheaply,
-and buy it before it appreciated. Today, it is just a cartel of insiders who
-are already rich, giving each other coins (pre-ICO, lol what?) and
-institutional sales, before throwing the coin on an exchange and trying to
-dump as much of it as they can on the public.
+今、カルダノのようなプロジェクトでは、すべてのコインは内部の人に事前販売されています。
+その後、コインは魔法のようにトップ15に登場します。
+コインがユーザーコミュニティによって売買されている期間はありません。
+彼らは、内部の人、ベンチャーキャピタル、既に裕福な人たちにコインを売るだけです。
+それから、コインを取引所に満額で上場させ、マーケティング担当者にお金を払い人々にそれを買ってもらうように広告してもらいます。
+その間に内部の人はできるだけ多くのコインを売ります。
 
-So the new model is:
+以前は、一般の人々が、安価な良いコインをみつけ、それが評価される前に購入できる時期がありました。
+今日では、それはすでに金持ちになっている内部の人のカルテルであり、公にコインを取引所にできるだけ多く売り払う前に、お互いにコインを分け（プレICO、何!?）たり、や投資機関へのセールを行ったりします。
 
-- The founders and insiders buy in at 1/10th the ICO price
-- They sell to public at ICO price (10x what the insiders paid in the
-  "pre-ICO" no one told you about)
-- Then they dump the coins on the exchange at the ICO price and support price
-  with the pre-ICO/ICO sales and then market the hell out of the project.
-  Dumping as many coins on the dumb public as they can.
-- Then everyone on the advisor board is doing this for +20 coins. Some of the
-  people are just doing the ICOs, going to next coin and washing/repeating
-  every week.
+したがって、新しいモデルは次の通りです。
 
-Most of the "Raised 150 million dollars in ICO!" are fake. Its like five guys
-taking their money, putting it into the coin and then getting their money back
-on backend.
+- 創業者と内部の人は、ICO価格の1/10で購入する。
+- ICO価格で公に販売する。（知らないところで行われた「プレICO」の10倍の価格で！）
+- 取引所にICO価格でコインを売り払い、ICO/プレICO価格でサポートし、その後プロジェクトを売り払う。できるだけ多くのコインを公に売り払う。
+- アドバイザー委員の全員が+20コインでこれを行う。彼らの中には、ただICOをやっているだけで、次のコインへ行き毎週繰り返している人もいる。
 
-The "investors" are demanding extremely steep and large discounts (huge
-percentages of the coins at extremely large discounts). "All the other coins
-are giving me 30% of the market rate". The "coin investment funds" are
-literally popping up, to shop around and try to buy up 5 or 20 million dollar
-chunks of crypto-coins. 5% or 20% of crypto-currencies at a fraction of the
-market price, so they can dump them over time on the market for profit.
+「ICOで1億5000万ドル調達しました！」のほとんどが偽物です。
+その5人はお金をもっていて、コインに投入し、そのお金を裏で戻しています。
 
-The old model was:
+「投資家」は、非常に大幅な割引を要求します。(非常に大きな割合の、とても割引されたコイン)
+「ほかの全てのコインは私に市場レートの30%で買わせてくれます。」と言って。
+文字通り「コイン投資ファンド」が出現し、500から2000万ドルもの暗号通貨を買おうとします。
+市場価格のほんの一部で5から20%の暗号通貨を手に入れることで、彼らはそれを時間とともに売り払い、利益を得ることができるのです。
 
-- You release coin
-- It gradually appreciates over years as user community and adaption grow
-- The earlier people do well and hopefully the project does something useful
+古いモデルは次の通りです。
 
-The current models is to just scam the public for anything you can get.
+- コインをリリースする。
+- ユーザーコミュニティと適応化が進むにつれ、徐々にそれは評価されていく。
+- 初期に買った人々はうまくいき、うまくいけばプロジェクトは有用なものになる。
 
-I think, from experience with some of the coins I have advised on, from some
-of the conference calls I have been on, that I can predict that we could see
-some exchange owners raided at gun point and thrown face down with a gun to
-their head while their servers are looted and confiscated by the government.
-Not because their are scamming people, but just because they are clueless and
-snubbing the wrong person or the friend of the regulators.
+現在のモデルは、あなたが得ることができるなにかしらを公然と搾取するだけです。
 
-Basically, none of the governments wanted to "regulate" Bitcoin or the exchanges
-until the "regulator" and their friends started getting into the market and
-wanted to push out the other people. In the United States especially, you will
-have an oligarchy like CoinBase and a few companies and only they are allowed
-to operate. They will start white listing coins, so only their coins
-get listed and exchanges will be delisting the other projects.
+私は、いくつかのコインに助言してきた経験から、また、参加したいくつかの電話会議から、私たちはいくつかの取引所のオーナーが、彼らのサーバーが政府によって略奪され、押収されている間に、砲撃点で襲撃され、銃をつきつけられ頭を下げているのをみることができる、と予測します。
+彼らが詐欺師だからではなく、間抜けで、間違った人間や規制当局の友人を軽蔑しているからです。
 
-The exchanges that are not owned by the right people are going to be shutdown
-(or hacked).
+基本的に、政府のだれも、「取り締まり人」とその友人が市場に参入し始めて、他の人々を追い出そうとするまで、Bitcoinや取引所を「規制」しようとは思っていませんでした。
+アメリカでは特に、CoinBaseやいくつかの企業のような寡頭的な企業が存在し、彼らだけが操作を許されていました。
+彼らはコインのホワイトリストを作成する予定なので、そのコインのみが上場し、交換所は他のプロジェクトを上場廃止するでしょう。
 
-They are literally doing "Do what we say and we will protect you", then on
-backend they are trying to get them shutdown at gunpoint so they can put their
-"licensed" competitor in place. Sort of like Circle trying to integrate
-Bitcoin into iMessage, then creating a white-list of which coins could go into
-the Apple App store. Everyone is trying to figure out how they can grab this
-thing and get control over it.
+適切な人が所有していない取引所はシャットダウン（またはハッキング）されます。
 
-Just imagine if Apple integrated circle as the "official Bitcoin wallet" and
-put it in iMessenger, then purged all the Bitcoin wallets from the App store.
+彼らは、文字通り、「私達は言うことを守り、あなたをまもります。」と行動しています。
+そして、裏では「ライセンスされた」競争相手を置くことができるよう、彼らを脅します。
+いわばBitcoinをiMessageに統合しようとし、Appstoreに入ることができるコインのホワイトリストをつくっているグループのようです。
+誰もがこのことをどのようにつかみ、それを支配するかを理解しようとしています。
 
-The coin market is forming into an oligarchy. People are demanding "regulation"
-because they are scamming everyone left and right and do not want to compete
-with other people's scams so they want to own and control the regulation and
-shut everyone else down. That is what is happening.
+想像してみてください。Appleが仲間を「公式のBitcoinウォレット」として統合し、それをiMessengerに入れて、BitcoinのすべてのウォレットをAppstoreから一掃したとしたら。
 
-I think we may see another round of large hacks, like we did on Gox.
+コイン市場は寡占状態に陥っています。人々は右も左も誰もが詐欺していて、他の詐欺と競合したくないために規制を要求しています。
+よって、規制を行い制御し、他の人を止めようとしています。これが今起こっていることです。
 
-There may not be a regulatory or legal pretense for shutting down particular
-exchanges (like what happened to BTC-E) and they could be "hacked" and cleared
-out like MtGox.
+私達がGoxでやったように、大規模なハックの新たなラウンドをみることができるように思います。
 
-There was also a conference call where it was pointed out that the SEC was
-funded by regulatory actions, fines and asset seizures. That is where their
-budget comes from.
+特定の取引所（BTC-Eに起こったことなど）を閉鎖するための規制や法的な偽善は起こらず、MtGoxのように「ハッキング」されてしまう可能性があります。
+
+また、SECが規制上の措置、罰金、資産押収によって設立されたという指摘が電話会議においてありました。これが、予算の出処です。
 
 - The exchanges are ranked by volume.
 - Exchanges with no fees can create infinite fake volume, so only the
