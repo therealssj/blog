@@ -189,7 +189,7 @@ Krakenはおそらく、誰も不満を言っておらず、その取引量に�
 - マーケットメーカーへの支払い。（偽の取引量のために多額の費用を支払う）
 - 取引所ランキングが不正確。（偽の取引量により）
 - 市場での売買が不可。（よってOTCが必要）
-- ほとんどのコインはハッキングリスク（Goxedが被害）により市場から退避
+- ほとんどのコインはハッキングリスク（Goxedが被害）により市場から退避。
 - 実際の注文帳の浅さにより、僅かなお金でコインの時価総額を数十億でリグレード可能。
 - 最大でのみ取引することを重視し、巨大なICO（すべてが詐欺）を行った、最もよくマーケティングされたコイン。技術や現実の会社を重視しない。
 
@@ -283,204 +283,143 @@ Bitcoinの自由の欲望は楽に手に入るお金への単純な貪欲と欲�
 コインがICOで10億ドルを調達すれば、その価格は100倍にならないだろうということは、馬鹿ではない誰にとっても明らかなことです。（ICOの前に買ったすべての人が100xで利確できるように、1000億ドルの倒産が起こり、1000億ドルのコインがダンプされます。）
 コインがユーザーやアプリケーションのない「スマートコントラクトプラットフォーム」であったり、Eコイン用に年間10億バレルの石油を販売しているエンロン社でない場合は特にそうです。
 
-IF:
+もし:
 
-- A coin raises 1 billion dollars in an ICO
-- The coin WILL NOT increase to 100x the ICO price
-- To go up 100x, the existing coin holders have to be bough out for 100 billion
-- That money has to come from somewhere (where as the vast majority of coins
-  only lose money and all of their inflows come from people buying the coin
-  for speculation)
+- コインがICOで10億ドルを調達する。
+- コインの価格はICO価格の100倍にならない。
+- 100倍になるためには、既存のコインホルダーは1000億に。
+- そのお金はどこかから来なければならない。（大部分のコインはお金を失うだけで、その流入のすべては投機のためにコインを購入する人々から来ます。）
 
-So it is obvious that all the best relative returns are in the smaller
-projects and not the mega-ICOs.
+したがって、メガICOではなく、小規模プロジェクトに良い相対収益があることは明らかです。
 
-So all the money is being made by avoiding the mega-ICOs and focusing on
-fundamentals.
+メガICOを避け、基本的な部分に焦点を当てることによって、すべてのお金は生み出されます。
 
-Where as idiots see "They raised twelve billion dollars in FIVE MINUTES. I
-NEED TO MORTGAGE MY HOUSE AND BUY THIS IN CASE IT GOES UP 3x AFTER THE ICO".
-Then all the people who bought the coin at 1% of the ICO in the "pre-ICO"
-(that you were not invited to), will dump everything at the ICO price as soon
-as it hits the market.
+ばかみたいに、「彼らは5分で12億ドルの資金を調達しました。私は自分の家を抵当権にし、それがICOの後に3倍上がる場合に備えて買います。」と踊らされ、
+それから、「pre-ICO」（あなたは招待されなかった）でICOの1％でコインを購入したすべての人々は、市場に出るとすぐにすべてをICO価格で放出します。
 
-This trend of everyone creating twelve bitcoin forks, so they can get free
-coins and dump them is also ridiculous.
+みな12個のビットコインフォークをつくり、無料でフォークコインを手に入れて手放すという傾向もバカげています。
 
-## New Wallet
+## 新しいウォレット
 
-Wallet Version 20 is released.
+ウォレットバージョン20がリリースされました。
 
-All nodes have been upgraded.
+すべてのノードがアップグレードされました。
 
-Completely new wallet from scratch. The new wallet is dozens of times faster.
+最初から完全に新しいウォレットです。
+新しいウォレットは何十倍も高速です。
 
-Blockchain syncing is hundreds of times faster and is almost instant now. The
-old wallet took 1 second per block to sync. The new wallet syncs a few
-thousand blocks in a few seconds.
+ブロックチェーンの同期は何百倍も高速で、現在ほぼ一瞬です。
+古いウォレットはブロックごとに1秒で同期しました。
+新しいウォレットは数秒で数千ブロックを同期させます。
 
-In future upgrade, all blocks will be treated as immutable data objects in
-CXO, so that the blockchain can be downloaded in parallel across all blocks
-and all connected peers, using all available bandwidth in parallel with no
-constraints on the block ordering.
+将来のアップグレードでは、すべてのブロックがCXOの不変データオブジェクトとして扱われるため、ブロック順序を制約なしで、すべての利用可能な帯域幅を使用して、ブロックチェーンをすべてのブロックおよびすべての接続されたピアにわたって並列にダウンロードすることができます。
 
-This will be even faster than Bitcoin's "header first downloads" or the rust
-ethereum approach.
+これは、Bitcoinの「ヘッダーの最初のダウンロード」やさび付いたEthereumのアプローチよりもさらに高速になります。
 
 ## CoinHours
 
-The new wallet (version 20) now shows the "CoinHours", which users earn for
-holding Skycoin.
+新しいウォレット（バージョン20）は、ユーザーがSkycoinを持つことで得た 「CoinHours」を表示するようになりました。
 
-We are working on an exchange for converting and establishing an exchange rate
-between CoinHours and Skycoin. Coin Hours are similar to the "Gas" in Ethereum
-or coin aging in Bitcoin, but are exchange-tradeable and are a separate
-parallel currency in Skycoin.
+私たちは、CoinHoursとSkycoinの間で為替レートを変換し、確立することに取り組んでいます。
+CoinHoursは、Ethereumの「ガス」やBitcoinのコイン・エージングに似ていますが、交換可能であり、スカイコインの別の並行通貨です。
 
-Coin Hours are used for transaction fees in Skycoin and will also be used for
-network resources on Skywire.
+Coin HoursはSkycoinの取引手数料として使用され、Skywireのネットワークリソースにも使用されます。
 
-Coin Hours may eventually also be used for allocation of distributed
-computation resources, storage or bandwidth on SkyLedger and any Skycoin side
-changes with embedded CX scripting language.
+Coin Hoursは最終的にSkyLedgerの分散コンピューティングリソース、ストレージまたは帯域幅の割り当てや、CXスクリプト言語が組み込まれたSkycoinサイドの変更にも使用される可能性があります。
 
-The future wallet versions will add an API and UI to specify or
-split the CoinHour balances in transactions.
+将来のウォレットバージョンでは、トランザクションでのCoinHourの残高を指定または分割するためのAPIとUIが追加されます。
 
-If Skycoins are held on an exchange, the coin hours earned will go to the
-exchange.
+取引所でSkycoinが取引される場合、獲得したCoin Hoursは取引所に送られます。
 
-Skycoin CoinHours are also a very important part of the Skycoin CoinJoin
-infrastructure for increasing transaction privacy. CoinHours will be posted as
-collateral for mixing to prevent participants from backing out of or slowing
-down CoinJoin transactions. Skycoin CoinJoin transactions improve the
-mathematical guarantee of Skycoin transaction privacy by spending outputs from
-multiple wallets in the same transaction. This prevents the most common
-deanonymizing attacks in Bitcoin. When fully implemented, this will give
-Skycoin a ZeroCoin-level mathematical guarantee of transaction privacy, with
-orders of magnitude less complexity and computation overhead than the ZeroCoin
-implementation, by eliminating the requirement of the highly complicated
-zero-knowledge proof system.
+Skycoin CoinHoursは、取引のプライバシーを高めるための、Skycoin CoinJoinインフラストラクチャの非常に重要な部分です。
+CoinHoursは、参加者がCoinJoin取引を取り消したり、遅らせるのを防ぐために、混合の担保として掲示されます。
+Skycoin CoinJoin取引は、同じ取引において複数のウォレットからの出力を費やすことにより、Skycoin取引プライバシーの数学的保証を向上させます。
+これにより、Bitcoinで最も一般的なdeanoymizingが防止されます。
+完全に実装されると、高度に複雑なゼロ知識証明システムの必要性を排除することによって、ZeroCoin実装よりも複雑さと計算オーバーヘッドのオーダーが少ない、トランザクションプライバシーのZeroCoinレベルの数学的保証をSkycoinに提供します。
 
-## Skycoin (DEX) Distributed Exchange Support
+## Skycoin (DEX) 分散取引サポート
 
-We are currently designing a hardcoded, 2-factor multi-signature transaction
-type with relative time locks for Skycoin. This new transaction type
-will enable DEX and atomic swap support across Skycoin and all Skyledger
-coins.
+私たちは現在、Skycoinの相対時間ロックを持つ、ハードコーディングされた、2要素のマルチ署名トランザクション型を設計しています。
+この新しいトランザクションタイプは、SkycoinとSkyledgerのすべてのコインでDEXとアトミックスワップのサポートを有効にします。
 
-We are also evaluating proposals for introducing a third transaction type for
-atomic swaps between blockchains. However, we believe that atomic swaps
-between blockchains are not mature yet and that the 2-signature multi-sig with
-relative time lock is the simpliest/easiest way to implement this.
+ブロックチェーン間のアトミックスワップに第3のトランザクションタイプを導入する提案も評価しています。
+しかし、ブロックチェーン間のアトミックスワップはまだ成熟しておらず、相対的な時間ロックを持つ2署名の複数署名はこれを実装するための最もシンプルで最も簡単な方法だと考えています。
 
-## Skycoin Projects Position on the Smart Contracts Fad
+## スマートコントラクトが流行する中でのSkycoinプロジェクトの位置づけ
 
-Skycoin does not have a "Smart Contracting Language". Our blockchain language
-is a full programming language suitable for both desktop, server, networked
-applications but with all the features required for blockchain embedding.
+Skycoinには「スマートコントラクト言語」はありません。
+私たちのブロックチェーン言語は、デスクトップ、サーバー、ネットワークアプリケーションの全てに適していて、ブロックチェーンの埋め込みに必要なすべての機能を備えた完全なプログラミング言語です。
 
-We believe that "smart contracts" are a fad. In the future when anyone can
-publish their own blockchain as easily as creating a word-press blog, it does
-not make sense to cram the real world uses of blockchain scripting onto a
-third party platform. While we have a programming language, CX, that is
-designed for actual applications and real world usage, not "smart contracts"
-(as to date we have been unable to find a single real use or application for
-smart contracts).
+私たちは、「スマートコントラクト」は一時的流行だと考えています。
+将来誰かが自分のブロックチェーンをワードプレスのブログを作成するのと同じくらい容易に公開できるようになると、実際にブロックチェーンのスクリプトをサードパーティのプラットフォームに使用させるのは意味がありません。
+私たちは「スマートコントラクト」ではなく、実際のアプリケーションや実際の使用に合わせて設計されたプログラミング言語CXを用いています。
+（現時点では、スマート契約のための単一の実際の使用またはアプリケーションを見つけることができませんでした。）
 
 ## CX
 
-CX is an extremely strict, statically typed, affordance based (based upon Alan
-Kay's COLA architecture),  mathematically deterministic language. CX is
-designed to support the whole range of applications from being embedded on
-blockchain, to programming for GPU, FPGAs and achieving power saving and
-performance on next generation CPU architectures (RISC-V) which have explicit
-cache load/store instructions.
+CXは、非常に厳密で、静的に型付けされたアフォーダンスベース（Alan KayのCOLAアーキテクチャに基づく）の数学的に決定論的な言語です。
+CXは、ブロックチェーンに組み込むことから、GPU、FPGAのプログラミング、明示的なキャッシュロード/ストア命令を持つ次世代CPUアーキテクチャ（RISC-V）において、省電力と性能を達成することまでの、あらゆるアプリケーションをサポートするように設計されています。
 
-We are currently prototyping OpenGL support for CX.
+私たちは現在、CXのOpenGLサポートを試作しています。
 
-CX also has a new website and programming sandbox.
+CXには新しいWebサイトとプログラミングサンドボックスもあります。
 
 https://cx.skycoin.net
 
-I want to see people writing video games or a poker app or something on CX
-soon. I enjoyed "GameCoin" and we need more experiments in embedding video
-games on blockchain like GameCoin.
+私はすぐに人々がビデオゲームやポーカーアプリや何かをCXで書くのを見たいです。
+私は 「GameCoin」を楽しんでいました。
+GameCoinのようにブロックチェーンにビデオゲームを埋め込むためにはもっと実験が必要です。
 
-**The Skycoin bounty program will expand to including incentive for video games
-and applications written in CX on the Skycoin platform.**
+**Skycoinの賞金プログラムは、SkycoinプラットフォームのCXで書かれたビデオゲームやアプリケーションへのインセンティブをもたせるように拡張されます。**
 
-The Skycoin bounty program will expand to including incentive for video games and applications written in CX on the Skycoin platform.
+Skycoinの賞金プログラムは、SkycoinプラットフォームのCXで書かれたビデオゲームやアプリケーションへのインセンティブをもたせるように拡張されます。
 
+HuntercoinはブロックチェーンベースのMMOであり、ゲームやコミュニケーションアプリケーションを容易にするための言語とプラットフォームのプラットフォームを構築したかったので、私はHuntercoinが好きです。
+私たちはこれが 「スマートコントラクト」言語でも可能だとは感じませんでした。
+特に、ユーザーによる最も一般的なアプリケーションは、メッセージング/通信、ファイル共有、ゲームアプリケーションだからです。
 
-I like huntercoin because it is a blockchain based MMO and we wanted to build
-a language and platform platform to make gaming and communication applications
-easy. We did not feel this is even possible with a "smart contracts" language.
-Expecially because the most popular  application by user are messaging/
-communication, file sharing and gaming applications.
+また、更新/バグの修正がずっと複雑になってしまいがちな実際のブロックチェーンに公開する前に、開発者がビジネスロジックのプロトタイプを作成し、CXO（ブロックチェーンのライト版のようなもの）でアプリケーションをテストできるようにしたいと思っていました。
 
-We also wanted to allow developers to prototype business logic and test
-applications in CXO (which is like blockchain-lite) before publishing onto a
-real blockchain, where making updates/fixing bugs becomes much more
-complicated.
+Skycoinは、分散型ポーカーのようないくつかのアプリケーションで必要とされる「リアルタイム」インタラクションの最小しきい値である、300ミリ秒未満（15分または30秒ではなく）でブロックチェーン状態のアップデートをグローバルに配布できる最初のプラットフォームです。
 
-Skycoin is also the first platform that will be able to distribute blockchain
-state updates globally in less than 300 ms (instead of 15 minutes or 30
-seconds) and this is the minimum threshold for "real time" interaction
-required for several applications like decentralized poker.
+明らかに、インタラクションと一貫性のないブロックレートの間に+30秒間待機するという問題は、ユーザーエクスペリエンスを損なうことになります。
+Bitcoinの15分ごとの1ブロックのレートは、ポーカーを再生できないようにし、Ethereumのレートはリアルタイムアプリケーションではまだ許容できません。
 
-Obviously the issues of waiting +30 seconds between interactions and an
-inconsistent block rate impair the user experience. Bitcoin's rate of one
-block every 15 minutes makes poker unplayable and Ethereum's rate is still
-insufferable for real time applications.
+私は、これらの「スマートコントラクトプラットフォーム」の10億ドルの評価を正当化する実世界の使用法、経済学、または技術的能力を見ていません。
+私は、「スマートコントラクト」はすでに過去にピークを迎えており、バブル期にあると思います。
 
-I do not see any real world usage, economics or technological capacities
-justifying the billion dollar valuations of these "Smart Contract Platforms".
-I think "smart contracts" are already past peak and are in a bubble.
+したがって、これらの実際のアプリケーションを有効にするために、長年の技術開発が必要な、これらの要件を満たすプラットフォームを用意しています。
+「スマートコントラクトプラットフォーム」がマーケティングで言及しているものとは無関係に、これらのアプリケーションは次世代でのみ可能になっています。
+現在の世代のプラットフォームでは、主流化の要件を克服するための技術的な解決策はありません。
 
-So for us to enable these real applications, required years of technology work
-to have a platform that could meet these requirements. Regardless of whatever
-the "smart contract platforms" say in their marketing, these applications are
-only becoming possible in the next generation. Simply none of the current
-generation of platforms has a technical solution to overcome the requirements
-for mainstream adaption.
-
-So I am really excited about doing a bounty to have something like HunterCoin
-(MMO on blockchain) or some kind of real money rogue-like (e.g. NetHack) built
-on top of CX. "Real Money Dwarf Fortress on Blockchain". It will be exciting
-to see what people do with this.
+だから私はHunterCoin（ブロックチェーン上のMMO）やCXの上に構築されたリアルマネーのようなもの（例えばNetHack）を持っていることに恩恵をあげることに本当に興奮しています。
+「ブックチェーン上でのリアルマネードワーフ要塞」
+人々がこれで何をするのかを見ることはエキサイティングなことです。
 
 [CX source code](https://github.com/skycoin/cx)
 
-## Skycoin Roadmap Finished
+## 完了したSkycoinロードマップ
 
-The roadmap is on the website now
+ロードマップは以下のWebサイトで見ることができます。
 
 https://www.skycoin.net/roadmap/
 
-## First Distributed Social Media Platform on Skycoin Platform Launches
+## Skycoinプラットフォーム上の最初の分散ソーシャルメディアプラットフォームのローンチ
 
-The beta test of the first distributed social media application on the Skycoin
-platform is ready.
+Skycoinプラットフォーム上の最初の分散ソーシャルメディアアプリケーションのベータテストが準備完了です。
 
 https://www.skycoin.net/downloads/ (scroll down to the BBS section)
 
-BBS is a peer-to-peer replicated social media application, built upon immutable
-data structures (CXO) on top of the Skycoin platform.
+BBSは、Skycoinプラットフォームの上に不変のデータ構造（CXO）で構築されたP2Pの複製ソーシャルメディアアプリケーションです。
 
-All database in the Skycoin distributed BBS application is replicated
-peer-to-peer using the Skycoin CXO library (previously called Aether). Post
-submissions are submitted over a prototype of Sky-messenger, which is Skycoin's
-TOX-like standard for machine-to-machine communication between public keys
-[(github.com/skycoin/net)](https://github.com/skycoin/net).
+Skycoin分散BBSアプリケーションのすべてのデータベースは、Skycoin CXOライブラリ（旧Aether）を使用してP2Pに複製されます。
+投稿の投稿は、公開鍵と公開鍵の間のマシン間通信のための、SkycoinのTOXに似た標準であるSky-messengerのプロトタイプ[(github.com/skycoin/net)](https://github.com/skycoin/net)を介して提出されます。
 
-Sky-messenger is specifically designed for peer-to-peer machine-to-machine
-communication, but also has a human-usable, Wechat-like interface.
+Sky-messengerは、P2Pのマシン間通信用に特別に設計されていますが、人間が使えるWechatのようなインターフェースも備えています。
 
-## Skycoin OTC Market
 
-Now that the prototype for Sky-messenger is working, we can include an
-integrated Skycoin OTC market in the next wallet release.
+## Skycoin OTC 市場
 
-The new wallet will also eventually include a "Send to Bitcoin address"
-function, which should increase Skycoin liquidity.
+スカイメッセンジャーのプロトタイプが機能しているので、次のウォレットのリリースには統合されたSkyCoin OTC市場を含めることができます。
+
+また、新しいウォレットには最終的に「Bitcoin addressに送信」機能が含まれ、Skycoinの流動性が向上するはずです。
