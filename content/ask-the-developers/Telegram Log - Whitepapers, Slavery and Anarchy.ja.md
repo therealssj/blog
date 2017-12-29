@@ -362,112 +362,104 @@ githubに開発記録は残っているので、実際は身元が隠されて�
 
 Skycoinは著名なデベロッパーをアドバイザーとして雇っているなどと広報する必要はありません。
 
-ウェブサイトはコインと技術の情報が掲載される場所です。アドバイザーの有名度で競い合うのは無駄なことです。
+ウェブサイトはコインと技術に関しての情報が掲載される場所です。アドバイザーの有名度で競い合うのは無駄なことです。
 
 **Artem Kotelskiy**
 
-Lol, account on github also doesn't add anything, although I admit that there are accounts there which have other social media
+githubのアカウントを見ても特に個人情報はありませんが、たしかに他のソーシャルメディアのリンクがついている場合もあります。
 
-You know, I don't advice you to advertise yourself
+私はSkycoinが広報に力を入れるべきだと言っているわけではないのです。
 
-Not at all
+実際、見た目重視のチームやアドバイザーのページは私も嫌いです。
 
-In fact I hate all these bright "team" pages and stuff
+ただ１つ、単純に言いたいことがあるだけなのです。
 
-But here is one simple thing
+Skycoinプロジェクトに私はとても期待しています。
 
-I like the project
+そしてプロジェクトの未来はひとえにデベロッパーの手にかかっています。
 
-The future of the project is in hands of developers completely
+だからこそ、デベロッパーがどういう人たちなのか、どういう価値観を持っているのか知りたいのです。
 
-So it would help if I know who they are, and what are their values
+私がただSkycoinを所有するのか、それともSkyledgerのノードにも参加するのか。デベロッパーへの信頼が決め手になります。
 
-For me to decide, if I am going to be the sky node, or simply sky hodler
-
-But I get it, you think that code and execution speaks to itself, fair enough
+ただ、開発記録を調べればプロジェクトが信頼できるかどうかの判断は可能であるという立場も、理解しています。
 
 **Synth**
 
-You go dox yourself and report all your stuff to the government and go pay your taxes to the central bank that owns you. All human cattle, please line up for bar coding.
+個人情報を全て政府に提出して、中央銀行に税金を払い、人びとは飼いならされた牛のように隷属の列に並んでいます。
 
-Its the exact opposite of why bitcoin was created.
+Bitcoinの元となった理念とは真逆の世界です。
 
 **Artem Kotelskiy**
 
-Yeah well, there are different degrees of being crypto anarchist
+そうですが、仮想通貨を推進する無政府主義にも、程度の差はあります。
 
 **Vadim 🛌**
 
-being one in words and in reality?:D
+言葉のみで実践の伴わない「程度」でしょうか？
 
 **Artem Kotelskiy**
 
-I tend to believe that declaring a war to the previous governors doesn't help pieceful transitioning to a better system.
+現体制の支配者に闘いを挑むことは、より良いシステムへの移行に逆効果であると思います。 
 
-I might be wrong, guys, so don't push
+わかりません、私が間違っているかもしれない。この点に関して論争するつもりはありません。
 
-Just an opinion :)
+**Synth** *[Artem Kotelskiyへの返答]*
 
-**Synth** *[In reply to Artem Kotelskiy]*
+中央銀行は無から貨幣を作り出し、政府は市民という奴隷から税金として貨幣を巻き上げます。
 
-The central bank creates money out of nothing. Then the government taxes the money back from the slaves.
+奴隷となるか、自由となるかの二者択一なのです。 他の人間のお金のために働いている人間は、自らのために働いていません。主人のために隷属しているだけです。
 
-You are either a slave or you are free. People working for other peoples money, are not working for themselves. They are slaving for for their master/owner.
-
-There is no degrees. You are either owned and are a slave and have a slave tracking number and live under a massive surveilence, police state central bank run slave plantation OR you are free. Slave or Free. There is no degrees.
+程度の差は元々ありません。一方、誰かに所有され、奴隷登録番号の元、政府による監視の下、警察や国民国家、中央銀行で成り立つプラットフォームで生きる奴隷がいます。他方には自由があります。隷属か自由か、程度の差はないのです。
 
 **Artem Kotelskiy**
 
-I see. I think the next thing to discuss is if the government is good or not (let's say US). And I know I will lose this one, so let's not go into this. I completely understand your pov. It differs from mine in that I believe in kindness more, and think that there is a spectrum of freedom. But could be I am just young and inexperienced.
+なるほど。おそらく次は政府が善か悪かの議題でしょうが、勝敗は明らかでしょう。あなたの観点は理解できました。異なる観点を私は持っています。人びとの善意を信じており、また、自由にも尺度があると考えます。ただ、私が若く、経験がないだけなのかもしれません。 
 
 **Synth**
 
-"Freedom to masturbate to porn", "freedom to smoke marijuana", "freedom to have anal sex", "freedom to shoot up heroin", "freedom to run around in the 'free market' laboring like a slave for someone elses money", "freedom to shop!".
+自由の尺度とは、例えば、「ポルノで自慰をする自由」「大麻を吸う自由」 「アナル・セックスをする自由」 「ヘロインを打つ自由」 「自由市場で誰かの金のために奴隷のように働く自由」「買い物をする自由」でしょうか？
 
-Slavery is not about free or slave. Its about independent (free) or dependent (slave).
+隷属とは、単に自由であるか奴隷であるかの問題ではありません。自立しているか、依存しているかの違いなのです。
 
-You make people dependent upon you for survival, then you give them fake "freedoms" so they dont revolt. That is how you turn a society into a labor camp and then give them enough free porn, prozac and zoloft until you have domesticated "happy slaves" that cannot even imagine what an alternative would look like.
+隷属の仕組みとは何でしょうか？それは、生存のために他者に依存する仕組みを作り、人びとに偽の自由を与えることで、叛乱を防ぐのです。このように社会は労働者の強制収容所と化し、柔順で幸福な奴隷ができあがるまで無料のポルノ、プロザック、ゾロフトがばら撒かれます。この奴隷は世界の別の在り方を想像すらできません。 
 
-Look how free those people are with their $750,000 in student debt they wont pay off until they die! Lol. Its just a mockery.
+75万ドルの負債を抱え、卒業から死ぬまで借金を返し続ける、「自由」な学生の現状を考えてみてください。惨状であるとしか言いようがありません。
 
 **Artem Kotelskiy**
 
-Everyone makes his own choices
+全ての人がそれぞれの選択をしています。
 
-Some people just grow food and live off that
+自給自足で暮している人たちだっています。
 
-I am from the country where half of the population lives like this, it's just fine
+私は全人口の半分がそのように暮している国から来ました。それはそれでよいと思います。
 
-And I think if one really wants, he can be free
+そして、人が自由になりたいと思えば、自由になれるものだと私は思います。
 
 **Vadim 🛌**
 
-let me guess, belarus?
+推測するに、ベラルーシですか？
 
 **Artem Kotelskiy**
 
-No, it's harder to guess
+いえ、違います。推測するのは難しい国です。
 
 **Synth**
 
-Anyone who does not want to be a slave is an anarchist now! Lol
+奴隷になりたくない人はみな無政府主義者でしょう。（笑）
 
-"Whoa. Whoa. Whoa. I dont want to be an anararchist. I mean a little slavery is ok, but the masters should be nicer to the slaves." Lol.
+そうでない場合は、次のように自らに呟くだけでしょうか？（笑）
+
+「無政府主義者はなんだか怖いですね。私自身はそうはなりたくない。程度において奴隷であるのは問題ないでしょう。ただ、主人は奴隷に対して親切にすべきだとは思います。」
 
 **Artem Kotelskiy**
 
-Anarchist is someone who declares a war on the government
-
-Loool
+では、無政府主義者は政府に対して闘いを挑む人でしょうか。（笑）
 
 **Synth**
 
-Anarchist.
-
-An-archon
-
-An means without.
-
+Anarchist（無政府主義者）の語源はAn-archonです。Anはwithout（ない状態）を意味します。Archonは
+Archon means "master" or "ruler".
 Archon means "master" or "ruler".
 
 Anarchy means "without masters" or without rulers. All of the words are inverted to mock the public and the illiterate.
