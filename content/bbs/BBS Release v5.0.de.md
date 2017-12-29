@@ -27,9 +27,9 @@ Details zum neuen Übertragsungsprozess können im BBS Wiki abgerufen werden: [g
 
 Momentan läd das Frontend sehr langsam. Dies ist auf [GopherJS](https://github.com/gopherjs) zurückzuführen, welches für das Setzen des Seed und die Generierung von öffentlichen und privaten Schlüsseln zuständig ist und auch die Signierung und die Verifikation von Daten übernimmt. In zukünftigen Releases wird durch native JavaScript-Bibliotheken die Leistungsfähigkeit verbessert.
 
-## Command-line Interface
+## Kommandozeilen-Interface
 
-Nach der Einführung eines öffentlich zugänglichen Thin Clients haben wir die API-Endpunkte entfernt, die administrative Kontrolle ermöglichten und ein Command-line Interface für diese Belange eingerichtet.
+Nach der Einführung eines öffentlich zugänglichen Thin Clients haben wir die API-Endpunkte entfernt, die administrative Kontrolle ermöglichten und ein Kommandozeilen-Interface für diese Belange eingerichtet.
 
 Weitere Informationen sind hier zu finden: [github.com/skycoin/bbs/tree/master/cmd/bbscli](https://github.com/skycoin/bbs/tree/master/cmd/bbscli).
 
