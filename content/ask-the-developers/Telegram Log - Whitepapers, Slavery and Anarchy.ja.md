@@ -286,55 +286,45 @@ Bitcoinの初期デベロッパーの全員が、アメリカ政府の理不尽�
 
 **Artem Kotelskiy**
 
-秘密情報保護には個人的に
+秘密情報保護契約は個人的に気に入りません。
 
-I would think competent people never sign nda
+有能な人びとは秘密情報保護契約など結ばないと思っていました。
 
-Apparently I am wrong
+しかし、私が間違っていたようです。
 
-Contracts with the companies...
+企業との契約がありましたか。
 
-Eh
+つまり、デベロッパーと研究者は自分の金が心配で、Skycoinやその他の大規模なプロジェクトは決まりを押し付けているわけでしょう。 信じられません。
 
-So your devs and researchers are worried about their money, and you (presumably along with other projects of your scale) are imposing on them rules. Hard to believe.
+**Synth** *[Vadim 🛌]への返答]*
 
-**Synth** *[In reply to Vadim 🛌]*
+世の中はなんとも不思議なものです。
 
-What a world.
-
-And they forget that ALL of the professional math and crypto people either work for the government or military.
+そして、数学や暗号の専門家は、全員と言っていいほど政府や軍のために働いている事実も忘れられているようです。
 
 **Synth** *[In reply to Artem Kotelskiy]*
 
-Everyone who works at Google or a Fortune 500. We have commits from people who work for Google/Amazon if you look at commit history.
+Fortune500やGoogleのような企業で働いていれば、秘密情報保護契約は常識です。 開発記録を見ればわかりますが、GoogleやAmazonで働くデベロッパーもSkycoinのプロジェクトに関わっています。
 
 **Artem Kotelskiy**
 
-The only thing I believe professional researcher is worried about is security.
+研究者が本当に気にしているのは自身の身の安全のみでしょう。
 
-Yeah, I don't think google/Amazon are such great companies frankly
+GoogleもAmazonも大した企業だとは思いませんが、従業員はたしかに優秀かもしれません。
 
-Although people there are competent
+なんにせよ、要点は理解しました。
 
-Anyway
+しかし、数学の専門家については誇張が入っていると思います。 私の知る限り、純粋数学の研究を離れて軍に入る人びとが最も優秀なわけではありません。
 
-I got your point
+**Synth** *[Artem Kotelskiyへの返答]*
 
-About all professional math people you stretched too far. I know exactly what kind of people leave pure math and go to military, and they are not the best, believe me.
+Googleをはじめとして、大企業は従業員と次のような契約を結びます。「我々はあなたを所有しています。勤務時間内外にかかわらず、あなたの労働は私たちの所有物です。」
 
-**Synth** *[In reply to Artem Kotelskiy]*
-
-Like Google.
-
-Almost all large companies gave contract that says "we own you. You are our slave. We own everything you do in your free time".
-
-That is ALL fortune 500 companies. You will notice that they stopped commiting after taking employment at those companies.
+これはFortune500の企業に例外なく当てはまります。 これらの企業で働き始めると、デベロッパーはオープンソースプロジェクトに関わるのをやめてしまいます。
 
 **Artem Kotelskiy**
 
-I see...
-
-Sad
+なるほど。それは残念ですね。
 
 **Synth**
 
