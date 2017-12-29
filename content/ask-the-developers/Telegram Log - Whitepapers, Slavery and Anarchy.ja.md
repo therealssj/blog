@@ -1,5 +1,5 @@
 +++
-title = "Telegram Log - Whitepapers, Slavery and Anarchy"
+title = "Telegramログ - ホワイトペーパー、Slavery and Anarchy"
 tags = [
     "Ask the Developers",
 
@@ -13,99 +13,99 @@ categories = [
 
 **Artem Kotelskiy**
 
-Hey
+こんにちは。
 
-I discovered that both papers on the obelisk consensus algorithm were withdrawn from arxiv because of mistakes. Is this true?
+Skycoinのテクノロジーの核である「Obelisk合意形成アルゴリズム」に関する論文が、重大なミスがあったのを理由に「arxiv」から取り下げられたと聞きました。本当ですか？
 
-Can someone from the team address this issue, please?
+Skycoinチームの皆さんに確認していただきたいと思います。よろしくお願いします。
 
 **Monty Crypto (Xa no)**
 
-Mmm, about Obelisk? We have like at least 5 papers about the underlying logic, but wasn't aware anything was specifically published about Obelisk already
+Obeliskに関する論文ですか? 少なくとも5つの論文がObeliskの理論的基礎を主旨に書かれていますが、Obeliskについて直接触れられた論文の存在は確認されていません。
 
-Which papers are missing?
+具体的にどの論文が取り下げられたかわかりますか?
 
-**Synth** *[In reply to Artem Kotelskiy]*
+**Synth** *[Artem Kotelskiyへの返答]*
 
-No. Chen withdrew them because he wanted people to quote then from the ACM journel instead of arxiv because its considered more prestigious
+取り下げの理由はミスではありません。著者のChen氏が論文を取り下げた理由は、arxivの代わりにACMジャーナルを引用元にしようと決めたからです。学問の世界でACMジャーナルは非常に権威あるジャーナルとして知られていますから。
 
 **Synth**
 
-And chen thinks that one of the papers should be withdrawn because of minor error which is irrelevent.
+付け加えると、Chen氏は論文のなかに小さなミスがあったのを認め、１つの論文を取り下げました。しかし、このミスは論文の主旨に関わらない、小さなものでした。
 
-the algorithm in that paper is only 3rd generation of the consensus algorithm and we are generation 5 and need implementation white paper
+その論文に書かれたアルゴリズムは第三世代のもので、私たちは現時点で第５世代にあります。その実装のためのホワイトペーパーが書かれなければなりません。
 
 **Artem Kotelskiy**
 
 https://arxiv.org/abs/1507.03927
 
-It says crucial theoretic defect
+このページによれば、論文の欠陥は理論的な性質のもので、致命的だったとあります。
 
 **Synth**
 
-Its chen being idiot
+Chen氏は自分が何を言っているか理解してないのではないでしょうか。
 
 **Artem Kotelskiy**
 
-The same with opinion Dynamics paper
+「Opinion Dynamics」に関する論文にも同じようなミスがあったと述べられていますが。
 
 **Synth**
 
-there is an error in one paper that I told him about months before he published it
+１つの論文にはミスがありました。論文が掲載される何ヶ月か前に、私が指摘しました。
 
 **Synth**
 
-but its not relevent. The idea is based upon energy minimization and comes from statistical physics.
+このミスは論文の根幹に関わるものではありませんでしたが。 エネルギー最小化に関するものであり、統計的物理学の分野です。
 
-Chen was trying to create total ordering with some weird hashing thing that does not work.
+Chen氏は奇妙なハッシングメカニズムと全順序集合を考案しようとしていました。これは機能しませんでしたが。 
 
 **Artem Kotelskiy**
 
-So the papers on the website are different from papers on arxiv?
+それでは、Skycoinのウェブサイトにあるホワイトペーパーは「arxiv」に掲載されたものではないのでしょうか?
 
-I really don't like that comment on arxiv. The author of the paper refuses it, there is something strange about it.
+「arxiv」にあるコメントはまずいですよ。論文の著者自身が理論の欠陥を指摘している。どこかおかしくはないでしょうか？
 
 **Synth**
 
-There are eight versions of them
+この理論に関しては全部で８本の論文が書かれています。
 
-The final version was the one published in the ACM journel/conference
+最新の論文はACMジャーナル/学会に掲載されています。
 
 **Artem Kotelskiy**
 
-Could you provide a link please?
+その論文のリンクをいただけませんか？
 
-Can't Google it
+検索しても見つけることができませんでした。
 
-**Synth** *[In reply to Artem Kotelskiy]*
+**Synth** *[Artem Kotelskiyへの返答]*
 
-Chens professor. The coauthor wants the papers unpublished. He does not understand blockchain and thinks the chinese government is attacking blockchain and the paper may get him in trouble.
+Chen氏は教授職に就いています。共著者が論文の取り下げを希望したようです。ブロックチェーンに精通していない人物でした。中国政府がブロックチェーンに規制をかけていると彼は思いこんで、論文がトラブルの原因になるのをおそれたようです。
 
 **Synth**
 
 http://njtech.findplus.cn/?h=search_list&query=AR:%22Shu%2C%20Jiwu%22
 
-**Artem Kotelskiy** *[In reply to Synth]*
+**Artem Kotelskiy** *[Synthへの返答]*
 
-I think this should be addressed somehow on your website. The whole project is based on security of obelisk. It should be crystal clear for people that this algorithm was at least peer reviewed by CS people.
+この点はウェブサイトで明らかに示されるべきだと思います。SkycoinプロジェクトはObeliskのセキュリティにかかっているわけですから、他のコンピューターサイエンスの専門家によってアルゴリズムの理論的基礎が評価されていなければなりません。そして、その事実が人びとにもはっきりわかるようにウェブサイトに書かなければいけないでしょう。
 
-Because of one simple reason -- no one will dive into the papers and checking they are right except CS
+単純に、コンピューターサイエンスの専門家でなければ、論文も理解できませんし、理論的基礎の正当性をチェックすることもできないからです。
 
-**Synth** *[In reply to Artem Kotelskiy]*
+**Synth** *[Artem Kotelskiyへの返答]*
 
-There will be a sixth white paper that is 40 or 60 pages on proper implementation and details. But no one has time to write it.
+実装と詳細に関する、４０~６０ページの第三世代のホワイトペーパーの掲載が予定されています。しかし、他の仕事との兼ね合いのため、完成には時間がかかる見込みです。
 
-We have the simulation done and now that peer discovery works we will get first gen implemented and show real world behavior
+シミュレーションは成功して、相互評価も機能しています。第一世代の実装を近いうちに行い、現実でどう機能するかを公表していく予定です。
 
-**Synth** *[In reply to Artem Kotelskiy]*
+**Synth** *[Artem Kotelskiyへの返答]*
 
-He was one who wrote the Go ethereum implementation.
+ちなみに、Chen氏はEthereumのGo実装を行った人物です。
 
 **Artem Kotelskiy**
 
-Jiwu?
+Chen氏、つまり、Jiwu氏ですか?
 
-This also should be on the website. But actually, thank you for your answers a lot.
+その情報もウェブサイトに掲載するべきだと思います。遅れましたが、丁寧に質問に答えていただき、ありがとうございます。 
 
 **Synth**
 
@@ -115,7 +115,7 @@ We are only coin with peer reviewed academic paper and with simulations.
 
 **Synth**
 
-Chen
+そう、Chen氏です。
 
 **Artem Kotelskiy**
 
