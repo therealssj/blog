@@ -1,5 +1,5 @@
 +++
-title = "Skycoin Community Links"
+title = "Skycoinコミュニティリンク"
 tags = [
     "Community",
 ]
@@ -10,7 +10,7 @@ categories = [
 ]
 +++
 
-Skycoinチームへの問い合わせ
+Skycoinチームへのお問い合わせ
 --------------------------
 
 SkycoinチームではTelegramが最もよく利用されています。
