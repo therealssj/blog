@@ -10,10 +10,10 @@ categories = [
 ]
 +++
 
-Talk with the Skycoin Team
+Skycoinチームへの問い合わせ
 --------------------------
 
-The Skycoin team is most active on Telegram.
+SkycoinチームではTelegramが最もよく利用されています。
 
 * [Skycoin Telegram Channel](https://t.me/Skycoin)
 * [Skycoin BBS Channel](https://t.me/skycoinbbs)
@@ -23,12 +23,12 @@ The Skycoin team is most active on Telegram.
 * [Skycoin Slack](https://skycoin.herokuapp.com)
 * [Skycoin Discord](https://discord.gg/MTepVHE)
 
-Mailing List
+メールリスト
 ------------
 
 * [Skycoin Mailing List](http://eepurl.com/c4DyAv)
 
-News Updates
+ニュース、アップデート
 ------------
 
 * [Skycoin Blog](https://blog.skycoin.net)
@@ -36,16 +36,16 @@ News Updates
 * [Skycoin Reddit](https://reddit.com/r/skycoinproject)
 * [Skycoin Facebook](https://www.facebook.com/skycoinproject)
 
-Media
+メディア
 -----
 
 * [Skycoin Youtube](https://www.youtube.com/channel/UCzLASufel2No4vSt4rudHSQ)
 * [Skycoin Instagram](https://www.instagram.com/skycoinproject/)
 
-Software
+ソフトウェア
 --------
 
-All code is published to github.  Contributors and testers are encouraged.
+全てのコードはgithubで公開されています。コードの検証、また開発に協力していただける方を募集中です。  
 
 * [Skycoin Github Organization](https://github.com/skycoin)
 * [Skycoin Core & Wallet](https://github.com/skycoin/skycoin)
