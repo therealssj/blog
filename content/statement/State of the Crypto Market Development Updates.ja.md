@@ -18,15 +18,15 @@ categories = [
 +++
 
 - [Q&A](#q-a)
-- [Summary of the Current Bitcoin Market](#summary-of-the-current-bitcoin-market)
-- [New Wallet](#new-wallet)
+- [現在のBitcoin市場の総括](#summary-of-the-current-bitcoin-market)
+- [新しいウォレット](#new-wallet)
 - [CoinHours](#coinhours)
-- [Skycoin \(DEX\) Distributed Exchange Support](#skycoin-dex-distributed-exchange-support)
-- [Skycoin Projects Position on the Smart Contracts Fad](#skycoin-projects-position-on-the-smart-contracts-fad)
+- [Skycoin 分散取引サポート(DEX)](#skycoin-dex-distributed-exchange-support)
+- [スマートコントラクトが流行する中でのSkycoinプロジェクトの位置づけ](#skycoin-projects-position-on-the-smart-contracts-fad)
 - [CX](#cx)
-- [Skycoin Roadmap Finished](#skycoin-roadmap-finished)
-- [First Distributed Social Media Platform on Skycoin Platform Launches](#first-distributed-social-media-platform-on-skycoin-platform-launches)
-- [Skycoin OTC Market](#skycoin-otc-market)
+- [完了したSkycoinロードマップ](#skycoin-roadmap-finished)
+- [Skycoinプラットフォーム上の最初の分散ソーシャルメディアプラットフォームのローンチ](#first-distributed-social-media-platform-on-skycoin-platform-launches)
+- [Skycoin OTC 市場](#skycoin-otc-market)
 
 ## Q&A
 
@@ -337,7 +337,7 @@ Skycoin CoinJoin取引は、同じ取引において複数のウォレットか�
 これにより、Bitcoinで最も一般的なdeanoymizingが防止されます。
 完全に実装されると、高度に複雑なゼロ知識証明システムの必要性を排除することによって、ZeroCoin実装よりも複雑さと計算オーバーヘッドのオーダーが少ない、トランザクションプライバシーのZeroCoinレベルの数学的保証をSkycoinに提供します。
 
-## Skycoin (DEX) 分散取引サポート
+## Skycoin 分散取引サポート(DEX) 
 
 私たちは現在、Skycoinの相対時間ロックを持つ、ハードコーディングされた、2要素のマルチ署名トランザクション型を設計しています。
 この新しいトランザクションタイプは、SkycoinとSkyledgerのすべてのコインでDEXとアトミックスワップのサポートを有効にします。
