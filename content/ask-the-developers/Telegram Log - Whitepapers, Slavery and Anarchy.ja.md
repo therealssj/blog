@@ -308,7 +308,7 @@ Fortune500やGoogleのような企業で働いていれば、秘密情報保護�
 
 **Artem Kotelskiy**
 
-研究者が本当に気にしているのは自身の身の安全のみでしょう。
+研究者が本当に気にしているのは自分の保身だけでしょう。
 
 GoogleもAmazonも大した企業だとは思いませんが、従業員はたしかに優秀かもしれません。
 
@@ -470,51 +470,51 @@ Anarchist（無政府主義者）の語源はAn-archonです。Anはwithout（�
 
 **Synth**
 
+（笑）
 
+matthieu *[Synthへの返答]*
 
-matthieu *[In reply to Synth]*
+賛成です。
 
-👍🏾agree completely
+**Synth** *[Artem Kotelskiyへの返答]*
 
-**Synth** *[In reply to Artem Kotelskiy]*
+いえ、問題は人間の本質にあるのです。
 
-No. The problem is human nature.
+奴隷という存在を自由にすることはできません。一旦自由にされたとしても新たな主人を見つけるだけでしょう。実際、人びとは奴隷になることを望み、選択をしているのです。この人びとは今よりも優しい奴隷使いを探すことしか頭にないのです。 
 
-You cannot free slaves. They will just find another master. They *want* and choose to be slaves. They just want a slave driver with a softer whip.
+例えば、リーダーとして選ばれる人物は、人が何を望み、何をおそれるべきかを語ることが期待されます。なぜなら、人びとは自らそうすることを拒否しているからです。
 
-Look at how people spontaniously elect leaders to tell them what to do and tell them how they should live and what they should fear. Because they refuse to do it themselves.
+**matthieu** *[Artem Kotelskiyへの返答]*
 
-matthieu *[In reply to Artem Kotelskiy]*
+チームメンバーの写真や経歴を掲載するよりも、Skycoinの開発の裏にある価値観や信条を公開した方が、目的にかなうかもしれませんね。
 
-Actually maybe it would serve the coin more to put forward the ideology behind as synth put it rather than having a few faces....
+**matthieu**
 
-matthieu
+Skycoinの深い動機や価値観をこれまで知りませんでしたが、Synth氏の説明を聞いて、このコインのことがさら気に入りました。人びとは一晩で億万長者になることに夢中になって忘れがちですが、仮想通貨の世界が目指すところを思い出すことは重要だと思います。 
 
-Synth So far I didn't know what were your motivations/values and  deep ideology. Now I am an even bigger supporter of the coin. This is important to remind the final aim of all of this... Loads of ppl forget and just want to be overnight millionaires by buying into ICOs...
+**Synth** *[matthieuへの返答]*
 
-**Synth** *[In reply to matthieu]*
+人びとは億万長者にとどまらず、百兆規模の富を狙っています。笑 バブルが弾けるまでの短い間ですが、百兆規模の富が個人の手に渡るでしょう。 
 
-Trillionaires lol. Worlds first trillionaires. Briefly until this bubble bursts.
+一晩で億万長者となるという物語は1994年に語られ尽くされています。
 
-Millionaire is so 1994
+**matthieu**
 
-matthieu
-
-😂😂
+（笑）
 
 **Synth**
 
-Bitcoin gets pushed up to $5000 but if even 1% of holders sold it would be back at $2000. So very high price increase vs the market depth.
+Bitcoinの価格は5000ドルまで上昇していますが（2017年9月当時）、1%の保有者が売却すれば価格は2000ドルまで下がります。これからのBitcoinの価格推移は、市場の深さと価格上昇の関係にかかっているでしょう。 
 
-I think we could see trillionaires or people worth more than Billgates briefly, before they start moving money out and it implodes.
+ビル・ゲイツよりも裕福な、百兆規模の富を持つ人びとが短期間ですが現れるでしょう。この人びとがコインを現金化するときがバブルの終わりです。
 
-Altcoins, unlike real estate and stocks, have no price ceiling. There is no fundamental economics or mathematics keeping the price from going up to infinity.
+アルトコインは不動産や株価と異なり、価格に天上がありません。なぜなら、価格上昇を抑えるような、ファンダメンタルな経済や数学が存在しないからです。
 
-There is no revenues or loss and no objective way to determine that a buggy "smart contract" platform no one uses, should not be worth $250 billion dollars.
+収入や支出は存在せず、そうなると、例えばバグばかりの「スマートコントラクト」のプラットフォームの市場価値が250兆ドルだと評価する客観的な指標はどこにもありません。
 
 **Steve**
 
-A Distributed Consensus Algorithm for Cryptocurrency Networks
+A Distributed Consensus Algorithm for Cryptocurrency Networks（仮想通貨ネットワークのための分散型合意形成アルゴリズム）
 https://github.com/skycoin/whitepapers/blob/master/whitepaper_skycoin_consensus_v01_jsm.pdf
 
-Is the most recent consensus algorithm whitepaper
+リンク先が最新の合意形成アルゴリズムに関する論文になります。
