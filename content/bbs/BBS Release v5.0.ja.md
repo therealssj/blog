@@ -1,5 +1,5 @@
 +++
-title = "Skycoin BBS v5.0 Release Announcement"
+title = "Skycoin BBS v5.0 リリースのお知らせ"
 tags = [
     "Development",
     "BBS",
@@ -12,46 +12,55 @@ categories = [
 ]
 +++
 
-Skycoin BBS v5.0 has finally been released with many changes under the hood!
+ついにSkycoin BBS v5.0が多くの変更を加えてリリースされました！
 
-## Thin Client
+## シンクライアント
 
-The most apparent change of all, is the introduction of the thin client. You can now access Skycoin BBS without setting up a node! Just head to [bbs.skycoin.net](http://bbs.skycoin.net). 
+最も大きな変化は、シンクライアントの導入です。 
+ノードを設定せずにSkycoin BBSにアクセスできるようになりました！
+[bbs.skycoin.net](http://bbs.skycoin.net)へぜひ。
 
-In previous versions, one can only (and should only) access/submit content via a web user interface that is served locally. As this web-interface (and the API that it calls) has direct control over the node itself, and signs content with private keys that are stored in-node (or server-side), it is not appropriate to expose it to the public.
+以前のバージョンでは、ローカルに提供されるWebユーザーインターフェイスを介してコンテンツにアクセスしたり、コンテンツの送信をしたりすること（のみ）ができました。
+このWebインターフェイス（およびそれが呼び出すAPI）はノード自体を直接制御し、ノード内（またはサーバー側）に格納された秘密キーでコンテンツに署名するため、公開することは適切ではありません。
 
-Hence, the introduction of a thin-client requires that user management, and the process of signing content for submission, to be handled client-side. This requires a completely revamped content-submission endpoint (or endpoints), and heavy changes to the front-end.
+したがって、シンクライアントの導入において、ユーザー管理、および提出するコンテンツに署名するプロセスをクライアント側で処理する必要があります。
+これには、まるごと改良されたコンテンツ提出エンドポイントと、フロントエンドへの大幅な変更が必要です。
 
 Details on the new content submission process can be found on the BBS Wiki: [github.com/skycoin/bbs/wiki/Content-Submission-Process](https://github.com/skycoin/bbs/wiki/Content-Submission-Process).
+新しいコンテンツ提出プロセスの詳細は、BBS Wiki：[github.com/skycoin/bbs/wiki/Content-Submission-Process](https://github.com/skycoin/bbs/wiki/Content-Submission-Process)
 
-Currently, the front-end loads very slowly. This is caused from the use of [GopherJS](https://github.com/gopherjs) to handle seed and public/private key generation, as well has signing and verification of data. In future releases, we will make use of native JavaScript libraries to improve performance.
+現在、フロントエンドの読み込みは非常に遅いです。
+これは、GopherJSを使用してシードおよび公開鍵/秘密鍵の生成を処理し、データの署名と検証を行うことによって発生します。
+今後のリリースでは、純粋なJavaScriptライブラリを使用してパフォーマンスを向上させていきます。
 
-## Command-line Interface
 
-After the introduction of a publicly-visible thin-client, we removed API endpoints that handled administrative control and introduced a command-line interface to deal with such interactions. 
+## コマンドラインインターフェイス
 
-More information on this can be found here: [github.com/skycoin/bbs/tree/master/cmd/bbscli](https://github.com/skycoin/bbs/tree/master/cmd/bbscli).
+公開されているシンクライアントの導入後、管理上の制御を処理するAPIエンドポイントを削除し、そのようなインタラクションに対処するためのコマンドラインインターフェイスを導入しました。
 
-## Other Improvements
+詳細は、こちらを参照してください：[github.com/skycoin/bbs/tree/master/cmd/bbscli](https://github.com/skycoin/bbs/tree/master/cmd/bbscli)
 
-* Improvements to Import/Export (unfortunately this is not backwards compatible with import/export for BBS v4.x)
-* Simplifications to code and performance improvements for remote submission and interaction with Skycoin Messenger. Updated to use the latest Messenger.
-* Improved file-management performance.
-* Better handling of invalid CXO roots.
-* Better handling of disconnections.
+## 他の改善点
 
-## Downloads
+* インポート/エクスポートの改善。（残念ながら、BBS v4.xのインポート/エクスポートとの上位互換性はない。）
+* スカイコインメッセンジャーとのリモート提出とインタラクションのためのコードとパフォーマンスの改善の簡素化。最新のメッセンジャーを使用するように更新された。
+* ファイル管理のパフォーマンスの向上。
+* 無効なCXOルートの処理の改善。
+* 接続の切断の取り扱いの改善。
 
-To download BBS, head to [github.com/skycoin/bbs/releases](https://github.com/skycoin/bbs/releases) (source code will be here too).
 
-Note that you can also access BBS via [bbs.skycoin.net](http://bbs.skycoin.net).
+## ダウンロード
 
-## Documentation
+BBSをダウンロードするには、[github.com/skycoin/bbs/releases](https://github.com/skycoin/bbs/releases)　にアクセスしてください（ソースコードもここにあります）。
 
-We have started a wiki page at [github.com/skycoin/bbs/wiki](https://github.com/skycoin/bbs/wiki).
+[bbs.skycoin.net](http://bbs.skycoin.net)からBBSにアクセスすることもできます。
 
-Please understand that this is still work in progress.
+## ドキュメント
 
-## Community
+wikiページを[github.com/skycoin/bbs/wiki](https://github.com/skycoin/bbs/wiki)　で始めました。
 
-We have a Telegram channel: [@skycoinbbs](https://t.me/skycoinbbs).
+これはまだ進行中であることをご理解ください。
+
+## コミュニティ
+
+Telegram チャンネル: [@skycoinbbs](https://t.me/skycoinbbs).
