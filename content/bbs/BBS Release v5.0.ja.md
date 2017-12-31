@@ -26,7 +26,7 @@ categories = [
 したがって、シンクライアントの導入において、ユーザー管理、および提出するコンテンツに署名するプロセスをクライアント側で処理する必要があります。
 これには、まるごと改良されたコンテンツ提出エンドポイントと、フロントエンドへの大幅な変更が必要です。
 
-Details on the new content submission process can be found on the BBS Wiki: [github.com/skycoin/bbs/wiki/Content-Submission-Process](https://github.com/skycoin/bbs/wiki/Content-Submission-Process).
+Details on the new content submission process can be found on the BBS Wiki: [github.com/skycoin/bbs/wiki/Content-Submission-Process](https://github.com/skycoin/bbs/wiki/Content-Submission-Process)
 新しいコンテンツ提出プロセスの詳細は、BBS Wiki：[github.com/skycoin/bbs/wiki/Content-Submission-Process](https://github.com/skycoin/bbs/wiki/Content-Submission-Process)
 
 現在、フロントエンドの読み込みは非常に遅いです。
@@ -63,4 +63,4 @@ wikiページを[github.com/skycoin/bbs/wiki](https://github.com/skycoin/bbs/wik
 
 ## コミュニティ
 
-Telegram チャンネル: [@skycoinbbs](https://t.me/skycoinbbs).
+Telegram チャンネル: [@skycoinbbs](https://t.me/skycoinbbs)
