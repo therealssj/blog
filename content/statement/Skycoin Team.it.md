@@ -1,5 +1,5 @@
 +++
-title = "Skycoin Team"
+title = "Il Team di Skycoin"
 tags = [
     "Statement",
 ]
@@ -10,70 +10,70 @@ categories = [
 ]
 +++
 
-This is the current Skycoin team.
+Questa è la squadra corrente si Skycoin.
 
 ## Marketing
 
-Michael Terpin (Coinovate, [CoinAgenda](http://www.coinagenda.com/), BitAngels) and
+Michael Terpin (Coinovate, [CoinAgenda](http://www.coinagenda.com/), BitAngels) e
 Richard Kastelein ([Blockchain News](http://www.the-blockchain.com/),
 [CryptoAssets Design Group](http://www.cryptoassets.io/))
-are advisors to the project and assisting with marketing.
+sono consulenti del progetto e assistono con il marketing.
 
-A handful of others are focused on various aspects of communications,
-marketing and content production.
+Una manciata di altri sono focalizzati su vari aspetti della comunicazione,
+marketing e produzione di contenuti.
 
-## Development/Research/Management
+## Sviluppo/Ricerca/Management
 
-Synth is the architect and project figurehead. He has a background in mathematics and cryptography.
+Synth è l'ideatore dell'architettura e del progetto. Ha un background in matematica e crittografia.
 
 * Telegram: @haltingstate
 
-Steve is a developer and now project manager. He wrote most of the original Skycoin software in 2013–2014.
+Steve è uno sviluppatore e ora project manager. Ha scritto la maggior parte del software Skycoin originale nel 2013-2014.
 
 * github: https://github.com/gz-c
 * Telegram: @tokenc
 * Slack: @gzc-skycoin
 * Discord: @tokenc#0716
 
-iketheadore is a developer working on Skycoin core for a few years.
+iketheadore è uno sviluppatore che lavora sul core Skycoin da alcuni anni.
 
 * Github: https://github.com/iketheadore
 
-Monty Crypto (Xa No) is a developer working on the Skycoin wallets (desktop, mobile, web).
+Monty Crypto (Xa No) è uno sviluppatore che lavora sui portafogli Skycoin (desktop, mobile, web).
 
 * Github: https://github.com/montycrypto
 * Telegram: @xano137
 
-Erich Quist is designing the new Skycoin wallets and website.
+Erich Quist sta progettando il nuovo portafoglio e sito web Skycoin.
 
 * Telegram: @erichquist
 
-meam364 is the website developer.
+meam364 è lo sviluppatore del sito web.
 
 * Github: https://github.com/meam364
 
-Evan is a developer working on the BBS application.
+Evan è uno sviluppatore che lavora sull'applicazione BBS.
 
 * Github: https://github.com/evanlinjin
 * Telegram: @shinogo
 
-johnstuartmill wrote the most recent Obelisk consensus algorithm whitepaper
-and is working on an implementation. He has a background in mathematics.
+johnstuartmill ha scritto il più recente whitepaper sugli algoritmi di consenso di Obelisk
+e sta lavorando ad un'implementazione. Ha una formazione in matematica.
 
-nyf is a developer doing frontend work for the bbs and sky-messenger.
+nyf è uno sviluppatore che lavora all'interfaccia per bbs e sky-messenger.
 
 * Github: https://github.com/feifeiwoye
 
-Weng Zhiyi is a developer working on Skywire and sky-messenger.
+Weng Zhiyi è uno sviluppatore che lavora su Skywire e sky-messenger.
 
 * Github: https://github.com/vyloy
 
-amherag is developing our CX programming language.
+amherag sta sviluppando il nostro linguaggio di programmazione CX.
 
 * Github: https://github.com/amherag
 
-logrusorgru is developing CXO, our distributed object storage system
+logrusorgru sta sviluppando CXO, il nostro sistema di archiviazione di oggetti distribuiti.
 
 * Github: https://github.com/logrusorgru
 
-Two or three people are working on the Skywire miner hardware.
+Due o tre persone stanno lavorando all'hardware minatore Skywire.
