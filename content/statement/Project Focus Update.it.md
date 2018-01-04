@@ -212,41 +212,43 @@ Ecco perché tutta l'attenzione è focalizzata sulla tecnologia e su fondamental
 metriche, invece di eseguire una *penny stock pump and dump*. In questo mercato, cio che c'è da fare
 è onestamente un enorme handicap.
 
-We anticipate that during these bubbles, people will make a lot of money
-speculating on dubious assets and projects, however as the bubble deflates the
-smart money will rebalanced away from the speculative assets into projects
-which have a foundation in reality and not merely speculative (flight to
-safety). The current alt-coin market has a penny stock pump and dump, horse
-betting mentality and is not favorable for real projects. The current market
-for crypto-asset is still purely speculator driven.
+Anticipiamo che durante queste bolle la gente farà molti soldi
+speculando su beni e progetti dubbi, tuttavia mentre la bolla si sgonfia
+gli smart-money verranno riequilibrati dai beni speculativi in ​​progetti
+che hanno un fondamento nella realtà e non meramente speculativo (fuga verso la
+sicurezza). L'attuale mercato alt-coin *penny-stock pump-and-dump*, mentalità
+da scommettitore ippico e non è favorevole ai progetti reali. Il mercato attuale
+per cripto-asset è ancora puramente guidato dagli speculatori.
 
-The current crypto-assets market:
+L'attuale mercato dei cripto-beni:
 
-- Instead of being driven by reason, it is driven by emotion
-- Instead of being driven by reality, it is driven by perception.
-- Instead of being driven by value, it is driven by speculation
+- Invece di essere guidato dalla ragione, è guidato dall'emozione
+- Invece di essere guidato dalla realtà, è guidato dalla percezione.
+- Invece di essere guidato dal valore, è guidato dalla speculazione
 
-We wanted to differentiate Skycoin by moving away from this and preparing for
-the phase when the money shifts away from the speculative coins into a
-fundamental or value driven market. However, majority of the market for the
-immediate future is going to be valueless asset tokens, with no revenue or
-income and no economic purpose and no economic activity, which have hundred
-million dollar or billion dollar valuations. The sole value of the token, being
-that there are people are wiling to buy the tokens for harder, spendable
-currencies like Bitcoin or fiat (pump and dump).
+Volevamo differenziare Skycoin allontanandoci da questo e preparandoci
+la fase in cui il denaro si sposta dalle monete speculative in un
+mercato fondamentale orientato al valore. Tuttavia, la maggior parte del mercato per
+il futuro prossimo diventerà titoli di asset senza valore, senza entrate o
+reddito e nessun fine economico o nessuna attività economica, che ha una vlutazione di centinaia
+di milioni di dollari o miliardi di dollari. L'unico valore del token, stando
+che ci sono persone che vogliono comprare i token più solidi e spendibili
+come Bitcoin o fiat (pump-and-dump).
 
-I believe the next stage of crypto-currencies we are entering will be coins
-based upon user communities, real economic activity, crypto based applications
-and commodity backed coins (power grid tokens, bandwidth/telecom coins). Where
-as the current generation is based upon marketing slogans "We are IoT" (with no
-IoT devices) and "We have Smart Contracts" (that no one uses).
 
-Then Skycoin also have a large segment of the community is also very patient
-and is testing out new software (with bugs) or that is difficult to use and
-install (like the BBS app, mobile wallet and Skymesssanger). So they have some
-experience with what we are building that the public has not seen and which has
-not been marketing etc. Many people are closely and personally tracking the
-Skycoin project progress now and testing the applications.
+
+Credo che la prossima fase delle criptovalute che stiamo entrando siano le monete
+basate su comunità di utenti, attività economiche reali, applicazioni basate su crittografia
+e monete supportate da materie prime (gettoni della rete elettrica, monete della banda internet/telecomunicazione). Dove
+poiché l'attuale generazione si basa sugli slogan di marketing "We are IoT" (con nessun
+Dispositivo IoT) e "Abbiamo Smart Contracts" (che nessuno usa).
+
+Quindi Skycoin ha anche un ampio segmento della comunità è anche molto paziente
+e sta testando un nuovo software (con bug) o che è difficile da usare e
+installare (come l'app BBS, il portafoglio mobile e Skymesssanger). Quindi alcuni hanno
+esperienza con ciò che stiamo costruendo che il pubblico non ha visto e che
+non è stato pubblicizzato con marketing ecc. Molte persone stanno seguendo da vicino e personalmente
+i progetti Skycoin che avanzano ora testano le applicazioni.
 
 The price has also been tracking the Yuan and USD. However, in the long term we
 expect Skycoin will resume tracking BTC. Especially after the OTC market is
@@ -258,6 +260,17 @@ has been occurring continuously over years. It can also reflect what happens
 when a coin breaks the level of conscienceness, due to onset of sudden, high
 intensity, focused marketing and exchange listings (which takes months or years
 to prepare and lay the foundation for).
+
+Il prezzo ha anche seguito lo yuan e l'USD. Tuttavia, a lungo termine noi ci
+aspettiamo che Skycoin riprenda la scia di BTC. Soprattutto dopo il mercato OTC
+integrato.
+
+Il prezzo è una metrica in ritardo, quindi non è utile. Gli apprezzamenti di prezzo possono essere
+estremamente violenti e rapidi e riflettono spesso la crescita o l'adeguamento degli utenti che
+si sono verificati ininterrottamente nel corso degli anni. Può anche riflettere ciò che accade
+quando una moneta rompe il livello di coscienza, a causa di improvvisi,
+intense, attività di marketing e inserimento in *exchange* (che richiede mesi o anni
+per preparare e gettare le basi).
 
 ### Exchange Listings
 
