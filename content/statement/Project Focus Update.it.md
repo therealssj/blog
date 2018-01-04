@@ -99,47 +99,46 @@ flusso in uscita e perdite) e chi scambia a 120x la capitalizzazione di mercato 
 pochissimi progetti blockchain che in realtà hanno sviluppatori, veri utenti
 comunità o tecnologia effettiva che è utile o può mantenere una base di utenti.
 
-The active userbase metrics for Skycoin have increased 8x, but the price has
-been stable. The price is not the best metric for evaluation, because it is a
-lagging indicator and lags behind technology, development, marketing and user
-community by months or years.
+Le metriche base degli utenti attive per Skycoin sono aumentate di 8 volte, ma il prezzo è rimasto
+stabile. Il prezzo non è la migliore metrica per la valutazione, perché è un
+indicatore latente e in ritardo rispetto a tecnologia, sviluppo, marketing e alla comunità di utenti
+di mesi o anni.
 
-Internally, we do not use the price a metric but look at fundamentals such as:
+Internamente, non usiamo il prezzo come metrica, ma osserviamo i dati come:
 
-- technology development and readiness status
-- user community growth
-- activity and application adaption
-- usability improvements
-- improvements in marketing effort and Skycoin structure/organization (how many
-  people are active in the bountry program)
+- lo sviluppo della tecnologia e lo stato di avanzamento
+- crescita della comunità di utenti
+- attività e adattamento dell'applicazione
+- miglioramenti dell'usabilità
+- miglioramenti nello sforzo di marketing e nella struttura/organizzazione Skycoin (quante sono
+  le persone sono attive nel programma bounty)
 
-As we have improved the coin and marketing **the Skycoin volume has decreased**
-because people have been less willing to sell. When we release major news, the
-Skycoin price does not increase, but the volume decreases because there are
-fewer people selling at the market clearing price. When we have done coin drops
-for testing, the skycoin price goes up, as we sell coins onto the market.
+Poiché abbiamo migliorato la monetizzazione e il marketing ** il volume Skycoin è diminuito **
+perché le persone sono state meno disposte a vendere. Quando pubblichiamo notizie importanti, il
+prezzo Skycoin non aumenta, ma il volume diminuisce perché ci sono
+meno persone che vendono al prezzo di compensazione del mercato. Quando abbiamo fatto monete di prova
+per i test, il prezzo skycoin sale se vendiamo le monete sul mercato.
 
-Normally, the coefficient is negative. As you sell X coins onto the market, the
-market price should decline by Y. However, the market price goes up. The linear
-coefficient for the market's impulse response function has the wrong sign. "The
-more coins we sell the more the Skycoin price goes up".
+Normalmente, il coefficiente è negativo. Mentre vendi X monete sul mercato, il
+il prezzo di mercato dovrebbe diminuire di Y. Tuttavia, il prezzo di mercato sale. Il lineare
+coefficiente per la funzione di risposta all'impulso del mercato ha il segno sbagliato. 
+"più monete vendiamo, più il prezzo Skycoin sale ".
 
-When people sell Skycoin the psychology is "Someone is dumping" and people try
-to lure them into dumping more by increasing the price. The buyers of Skycoin
-are trying to acquire long term positions (maximizing the absolute number of
-coins). So they are buying over time, without increasing the price. However,
-the sellers are not willing to sell at the current price.
+Quando la gente vende Skycoin la psicologia è "Qualcuno sta facendo *dumping*" e la gente prova
+per attirarli maggiormente in *dumping* aumentando il prezzo. Gli acquirenti di Skycoin
+stanno cercando di acquisire posizioni a lungo termine (massimizzando il numero assoluto di
+monete). Quindi stanno acquistando nel tempo, senza aumentare il prezzo. Però,
+i venditori non sono disposti a vendere al prezzo corrente.
 
-This is consistent with what we are seeing on the OTC markets. There are some
-people who have 30% or 40% of their total cryptos holdings shifted into Skcoin
-and they are buying and holding and not participating actively on the markets (
-but instead waiting for future appreciation).
+Questo è coerente con quello che stiamo vedendo nei mercati OTC. Ci sono alcune
+le persone che hanno il 30% o il 40% delle loro partecipazioni totali in criptovalute e sono passate a Skcoin
+e stanno comprando e detenendo e non partecipando attivamente ai mercati (in attesa di apprezzamento futuro).
 
-So the market psychology of the Skycoin market is different than Monero or
-Dogecoin, where people are just sitting there day trading around the price and
-creating a high volume. Once we are on a larger exchange, we will see more day
-trading and high volume, but the buy and hold for early stage or emerging
-coins, does not generate a lot of volume.
+Quindi la psicologia del mercato del mercato Skycoin è diversa da quella di Monero o
+Dogecoin, dove le persone stanno sedute davanti al pc facendo trading sul prezzo e
+creando un volume elevato. Una volta che saremo in uno scambio più ampio, vedremo più giorni
+creando un volume elevato, ma il buy e hold per uno stage iniziale o per monete emergenti
+non genera molto volume.
 
 We tried for a few times to do "market making" and put 10 BTC on both the bid
 and ask side, but the coins were all bought up and exhausted very quickly and
