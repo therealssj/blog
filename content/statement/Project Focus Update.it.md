@@ -236,7 +236,6 @@ che ci sono persone che vogliono comprare i token più solidi e spendibili
 come Bitcoin o fiat (pump-and-dump).
 
 
-
 Credo che la prossima fase delle criptovalute che stiamo entrando siano le monete
 basate su comunità di utenti, attività economiche reali, applicazioni basate su crittografia
 e monete supportate da materie prime (gettoni della rete elettrica, monete della banda internet/telecomunicazione). Dove
@@ -249,17 +248,6 @@ installare (come l'app BBS, il portafoglio mobile e Skymesssanger). Quindi alcun
 esperienza con ciò che stiamo costruendo che il pubblico non ha visto e che
 non è stato pubblicizzato con marketing ecc. Molte persone stanno seguendo da vicino e personalmente
 i progetti Skycoin che avanzano ora testano le applicazioni.
-
-The price has also been tracking the Yuan and USD. However, in the long term we
-expect Skycoin will resume tracking BTC. Especially after the OTC market is
-integrated.
-
-Price is a lagging metric, so is not useful.  Price appreciations can be
-extremely violent and rapid and often reflect userbase growth or adaption that
-has been occurring continuously over years. It can also reflect what happens
-when a coin breaks the level of conscienceness, due to onset of sudden, high
-intensity, focused marketing and exchange listings (which takes months or years
-to prepare and lay the foundation for).
 
 Il prezzo ha anche seguito lo yuan e l'USD. Tuttavia, a lungo termine noi ci
 aspettiamo che Skycoin riprenda la scia di BTC. Soprattutto dopo il mercato OTC
@@ -274,88 +262,83 @@ per preparare e gettare le basi).
 
 ### Exchange Listings
 
-The scheduled listing on US exchanges was affected by the SEC letter. **The US
-exchanges still have not resumed listing new coins.**
+La programmazone sul *listing* sulle borse statunitensi era influenzata dalla lettera SEC. **Gli exchange
+statunitensi non hanno ancora ripreso ad elencare nuove monete. **
 
-We think all the US exchanges will be dead or irrelevant within two years.
+Pensiamo che tutti gli exchange statunitensi saranno morti o irrilevanti entro due anni.
 
-Any US jurisdiction can be seized and the customers coins stolen by the
-government at any time (similar to what happened to eGold when the US
-government seized the customers collateral and kept it or MtGox when it went
-into receivership). There is an extremely long history of governments (
-especially the US government) just seizing assets and collateral belonging to
-customers and just stealing the money and assets.
+Qualsiasi giurisdizione degli Stati Uniti può essere sequestrata e le monete dei clienti rubate dal
+governo in qualsiasi momento (simile a quello che è successo a eGold quando negli Stati Uniti
+il governo ha sequestrato le garanzie dei clienti e l'ha ottenuto o a MtGox quando è andato
+in amministrazione controllata). C'è una storia estremamente lunga di governi 
+(in particolare il governo degli Stati Uniti), semplicemente sequestrando beni e garanzie appartenenti a
+clienti o rubarndo denaro e beni.
 
-Current regulatory actions in the United States, Japan, Korean and China are
-accelerating the schedule for adaption of DEX (decentralized exchange)
-technology.
+Attuali azioni regolatorie negli Stati Uniti, Giappone, Corea e Cina stanno
+accelerando il programma di adattamento della tecnologia DEX (exchange decentrato).
 
-We should have accelerated and prioritized the time table for exchange listings
-last year. This set our time table back six months, but is not major problem.
+Dovremmo avere accelerato e aver dato la priorità alla tabella di marcia per il 
+listing negli exchange lo scorso anno. Ciò ci ha posti in ritardo di sei mesi, ma non è un problema grave.
 
-Most of the large coin holdings have been moved off exchange are essentially
-illiquid because of the risk of theft from government seize, risk of exchange
-being hacked and/or holders being unwilling to submit themselves to the
-invasive tracking and surveillance that use of the current exchange entails.
+La maggior parte delle grandi scorte di monete che sono state trasferite fuori dall'exchange sono essenzialmente
+illiquide a causa del rischio di furto da parte del governo, rischio dell'exchange
+essere hackerato e/o i titolari non sono disposti a sottomettersi al
+monitoraggio e alla sorveglianza invasive che comporta l'uso degli exchange attuali.
 
-Since most of the Bitcoin are off-market and not on the order books (
-non-exchange traded), for the above reasons, the market for crypto assets is
-being set largely by a small number of high speed arbitrage firms with massive
-volume, whose positions in the order book are extremely thin compared to the
-total volume of coins in circulation. Meaning that if people attempted
-liquidation of even 1% of the outstanding volume of issued coins, there would
-be a severe decrease in coin price and inability to find buyers at the current
-market price without taking a 30% to 70% discount (depending on the magnitude
-of the capital outflows which are occurring at the same time).
+Poiché la maggior parte dei Bitcoin è fuori mercato e non sugli *Order books*
+(non scambiati), per le ragioni sopra esposte, il mercato delle attività criptate è
+regolato in gran parte da un piccolo numero di aziende di arbitraggio ad alta velocità con enormi dimensioni
+volume, le cui posizioni nel libro degli ordini sono estremamente sottili rispetto al
+volume totale di monete in circolazione. Significa che se la gente che ha tentato la
+liquidazione di anche l'1% del volume in sospeso di monete emesse, ci sarebbe
+una grave diminuzione del prezzo delle monete e l'incapacità di trovare acquirenti al momento del
+prezzo di mercato senza uno sconto dal 30% al 70% (a seconda della grandezza
+dei deflussi di capitali che si verificano nello stesso momento).
 
-The crypto volumes are are very large, but deceptive because the volume is from
-high frequency bots and does not reflect the order-book depth. Even 1% of coins
-being dumped can completely destroy the order book.
+I volumi dlle criptovalute sono molto grandi, ma ingannevoli perché il volume proviene da
+bot ad alta frequenza e non riflette la profondità del *book-book*. Anche l'1% delle monete
+*dumpate* può distruggere completamente il portafoglio ordini.
 
-DEX will allow a larger number of coins to be active on the market and order
-book and increase stability by increasing the orderbook depth (because large
-holders do no longer need to worry about counter party risk and having their
-coins stolen, seized or hacked by keeping them on exchange). The increased
-order book depth should decrease volatility and make it more more difficult for
-a small number of players to cause large price movements and market
-manipulations.
+DEX consentirà a un maggior numero di monete di essere attive sul mercato e sugli *order book*
+e aumenta la stabilità aumentando la profondità del *bookbook* (perché grandi
+titolari non devono più preoccuparsi del rischio della controparte  di vedere le loro
+monete rubate, sequestrate o hackerate tenendole negli exchange). L'aumento di ampiezza
+degli *order book* dovrebbe diminuire la volatilità e renderla più difficile per
+un piccolo numero di giocatori di causare grandi movimenti di prezzo e manipolazioni del mercato.
 
-So we are expecting most of the market to move to DEX and most of the coin
-volume to move to coins that have lower transaction times (away from bitcoin)
-to the coins whose transaction times are closer to the rate of exchanges (
-currently impossible for all coins based upon PoS/PoW and which has only now
-become possible with new consensus algorithms, such as Skycoin Obelisk).
+Quindi ci aspettiamo che la maggior parte del mercato passerà a DEX e gran parte del volume di moneta
+passerà da monete con tempi di transazione inferiori (lontano da bitcoin)
+alle monete i cui tempi di transazione sono più vicini al tasso di cambio (
+attualmente impossibile per tutte le monete basate su PoS / PoW e che ha solo ora
+diventa possibile con nuovi algoritmi di consenso, come Skycoin Obelisk).
 
-I think exchange centralization is a fad or a phase (like MtGox).
+Penso che la centralizzazione dello scambio sia una moda o una fase (come MtGox).
 
-We will see more of the altcoin markets internalized because of the regulation
-and then eventually moved to DEX (decentralized exchange).
+Vedremo più dei mercati altcoin interiorizzati a causa del regolamento
+e poi alla fine spostati a DEX (exchange decentrato).
 
-We are still working with the existing exchange, but are starting development
-of the Skycoin OTC market and our exchange federation protocol for enabling DEX.
+Stiamo ancora lavorando con l'exchange esistente, ma stiamo iniziando lo sviluppo
+del mercato di Skycoin OTC e il nostro protocollo di federazione degli scambi per abilitare DEX.
 
-What is happening is the exchanges are forming "self-regulatory" committees to
-block the creation of new exchanges (the business is very profitable and they
-are making 0.1% on each side of every trade on very high volumes). Unless they
-can regulate out new competitors, the exchanges are unable to maintain their
-high transaction and trading fees. Then they are creating "white lists" by
-country and only allowing the listing of crypto assets that the investors/owner
-groups of the exchanges have invested in or own a large percentage of.
+Quello che sta accadendo è che gli exchange stanno costituendo comitati di "autoregolamentazione" per
+bloccare la creazione di nuovi exchange (il business è molto redditizio e loro
+stanno facendo lo 0,1% su ciascun fronte di ogni movimento su volumi molto alti). A meno che loro
+possano regolamentare nuovi concorrenti, gli scambi non sono in grado di mantenerli a causa di
+alte commissioni di transazione e di negoziazione. Quindi stanno creando "liste bianche" di
+paesi e consentono solo la quotazione di beni criptati che i gruppi di investitori / proprietari
+in cui gli investitori degli exchange hanno investito o possiedono una grande percentuale.
 
-The crypto-markets are forming into a new cabal, that is almost identical in
-structure and function to the wall-street cabal Bitcoin was developed to rebel
-against.
+I cripto-mercati si stanno trasformando in una nuova cabala, che è quasi identica alla
+struttura e funzione della cabala di wall-street ove Bitcoin è stato sviluppato per ribellarsi contro.
 
-- the mining pool cabal (the three mining pools that control the network. Now
-  being challenged by state backed mining pools, such as the Russian government
-  backed entity)
-- the exchange cabal (the exchanges approved to convert between fiat and
-  crypto, who price fix the trading fees and exchange fees and use regulation
-  or connections with legacy banking system to exclude competition)
-- the coin white-list cabal (Apple white list, Korean whitelist, Japanese White
-  List, etc)
+- la cabala del *mining pool* (i tre *mining pool* che controllano la rete
+   sfidati da pool sostenuti dallo stato, come il governo russo)
+- la cabala degli exchange (gli exchange approvati per la conversione tra fiat e
+   cripto, che fissano il prezzo delle commissioni di negoziazione e di cambio e usano la normativa
+   o connessioni con il sistema bancario per escludere la concorrenza)
+- la cabala della white-list delle monete (lista bianca Apple, whitelist coreana, lista bianca giapponese, ecc.)
 
-It is very upsetting to watch what is happening in the Bitcoin exchange market.
-I think this is another phase of crypto. There seems to be a cycle of
-consolidation and then re-decentralization in response to the abuses once an
-oligarchy has formed and begins to abuse their power.
+È molto sconvolgente osservare ciò che sta accadendo nel mercato dei cambi Bitcoin.
+Penso che questa sia un'altra fase di cripto. Sembra esserci un ciclo di
+consolidamento e poi ri-decentramento in risposta agli abusi una volta che
+l'oligarchia si è formata e comincia ad abusare del suo potere.
