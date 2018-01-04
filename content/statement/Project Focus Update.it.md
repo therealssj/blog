@@ -14,20 +14,20 @@ categories = [
 
 ### Mobile Wallet
 
-The Skycoin mobile wallet is done.
+Lo Skycoin mobile wallet è completato.
 
 [https://play.google.com/apps/testing/net.skycoin.mobile](https://play.google.com/apps/testing/net.skycoin.mobile)
 
 ### Branding, Design
 
-We are revamping the content pages for the Skycoin website
+Stiamo rinnovando il contenuto delle pagine per il sito Web Skycoin
 
-We have a new logo now.
+Abbiamo un nuovo logo ora.
 
-Bounty program has been up for a month. If anyone wants to make Skycoin videos,
-check the bounty program in telegram.
+Il programma Bounty è attivo da un mese. Se qualcuno vuole fare video Skycoin,
+controlli il programma *bounty* su Telegram.
 
-[Skycoin Branding Kit](https://www.skycoin.net/downloads/#assets)
+[Skycoin Branding Kit] (https://www.skycoin.net/downloads/#assets)
 
 ### Skywire
 
@@ -40,59 +40,64 @@ dashboard is currently under development.
 Then network will be fully usable for the public for VPN, Socks5 proxy and we
 will start moving applications on to the new network namespace.
 
-### New Wallet
+Skywire sta funzionando, ma sta ottenendo una riscrittura, per utilizzare la libreria di rete skycoin/net.
 
-Version 20 of the wallet is being released. This is a new wallet from scratch
-and has been in the github development branch of Skycoin for a month now.
+Il dashboard per la gestione dei cluster (gestore nodi) e la dashboard della rete globale è attualmente in fase di sviluppo.
 
-Version 20 is several dozen times faster than the old wallet.
+Quindi la rete sarà completamente utilizzabile per il pubblico attraverso VPN, Socks5 proxy e noi
+inizieremo a spostare le applicazioni su nuovi spazi dei nomi di rete.
+
+### Nuovo Wallet
+
+La versione numero 20 del portafoglio è stata rilasciata. Questo è un nuovo portafoglio creato da zero
+ed è stato nel ramo di sviluppo github di Skycoin per un mese ad ora.
+
+La versione 20 è diverse decine di volte più veloce del vecchio portafoglio.
 
 ### Project Focus
 
-> Quote from: LiskEnterprise on September 14, 2017, 11:03:15 PM
+> Citazione da: LiskEnterprise del 14 Settembre 2017, 11:03:15 PM
 
-> This forum is dead and the price is dead...
-There maybe a correlation.
-Becasue you moved to telegram there is no productive conversations here.
-BTC talk is the first place new crypto people go to study a new platform and
-they see nothing happening here.
+> Questo forum è morto e il prezzo è morto ...
+C'è forse una correlazione.
+Perché sei passato a telegram e non ci sono conversazioni produttive qui.
+Il discorso di BTC è il primo posto in cui nuove persone interessate vanno a studiare una nuova piattaforma e
+loro non vedono accadere nulla qui.
 
-The price is not dead.
+Il prezzo non è morto.
 
-**When we sell coins on the market, the price goes up.**
+**Quando vendiamo monete nel mercato, il prezzo sale.**
 
-It is impossible for people to buy at the price they want and no one wants to
-sell the coin. There is no reason you would sell a coin if it can go from $0.05
-to $600 in three months like Byteballs and other coins did. This is a well
-known dynamic for people who have been watching for the last eight years how
-the coin market operates. It is especially obvious to people who under the
-psychology of financial assets and how bubbles occur.
+È impossibile per le persone comprare al prezzo che vogliono e nessuno vuole
+vendere le monete. Non c'è motivo per cui potresti vendere una moneta se può andare da $ 0,05
+a $ 600 in tre mesi come Byteballs e altre monete. Questo e una dinamica ben conosciuta
+per le persone che hanno guardato negli ultimi otto anni come
+il mercato delle monete funzioni. È particolarmente ovvio per le persone che sotto il
+psicologia delle attività finanziarie e come si verifichino le bolle.
 
-All the coins like IOTA, Litecoin, Byteballs, Bitcoin had very long latency
-periods.
+Tutte le monete come IOTA, Litecoin, Byteballs, Bitcoin hanno avuto lunghi periodi di latenza.
 
-That is because exponential growth from a small user community, even at 1% per
-day growth rate takes years to growth to the point that it reaches public
-conscience.
+Questo perché la crescita esponenziale di una piccola comunità di utenti, anche all'1% per
+il tasso di crescita giornaliero impiega anni per crescere al punto da raggiungere la coscienza del pubblico.
 
-The user community, technology growth at a continuous, constant rate over
-years, but the asset appreciation occurs suddenly and violently (once the coin/
-asset/market breaks a critical threshold of awareness). Then suddenly what you
-only heard two or three times before over a few months, suddenly begins to
-appear everywhere. User growth is constant and linear, while public perception,
-awareness and attention is a threshold function.
+La comunità degli utenti e la crescita della tecnologia avviene a un tasso continuo e costante negli
+anni, ma l'apprezzamento patrimoniale si verifica improvvisamente e violentemente (una volta che la moneta /
+asset / mercato rompono una soglia critica di consapevolezza). Poi improvvisamente quello che tu
+hai solo sentito parlare due o tre volte nei mesi precedenti, improvvisamente inizia a
+apparire ovunque. La crescita degli utenti è costante e lineare, mentre la percezione pubblica,
+la consapevolezza e l'attenzione è una funzione di soglia.
 
-If user community is 100 people and growth rate is 1% per day, that is only 1
-new user per day. Our telegram doubled three times in users, over last two
-months and we have not even started on advertising or marketing yet and have
-almost zero videos and zero marketing towards public and have not done listing
-on any large exchanges yet for visibility.
+Se la community di utenti è di 100 persone e il tasso di crescita è dell'1% al giorno, questo è solo 1
+nuovo utente al giorno. Il nostro Telegram ha aumentato di tre volte gli utenti negli ultimi due
+mesi e non abbiamo ancora iniziato a fare pubblicità o marketing e abbiamo ancora
+quasi zero video e zero marketing per il pubblico e non siamo stati quotati
+su qualsiasi grande *exchange* per visibilità.
 
-The price does not matter either. There are projects that are a piece of shit
-and barely work, have no value and have massive operating costs (negative cash
-flow, losses) and who are trading at 120x the market cap of Skycoin. There are
-very very few blockchain projects that actually have developers, real user
-communities or actual technology that is useful or can retain a userbase.
+Il prezzo non importa. Ci sono progetti che sono una merda
+e funzionano a malapena, non hanno valore e hanno enormi costi operativi (conti in negativo,
+flusso in uscita e perdite) e chi scambia a 120x la capitalizzazione di mercato di Skycoin. Ci sono
+pochissimi progetti blockchain che in realtà hanno sviluppatori, veri utenti
+comunità o tecnologia effettiva che è utile o può mantenere una base di utenti.
 
 The active userbase metrics for Skycoin have increased 8x, but the price has
 been stable. The price is not the best metric for evaluation, because it is a
