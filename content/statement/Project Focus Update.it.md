@@ -140,77 +140,77 @@ creando un volume elevato. Una volta che saremo in uno scambio più ampio, vedre
 creando un volume elevato, ma il buy e hold per uno stage iniziale o per monete emergenti
 non genera molto volume.
 
-We tried for a few times to do "market making" and put 10 BTC on both the bid
-and ask side, but the coins were all bought up and exhausted very quickly and
-we do not know how to set the spread or the price because there were only
-orders on the buy side and none of th sell, so the bot just runs out of coins,
-so we could not even run a market making bot successfully. This indicates there
-is high demand, but that people want to buy at a low price.
+Abbiamo provato alcune volte l'uso di una tariffa "market making" e abbiamo inserito 10 BTC in entrambe 
+domanda e offerta, ma le monete sono state tutte acquistate e esaurite molto rapidamente e
+non sai come impostare lo spread o il prezzo perché chiede solo ordini dal lato degli 
+acquisti e nessuno dei quali vende, quindi il bot esaurisce le monete,
+quindi non siamo nemmeno riusciti a cerare un grosso problema. Questo indica
+che li c'è una forte domanda, ma la gente vuole comprare ad un prezzo basso.
 
-We are just going to let the markets do whatever they want, because that is
-just the way it is. The yoyo bot guy stopped and the market looks a lot better
-now and there are multiple people actively trading and price has been very
-stable. So the Skycoin market and order book is maturing.
+Stiamo cercando che i mercati facciano ciò che vogliono, perché è così,
+proprio così com'è. Il *ragazzo yoyo bot* si è fermato e il mercato sembra andare molto meglio
+ora e ci sono più persone che commerciano e il prezzo è stato molto
+stabile. Quindi il mercato e il portafoglio ordini di Skycoin stanno maturando.
 
-The people trading Skycoin are also extremely intelligence and sophisticated.
-They have an extremely high level of technical competency and education
-compared to the users of other coins. Many of the Skycoin user base also has a
-very good understanding of human psychology and market behavior.
+Le persone che scambiano Skycoin sono anche estremamente intelligenti e sofisticate.
+Hanno un livello molto alto di competenza tecnica e istruzione
+rispetto agli utenti di altre monete. Molti utenti Skycoin hanno anche anche un
+ottima comprensione della psicologia umana e del comportamento del mercato.
 
-The Skycoin Community has the highest percentage of Software Developers and
-Engineers of all the coins. The Skycoin Community is very organized and many of
-them are planning their coin portfolio allocations out for months and years.
-They are looking at the new projects, before they are listed on exchanges and
-they are evaluating the projects based upon technical fundamentals and ability
-to appreciate in the future. So we do not have the emotional driven market of
-the other coins and the price has been very stable.
+La comunità Skycoin ha la più alta percentuale di sviluppatori di software e
+Ingegneri di tutte le monete. La *Skycoin Community* è molto organizzata e molti
+stanno pianificando le allocazioni del portafoglio di monete da mesi o anni.
+Stanno esaminando i nuovi progetti, prima che siano elencati negli exchange e
+stanno valutando i progetti sulla base di fondamenta tecniche e abilità
+da apprezzare in futuro. Quindi non abbiamo il mercato guidato emotivamente di
+le altre monete e il prezzo è rimasto molto stabile.
 
-- Skycoin has developers (most of the projects raising tens or hundreds of
-  million of dollars do not have developers)
-- Skycoin has its own blockchain (the ERC20 tokens and many of the projects
-  raising tens or hundreds of millions of dollars in "ICOs" do not have a
-  blockchain)
-- Skycoin has application, that can be run and work (almost all of the ICOs
-  raising tens or hundreds of millions of dollars do not have applications or
-  are just raising the money to hire developers/or build the applications which
-  do not exist except as vaporware)
-- Skycoin has a continuous development history of over almost eight years (
-  while many/most coins have no developers, no blockchain, no development
-  history and no working or demo applications)
-- Skycoin has technology. We know what we have to do to solve the problems we
-  are working on. (Instead of raising 100 million dollars to solve a problem
-  that people have been trying to solve and failing for the last four decades
-  with no progress).
-- Skycoin has a user community of people. (Not just bots and people flooding
-  channels with bots to claim bounty program rewards and competing for who can
-  get the most bots in their channel.)
-- etc
+- Skycoin ha sviluppatori (la maggior parte dei progetti genera decine o centinaia di
+  milioni di dollari ma non hanno sviluppatori)
+- Skycoin ha la sua blockchain (i token ERC20 e molti altri progetti
+  che raccolgono di decine o centinaia di milioni di dollari in "ICO" non ha una
+  blockchain)
+- Skycoin ha un'applicazione, che può essere eseguita e funzionare (quasi tutte le ICO
+  che hanno raccolto decine o centinaia di milioni di dollari non hanno applicazioni o
+  stanno solo raccogliendo i soldi per assumere sviluppatori/o costruire le applicazioni che
+  non esistono se non come aria fritta)
+- Skycoin ha una storia di sviluppo continuo di oltre otto anni 
+  (mentre molte monete non hanno sviluppatori, nessuna blockchain, nessuna storia di sviluppo
+  e nessuna applicazione funzionante o demo)
+- Skycoin ha tecnologia. Sappiamo cosa dobbiamo fare per risolvere i problemi a cui
+  stiamo lavorando. (Invece di raccogliere 100 milioni di dollari per risolvere un problema
+  che le persone hanno cercato di risolvere e fallire negli ultimi quarant'anni
+  senza progresso).
+- Skycoin ha una community di utenti. (Non solo bot e persone che inondano
+  canali con i bot per richiedere premi al programma di bounty e competono per chi può
+  ottenere il maggior numero di bot nel proprio canale.)
+- eccetera
 
-So based upon fundamentals we are doing very well. However, for most of the
-market it is impossible for someone on the outside to look at a coin and figure
-out "Does anyone actual use this?", "Does this coin actually have a user
-community?", "Is that 100 million dollars a day in trading volume real or is it
-one bot trading with itself to create the appearance of volume?". "Is coin
-really worth 200 million, or did some guy create 200 million coins and start
-trading them with himself for $1 a coin?". "Does this coin really have anyone
-following them on twitter or did they buy 50,000 bots to follow them".
+Quindi, sulla base dei fondamenti, stiamo andando molto bene. Tuttavia, per la maggior parte del
+mercato è impossibile per qualcuno all'esterno guardare una moneta e immaginarsi se
+"Qualcuno lo usa davvero?", "Questa moneta ha effettivamente una communità di
+utenti? "," Sono 100 milioni di dollari al giorno nel volume degli scambi reali o è solo
+un bot che commercia con se stesso per creare volume? "." Una moneta
+vale davvero 200 milioni, oppure qualcuno ha creato 200 milioni di monete e ha iniziato
+scambiandoli con se stessi per $ 1 a moneta? "." Questa moneta ha davvero qualcuno
+che li segue su Twitter o hanno comprato 50.000 bot per seguirli ".
 
-Most of the coins on the market today are completely fake. 100% fake. No
-developers. No blockchain. No product. Fake liquidity. No user community except
-for people paid to do activity and make it look like there is a user community.
-"Lets flood reddit with bots and pay fifteen people $40 a day to make it look
-like we have a community". ETC "We have a community. Look at our community
-manager shit posting under 14 different reddit accounts!"
+La maggior parte delle monete sul mercato oggi sono completamente false. 100% falso nessuno
+sviluppatore. Nessuna blockchain. Nessun prodotto e Liquidità falsa. Nessuna comunità di utenti tranne
+per le persone pagate per fare attività e far sembrare che ci sia una comunità di utenti.
+"Inondiamo reddit di robot e paghiamo quindici persone $ 40 al giorno per farlo sembrare
+come se avessimo una comunità ". etc.." Abbiamo una comunità. Guarda la nostra comunità
+manager di merda che posti sotto 14 diversi account reddit! "
 
-You cannot compare Skycoin to these fake coins. If we wanted to do it the same
-way, we could do the same thing and make the market cap go to $500 million
-tomorrow. I can run a bot right now and send the volume to $5 million dollars a
-day. It does not mean anything.
+Non puoi confrontare Skycoin con queste monete false. Se volessimo farlo allo stesso
+modo, potremmo fare la stessa cosa e rendere la capitalizzazione di mercato a $ 500 milioni
+Domani. Ora posso avviare un bot e inviare il volume a $ 5 milioni di dollari al
+giorno. Non significa nulla.
 
-Skycoin has to be built upon a foundation of reality and not mere appearance.
-That is why all the attention is focused on the technology and the fundamental
-metrics, instead of running a penny stock pump and dump. In this market, to do
-this honestly is a huge handicap.
+Skycoin deve essere costruito su fondamenta della realtà e non mera apparenza.
+Ecco perché tutta l'attenzione è focalizzata sulla tecnologia e su fondamentali
+metriche, invece di eseguire una *penny stock pump and dump*. In questo mercato, cio che c'è da fare
+è onestamente un enorme handicap.
 
 We anticipate that during these bubbles, people will make a lot of money
 speculating on dubious assets and projects, however as the bubble deflates the
