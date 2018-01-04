@@ -10,11 +10,11 @@ categories = [
 ]
 +++
 
-Recently we have been asked about other projects called "Skynet" or "Superskynet".
+Recentemente ci è stato chiesto a riguardo di altri progetti denominati "Skynet" o "Superskynet"
 
-Skycoin has never used the name "Skynet" because it is cliché and unoriginal.
+Skycoin non ha mai usato il nome "Skynet" perché è un cliché e non originale.
 
-Furthermore, we are opposed to what "skynet" from the Terminator movie represents:
-the subjugation of humanity to machines controlled by the few.
+Inoltre, siamo contrari a ciò che "skynet", dal film Terminator rappresenta:
+la sottomissione dell'umanità alle macchine controllate da pochi.
 
-The Skycoin Project has no relationship with projects called "Skynet".
+Il Progetto Skycoin non ha alcuna relazione con i progetti denominati "Skynet".
