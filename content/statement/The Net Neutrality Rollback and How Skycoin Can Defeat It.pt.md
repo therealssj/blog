@@ -14,9 +14,9 @@
  +]
  ++++
  +
- +Em 2015, a Comissão Federal das Comunicações dos Estados Unidos (FCC, na sigla em inglês) instituiu regras de neutralidade de rede classificando a Internet como de utilidade pública. Isso impediu os provedores de Internet (ISPs) de priorizar certos sites em detrimento de outros e encorajaram uma internet gratuita e aberta, onde todas as empresas e indivíduos poderiam prosperar. 
+ +Em 2015, a Comissão Federal das Comunicações dos Estados Unidos (FCC, na sigla em inglês) instituiu regras de neutralidade de rede classificando a Internet como de utilidade pública. Isso impedia os provedores de Internet (ISPs) de priorizar certos sites em detrimento de outros e encorajaram uma internet gratuita e aberta, onde todas as empresas e indivíduos poderiam prosperar. 
  +
- +Agora, com o presidente do FCC Ajit Pai, nomeado por Trump, um voto para reduzir as proteções a neutralidade da rede está se aproximando. Pai foi nomeado em 2 de outubro para um segundo mandato de cinco anos, apesar do protesto generalizado em relação à sua agenda. Petições com dezenas de milhares de assinaturas foram impotentes para evitar esse resultado. Com Pai no comando, é apenas uma questão de tempo antes da neutralidade da rede ser desmantelada.
+ +Agora, sob a presidência de Ajit Pai, nomeado por Trump, um voto para reduzir as proteções a neutralidade da Internet está se aproximando. Pai foi nomeado em 2 de outubro para um segundo mandato de cinco anos, apesar do protesto generalizado em relação à sua agenda. Petições com dezenas de milhares de assinaturas foram impotentes para evitar esse resultado. Com Pai no comando, é apenas uma questão de tempo antes da neutralidade da Internet ser desmantelada.
  +
  +## Como fica a Internet sem neutralidade?
  +
@@ -26,9 +26,9 @@
  +
  +Este é o mundo que estamos prestes a ver. Sob o comando de Pai, o FCC certamente seguirá o caminho da desregulamentação que permitirá aos ISPs atingir os sites que não possam pagar por seu resgate. A partir daí, é um pequeno passo para a censura e morte da interação, arte e inovação online.
  +
- +A ausência de resposta ao protesto contra Pai neste verão mostra que não podemos confiar nos meios tradicionais para interromper o retrocesso da neutralidade da rede. Nós precisamos de uma solução diferente. É aí que entra a Skycoin.
+ +A ausência de resposta ao protesto contra Pai neste verão mostra que não podemos confiar nos meios tradicionais para interromper o retrocesso da neutralidade da Internet. Nós precisamos de uma solução diferente. É aí que entra a Skycoin.
  +
- +A tecnologia Skycoin cria uma Internet alternativa. Ela fornece uma rede peer-to-peer que contorna os provedores (ISPs) para devolver o controle de volta ao usuário. Você pode compartilhar conteúdo livremente, sem bloqueios ou censuras. É rápida, privada e criptografada para ser totalmente segura. Além disso, as decisões sobre a rede Skycoin são controladas pelo consenso da comunidade, não por empresas em busca de lucro.
+ +A tecnologia Skycoin cria uma Internet alternativa. Ela fornece uma rede peer-to-peer que contorna os provedores (ISPs) para devolver o controle ao usuário. Você pode compartilhar conteúdo livremente, sem bloqueios ou censuras. É rápida, privada e criptografada para ser totalmente segura. Além disso, as decisões sobre a rede Skycoin são controladas pelo consenso da comunidade, não por empresas em busca de lucro.
  +
  +A tecnologia peer-to-peer não exige que você abandone sua identidade e seus dados para acessar o conteúdo. A rede Skycoin, a Skywire, fornece uma rede descentralizada baseada em blockchain, onde você pode navegar de forma anônima e segura. Com a Skywire, você é dono dos seus dados e controla sua própria experiência. 
  +O minerador Skywire é a espinha dorsal desta nova Internet. Este minerador permite que os usuários ganhem Skycoins implantando nós na rede, encaminhando tráfego da rede ou contribuindo com recursos. O sistema da Skycoin incentiva um modelo gratuito baseado na comunidade, no qual os usuários assumem a responsabilidade pelo crescimento e viabilidade do mesmo. Em vez de se subverter ao controle dos exploradores ISPs corporativos, os usuários criam sua própria experiência. A Skywire é autossustentável e independente.
