@@ -1,5 +1,5 @@
 +++
-title = "Skycoin Wallet v0.20.2 Released"
+title = "Skycoin Wallet v0.20.2 がリリースされました"
 tags = [
     "Statement",
 ]
@@ -10,17 +10,19 @@ categories = [
 ]
 +++
 
-[Download Skycoin Wallet v0.20.2](https://www.skycoin.net/downloads/)
+[ダウンロード Skycoin Wallet v0.20.2](https://www.skycoin.net/downloads/)
 
 This release fixes many of the issues with the previous wallet and has a new UI.
 While this UI is an improvement over v0.19's, it is only a placeholder until
 v0.21 or v0.22.
+このリリースでは、以前のウォレットの問題が修正され、新しいUIが追加されました。
+このUIはv0.19よりも改善されていますが、v0.21またはv0.22まではプレイスホルダー(仮設置)にすぎません。
 
-Most important changes:
+重要な変更点:
 
-- Shows the correct wallet balance always.
-- Fixes corrupted blockchain database cache file.
-- No performance issues. UI is responsive.
-- [Timelocked coin distribution.](/statement/skycoin-distribution-plan/#timelocked-distribution)
+- 常に正しいウォレットの残高が表示されるようになりました。
+- 破損したブロックチェーンのデータベースキャッシュファイルを修正するようになりました。
+- パフォーマンスの問題はありません。 UIは正常に応答します。
+- [Timelocked コイン分配](/statement/skycoin-distribution-plan/#timelocked-distribution)
 
-[Full changelog](https://github.com/skycoin/skycoin/blob/master/CHANGELOG.md#0200---2017-10-10)
+[すべての変更ログを確認する](https://github.com/skycoin/skycoin/blob/master/CHANGELOG.md#0200---2017-10-10)
