@@ -12,46 +12,46 @@ categories = [
 ]
 +++
 
-Skycoin BBS v5.0 has finally been released with many changes under the hood!
+La version 5.0 de Skycoin BBS a enfin été publiée avec plusieurs changements apportés!
 
-## Thin Client
+## Client léger
 
-The most apparent change of all, is the introduction of the thin client. You can now access Skycoin BBS without setting up a node! Just head to [bbs.skycoin.net](http://bbs.skycoin.net). 
+Le changement le plus apparent est l'introduction du client léger. Vous avez maintenant accès au Skycoin BBS sans avoir à mettre en place un noeud! Vous n'avez qu'à visiter [bbs.skycoin.net](http://bbs.skycoin.net).
 
-In previous versions, one can only (and should only) access/submit content via a web user interface that is served locally. As this web-interface (and the API that it calls) has direct control over the node itself, and signs content with private keys that are stored in-node (or server-side), it is not appropriate to expose it to the public.
+Dans les versions précédents, on peut seulement (et devrait seulement) accéder / soumettre du contenu via une interface utilisateur web qui était servi localement. Comme cette interface web (et l'API qui l'appel) a un contrôle directe sur le noeud lui-même et peut signer du contenu avec les clés privées qui sont enregistrées dans le noeud (ou du côté serveur), ce n'est pas approprié de l'exposer au public.
 
-Hence, the introduction of a thin-client requires that user management, and the process of signing content for submission, to be handled client-side. This requires a completely revamped content-submission endpoint (or endpoints), and heavy changes to the front-end.
+Par conséquent, l'introduction d'un client léger requiert que la gestion des utilisateurs ainsi que le processus de signature du contenu pour les soumissions soient gérés du côté client. Cela nécessite de complètement remanié le (ou les) critères API pour la soumission de contenu et d'importants changements au niveau de la partie frontale.
 
-Details on the new content submission process can be found on the BBS Wiki: [github.com/skycoin/bbs/wiki/Content-Submission-Process](https://github.com/skycoin/bbs/wiki/Content-Submission-Process).
+Des détails sur le nouveau processus de soumission de contenu peut être trouvé dans le wiki BBS: [github.com/skycoin/bbs/wiki/Content-Submission-Process](https://github.com/skycoin/bbs/wiki/Content-Submission-Process).
 
-Currently, the front-end loads very slowly. This is caused from the use of [GopherJS](https://github.com/gopherjs) to handle seed and public/private key generation, as well has signing and verification of data. In future releases, we will make use of native JavaScript libraries to improve performance.
+Présentement, le frontal charge extrêmement lentement. Ceci est causé par l'utilisation de [GopherJS](https://github.com/gopherjs) pour gérer la génération de graines et de clés publiques/privées, ainsi que la signature et la vérification des données. Dans les sorties futurs, nous allons utiliser des librairies JavaScript natives pour améliorer la performance.
 
-## Command-line Interface
+## Interface de ligne de commande
 
-After the introduction of a publicly-visible thin-client, we removed API endpoints that handled administrative control and introduced a command-line interface to deal with such interactions. 
+Après l'introduction de client léger visible publiquement, nous avons enlevé les critères d'API qui géraient le contrôle administratif et avons introduits une interface de ligne de commande pour gérer de telles interactions.
 
-More information on this can be found here: [github.com/skycoin/bbs/tree/master/cmd/bbscli](https://github.com/skycoin/bbs/tree/master/cmd/bbscli).
+Plus d'information sur ceci peut être trouvé ici: [github.com/skycoin/bbs/tree/master/cmd/bbscli](https://github.com/skycoin/bbs/tree/master/cmd/bbscli).
 
-## Other Improvements
+## Autres améliorations
 
-* Improvements to Import/Export (unfortunately this is not backwards compatible with import/export for BBS v4.x)
-* Simplifications to code and performance improvements for remote submission and interaction with Skycoin Messenger. Updated to use the latest Messenger.
-* Improved file-management performance.
-* Better handling of invalid CXO roots.
-* Better handling of disconnections.
+* Améliorations à l'Import/Export (malheuresement, ceci n'est pas compatible avec l'import/export du BBS v4.x) 
+* Simplifications au code et améliorations de la performance pour les soumissions à distance et intéraction avec Skycoin Messenger. Mise à jour pour utiliser la dernière version de Messenger.
+* Améliorations de la performance de la gestion de fichiers
+* Meilleure gestion de racine CXO invalides
+* Meilleure gestion des déconnections
 
-## Downloads
+## Téléchargements
 
-To download BBS, head to [github.com/skycoin/bbs/releases](https://github.com/skycoin/bbs/releases) (source code will be here too).
+Pour télécharger BBS, navigué au [github.com/skycoin/bbs/releases](https://github.com/skycoin/bbs/releases) (le code source y est également disponible).
 
-Note that you can also access BBS via [bbs.skycoin.net](http://bbs.skycoin.net).
+À noter que vous pouvez également avoir accès au BBS via [bbs.skycoin.net](http://bbs.skycoin.net).
 
 ## Documentation
 
-We have started a wiki page at [github.com/skycoin/bbs/wiki](https://github.com/skycoin/bbs/wiki).
+Nous avons commencé une page wiki ici: [github.com/skycoin/bbs/wiki](https://github.com/skycoin/bbs/wiki).
 
-Please understand that this is still work in progress.
+À noter: ceci est un travail en cours.
 
-## Community
+## Communauté
 
-We have a Telegram channel: [@skycoinbbs](https://t.me/skycoinbbs).
+Nous avons un canal Telegram: [@skycoinbbs](https://t.me/skycoinbbs).
