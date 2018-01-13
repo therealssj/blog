@@ -31,15 +31,6 @@ controlli il programma *bounty* su Telegram.
 
 ### Skywire
 
-Skywire is working but is getting a rewrite, to use the skycoin/net networking
-library.
-
-The dashboard for cluster management (node manager) and global network
-dashboard is currently under development.
-
-Then network will be fully usable for the public for VPN, Socks5 proxy and we
-will start moving applications on to the new network namespace.
-
 Skywire sta funzionando, ma sta ottenendo una riscrittura, per utilizzare la libreria di rete skycoin/net.
 
 Il dashboard per la gestione dei cluster (gestore nodi) e la dashboard della rete globale è attualmente in fase di sviluppo.
@@ -68,12 +59,12 @@ Il prezzo non è morto.
 
 **Quando vendiamo monete nel mercato, il prezzo sale.**
 
-È impossibile per le persone comprare al prezzo che vogliono e nessuno vuole
-vendere le monete. Non c'è motivo per cui potresti vendere una moneta se può andare da $ 0,05
-a $ 600 in tre mesi come Byteballs e altre monete. Questo e una dinamica ben conosciuta
-per le persone che hanno guardato negli ultimi otto anni come
-il mercato delle monete funzioni. È particolarmente ovvio per le persone che sotto il
-psicologia delle attività finanziarie e come si verifichino le bolle.
+È impossibile per le persone comprare al prezzo che vogliono e a cui nessuno vuole
+vendere le monete. Non c'è motivo per cui vorresti vendere una moneta se può andare da $ 0,05
+a $ 600 in tre mesi come Byteballs e altre monete. Questa è una dinamica ben conosciuta
+per le persone che hanno guardato come negli ultimi otto anni come
+il mercato delle monete funzioni. È particolarmente ovvio per le persone come psicologicamente nelle
+attività finanziarie si verifichino le bolle.
 
 Tutte le monete come IOTA, Litecoin, Byteballs, Bitcoin hanno avuto lunghi periodi di latenza.
 
@@ -116,13 +107,13 @@ Internamente, non usiamo il prezzo come metrica, ma osserviamo i dati come:
 Poiché abbiamo migliorato la monetizzazione e il marketing ** il volume Skycoin è diminuito **
 perché le persone sono state meno disposte a vendere. Quando pubblichiamo notizie importanti, il
 prezzo Skycoin non aumenta, ma il volume diminuisce perché ci sono
-meno persone che vendono al prezzo di compensazione del mercato. Quando abbiamo fatto monete di prova
-per i test, il prezzo skycoin sale se vendiamo le monete sul mercato.
+meno persone che vendono al prezzo di compensazione del mercato. Quando abbiamo fatto le monete di prova
+per i test, il prezzo di skycoin saliva se vendavamo le monete sul mercato.
 
-Normalmente, il coefficiente è negativo. Mentre vendi X monete sul mercato, il
-il prezzo di mercato dovrebbe diminuire di Y. Tuttavia, il prezzo di mercato sale. Il lineare
-coefficiente per la funzione di risposta all'impulso del mercato ha il segno sbagliato. 
-"più monete vendiamo, più il prezzo Skycoin sale ".
+Normalmente, il coefficiente è negativo. Quando vendi X monete sul mercato, il
+il prezzo di mercato dovrebbe diminuire di Y. Tuttavia, il prezzo di mercato sale. Il coefficiente lineare
+della funzione di risposta all'impulso del mercato ho il segno opposto. 
+"più monete vendiamo, più il prezzo di Skycoin sale ".
 
 Quando la gente vende Skycoin la psicologia è "Qualcuno sta facendo *dumping*" e la gente prova
 per attirarli maggiormente in *dumping* aumentando il prezzo. Gli acquirenti di Skycoin
@@ -131,21 +122,20 @@ monete). Quindi stanno acquistando nel tempo, senza aumentare il prezzo. Però,
 i venditori non sono disposti a vendere al prezzo corrente.
 
 Questo è coerente con quello che stiamo vedendo nei mercati OTC. Ci sono alcune
-le persone che hanno il 30% o il 40% delle loro partecipazioni totali in criptovalute e sono passate a Skcoin
+persone che hanno il 30% o il 40% delle loro partecipazioni totali in criptovalute e sono passate a Skcoin
 e stanno comprando e detenendo e non partecipando attivamente ai mercati (in attesa di apprezzamento futuro).
 
 Quindi la psicologia del mercato del mercato Skycoin è diversa da quella di Monero o
 Dogecoin, dove le persone stanno sedute davanti al pc facendo trading sul prezzo e
-creando un volume elevato. Una volta che saremo in uno scambio più ampio, vedremo più giorni
-creando un volume elevato, ma il buy e hold per uno stage iniziale o per monete emergenti
+creando un volume elevato. Una volta che saremo in un exchange più ampio, andrà diversamente
+creando un volume più elevato, ma il buy e hold per uno stage come il nostro iniziale o per monete emergenti
 non genera molto volume.
 
 Abbiamo provato alcune volte l'uso di una tariffa "market making" e abbiamo inserito 10 BTC in entrambe 
 domanda e offerta, ma le monete sono state tutte acquistate e esaurite molto rapidamente e
-non sai come impostare lo spread o il prezzo perché chiede solo ordini dal lato degli 
-acquisti e nessuno dei quali vende, quindi il bot esaurisce le monete,
-quindi non siamo nemmeno riusciti a cerare un grosso problema. Questo indica
-che li c'è una forte domanda, ma la gente vuole comprare ad un prezzo basso.
+non sai mai come impostare lo spread o il prezzo (lato exchange) perchè la domanda è troppo forte rispetto all'offerta,
+quindi il bot esaurisce le monete subito, non siamo dunque riusciti a creare un forte impulso del mercato. Questo indica
+che ove c'è una forte domanda la gente vuole comprare ad un prezzo basso.
 
 Stiamo cercando che i mercati facciano ciò che vogliono, perché è così,
 proprio così com'è. Il *ragazzo yoyo bot* si è fermato e il mercato sembra andare molto meglio
