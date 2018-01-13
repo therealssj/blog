@@ -468,7 +468,7 @@ Skycoin una garanzia matematica a livello ZeroCoin della privacy delle transazio
 ordini di grandezza meno complesse e costi di calcolo minori rispetto alla implementazione 
 ZeroCoin, eliminando il requisito del molto complicato sistema a prova di conoscenza zero.
 
-## Skycoin (DEX) Distributed Exchange Support
+## Skycoin (DEX) Supporto alla distibuzione Exchange
 
 Attualmente stiamo progettando una transazione multi-firme a 2 fattori con hard-coding
 digitale con blocchi di tempo relativi per i Skycoin. Questo nuovo tipo di transazione
@@ -476,116 +476,116 @@ abiliterà il supporto per DEX e atomic swap su Skycoin e monete Skyledger.
 
 Stiamo anche valutando le proposte per l'introduzione di un terzo tipo di transazione per
 scambi atomici tra blockchains. Tuttavia, crediamo che gli scambi atomici
-tra blockchains non sono ancora maturi e che il multi-sig con firma a 2 con
-il blocco temporale relativo è il modo più semplice / semplice per implementarlo.
+tra blockchains non siano ancora maturi e che il multi-signature con firma a 2 
+blocchi temporali relativo sia il modo più semplice/efficace per implementarlo.
 
-## Skycoin Projects Position on the Smart Contracts Fad
+## Proiezioni future di Skycoin sugli Smart Contract Fad
 
-Skycoin does not have a "Smart Contracting Language". Our blockchain language
-is a full programming language suitable for both desktop, server, networked
-applications but with all the features required for blockchain embedding.
+Skycoin non ha una "Smart Contracting Language". La nostra lingua blockchain
+è un linguaggio di programmazione completo adatto sia per desktop, server, rete di
+applicazioni ma con tutte le funzionalità richieste per l'incorporamento blockchain.
 
-We believe that "smart contracts" are a fad. In the future when anyone can
-publish their own blockchain as easily as creating a word-press blog, it does
-not make sense to cram the real world uses of blockchain scripting onto a
-third party platform. While we have a programming language, CX, that is
-designed for actual applications and real world usage, not "smart contracts"
-(as to date we have been unable to find a single real use or application for
-smart contracts).
+Crediamo che i "contratti intelligenti" siano una moda passeggera. In futuro, quando chiunque puotrà
+pubblicare la propria blockchain con la stessa facilità con cui si crea un blog di wordpress,
+non avrà senso convertire gli usi del mondo reale dello scripting blockchain ad una
+piattaforma di terze parti. Mentre noi abbiamo un linguaggio di programmazione, CX, cioè
+progettato per applicazioni reali e l'utilizzo del mondo reale, non "contratti intelligenti"
+(come ad oggi non siamo stati in grado di trovare un singolo uso reale o applicazione per
+contratti intelligenti).
 
 ## CX
 
-CX is an extremely strict, statically typed, affordance based (based upon Alan
-Kay's COLA architecture),  mathematically deterministic language. CX is
-designed to support the whole range of applications from being embedded on
-blockchain, to programming for GPU, FPGAs and achieving power saving and
-performance on next generation CPU architectures (RISC-V) which have explicit
-cache load/store instructions.
+CX è un linguaggio estremamente rigido, tipizzato staticamente, basato su Alan
+(Architettura COLA di Kay) e matematicamente determinato. CX è
+progettato per supportare l'intera gamma di applicazioni, dall'essere incorporato in
+blockchain, alla programmazione per GPU, FPGA e il raggiungimento di risparmio energetico e
+prestazioni su architetture CPU di prossima generazione (RISC-V) che hanno espliciti
+*cache load/store instructions*.
 
-We are currently prototyping OpenGL support for CX.
+Attualmente stiamo prototipando il supporto OpenGL per CX.
 
-CX also has a new website and programming sandbox.
+CX ha anche un nuovo sito Web e una sandbox di programmazione.
 
 https://cx.skycoin.net
 
-I want to see people writing video games or a poker app or something on CX
-soon. I enjoyed "GameCoin" and we need more experiments in embedding video
-games on blockchain like GameCoin.
+Vogliamo vedere persone che scrivono videogiochi o un'app di poker o qualcosa su CX al più
+presto. Mi è piaciuto "GameCoin" e abbiamo bisogno di più esperimenti per incorporare video
+giochi su blockchain come GameCoin.
 
-**The Skycoin bounty program will expand to including incentive for video games
-and applications written in CX on the Skycoin platform.**
+** Il programma bounty Skycoin si espanderà per includere incentivi per i videogiochi
+e applicazioni scritte in CX sulla piattaforma Skycoin. **
 
-The Skycoin bounty program will expand to including incentive for video games and applications written in CX on the Skycoin platform.
+Il programma bounty Skycoin si espanderà per includere incentivi per i videogiochi e le applicazioni scritte in CX sulla piattaforma Skycoin.
 
 
-I like huntercoin because it is a blockchain based MMO and we wanted to build
-a language and platform platform to make gaming and communication applications
-easy. We did not feel this is even possible with a "smart contracts" language.
-Expecially because the most popular  application by user are messaging/
-communication, file sharing and gaming applications.
+Mi piace Huntercoin perché è un MMO basato su blockchain e volevamo costruire
+una piattaforma linguistica e piattaforma per realizzare giochi e applicazioni di comunicazione
+facile. Non ritenevamo che ciò fosse possibile anche con un linguaggio "smart contracts".
+Soprattutto perché l'applicazione più popolare per utente è la messaggistica /
+comunicazione, condivisione di file e applicazioni di gioco.
 
-We also wanted to allow developers to prototype business logic and test
-applications in CXO (which is like blockchain-lite) before publishing onto a
-real blockchain, where making updates/fixing bugs becomes much more
-complicated.
+Volevamo anche consentire agli sviluppatori di prototipare la logica e il test di business
+applicazioni in CXO (che è come blockchain-lite) prima della pubblicazione su a
+vera blockchain, dove fare aggiornamenti / correggere bug diventa molto di più
+complicato.
 
-Skycoin is also the first platform that will be able to distribute blockchain
-state updates globally in less than 300 ms (instead of 15 minutes or 30
-seconds) and this is the minimum threshold for "real time" interaction
-required for several applications like decentralized poker.
+Skycoin è anche la prima piattaforma che sarà in grado di distribuire 
+aggiornamenti blockchain globali in meno di 300 ms (anziché 15 minuti o 30
+secondi) e questa è la soglia minima per l'interazione "in tempo reale"
+richiesto per diverse applicazioni come il poker decentralizzato.
 
-Obviously the issues of waiting +30 seconds between interactions and an
-inconsistent block rate impair the user experience. Bitcoin's rate of one
-block every 15 minutes makes poker unplayable and Ethereum's rate is still
-insufferable for real time applications.
+Ovviamente il problema di aspettare +30 secondi tra le interazioni e
+una frequenza di blocco incoerente pregiudica l'esperienza dell'utente. Il tasso di Bitcoin di
+bloccare ogni 15 minuti rende il poker ingiocabile e il tasso di Ethereum è ancora più
+insopportabile per le applicazioni in tempo reale.
 
-I do not see any real world usage, economics or technological capacities
-justifying the billion dollar valuations of these "Smart Contract Platforms".
-I think "smart contracts" are already past peak and are in a bubble.
+Non vedo alcun utilizzo del mondo reale, economia o capacità tecnologiche che
+giustifichi le valutazioni in miliardi di dollari di queste "Smart Contract Platforms".
+Penso che i "contratti intelligenti" abbiano già raggiunto il picco e siano in una bolla.
 
-So for us to enable these real applications, required years of technology work
-to have a platform that could meet these requirements. Regardless of whatever
-the "smart contract platforms" say in their marketing, these applications are
-only becoming possible in the next generation. Simply none of the current
-generation of platforms has a technical solution to overcome the requirements
-for mainstream adaption.
+Quindi, per consentire a queste applicazioni reali, sono necessari anni di lavoro tecnologico
+avere una piattaforma in grado di soddisfare questi requisiti. Indipendentemente da qualunque cosa
+le "piattaforme di smart contract" dicano nel loro marketing, queste applicazioni saranno
+possibili nella prossima generazione. Semplicemente niente delle attuali
+generazioni di piattaforme ha una soluzione tecnica per superare i requisiti
+per l'adattamento tradizionale.
 
-So I am really excited about doing a bounty to have something like HunterCoin
-(MMO on blockchain) or some kind of real money rogue-like (e.g. NetHack) built
-on top of CX. "Real Money Dwarf Fortress on Blockchain". It will be exciting
-to see what people do with this.
+Quindi sono davvero entusiasta di fare un regalo (bounty) per avere qualcosa come HunterCoin
+(MMO su blockchain) o una sorta di denaro reale *rogue-like* (ad esempio NetHack) costruito
+su CX. "Fortezza reale dei nani su Blockchain". Sarà eccitante
+per vedere cosa farà la gente con questo sistema.
 
-[CX source code](https://github.com/skycoin/cx)
+[Codice sorgente CX] (https://github.com/skycoin/cx)
 
-## Skycoin Roadmap Finished
+## Finita la Roadmap Skycoin
 
-The roadmap is on the website now
+La roadmap è ora sul sito web
 
 https://www.skycoin.net/roadmap/
 
-## First Distributed Social Media Platform on Skycoin Platform Launches
+## Lancio della prima piattaforma di social media distribuita su piattaforma Skycoin
 
-The beta test of the first distributed social media application on the Skycoin
-platform is ready.
+Il beta test della prima applicazione social media distribuita su piattaforma Skycoin
+è pronta.
 
-https://www.skycoin.net/downloads/ (scroll down to the BBS section)
+https://www.skycoin.net/downloads/ (scorri verso il basso nella sezione BBS)
 
-BBS is a peer-to-peer replicated social media application, built upon immutable
-data structures (CXO) on top of the Skycoin platform.
+BBS è un'applicazione di social media replicata peer-to-peer, costruita su una immutabile
+struttura dati (CXO) in cima alla piattaforma Skycoin.
 
-All database in the Skycoin distributed BBS application is replicated
-peer-to-peer using the Skycoin CXO library (previously called Aether). Post
-submissions are submitted over a prototype of Sky-messenger, which is Skycoin's
-TOX-like standard for machine-to-machine communication between public keys
-[(github.com/skycoin/net)](https://github.com/skycoin/net).
+Viene replicato tutto il database nell'applicazione BBS distribuito in Skycoin con
+peer-to-peer usando la libreria Skycoin CXO (precedentemente chiamata Aether).
+Le comunicazioni sono inviate usando su un prototipo di Sky-messenger, che è Skycoin
+usando lo standard simile al TOX per la comunicazione machine-to-machine tra le chiavi pubbliche
+[(Github.com/skycoin/net)](https://github.com/skycoin/net).
 
-Sky-messenger is specifically designed for peer-to-peer machine-to-machine
-communication, but also has a human-usable, Wechat-like interface.
+Sky-messenger è progettato specificamente per la comunicazione peer-to-peer e machine-to-machine,
+ma ha anche un'interfaccia human-usable, simile a Wechat.
 
 ## Skycoin OTC Market
 
-Now that the prototype for Sky-messenger is working, we can include an
-integrated Skycoin OTC market in the next wallet release.
+Ora che il prototipo di Sky-messenger funziona, possiamo includere un OTC market
+Skycoin integrato nel prossimo rilascio del wallet.
 
-The new wallet will also eventually include a "Send to Bitcoin address"
-function, which should increase Skycoin liquidity.
+Il nuovo wallet includerà anche una funzione "Send to Bitcoin address",
+che dovrebbe aumentare la liquidità Skycoin.
