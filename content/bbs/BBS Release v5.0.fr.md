@@ -18,7 +18,7 @@ La version 5.0 de Skycoin BBS a enfin été publiée avec plusieurs changements 
 
 Le changement le plus apparent est l'introduction du client léger. Vous avez maintenant accès au Skycoin BBS sans avoir à mettre en place un noeud! Vous n'avez qu'à visiter [bbs.skycoin.net](http://bbs.skycoin.net).
 
-Dans les versions précédents, on peut seulement (et devrait seulement) accéder / soumettre du contenu via une interface utilisateur web qui était servi localement. Comme cette interface web (et l'API qui l'appel) a un contrôle directe sur le noeud lui-même et peut signer du contenu avec les clés privées qui sont enregistrées dans le noeud (ou du côté serveur), ce n'est pas approprié de l'exposer au public.
+Dans les versions précédentes, on peut seulement (et devrait seulement) accéder / soumettre du contenu via une interface utilisateur web qui était servi localement. Comme cette interface web (et l'API qui l'appel) a un contrôle direct sur le noeud lui-même et peut signer du contenu avec les clés privées qui sont enregistrées dans le noeud (ou du côté serveur), ce n'est pas approprié de l'exposer au public.
 
 Par conséquent, l'introduction d'un client léger requiert que la gestion des utilisateurs ainsi que le processus de signature du contenu pour les soumissions soient gérés du côté client. Cela nécessite de complètement remanier le (ou les) critères API pour la soumission de contenu et d'importants changements au niveau de la partie frontale.
 
