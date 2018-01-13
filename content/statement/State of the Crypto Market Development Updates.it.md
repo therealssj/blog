@@ -417,70 +417,67 @@ d scaricarle è un pensiero anche ridicolo.
 
 ## New Wallet
 
-Wallet Version 20 is released.
+La versione 20 del Wallet è stata rilasciata.
 
-All nodes have been upgraded.
+Tutti i nodi sono stati aggiornati.
 
-Completely new wallet from scratch. The new wallet is dozens of times faster.
+Portafoglio completamente nuovo da zero. Il nuovo portafoglio è decine di volte più veloce.
 
-Blockchain syncing is hundreds of times faster and is almost instant now. The
-old wallet took 1 second per block to sync. The new wallet syncs a few
-thousand blocks in a few seconds.
+La sincronizzazione di blockchain è centinaia di volte più veloce ed è quasi istantanea ora. Il
+vecchio portafoglio richiedeva 1 blocco per secondo per la sincronizzazione. Il nuovo portafoglio ne sincronizza alcuni
+migliaia di blocchi in pochi secondi.
 
-In future upgrade, all blocks will be treated as immutable data objects in
-CXO, so that the blockchain can be downloaded in parallel across all blocks
-and all connected peers, using all available bandwidth in parallel with no
-constraints on the block ordering.
+Nell'aggiornamento futuro, tutti i blocchi verranno considerati come oggetti immutabili
+CXO, in modo che la blockchain possa essere scaricata in parallelo su tutti i blocchi
+e tutti i colleghi connessi, utilizzando tutta la larghezza di banda disponibile in parallelo con nessun
+vincolo sull'ordinamento dei blocchi.
 
-This will be even faster than Bitcoin's "header first downloads" or the rust
-ethereum approach.
+Questo sarà ancora più veloce di "header first downloads" di Bitcoin o dell'arrugginito
+approccio ethereum.
 
 ## CoinHours
 
-The new wallet (version 20) now shows the "CoinHours", which users earn for
-holding Skycoin.
+Il nuovo wallet (versione 20) ora mostra "CoinHours", da cui gli utenti guadagnano
+detenendo Skycoin.
 
-We are working on an exchange for converting and establishing an exchange rate
-between CoinHours and Skycoin. Coin Hours are similar to the "Gas" in Ethereum
-or coin aging in Bitcoin, but are exchange-tradeable and are a separate
-parallel currency in Skycoin.
+Stiamo lavorando a un exchange per convertire e stabilire un tasso di cambio
+tra CoinHours e Skycoin. Le Ore delle monete sono simili al "Gas" in Ethereum
+o alla moneta d'oro in Bitcoin, ma sono scambiabili e sono separati dalla
+valuta parallela in Skycoin.
 
-Coin Hours are used for transaction fees in Skycoin and will also be used for
-network resources on Skywire.
+Le monete sono utilizzate per le spese di transazione in Skycoin e saranno utilizzate anche per
+risorse di rete su Skywire.
 
-Coin Hours may eventually also be used for allocation of distributed
-computation resources, storage or bandwidth on SkyLedger and any Skycoin side
-changes with embedded CX scripting language.
+Le monete possono essere utilizzate anche per l'assegnazione di distribuzioni
+risorse di calcolo, spazio di archiviazione o larghezza di banda su SkyLedger e qualsiasi lato Skycoin
+cambia con il linguaggio di scripting CX incorporato.
 
-The future wallet versions will add an API and UI to specify or
-split the CoinHour balances in transactions.
+Le future versioni del wallet aggiungeranno un'API e un'interfaccia utente per specificare o
+dividere i saldi CoinHour nelle transazioni.
 
-If Skycoins are held on an exchange, the coin hours earned will go to the
-exchange.
+Se gli Skycoin sono detenuti in un exchange, le Coinhours guadagnate andranno all'exchange.
 
-Skycoin CoinHours are also a very important part of the Skycoin CoinJoin
-infrastructure for increasing transaction privacy. CoinHours will be posted as
-collateral for mixing to prevent participants from backing out of or slowing
-down CoinJoin transactions. Skycoin CoinJoin transactions improve the
-mathematical guarantee of Skycoin transaction privacy by spending outputs from
-multiple wallets in the same transaction. This prevents the most common
-deanonymizing attacks in Bitcoin. When fully implemented, this will give
-Skycoin a ZeroCoin-level mathematical guarantee of transaction privacy, with
-orders of magnitude less complexity and computation overhead than the ZeroCoin
-implementation, by eliminating the requirement of the highly complicated
-zero-knowledge proof system.
+Skycoin CoinHours è anche una parte molto importante dell'infrastruttura Skycoin CoinJoin
+per aumentare la privacy delle transazioni. CoinHours sarà pubblicato come
+garanzia per mescolare e per impedire ai partecipanti di ritirarsi o rallentare
+le transazioni CoinJoin. Le transazioni Skycoin CoinJoin migliorano la
+garanzia matematica della privacy delle transazioni Skycoin spendendo output da
+più exchange nella stessa transazione. Questo impedisce il più comune degli
+attacchi deanonymizing in Bitcoin. Quando sarà pienamente implementato, questo darà a
+Skycoin una garanzia matematica a livello ZeroCoin della privacy delle transazioni, con
+ordini di grandezza meno complesse e costi di calcolo minori rispetto alla implementazione 
+ZeroCoin, eliminando il requisito del molto complicato sistema a prova di conoscenza zero.
 
 ## Skycoin (DEX) Distributed Exchange Support
 
-We are currently designing a hardcoded, 2-factor multi-signature transaction
-type with relative time locks for Skycoin. This new transaction type
-will enable DEX and atomic swap support across Skycoin and all Skyledger
-coins.
+Attualmente stiamo progettando una transazione multi-firme a 2 fattori con hard-coding
+digitale con blocchi di tempo relativi per i Skycoin. Questo nuovo tipo di transazione
+abiliterà il supporto per DEX e atomic swap su Skycoin e monete Skyledger.
 
-We are also evaluating proposals for introducing a third transaction type for
-atomic swaps between blockchains. However, we believe that atomic swaps
-between blockchains are not mature yet and that the 2-signature multi-sig with
-relative time lock is the simpliest/easiest way to implement this.
+Stiamo anche valutando le proposte per l'introduzione di un terzo tipo di transazione per
+scambi atomici tra blockchains. Tuttavia, crediamo che gli scambi atomici
+tra blockchains non sono ancora maturi e che il multi-sig con firma a 2 con
+il blocco temporale relativo è il modo più semplice / semplice per implementarlo.
 
 ## Skycoin Projects Position on the Smart Contracts Fad
 
