@@ -34,7 +34,7 @@ sentido direto.
 ## Prova de trabalho e sistema da Bitcoin
 
 Foi um erro de cálculo fundamental na programação inicial da Bitcoin que
-o processo de mineração produziria uma estrutura de incentivo económico que
+o processo de mineração produziria uma estrutura de incentivo econômico que
 promoveria a descentralização. Na verdade, a ligação entre consenso e hash 
 power incentiva a compra de capacidade de processamento cada vez maior para
 controlar a rede de consenso.
@@ -43,7 +43,7 @@ A rede Bitcoin, por exemplo, é de facto controlada por três pools de mineraç�
 com fins lucrativos que conseguiram concentrar uma grande parte do hashing power 
 da rede nos seus servidores. Essas pools começaram a atuar como um cartel,
 acordando dividir o hashing power entre si. A ligação entre mineração e o 
-controlo da rede já foi identificado por Satoshi como a principal ameaça 
+controle da rede já foi identificado por Satoshi como a principal ameaça 
 não criptográfica à estabilidade da rede. Permite a atores acumular poder 
 de processamento suficiente e atingir uma taxa de hashing maioritária para
 falsificar ou reverter transações na rede num ataque de 51%. Alguns argumentam que
@@ -86,7 +86,7 @@ independentemente do poder de processamento.
 Este princípio aumenta significativamente as barreiras económicas para lançar 
 um ataque de 51% porque o custo financeiro de adquirir a maioria dos tokens 
 na rede no mercado aberto é muito provável que exceda o ganho potencial. 
-Se um atacante terminar como o participante maioritário da rede, ele sofrerá 
+Se um atacante terminar como o participante majoritário da rede, ele sofrerá 
 mais do impacto do ataque na estabilidade da rede ou do valor externo da criptomoeda.
 
 No entanto, apesar de aumentar as barreiras aos ataques dirigidos por humanos na
