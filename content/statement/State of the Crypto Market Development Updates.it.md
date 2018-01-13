@@ -231,142 +231,141 @@ faranno.
 Kraken è probabilmente l'unico scambio in cui nessuno si lamenta e non si ingarbuglia
 con il volume.
 
-Most people with large orders are actually trading OTC on Bitfinex or other
-OTC platforms.
+La maggior parte delle persone con ordini di grandi dimensioni sta attualmente scambiando OTC su Bitfinex o altre
+Piattaforme OTC
 
-Most of the exchanges are making their money on volume and do not
-have maker/taker fees so there is no real order book depth. Making it very
-easy to rig and manipulate coin prices with a relatively small amount of money
-(hence OTC must be used to fill large orders because they cannot be done on
-the order book). The market structure is just broken and optimized for
-manipulation.
+La maggior parte degli exchange sta facendo i loro soldi sul volume e non
+sulle commissioni di maker/taker quindi non esiste una vera e propria profondità per gli ordini. Facendo molto
+facile da manipolare i prezzi delle monete con una quantità di denaro relativamente piccola
+(quindi l'OTC deve essere usato per riempire grandi ordini perché non possono essere eseguiti
+dal libro degli ordini). La struttura del mercato è solo ottimizzata per la
+manipolazione.
 
-- No maker/taker fees, so a thin order book depth
-- Exchanges making all of their fees on volume
-- Exchanges ranked by fake volume (and exchanges are faking volume)
-- Hidden trading rebates
-- Paid market makers (people paid massive fees to create fake volume)
-- Inaccurate exchange rankings (by fake volume)
-- Inability to buy/sell on market (thus a need for OTC)
-- Most coins are off markets because of the hacking risk (getting Goxed)
-- Ability to easily rig billions in coin market cap with little money
-  because there is no real order book depth
-- Emphasis of exchanges on only the largest, most well marketed coins who have
-  done huge ICOs (all of which are scams). No emphasis on technology or real
-  companies
+- Nessun costo di maker / taker, quindi una profondità di bookshop sottile
+- Gli exchange fanno tutte le loro Fee sul Volume
+- exchange classificati per volume falso (e gli exchange sono volumi falsi)
+- sconti di trading nascosti
+- Hanno pagato i market maker (la gente ha pagato enormi commissioni per creare volumi falsi)
+- Classifiche di exchange imprecise (per volume falso)
+- Impossibilità di acquistare / vendere sul mercato (quindi una necessità per OTC)
+- La maggior parte delle monete è fuori mercato a causa del rischio di hacking (essere Goxed)
+- Possibilità di effettuare facilmente l'installazione di miliardi di monete in una capitalizzazione di mercato con pochi soldi
+  perché non esiste una profondità di ordine reale
+- Enfasi degli exchange solo sulle monete più grandi e meglio commercializzate che hanno
+  fatto enormi ICO (che sono tutte truffe). Nessuna enfasi sulla tecnologia o reale
+  aziende
 
-So for concrete example and instance there are three micro-grid tokens and
-companies:
+Quindi per esempio concreto e istanza ci sono tre micro-token e
+aziende:
 
-- One is launching token and is a 100 million/year existing business who has
-  been building and operating combined heating/electricity generation for
-  thirty years. Has whole legal department to deal with regulation and
-  customer pricing laws and compliance. Has existing customers and revenue.
-- The other two coins are are massive ICOs that raised tens or hundreds of
-  millions of dollars, but have no software, no employees, no experience
-  building power grids and do not even understand the regulations required
-  to operate in the markets they are raising funds in an ICO for. Has no
-  customers, no revenue, cannot even operate in the markets they are raising
-  funds for.
+- Uno sta lanciando un token ed è un business esistente da 100 milioni/anno che
+  sta costruendo e gestendo la produzione combinata di riscaldamento/elettricità per
+  trent'anni. Ha un intero dipartimento legale per occuparsi di regolamentazione e
+  leggi e conformità dei prezzi dei clienti. Ha clienti e entrate esistenti.
+- Le altre due monete sono enormi ICO che hanno sollevato decine o centinaia di
+  milioni di dollari, ma non hanno software, nessun dipendente, nessuna esperienza nel
+  costruire reti elettriche e non capiscono nemmeno le norme richieste
+  per operare nei mercati per cui stanno raccogliendo fondi in un ICO. Non ha
+  i clienti, senza entrate, non possono nemmeno operare nei mercati per cui stanno raccogliendo
+  fondi.
 
-The result:
+Il risultato:
 
-- The two scam ICOs, already have multiple exchanges lined up to list them,
-  with confirmed listing dates
-- The actual company with 100 million/year in revenue with actual power grid
-  projects, cannot even get a phone call or get the exchanges to talk to them
+- Le due Ico truffa, hanno già raccolto molteplici exchanges per elencarle,
+  con date di quotazione confermate.
+- La società attuale con 100 milioni/anno di entrate, con la rete elettrica effettiva,
+  non riesce nemmeno a ottenere una telefonata con gli exchange per parlare con loro.
 
-That is what the altcoin market looks like right now. The non-scams are
-actually being filtered out for economic reasons.
+Questo è ciò che il mercato altcoin sembra in questo momento. I non-truffatori vengono
+effettivamente filtrati per motivi economici.
 
-What is happening now is:
+Quello che sta accadendo ora è:
 
-- The latest generation of users is buying/selling 15 or 60 coins in their
-  portfolio. Someone who owns 60 coins does not have 60 wallets installed on
-  their computer. Even the altcoin investment fund people are having trouble
-  keeping 15 wallets installed to an offline computer and figuring out how to
-  do offline transaction signing for them.
-- They do not even have wallets installed for ANY of the coins. Meaning all
-  of the coins are just sitting on exchanges waiting to be looted
-- I did a survey of Ethereum users and ask them questions like "What Ethereum
-  Thin Wallet is Best? Is there something like Electrum for Ethereum? What are
-  the best Ethereum wallets?" and most of the "Ethereum Users" have never
-  actually used an Ethereum wallet or cannot answer, do not know. This means
-  all that money is on exchanges somewhere, its not in their wallets.
+- L'ultima generazione di utenti sta comprando / vendendo 15 o 60 monete nel suo
+  portafoglio. Qualcuno che possiede 60 monete non ha 60 diversi portafogli installati
+  sul suo computer. Persino le persone che investono in fondi di investimento hanno problemi
+  mantenendo 15 wallet installati su un computer offline e cercando di capire come
+  effettuare la firma delle transazioni offline per loro stessi.
+- Non hanno nemmeno i portafogli installati per QUALSIASI delle monete. Quindi tutti
+  stanno seduti in attesa che gli exchange vengano saccheggiati.
+- Ho fatto un sondaggio agli utenti di Ethereum e ho posto loro domande come "Quale è 
+   portafoglio migliore per Ethereum? C'è qualcosa come Electrum per Ethereum? Quali sono
+  i migliori portafogli di Ethereum? "e la maggior parte degli" utenti di Ethereum "non ha mai
+  effettivamente utilizzato un portafoglio Ethereum o non può rispondere, non lo sanno. Questo significa
+  tutti quei soldi sono scambiati da qualche parte, non nei loro portafogli.
 
-For the smaller coins (even coins valued in hundreds of millions or billions
-of dollars), many actually have almost zero real transactions, zero people
-actually with the wallet. I know this from node IP stats and harvested data I
-have seen.
+Per le monete più piccole (anche monete valutate in centinaia di milioni o miliardi
+di dollari), molti in realtà hanno quasi zero transazioni reali, zero persone
+nella realtà con il portafoglio. Lo so dalle statistiche IP del nodo e dai dati raccolti
+e studiati.
 
-Also, for the majority of the coins the volume is fake. There are coins with
-very impressive volume (which the exchanges are making a lot of money on) and
-very impressive market caps, but its all fake. Just completely fake. To get
-enough volume to get on exchanges, you have to agree to pay a market maker to
-create volume.
+Inoltre, per la maggior parte delle monete il volume è falso. Ci sono monete con un
+volume molto impressionante (su cui gli exchange stanno facendo un sacco di soldi) e
+tappi di mercato molto impressionanti, ma è tutto finto. Solo completamente falso.  Per ottenere
+abbastanza volume entrare in un exchange, devi accettare di pagare un market maker che
+crei volume.
 
-So some coins are giving 3 or 5 million dollars in coins to day trade on the
-exchange, to make the exchange owner money and lure in suckers and if you are
-an honest coin or not doing that, they won't list you and will complain "Your
-volume is not high enough" and to go give their friends free coins to day
-trade and make the exchanges a lot of money.
+Quindi alcune monete stanno regalando 3 o 5 milioni di dollari in monete al giorno agli
+exchange, per dare soldi al proprietario dell'exchange e attirarlo come un babbeo e se sei
+una moneta onesta non farlo, non ti elenceranno e si lamenteranno "Il tuo
+volume non è abbastanza alto " e dare ai propri amici monete gratuite ogni giorno da
+scambiare e fare un sacco di soldi per gli exchange.
 
-They know the people that will do this and who wont.
+Conoscono le persone che faranno questo e chi non lo farà.
 
-The exchanges are making so much money on the scam and scam ICOs, that they
-will only list scam coins (which they make more money on). Their whole
-business is about volume. They can have 10 million/day in "volume" and the
-real order book depth is ten Bitcoin.
+Gli exchange stanno facendo così tanti soldi sulle truffe e truffe sugli ICO, che loro
+accetteranno solo le monete truffa (su cui guadagna più denaro). Il loro intero
+il business riguarda il volume. Possono avere 10 milioni/giorno in "volume" e
+la profondità del book order reale è di dieci Bitcoin.
 
-Also, most (the most popular) "Bitcoin News" websites are publishing fake
-news, "China Bans Bitcoin for the fifth time", "Russia Bans Bitcoin". Then
-when exchanges shut down something actualy happens (an event) there are ZERO
-articles about it on those website, because the REAL NEWS is not timed to
-their market pump and dumps. The media sites are literally just doing timed
-market pump and dumps with completely fake news. They are even recirculating
-fake, leaked "regulatory letters" from four years ago as "Just released China
-banned Bitcoin" news. And every single day is either a "pump day" or a "dump
-day".
+Inoltre, la maggior parte (i più popolari) siti web di "Bitcoin News" stanno pubblicando false
+notizie, "La Cina vieta Bitcoin per la quinta volta", "Russia Bans Bitcoin". Poi
+quando gli scambi si interrompono accade qualcosa di reale (un evento), ci sono ZERO
+articoli su di esso su quei siti web, perché le NOTIZIE REALI non sono programmate per
+il loro mercato pompa e discariche. I siti di media stanno letteralmente facendo solo cronometrare
+mercato pompe e discariche con notizie completamente false. Stanno persino ricircolando
+falsi, trapelati "lettere di regolamentazione" di quattro anni fa come "Appena rilasciata la Cina
+bannato "notizie Bitcoin" e ogni singolo giorno è un "pump day" o una "discarica"
+giorno".
 
-So for 90% of these projects, unless you are an insider and the one rigging
-the markets and in the cartel, you are not going to benefit from buying any of
-these coins. They have already appreciated 100x before you will even see them
-on the market. They are just popping into the top 20 out of no where now, with
-no one in public able to buy anything before the peak and then immediately
-crash afterward.
+Quindi per il 90% di questi progetti, a meno che tu non sia un addetto ai lavori e l'altro
+nei mercati e nel cartello, non trarrai alcun beneficio dall'acquisto di nessuno dei due
+queste monete. Hanno già apprezzato 100 volte prima ancora di vederli
+sul mercato. Stanno spuntando nella top 20 di no dove ora, con
+nessuno in pubblico è in grado di comprare qualcosa prima del picco e poi immediatamente
+incidente dopo.
 
-There are almost 0 (ZERO) news websites tracking:
+Ci sono quasi 0 (ZERO) monitoraggio dei siti Web di notizie:
 
-- Actual technology
-- Real world usage of blockchain
-- Real world development (projects with developers)
-- Smaller projects that are trying to do something more than run a pump and
-  dump for the suckers
+- Tecnologia reale
+- Uso del mondo reale della blockchain
+- Sviluppo del mondo reale (progetti con sviluppatori)
+- Progetti più piccoli che stanno cercando di fare qualcosa di più che eseguire una pompa e
+  discarica per i polloni
 
-The whole market has been taken over completely. The libertarian aspiration of
-Bitcoin have been killed by simple greed and lust after easy money.
+L'intero mercato è stato completamente ripreso. L'aspirazione libertaria di
+Bitcoin è stato ucciso dalla semplice avidità e lussuria dopo denaro facile.
 
 ---
 
-There are people who have real data (primary data) and they know which coins
-have actual users and real user communities. I track this data constantly and
-the data is pretty bad. The existing coin market is a train wreck.
+Ci sono persone che hanno dati reali (dati primari) e sanno quali monete
+avere utenti reali e comunità di utenti reali. Traccio costantemente questi dati e
+i dati sono piuttosto cattivi. Il mercato delle monete esistente è un disastro ferroviario.
 
-Since no one ever withdraws coins from the exchange, the data suggests that
-many coins are selling more coins than actually exist. The trading volume and
-activity is completely uncorrelated to any real verifiable primary metrics.
+Dal momento che nessuno ritira mai monete dallo scambio, i dati lo suggeriscono
+molte monete vendono più monete di quante ne esistano realmente. Il volume degli scambi e
+l'attività è completamente non correlata a metriche primarie reali verificabili.
 
-People have told me that some exchanges have a history of sudden delisting of
-some coins without allowing the users to withdrawal. Which would explain what
-is happening. My attitude now is "If the coins are not in my wallet and on my
-computer, they do not exist".
+La gente mi ha detto che alcuni scambi hanno una storia di revoca del delitto improvvisa
+alcune monete senza consentire agli utenti di recedere. Quale spiegherebbe cosa
+sta succedendo. Il mio atteggiamento ora è "Se le monete non sono nel mio portafoglio e sul mio
+computer, non esistono ".
 
-Once the regulators lock out the smaller coins from the markets completely
-with white-listing, the only thing that is getting listed will be two or three
-multi-billion dollar mega-scams a month. I have no idea what this will look
-like. Only the biggest, most toxic, best dressed scams who paid off the most
-people will be able to get listed.
-
+Una volta che i regolatori bloccano completamente le monete più piccole dai mercati
+con la lista bianca, l'unica cosa che viene elencata sarà due o tre
+mega-truffe da un miliardo di dollari al mese. Non ho idea di cosa sembrerà
+piace. Solo le truffe più grandi, più tossiche e meglio vestite che hanno pagato di più
+le persone saranno in grado di essere elencate.
 The big changes to the market will be:
 
 - Multi-coin support (cross platform coin/wallet support standards, people
