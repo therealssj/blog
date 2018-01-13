@@ -24,7 +24,7 @@ Par conséquent, l'introduction d'un client léger requiert que la gestion des u
 
 Des détails sur le nouveau processus de soumission de contenu peut être trouvé dans le wiki BBS: [github.com/skycoin/bbs/wiki/Content-Submission-Process](https://github.com/skycoin/bbs/wiki/Content-Submission-Process).
 
-Présentement, le frontal charge extrêmement lentement. Ceci est causé par l'utilisation de [GopherJS](https://github.com/gopherjs) pour gérer la génération de graines et de clés publiques/privées, ainsi que la signature et la vérification des données. Dans les sorties futurs, nous allons utiliser des librairies JavaScript natives pour améliorer la performance.
+Présentement, le frontal charge extrêmement lentement. Ceci est causé par l'utilisation de [GopherJS](https://github.com/gopherjs) pour gérer la génération de graines et de clés publiques/privées, ainsi que la signature et la vérification des données. Dans les sorties futures, nous allons utiliser des librairies JavaScript natives pour améliorer la performance.
 
 ## Interface de ligne de commande
 
