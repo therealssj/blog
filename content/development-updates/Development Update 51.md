@@ -78,7 +78,7 @@ You must spend a whole output. If there are 10 coins, the whole output is consum
 - Oone of the outputs sends 2 coins to the recipient
 - Outputs are tied to addresses.
 - To authorize the spending of an output, you need the secret key for the address the output is tied to.
-- You dont "own" Bitcoin in the same way you own gold (by possessing it). Instead of "owning" 10 bitcoin, someone "knows 10 bitcoin".
+- You don't "own" Bitcoin in the same way you own gold (by possessing it). Instead of "owning" 10 bitcoin, someone "knows 10 bitcoin".
 - They know the secret that allows them to authorize transactions with the Bitcoin in those addresses.
 - "Ownership" of bitcoin is about "knowing" rather than "controlling".
 - The Bitcoin do not exist on your computer, but only the secret key needed to authorize valid transactions from an address.
@@ -147,7 +147,7 @@ Transaction malleability has effects
 - Cold store will be unaffected
 - Personal transactions between people or companies not involved in the attack will be unaffected
 - High volume, automated transaction processors will be affected the most
-- Dont choose between chains. Run both chains. A transaction is only considered executed if its in both chains
+- Don't choose between chains. Run both chains. A transaction is only considered executed if its in both chains
 - Coins in outputs that differ between the chains should be frozen. Blocks that have transactions which attempt to spend contentious outputs should be rejected in the consensus process
 - Have users figure out which branch is the attack branch and then prune it. This has to be done by hand and through human choice, instead of algorithm.
 - We may not have to resolve forks algorithmic at all

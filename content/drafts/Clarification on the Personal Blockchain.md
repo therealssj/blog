@@ -26,9 +26,9 @@ sign each block with your private key.
 There are no coins on the personal blockchains and a personal blockchain
 cannot trigger a transaction. So if you enter into a contract on a personal
 blockchain its just an agreement, you still have to execute or perform under
-the contract. However, if you dont perform, then its public. Or if only the
+the contract. However, if you don't perform, then its public. Or if only the
 contract hash was published, no one knows what the contract is, but you can
-publish the contract if they dont perform and everyone can see that.
+publish the contract if they don't perform and everyone can see that.
 
 The Bitcoin wire protocol only has one blockchain. The Skycoin wire protocol
 has to support multiple blockchains. There is the main chain that has the coin

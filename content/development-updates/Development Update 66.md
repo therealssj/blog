@@ -80,11 +80,11 @@ NewMessageConfig("ANNT", AnnounceTxnsMessage{}),
 
 When you connect to someone:
 - You request list of hashes for the transactions they have.
-- If they have something you dont have, you request the data for it
+- If they have something you don't have, you request the data for it
 
 Gossip Protocol: When you learn about a new transaction
 - When you get a new transaction, you broadcast the hash to everyone you are connected to
-- If they dont have the transaction already, they request it from you
+- If they don't have the transaction already, they request it from you
 
 ## Blocks:
 
@@ -103,7 +103,7 @@ Skycoin uses a paradigm of source independent networking, similar to urbit. It i
 - Each object is "named" by the hash of its binary serialization
 - You connect to remote peer
 - You check list of hashes for objects you have, against list of hashes for objects they have
-- You do exchange, so you get any objects they have which you dont
+- You do exchange, so you get any objects they have which you don't
 - You apply a filter (discarding invalid transactions or executed transactions from your store or whatever policy is)
 
 So if person A injects a new transaction to the network, it will spread throughout the network. Eventually a block minting server will shove it into a block and it will executed.

@@ -38,7 +38,7 @@ because your fork is no longer compatible with the ecosystem of the original.
 
 At the same time, between the second and third generation the new platforms
 increase interoperability between first generation coins. Any two coins become
-automatically convertible between each other at the spot price. You dont care
+automatically convertible between each other at the spot price. You don't care
 if they accept Bitcoin or which basket of currencies they accept, because it
 is the same for the end user. They just go to their wallet and hit "pay" and
 select the currency to pay in and which wallet they want to pay out of.

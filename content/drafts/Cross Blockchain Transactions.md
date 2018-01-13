@@ -59,7 +59,7 @@ The exchange is obligated, but not required to sign the transfer agreement and i
 - The exchange cannot make money appear or disappear
 - You can transfer your obligation and ownership of assets held by the exchange to a third party
 
-We dont try to eliminate fraud and make it zero trust, we just make it so you can detect and prove fraud to third parties in an automated manner. This allows you to give some data to a third party that proves the other party is not trust worthly and can be verified independently.
+We don't try to eliminate fraud and make it zero trust, we just make it so you can detect and prove fraud to third parties in an automated manner. This allows you to give some data to a third party that proves the other party is not trust worthly and can be verified independently.
 
 A contract may entail a trusted 3rd party. So if A defaults, the escrow agent will execute the contract on behalf of A, but the escrow agent may require holding collateral from A, to take on the risk of default.
 

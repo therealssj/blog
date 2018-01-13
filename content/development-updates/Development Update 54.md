@@ -105,4 +105,4 @@ Security of local time stamping relies on several assumptions. The most importan
 4. Implement tree consensus in go and integrate into Skycoin
 5. Misc. infrastructure. Check-pointing, network monitoring, emergency alert system, merkle-DAG for parallel block downloads
 
-#1 is in progress. #2 and #3 are happening concurrency. #5 will have to be handled by the community because we dont have time.
+#1 is in progress. #2 and #3 are happening concurrency. #5 will have to be handled by the community because we don't have time.

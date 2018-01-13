@@ -24,7 +24,7 @@ Quote from: td services on March 23, 2014, 04:01:09 PM
 
 Yes. You have it working! The wallet gui is running a GTK window that embeds webkit. The wallet is HTML/Angular with a localhost golang webserver. That is what you are looking at. The wallet uses the JSON interface to check balances and do sends.
 
-- We dont have transaction history yet. You can check balance and do sends using the unspent output set, but transaction history requires parsing old blocks and putting it in a database.
+- We don't have transaction history yet. You can check balance and do sends using the unspent output set, but transaction history requires parsing old blocks and putting it in a database.
 - The wallet RPC is currently being updated (in branch) to support multiple wallets and the new deterministic wallet seeds.
 - Then the wallet code will be updated to match the new RPC before launch
 - You can run a local blockchain, but the global testnet blockchain is not running right now.

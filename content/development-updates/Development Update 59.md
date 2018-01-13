@@ -21,7 +21,7 @@ This means some hashes we were intending to put in the block header are redundan
 
 Skycoin recovers from an attack on the network by identification of the attacking nodes and users collectively kicking them off or marginalizing the influence of the attacking nodes. The kicking of bad nodes off the network can be done by hand or it can be automated if it can be done safety. This incremental checkpointing system even if it is not used to prevent attacks that would revert previously executed transactions, may be useful for automatically identifying the bad nodes.
 
-This has to be worked through very carefully to ensure that it would not introduce any edge cases, so will be something we look at for the second generation consensus algorithm implementation. I dont think there is time to fit into this iteration.
+This has to be worked through very carefully to ensure that it would not introduce any edge cases, so will be something we look at for the second generation consensus algorithm implementation. I don't think there is time to fit into this iteration.
 
 I think the existing Skycoin consensus design is 51% attack proof, because the number of nodes required for performing the attack is much larger than the number of mining pools that need to collude and if it occurred, the chain would just fork and run both chains until they were pruned by hand and the bad nodes are kicked off by hand. So it is not clear what the economic incentive for a 51% attack in Skycoin, or why anyone would attempt it. Its more annoying than anything else.
 
@@ -45,7 +45,7 @@ If the continuous check pointing system works, the number of nodes for a secure 
 - peer-to-peer consensus in closed network, with peer-to-peer slave replication (central bank, bank running assets on a private ledger for internal or for customer use. Ripple. Skycoin ledger running on closed network)
 - peer-to-peer consensus in open network, with peer-to-peer replication (Bitcoin, where we will be at version 1.0)
 
-The danger is that if we dont solve the last problem, that we will have Bitcoin like systems, but they will be controlled by the banks and not the public. The third topology is a special case of the forth and the security problems are easier. If we have last problem solved, then we we end up with a hybrid system inter-operable of closed an open consensus networks on the same code base.
+The danger is that if we don't solve the last problem, that we will have Bitcoin like systems, but they will be controlled by the banks and not the public. The third topology is a special case of the forth and the security problems are easier. If we have last problem solved, then we we end up with a hybrid system inter-operable of closed an open consensus networks on the same code base.
 
 If the solutions are only extended to the third case, then the banks control the ledgers and can still impose transactions fees as gate keepers and can still charge merchants chargeback fees involuntarily and can still add involuntary debits and fees to customer accounts, such as overdraft fees. That is where the industry is being herded right now and why the consensus problem in open networks needs to be solved. Bitcoin in its current form will be obsolete as soon as those systems are in place, but the system will have been recentralized with banks as the gate keeper.
 
