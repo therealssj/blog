@@ -124,111 +124,112 @@ un exchange a prezzo pieno e poi viene pagato il marketing per promuoverla e le 
 comprano Mentre gli *insiders* vendono più monete che possono.
 
 Quindi, prima c'era un periodo in cui il pubblico poteva trovare una buona moneta, a buon mercato,
-e compralo prima che lo apprezzasse. Oggi, è solo un cartello di addetti ai lavori che
-sono già ricchi, dando reciprocamente monete (pre-ICO, lol cosa?) e
-vendite istituzionali, prima di lanciare la moneta su uno scambio e provare a
-scaricare quanto più possibile sul pubblico.
+e comprala prima che si apprezzasse. Oggi, è solo un cartello di addetti ai lavori che
+sono già ricchi, dandosi reciprocamente monete (pre-ICO, lol cosa?) e
+vendite istituzionali, prima di lanciare la moneta su un exchange e provare a
+*dumpare* quanto più possibile sul pubblico.
 
 Quindi il nuovo modello è:
 
-- I fondatori e gli addetti ai lavori acquistano al 1/10 il prezzo ICO
-- Vendono al pubblico al prezzo ICO (10 volte quello che gli insider hanno pagato nel
+- I fondatori e gli *insiders* acquistano ad 1/10 del prezzo ICO
+- Vendono al pubblico al prezzo ICO (10 volte quello che gli *insider* hanno pagato nel
   "pre-ICO" di cui nessuno ti ha parlato)
 - Poi scaricano le monete in borsa al prezzo ICO e al prezzo di supporto
-  con le vendite pre-ICO / ICO e poi vendono il mercato fuori dal progetto.
-  Dumping come molte monete sul pubblico stupido che possono.
-- Quindi tutti i membri del comitato di esperti lo fanno per +20 monete. Alcuni dei
-  le persone stanno solo facendo gli ICO, passando alla prossima moneta e lavando / ripetendo
+  con le vendite pre-ICO / ICO e poi vendono il più possibile.
+  Dumping come avviene in molte monete sul pubblico stupido.
+- Quindi tutti i membri del comitato di esperti lo fanno per +20 monete. Alcune
+  delle persone stanno solo facendo gli ICO, passando alla prossima moneta ripetendo il gioco
   ogni settimana.
 
-La maggior parte dei "Raccolti 150 milioni di dollari in ICO!" sono finti. È come cinque ragazzi
+La maggior parte dei "Raccolti 150 milioni di dollari in ICO!" sono finti. È come cinque ragazzi che
 prendendo i loro soldi, mettendoli nella moneta e poi recuperando i loro soldi
 sul back-end.
 
 Gli "investitori" chiedono sconti estremamente elevati e grandi (enormi
-percentuali delle monete a sconti estremamente grandi). "Tutte le altre monete
-mi stanno dando il 30% del tasso di mercato ". I" fondi di investimento di monete "sono
+percentuali delle monete a scontate estremamente). "Tutte le altre monete
+mi stanno dando il 30% del tasso di mercato ". I" fondi di investimento delle monete "stanno
 letteralmente spuntando, per guardarsi intorno e cercare di comprare 5 o 20 milioni di dollari
-pezzi di cripto-monete. 5% o 20% di cripto-valute ad una frazione del
+di cripto-monete. 5% o 20% di cripto-valute ad una frazione del
 prezzo di mercato, in modo che possano scaricarli nel tempo sul mercato a scopo di lucro.
-The old model was:
 
-- You release coin
-- It gradually appreciates over years as user community and adaption grow
-- The earlier people do well and hopefully the project does something useful
+Il vecchio modello era:
 
-The current models is to just scam the public for anything you can get.
+- Rilascio della moneta
+- Gradualmente si apprezza nel corso degli anni man mano che la comunità di utenti e l'adattamento crescono
+- I primi utenti fanno bene e si spera che il progetto faccia qualcosa di utile
 
-I think, from experience with some of the coins I have advised on, from some
-of the conference calls I have been on, that I can predict that we could see
-some exchange owners raided at gun point and thrown face down with a gun to
-their head while their servers are looted and confiscated by the government.
-Not because their are scamming people, but just because they are clueless and
-snubbing the wrong person or the friend of the regulators.
+I modelli attuali sono utili solo per truffare il pubblico per qualsiasi cosa tu possa ottenere.
 
-Basically, none of the governments wanted to "regulate" Bitcoin or the exchanges
-until the "regulator" and their friends started getting into the market and
-wanted to push out the other people. In the United States especially, you will
-have an oligarchy like CoinBase and a few companies and only they are allowed
-to operate. They will start white listing coins, so only their coins
-get listed and exchanges will be delisting the other projects.
+Penso, dall'esperienza con alcune delle monete che sono stato consigliato, in alcune
+delle conferenze telefoniche in cui sono stato, prevedevo che avremmo potuto vedere
+alcuni proprietari di exchange inginocchiati sul pavimento, cun una pistola alla loro testa
+mentre i loro server venivano saccheggiati e confiscati dal governo.
+Non perché loro stiano prendendo in giro le persone, ma solo perché sono incapaci e
+snobbando la persona sbagliata o l'amico dei "*regulators*".
 
-The exchanges that are not owned by the right people are going to be shutdown
-(or hacked).
+Fondamentalmente, nessuno dei governi voleva "*regolare*" Bitcoin o gli scambi
+fino a quando il "*regolatore*" e i loro amici hanno iniziato a entrare nel mercato e
+voler spingere fuori le altre persone. Soprattutto negli Stati Uniti, avrai
+un'oligarchia come CoinBase e alcune società e solo loro saranno autorizzati a
+operare. Inizieranno le monete con la *whitelist*, quindi solo le loro monete
+saranno quotate e gli scambi verranno rimossi dagli altri progetti.
 
-They are literally doing "Do what we say and we will protect you", then on
-backend they are trying to get them shutdown at gunpoint so they can put their
-"licensed" competitor in place. Sort of like Circle trying to integrate
-Bitcoin into iMessage, then creating a white-list of which coins could go into
-the Apple App store. Everyone is trying to figure out how they can grab this
-thing and get control over it.
+Gli scambi che non sono di proprietà delle persone giuste verranno fermati
+(o hackerati).
 
-Just imagine if Apple integrated circle as the "official Bitcoin wallet" and
-put it in iMessenger, then purged all the Bitcoin wallets from the App store.
+Stanno letteralmente dicendo "Fai quello che diciamo e ti proteggeremo", poi via
+backend stanno cercando di farli arrestare a mano armata in modo che possano mettere il loro
+concorrente "autorizzato" al suo posto. Una specie di cerchio che cerca di integrare
+Bitcoin in iMessage, quindi creando una white-list di quali monete potrebbero entrare
+nell'App Store di Apple. Tutti stanno cercando di capire come possono afferrarlo
+cosa e avere il controllo su di esso.
 
-The coin market is forming into an oligarchy. People are demanding "regulation"
-because they are scamming everyone left and right and do not want to compete
-with other people's scams so they want to own and control the regulation and
-shut everyone else down. That is what is happening.
+Provate a immaginare se Apple avesse integrato il cerchio come "portafoglio ufficiale Bitcoin" e
+inserito in iMessenger, quindi avrebbe eliminato tutti i portafogli Bitcoin dall'App store.
 
-I think we may see another round of large hacks, like we did on Gox.
+Il mercato delle monete si sta trasformando in un'oligarchia. Le persone chiedono "regolamentazione"
+perché stanno truffando tutti a destra e sinistra e non vogliono competere
+con le truffe altrui, quindi vogliono possedere e controllare la regolamentazione e
+chiudere tutti gli altri concorrenti. Questo è ciò che sta accadendo.
 
-There may not be a regulatory or legal pretense for shutting down particular
-exchanges (like what happened to BTC-E) and they could be "hacked" and cleared
-out like MtGox.
+Penso che potremmo vedere un'altra ondata di grandi hack, come abbiamo visto su Gox.
 
-There was also a conference call where it was pointed out that the SEC was
-funded by regulatory actions, fines and asset seizures. That is where their
-budget comes from.
+Potrebbe non esserci pretesa normativa o legale per la chiusura specifica di
+scambi (come quello che è successo a BTC-E) e potrebbero essere "hackerati" e cancellati
+come MtGox.
 
-- The exchanges are ranked by volume.
-- Exchanges with no fees can create infinite fake volume, so only the
-  exchanges with trading fees are included in ranking, otherwise it's
-  inaccurate
-- To pump up their volumes and stay in the top of the rankings, the
-  exchanges are doing secret rebates of trading fees and other scams to
-  inflate their volume, while the actual volume is much lower
-- The exchanges that are most aggressive about puffing their volume and who
-  are least moral are highest ranked
-- There is a huge incentive for exchanges to lie and puff their volume (which
-  is why they are only listing scam coins, who can guarantee high volumes and
-  fees)
+C'è stata anche una teleconferenza in cui è stato sottolineato che la SEC era
+finanziata da azioni normative, multe e sequestri di beni. Ecco da dove proviene il loro
+budget:
 
-Exchanges will not list a coin unless they are guanteed to make a minimum of
-$5,000 or $40,000 a day in trading fees. So the coin has to be heavily marketed
-to scalp that much money off the user community after the ICO. The exchanges
-are taking 0.1% on each side (0.2% per trade because they are trading against
-themselves). So every million dollars a day of volume is draining a coin $2,000
-/day in exchange fees. Some of the coins are doing $6 or $10 million/day in
-"paid volume" or "guaranteed volume" ($12,000 or $20,000 a day in volume for
-medium sized coin). The exchange owners only care about volume.
+- Gli exchange sono ordinati per volume.
+- Gli exchange senza commissioni possono creare un volume falso infinito, quindi solo
+  gli exchange con le commissioni di negoziazione sono incluse nella classifica, altrimenti è
+  impreciso
+- Per aumentare i loro volumi e rimanere in cima alla classifica,
+  gli exchange stanno facendo sconti segreti di commissioni di negoziazione e altre truffe a
+  gonfia il loro volume, mentre il volume effettivo è molto più basso
+- Gli exchange più aggressivi sul gonfiare il loro volume e meno morali 
+  sono i più alti classificati
+- C'è un enorme incentivo per gli exchange di mentire e gonfiare il loro volume 
+  (Ecco perché stanno elencando solo le monete truffaldine, che possono garantire alti volumi e
+  tasse)
 
-The scam coins and mega-ICOs are paying the fees and working with the "market
-makers" to create the fake volume so the exchange owners know how much money
-they will make.
+Gli exchange non elencano una moneta a meno che non siano garantiti per fare un minimo di
+$ 5,000 o $ 40,000 al giorno in commissioni di trading. Quindi la moneta deve essere pesantemente commercializzata
+per ridimensionare quei soldi dalla comunità degli utenti dopo l'ICO. Gli exchange
+stanno prendendo lo 0,1% da entrambe le parti (0,2% per trade perché stanno facendo trading short contro
+loro stessi). Quindi trading da milione che avviene al giorno svuotando una moneta di $ 2.000
+ al giorno in commissioni di cambio. Alcune monete stanno facendo $ 6 o $ 10 milioni / giorno in
+"volume pagato" o "volume garantito" ($ 12.000 o $ 20.000 al giorno in volume per
+moneta di medie dimensioni). I proprietari di exchange si preoccupano solo del volume.
 
-Kraken is probably the only exchange that no one complains about and is not
-screwing with the volume.
+Le monete della truffa e i mega-ICO stanno pagando le tasse e lavorano con i *market makers*
+per creare il volume falso in modo che i proprietari dei exchange sappiano quanti soldi
+faranno.
+
+Kraken è probabilmente l'unico scambio in cui nessuno si lamenta e non si ingarbuglia
+con il volume.
 
 Most people with large orders are actually trading OTC on Bitfinex or other
 OTC platforms.
