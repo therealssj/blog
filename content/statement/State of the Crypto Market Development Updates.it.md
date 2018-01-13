@@ -319,102 +319,101 @@ il business riguarda il volume. Possono avere 10 milioni/giorno in "volume" e
 la profondità del book order reale è di dieci Bitcoin.
 
 Inoltre, la maggior parte (i più popolari) siti web di "Bitcoin News" stanno pubblicando false
-notizie, "La Cina vieta Bitcoin per la quinta volta", "Russia Bans Bitcoin". Poi
-quando gli scambi si interrompono accade qualcosa di reale (un evento), ci sono ZERO
-articoli su di esso su quei siti web, perché le NOTIZIE REALI non sono programmate per
-il loro mercato pompa e discariche. I siti di media stanno letteralmente facendo solo cronometrare
-mercato pompe e discariche con notizie completamente false. Stanno persino ricircolando
-falsi, trapelati "lettere di regolamentazione" di quattro anni fa come "Appena rilasciata la Cina
-bannato "notizie Bitcoin" e ogni singolo giorno è un "pump day" o una "discarica"
-giorno".
+notizie, "La Cina vieta Bitcoin per la quinta volta", "Russia Banna Bitcoin". Poi
+quando gli scambi si interrompono o accade qualcosa di reale (un evento), ci sono ZERO
+articoli su quei siti web, perché le NOTIZIE REALI non sono programmate per
+il loro mercato "*pump and dump*". I siti stanno letteralmente facendo solo avanzare il
+mercato "*pump and dump*" con notizie completamente false. Stanno persino ricircolando
+false, trapelate "lettere di regolamentazione" di quattro anni fa come "Appena rilasciata dalla Cina
+la notizia del ban di Bitcoin" e ogni singolo giorno è un "pump day" o un "dump day".
 
-Quindi per il 90% di questi progetti, a meno che tu non sia un addetto ai lavori e l'altro
-nei mercati e nel cartello, non trarrai alcun beneficio dall'acquisto di nessuno dei due
+Quindi per il 90% di questi progetti, a meno che tu non sia un addetto ai lavori o uno
+che governa il mercato, non trarrai alcun beneficio dall'acquisto di nessuna di
 queste monete. Hanno già apprezzato 100 volte prima ancora di vederli
-sul mercato. Stanno spuntando nella top 20 di no dove ora, con
-nessuno in pubblico è in grado di comprare qualcosa prima del picco e poi immediatamente
-incidente dopo.
+sul mercato. Stanno spuntando nella top 20 di dove ora,
+nessuno in pubblico è in grado di comprare qualcosa prima del picco e poi dell'immediati
+crollo.
 
-Ci sono quasi 0 (ZERO) monitoraggio dei siti Web di notizie:
+C'è quasi 0 (ZERO) monitoraggio dei siti Web di notizie:
 
 - Tecnologia reale
 - Uso del mondo reale della blockchain
 - Sviluppo del mondo reale (progetti con sviluppatori)
-- Progetti più piccoli che stanno cercando di fare qualcosa di più che eseguire una pompa e
-  discarica per i polloni
+- Progetti più piccoli che stanno cercando di fare qualcosa di più che "pump and dump" per fessi
 
 L'intero mercato è stato completamente ripreso. L'aspirazione libertaria di
-Bitcoin è stato ucciso dalla semplice avidità e lussuria dopo denaro facile.
+Bitcoin è stata uccisa dalla semplice avidità e lussuria del denaro facile.
 
 ---
 
 Ci sono persone che hanno dati reali (dati primari) e sanno quali monete
-avere utenti reali e comunità di utenti reali. Traccio costantemente questi dati e
-i dati sono piuttosto cattivi. Il mercato delle monete esistente è un disastro ferroviario.
+hanno utenti reali e comunità di utenti reali. Tracciano costantemente questi dati e
+sono piuttosto cattivi. Il mercato delle monete esistente è un disastro ferroviario.
 
-Dal momento che nessuno ritira mai monete dallo scambio, i dati lo suggeriscono
+Dal momento che nessuno ritira mai monete dall'exchange, i dati suggeriscono che
 molte monete vendono più monete di quante ne esistano realmente. Il volume degli scambi e
 l'attività è completamente non correlata a metriche primarie reali verificabili.
 
-La gente mi ha detto che alcuni scambi hanno una storia di revoca del delitto improvvisa
-alcune monete senza consentire agli utenti di recedere. Quale spiegherebbe cosa
-sta succedendo. Il mio atteggiamento ora è "Se le monete non sono nel mio portafoglio e sul mio
+La gente mi ha detto che alcuni exchange hanno una storia di revoca improvvisa per
+alcune monete senza consentire agli utenti di recedere. La quale spiegherebbe cosa
+sta succedendo. Il mio atteggiamento ora è "Se le monete non sono nel mio portafoglio ne sul mio
 computer, non esistono ".
 
 Una volta che i regolatori bloccano completamente le monete più piccole dai mercati
-con la lista bianca, l'unica cosa che viene elencata sarà due o tre
+con la white-list, l'unica cosa che verrà elencata sarà due o tre
 mega-truffe da un miliardo di dollari al mese. Non ho idea di cosa sembrerà
-piace. Solo le truffe più grandi, più tossiche e meglio vestite che hanno pagato di più
+Solo le truffe più grandi, più tossiche e meglio vestite che hanno pagato di più
 le persone saranno in grado di essere elencate.
-The big changes to the market will be:
 
-- Multi-coin support (cross platform coin/wallet support standards, people
-  pulling coins off the exchanges)
-- DEX (distributed exchanges), the real and long term money has already moved
-  off the exchanges because of the hacking risk.
-- Real uses of blockchain instead of speculation (actual companies, using
-  tokens for real business functions)
+I grandi cambiamenti del mercato saranno:
 
-However, the sophisticated people are doing very very well. The people who
-know what is going on.
+- Supporto multi-moneta (standard di supporto di monete / portafogli multipiattaforma, le persone
+  toglieranno le monete dagli exchange)
+- DEX (scambi distribuiti), il denaro reale e a lungo termine è già stato trasferito
+  fuori dagli exchange a causa del rischio di hacking.
+- Usi reali di blockchain invece di speculazioni (aziende reali, utilizzando
+  token per funzioni aziendali reali)
 
-Many of the large investors are moving off of the exchanges to OTC.
+Tuttavia, le persone sofisticate stanno facendo molto bene. Le persone che
+sanno cosa sta succedendo.
 
-They are boycotting all the coins with one or two "pre-ICOs" where the
-insiders get to buy at 1/100th the price of the public. They are ignoring the
-massive ICOs and looking at fundamentals and primary metrics.
+Molti dei grandi investitori stanno passando dagli scambi a OTC.
 
-It is sort of obvious, to anyone that is not an idiot, that if a coin raised 1
-billion dollars in an ICO, that the price is not going to go up 100x (that 100
-billion dollars in shucks are going to come along and dump one hundred billion
-dollars into the coin so that all the people in the ICO can exit 100x when the
-bought it at before the ICO). Especially if the coin is a "Smart Contract
-Platform" with no users or applications and not Enron selling a billion
-barrels a year of oil for E-coin.
+Stanno boicottando tutte le monete con uno o due "pre-ICO" dove
+gli addetti ai lavori ottengono di comprare a 1/100esimo del prezzo del pubblico. Stanno ignorando i
+massicci OIC e guardando i le fondamentali metriche primarie.
 
-IF:
+È ovvio, a chiunque non sia un idiota, che se una moneta raccolgiesse 1
+miliardo di dollari in un ICO, che il prezzo non salirà a 100x (quei 100
+miliardi di dollari di dollari arriverebbero e scaricherebbero cento miliardi di
+dollari nella moneta in modo che tutte le persone nella ICO possano uscire a 100x rispetto a quanto
+comprato prima dell'ICO). Soprattutto se la moneta è una "Smart Contract Platform"
+senza utenti o applicazioni e non vende un miliardo di barili Enron
+all'anno di petrolio per E-coin.
 
-- A coin raises 1 billion dollars in an ICO
-- The coin WILL NOT increase to 100x the ICO price
-- To go up 100x, the existing coin holders have to be bough out for 100 billion
-- That money has to come from somewhere (where as the vast majority of coins
-  only lose money and all of their inflows come from people buying the coin
-  for speculation)
+SE:
 
-So it is obvious that all the best relative returns are in the smaller
-projects and not the mega-ICOs.
+- Una moneta guadagna 1 miliardo di dollari in un ICO
+- La moneta NON aumenterà a 100 volte il prezzo ICO
+- Per salire di 100x, i possessori di monete esistenti devono essere dolti a 100 miliardi
+- Quel denaro deve venire da qualche parte (dove è la stragrande maggioranza delle monete
+  solo perdere denaro e tutti i loro afflussi provengono da persone che comprano la moneta
+  per speculazione)
 
-So all the money is being made by avoiding the mega-ICOs and focusing on
-fundamentals.
+Quindi è ovvio che tutti i migliori rendimenti relativi sono nei più piccoli
+progetti e non in mega-ICO.
 
-Where as idiots see "They raised twelve billion dollars in FIVE MINUTES. I
-NEED TO MORTGAGE MY HOUSE AND BUY THIS IN CASE IT GOES UP 3x AFTER THE ICO".
-Then all the people who bought the coin at 1% of the ICO in the "pre-ICO"
-(that you were not invited to), will dump everything at the ICO price as soon
-as it hits the market.
+Quindi tutto il denaro viene fatto evitando i mega-ICO e concentrandosi sui
+fondamentali.
 
-This trend of everyone creating twelve bitcoin forks, so they can get free
-coins and dump them is also ridiculous.
+Dove gli idioti vedono "Hanno raccolto dodici miliardi di dollari in CINQUE MINUTI,
+DEVO MIGLIORARE LA MIA CASA E ACQUISTARE QUESTO NEL CASO IN CUI VADA 3x DOPO L'ICO ".
+Tutte le persone che hanno acquistato la moneta all'1% dell'ICO nel "pre-ICO"
+(che non sei stato invitato), scaricheranno tutto al prezzo della ICO al più presto
+e colpirà duramente il mercato.
+
+La creazione di dodici fork bitcoin, in modo che possano avere monete gratis
+d scaricarle è un pensiero anche ridicolo.
 
 ## New Wallet
 
