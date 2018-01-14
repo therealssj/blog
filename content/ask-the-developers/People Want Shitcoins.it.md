@@ -22,7 +22,7 @@ La gente vuole le shitcoin.
 Come Bitcoin all'inizio, ora Skycoin ha enormi ostacoli tecnici ed istruttivi.
 
 Skycoin è stata creata da zero . Non è una moneta clone come 500 ERC20 token,
-quindi per essere listata su un exchange bisogna lavorare molto (cosa che gli
+quindi per essere listata su un exchange ha bisogno di lavorare molto (cosa che gli
 exchange non vorranno fare dato che sono solo 6 le persone che li gesticono 
 e supportano oltre 300 shitcoin).
 
@@ -42,7 +42,7 @@ dei token più famosi o qualcosa come Dogecoin.
 Quindi Skycoin è in una fase iniziale di sviluppo che Bitcoin ed Etherium 
 hanno già superato, dove c'è un'enorme barriera tecnica per i nuovi utenti.
 
-E così Skycoin sta facendo bene sulla meshnet, sull'hardware e le applicazioni.
+E così Skycoin sta facendo un buon lavoro sulla meshnet, sull'hardware e le applicazioni.
 
 Ma anche la nostra piattaforma si sta sviluppando molto bene. Le aziende ci 
 stanno dicendo "perché dovremmo usare Ethereum e mettere i nostri dati su una 
@@ -59,5 +59,6 @@ Il linguaggio contrattuale di Ethereum è come se fosse stato scritto dai bambin
 Flusso infinito di notizie su quante decine o centinaia di milioni di rubati 
 questa settimana.
 
-Pensiamo che per i veri affari questo sarà il primo linguaggio e piattaforma 
-professionale e utilizzabile. Sarà come passare da Microsoft Paint a Photoshop.
+Pensiamo che per i veri affari questo sarà il primo linguaggio e la prima
+piattaforma 
+professionale utilizzabile. Sarà come passare da Microsoft Paint a Photoshop.
