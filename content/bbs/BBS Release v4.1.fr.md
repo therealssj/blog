@@ -19,8 +19,8 @@ La version 4.1 de Skycoin BBS vient d'être publiée!
 ## Journal des modifications
 - Améliorations à l'interface utilisateur.
 - Mise en oeuvre de la découverte de services (les connections vers les autres noeuds sont maintenant gérées automatiquement).
-- Amélioration de la soumission à distance de contenu pour tableaux (implémenté via la découverte de services).
-- Simplification du processus de création et d'hébergement des tableaux.
+- Amélioration de la soumission à distance de contenu pour les babillards électroniques (implémenté via la découverte de services).
+- Simplification du processus de création et d'hébergement des babillards électroniques.
 - Améliorations aux structures de données CXO.
 
 La prochaine version amènera des fonctionnalités encore plus excitantes! Surveillez cette page pour rester à jour.
