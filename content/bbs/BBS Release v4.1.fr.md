@@ -23,7 +23,7 @@ La version 4.1 de Skycoin BBS vient d'être publiée!
 - Simplification du processus de création et d'hébergement des tableaux.
 - Améliorations aux structures de données CXO.
 
-La prochaine sortie amènera des fonctionnalités encore plus excitantes! Surveillez cette page pour rester à jour.
+La prochaine version amènera des fonctionnalités encore plus excitantes! Surveillez cette page pour rester à jour.
 
 ## Binaires
 
