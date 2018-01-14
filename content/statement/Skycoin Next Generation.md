@@ -94,4 +94,3 @@ requires a blockchain fork.
 
 If the evolution of the ecosystem stops at where Bitcoin is today, the full
 potential of crypto currencies will never be realized.
-
