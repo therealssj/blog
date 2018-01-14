@@ -56,7 +56,7 @@ L'altra cosa è che il linguaggio della nostra logica di business dell'applicazi
 si sta sviluppando molto bene.
 
 Il linguaggio contrattuale di Ethereum è come se fosse stato scritto dai bambini. 
-Flusso infinito di notizie su quante decine o centinaia di milioni di rubati 
+Flusso infinito di notizie su quante decine o centinaia di milioni di dollari rubati 
 questa settimana.
 
 Pensiamo che per i veri affari questo sarà il primo linguaggio e la prima
