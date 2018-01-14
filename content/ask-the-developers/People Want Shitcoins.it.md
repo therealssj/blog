@@ -1,5 +1,5 @@
 +++
-title = "People Want Shitcoins"
+title = "La Gente Vuole Le Shitcoin"
 tags = [
     "Ask the Developers",
 ]
