@@ -49,8 +49,8 @@ stanno dicendo "perché dovremmo usare Ethereum e mettere i nostri dati su una
 catena condivisa con 500.000 shitcoin, quando Skyledger darà alla nostra azienda
 la NOSTRA blockchain". Che è chiaramente una cosa superiore.
 
-Nessuno sulla Terra cercherebbe di mettere ogni dato della propria azienda stesso 
-database SQL, quindi perché dovresti farlo con blockchain?
+Nessuno sulla Terra cercherebbe di mettere ogni dato della propria azienda sullo
+stesso database SQL, quindi perché dovresti farlo con blockchain?
 
 L'altra cosa è che il linguaggio della nostra logica di business dell'applicazione 
 si sta sviluppando molto bene.
