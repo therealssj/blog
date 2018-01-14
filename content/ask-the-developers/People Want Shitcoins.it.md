@@ -60,5 +60,5 @@ Flusso infinito di notizie su quante decine o centinaia di milioni di dollari ru
 questa settimana.
 
 Pensiamo che per i veri affari questo sarà il primo linguaggio e la prima
-piattaforma 
-professionale utilizzabile. Sarà come passare da Microsoft Paint a Photoshop.
+piattaforma professionale utilizzabile. Sarà come passare da Microsoft Paint a Photoshop
+
