@@ -49,7 +49,7 @@ Abiliteremo 2 cifre decimali quando Skycoin raggiunge $ 10 di valore. Possiamo e
 
 Semplicemente non vogliamo che le persone invadano le nanotecnologie e gonfino la blockchain con la spazzatura.
 
-> Perché non promuovere la chiusura del telegramma e il canale slack.
+> Perché non promuovere la chiusura del canale Telegram e il canale slack.
 > Trasferimento completo a Discord.
 
 Nessuno è in Discord. Non usiamo molto Slack.
@@ -141,12 +141,11 @@ Quindi il nuovo modello è:
   delle persone stanno solo facendo gli ICO, passando alla prossima moneta ripetendo il gioco
   ogni settimana.
 
-La maggior parte dei "Raccolti 150 milioni di dollari in ICO!" sono finti. È come cinque ragazzi che
-prendendo i loro soldi, mettendoli nella moneta e poi recuperando i loro soldi
-sul back-end.
+La maggior parte dei "150 milioni di dollari raccolti in ICO" sono finti. È come cinque ragazzi che
+prendendo i loro soldi, mettendoli nel loro stesso portafogli e poi una volta a casa li tolgono.
 
 Gli "investitori" chiedono sconti estremamente elevati e grandi (enormi
-percentuali delle monete a scontate estremamente). "Tutte le altre monete
+percentuali delle monete e scontate estremamente). "Tutte le altre monete
 mi stanno dando il 30% del tasso di mercato ". I" fondi di investimento delle monete "stanno
 letteralmente spuntando, per guardarsi intorno e cercare di comprare 5 o 20 milioni di dollari
 di cripto-monete. 5% o 20% di cripto-valute ad una frazione del
@@ -189,13 +188,13 @@ inserito in iMessenger, quindi avrebbe eliminato tutti i portafogli Bitcoin dall
 
 Il mercato delle monete si sta trasformando in un'oligarchia. Le persone chiedono "regolamentazione"
 perché stanno truffando tutti a destra e sinistra e non vogliono competere
-con le truffe altrui, quindi vogliono possedere e controllare la regolamentazione e
+con le truffe altrui, quindi vogliono possedere e controllare la regolamentazione e far
 chiudere tutti gli altri concorrenti. Questo è ciò che sta accadendo.
 
 Penso che potremmo vedere un'altra ondata di grandi hack, come abbiamo visto su Gox.
 
 Potrebbe non esserci pretesa normativa o legale per la chiusura specifica di
-scambi (come quello che è successo a BTC-E) e potrebbero essere "hackerati" e cancellati
+exchange (come quello che è successo a BTC-E) e potrebbero essere "hackerati" e cancellati
 come MtGox.
 
 C'è stata anche una teleconferenza in cui è stato sottolineato che la SEC era
@@ -217,10 +216,10 @@ budget:
 
 Gli exchange non elencano una moneta a meno che non siano garantiti per fare un minimo di
 $ 5,000 o $ 40,000 al giorno in commissioni di trading. Quindi la moneta deve essere pesantemente commercializzata
-per ridimensionare quei soldi dalla comunità degli utenti dopo l'ICO. Gli exchange
+per ridimensionare quei soldi proveninenti dalla comunità degli utenti dopo l'ICO. Gli exchange
 stanno prendendo lo 0,1% da entrambe le parti (0,2% per trade perché stanno facendo trading short contro
-loro stessi). Quindi trading da milione che avviene al giorno svuotando una moneta di $ 2.000
- al giorno in commissioni di cambio. Alcune monete stanno facendo $ 6 o $ 10 milioni / giorno in
+loro stessi). Quindi ogni trading da milione che avviene al giorno prendono dalla moneta $ 2.000
+in commissioni di cambio. Alcune monete stanno facendo $ 6 o $ 10 milioni / giorno in
 "volume pagato" o "volume garantito" ($ 12.000 o $ 20.000 al giorno in volume per
 moneta di medie dimensioni). I proprietari di exchange si preoccupano solo del volume.
 
@@ -228,7 +227,7 @@ Le monete della truffa e i mega-ICO stanno pagando le tasse e lavorano con i *ma
 per creare il volume falso in modo che i proprietari dei exchange sappiano quanti soldi
 faranno.
 
-Kraken è probabilmente l'unico scambio in cui nessuno si lamenta e non si ingarbuglia
+Kraken è probabilmente l'unico exchange in cui nessuno si lamenta e non si ingarbuglia
 con il volume.
 
 La maggior parte delle persone con ordini di grandi dimensioni sta attualmente scambiando OTC su Bitfinex o altre
@@ -331,7 +330,7 @@ Quindi per il 90% di questi progetti, a meno che tu non sia un addetto ai lavori
 che governa il mercato, non trarrai alcun beneficio dall'acquisto di nessuna di
 queste monete. Hanno già apprezzato 100 volte prima ancora di vederli
 sul mercato. Stanno spuntando nella top 20 di dove ora,
-nessuno in pubblico è in grado di comprare qualcosa prima del picco e poi dell'immediati
+nessuno in pubblico è in grado di comprare qualcosa prima del picco e poi dell'immediato
 crollo.
 
 C'è quasi 0 (ZERO) monitoraggio dei siti Web di notizie:
@@ -380,8 +379,8 @@ sanno cosa sta succedendo.
 Molti dei grandi investitori stanno passando dagli scambi a OTC.
 
 Stanno boicottando tutte le monete con uno o due "pre-ICO" dove
-gli addetti ai lavori ottengono di comprare a 1/100esimo del prezzo del pubblico. Stanno ignorando i
-massicci OIC e guardando i le fondamentali metriche primarie.
+gli insiders possono comprare a 1/100esimo del prezzo del pubblico. Essi infatti ignorano i
+massicci OIC e guardando solo le fondamentali metriche primarie.
 
 È ovvio, a chiunque non sia un idiota, che se una moneta raccolgiesse 1
 miliardo di dollari in un ICO, che il prezzo non salirà a 100x (quei 100
@@ -394,10 +393,10 @@ all'anno di petrolio per E-coin.
 SE:
 
 - Una moneta guadagna 1 miliardo di dollari in un ICO
-- La moneta NON aumenterà a 100 volte il prezzo ICO
-- Per salire di 100x, i possessori di monete esistenti devono essere dolti a 100 miliardi
+- La moneta NON aumenterà di 100 volte il prezzo ICO
+- Per salire di 100x, i possessori di monete esistenti devono essere tolti (vendere) a 100 miliardi
 - Quel denaro deve venire da qualche parte (dove è la stragrande maggioranza delle monete
-  solo perdere denaro e tutti i loro afflussi provengono da persone che comprano la moneta
+  perdono solamente denaro e tutti i loro afflussi provengono da persone che comprano la moneta
   per speculazione)
 
 Quindi è ovvio che tutti i migliori rendimenti relativi sono nei più piccoli
