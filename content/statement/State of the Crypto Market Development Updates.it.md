@@ -1,5 +1,5 @@
 +++
-title = "State of the Crypto Market and Development Updates"
+title = "Stato attuale del mercato Crypto e Aggiornamenti sullo Sviluppo"
 tags = [
     "Development",
     "Wallet Development",
