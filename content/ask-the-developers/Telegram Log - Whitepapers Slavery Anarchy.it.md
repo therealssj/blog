@@ -1,5 +1,5 @@
 +++
-title = "Telegram Log - Whitepapers, Slavery and Anarchy"
+title = "Registro di Telegram - §Libro Bianco, Schiavitù e Anarchia"
 tags = [
     "Ask the Developers",
 
@@ -15,103 +15,103 @@ categories = [
 
 Hey
 
-I discovered that both papers on the obelisk consensus algorithm were withdrawn from arxiv because of mistakes. Is this true?
+Ho scoperto che entrambi i documenti sull'algoritmo di consenso *obelisk* sono stati tolti dall'arxiv a causa di errori. È vero?
 
-Can someone from the team address this issue, please?
+Qualcuno del team può risolvere questo problema, per favore?
 
 **Monty Crypto (Xa no)**
 
-Mmm, about Obelisk? We have like at least 5 papers about the underlying logic, but wasn't aware anything was specifically published about Obelisk already
+Mmm, su Obelisk? Abbiamo almeno 5 articoli sulla logica sottostante all'algoritmo, ma non sapevamo che qualcosa fosse stato pubblicato specificamente su Obelisk
 
-Which papers are missing?
+Quali documenti mancano?
 
-**Synth** *[In reply to Artem Kotelskiy]*
+**Synth** *[in risposta a Artem Kotelskiy]*
 
-No. Chen withdrew them because he wanted people to quote then from the ACM journel instead of arxiv because its considered more prestigious
+No. Chin li ha ritirati perché voleva che la gente citasse la rivista ACM invece di Arxiv perché considerata più prestigiosa
 
 **Synth**
 
-And chen thinks that one of the papers should be withdrawn because of minor error which is irrelevent.
+E Chen pensa che uno dei documenti dovrebbe essere ritirato a causa di un errore minore che è irrilevante.
 
-the algorithm in that paper is only 3rd generation of the consensus algorithm and we are generation 5 and need implementation white paper
+In quel documento è solo alla 3a generazione dell'algoritmo di consenso e noi siamo alla generazione 5 e abbiamo bisogno di un white paper di implementazione.
 
 **Artem Kotelskiy**
 
 https://arxiv.org/abs/1507.03927
 
-It says crucial theoretic defect
+Dice un difetto teorico cruciale
 
 **Synth**
 
-Its chen being idiot
+Chen è un idiota
 
 **Artem Kotelskiy**
 
-The same with opinion Dynamics paper
+Vale lo stesso con i documenti delle opinioni di Dynamics
 
 **Synth**
 
-there is an error in one paper that I told him about months before he published it
+C'è un errore in un foglio che gli avevo detto di mesi prima che lo pubblicasse
 
 **Synth**
 
-but its not relevent. The idea is based upon energy minimization and comes from statistical physics.
+Ma non è pertinente. L'idea è basata sulla minimizzazione dell'energia e proviene dalla fisica statistica.
 
-Chen was trying to create total ordering with some weird hashing thing that does not work.
+Chen stava cercando di creare un ordinamento totale con qualche strana cosa di hashing che non funziona.
 
 **Artem Kotelskiy**
 
-So the papers on the website are different from papers on arxiv?
+Quindi i documenti sul sito web sono diversi dai documenti su Arxiv?
 
-I really don't like that comment on arxiv. The author of the paper refuses it, there is something strange about it.
+Non mi piace davvero quel commento su Arxiv. L'autore del documento lo rifiuta, c'è qualcosa di strano in proposito.
 
 **Synth**
 
-There are eight versions of them
+Ci sono otto versioni di questo
 
-The final version was the one published in the ACM journel/conference
+La versione finale è quella pubblicata nel tour/conferenza ACM
 
 **Artem Kotelskiy**
 
-Could you provide a link please?
+Puoi mandarmi un link per favore?
 
-Can't Google it
+Non riesco a Googglarlo
 
-**Synth** *[In reply to Artem Kotelskiy]*
+**Synth** *[In risposta a Artem Kotelskiy]*
 
-Chens professor. The coauthor wants the papers unpublished. He does not understand blockchain and thinks the chinese government is attacking blockchain and the paper may get him in trouble.
+Il professore di Chens. Il coautore vuole che le carte non siano pubblicate. Non capisce la blockchain e pensa che il governo cinese stia attaccando la blockchain e che il giornale possa metterlo nei guai.
 
 **Synth**
 
 http://njtech.findplus.cn/?h=search_list&query=AR:%22Shu%2C%20Jiwu%22
 
-**Artem Kotelskiy** *[In reply to Synth]*
+**Artem Kotelskiy** *[In risposta a Synth]*
 
-I think this should be addressed somehow on your website. The whole project is based on security of obelisk. It should be crystal clear for people that this algorithm was at least peer reviewed by CS people.
+Penso che questo dovrebbe essere indirizzato in qualche modo sul tuo sito web. L'intero progetto è basato sulla sicurezza di Obelisk. Dovrebbe essere chiaro per le persone che questo algoritmo è stato almeno revisionato da persone di CS.
 
-Because of one simple reason -- no one will dive into the papers and checking they are right except CS
+A causa di un semplice motivo, nessuno si immergerà nei documenti e verificherà che hanno ragione eccetto CS.
 
-**Synth** *[In reply to Artem Kotelskiy]*
+**Synth** *[In risposta a Artem Kotelskiy]*
 
-There will be a sixth white paper that is 40 or 60 pages on proper implementation and details. But no one has time to write it.
+Ci sarà un sesto white paper di 40 o 60 pagine sulla corretta implementazione e sui dettagli. Ma nessuno ha tempo per scriverlo.
 
-We have the simulation done and now that peer discovery works we will get first gen implemented and show real world behavior
+Abbiamo fatto la simulazione e ora che la scoperta dei peer funziona otterremo la prima generazione di implementazione e mostreremo il comportamento del mondo reale
 
-**Synth** *[In reply to Artem Kotelskiy]*
+**Synth** *[In risposta a Artem Kotelskiy]*
 
-He was one who wrote the Go ethereum implementation.
+Lui è quello che ha scritto l'implementazione di Go Ethereum.
 
 **Artem Kotelskiy**
 
 Jiwu?
 
-This also should be on the website. But actually, thank you for your answers a lot.
+Anche questo dovrebbe essere sul sito web. Ma in realtà, grazie molte per le tue risposte.
 
 **Synth**
 
-The paper was published in a top 2 ACM computer science journel and conference for distributed database consensus and was peer reviewed.
+Il documento è stato pubblicato in una delle 2 migliori conferenze e conferenze di computer ACM per il consenso sul database distribuito ed è stato sottoposto a revisione paritetica.
 
-We are only coin with peer reviewed academic paper and with simulations.
+Siamo solo una moneta con i peer revisionati da un documento accademico e con simulazioni.
 
 **Synth**
 
@@ -119,219 +119,219 @@ Chen
 
 **Artem Kotelskiy**
 
-Didn't know about it
+Non lo sapevo
 
-And can't Google his involvement in eth
+E non trovo su Google il suo coinvolgimento in Eth
 
-Please provide a link
-
-**Synth**
-
-We cant put on website because chen requested we did not. 80% of people involved in skycoin wont go on website or advisor board and want to hide... for various reasons
-
-**Artem Kotelskiy**
-
-Yeah, that is another issue
-
-I see
-
-Why??
+Per favore fornite un link
 
 **Synth**
 
-Both in china because of potential bitcoin ban or scare mongering and in US for tax or employment reasons
+Non possiamo mettere sul sito web perché Chen ha chiesto di non farlo. L'80% delle persone coinvolte in skycoin non va sul sito Web o sul forum di esperti e desidera nascondersi ... per vari motivi
 
 **Artem Kotelskiy**
 
-This is so shady))
+Sì, questo è un altro problema
 
-Why don't you go to Switzerland?
+Lo vedo
 
-Indeed, I found Chen on the eth team
+Perché??
+
+**Synth**
+
+Entrambi in Cina a causa del potenziale divieto di bitcoin o della paura e negli USA per motivi fiscali o lavorativi
+
+**Artem Kotelskiy**
+
+Questo è così oscuro
+
+Perché non vai in Svizzera?
+
+In effetti, ho trovato Chen nel team di eth
 
 **Monty Crypto (Xa no)**
 
-Out of all coins there are very few with our kind of repository, history, papers and all, and you call this shady because we don't post some useless faces and names on our websites 😂
+Tra tutte le monete ce ne sono poche con il nostro tipo di repository, storia, documenti e tutto, e tu chiami questo losco perché non pubblichiamo alcuni volti e nomi inutili sui nostri siti web 😂
 
 **Synth**
 
-his pubkey is in the repo of eth developers. Check his github
+Il suo pubkey è nella repository degli sviluppatori di eth. Controlla il suo github
 
 **Monty Crypto (Xa no)**
 
-In my opinion it's shady to collection 10's if not 100's of millions through ICO's without one line of code to show for it
+A mio parere è losco raccogliere 10 se non 100 di milioni attraverso ICO senza una riga di codice da mostrare
 
 **Synth**
 
-The bitcoin developer who discovered the duplicate coinbase output problem also was heavily involved and two other major people but we cant put them on the website or advisor board.
+Anche lo sviluppatore di bitcoin che ha scoperto il duplice problema dell'output di coinbase è stato pesantemente coinvolto e altre due persone importanti ma non possiamo metterle sul sito web o sul forum.
 
-There is a lot of drama about this.
+C'è molta tristezza su questo.
 
-Australian government was raiding peoples houses within 8 hours of them being outed as early bitcoin dev etc
+Il governo australiano ha saccheggiato le case delle persone entro 8 ore dalla loro pubblicazione come sviluppatori di bitcoin etc..
 
-And a lot of the real crypto people have security clearances and dont want to be publicly associated (but are involved in private) because of employment stuff
+E molti dei veri cripto hanno le autorizzazioni di sicurezza e non vogliono essere associati pubblicamente (ma sono coinvolti in privato) a causa di problemi lavorativi
 
-**Artem Kotelskiy** *[In reply to Monty Crypto (Xa no)]*
+**Artem Kotelskiy** *[In risposta a Monty Crypto (Xa no)]*
 
-I was just kidding, see the "))"
+Stavo solo scherzando "))"
 
 **Synth**
 
-The only people commiting with their real github names were basicly idiots with no opsec. And the other people involved dont sit on advisor boards or advertise themselves.
+Le uniche persone che si impegnavano con i loro veri nomi github erano fondamentalmente idioti senza opsec. E le altre persone coinvolte non siedono in consigli di amministrazione o si pubblicizzano.
 
-I dont even know why chen used his main/public github account. He was advised not to do that.
+Non so nemmeno perché Chen abbia usato il suo account github principale / pubblico. Gli è stato consigliato di non farlo.
 
 **Artem Kotelskiy**
 
-I see, thx a lot for an explanation
+Già, grazie molte per la spiegazione.
 
 **Monty Crypto (Xa no)**
 
-Haha fair enough 👍
+Haha, circa 👍
 
 **Artem Kotelskiy**
 
-I will keep doing my research then about skycoin
+Continuerò a fare le mie ricerche su skycoin
 
-There is one problem though, all of this will come out inevitably..
+C'è un problema però, tutto questo uscirà, inevitabilmente ..
 
-**Synth** *[In reply to Artem Kotelskiy]*
+**Synth** *[In risposta a Artem Kotelskiy]*
 
-+8 years of drama. You could make a movie about this.
+O anni di dramma, ci potresdti fare un Film.
 
-**Synth** *[In reply to Artem Kotelskiy]*
+**Synth** *[In risposta a Artem Kotelskiy]*
 
-No. it wont. People still cannot even figure out who the Bitcoin devs are!
+No. Non lo farà. Le persone non riescono ancora a capire chi sono gli sviluppatori di Bitcoin!
 
 **Artem Kotelskiy**
 
-Hopefully
+Fiduciosamente
 
-Still, why not go to Switzerland?
+Eppure, perché non andare in Svizzera?
 
-And have superopen development just like ethereum?
+E ottengono lo sviluppo superaperto proprio come ethereum?
 
-**Synth** *[In reply to Artem Kotelskiy]*
+**Synth** *[In risposta a Artem Kotelskiy]*
 
-For what?
+Per cosa?
 
-eighty people should move to switzerland?
+ottanta persone dovrebbero trasferirsi in Svizzera?
 
 **Artem Kotelskiy**
 
 Ok..
 
-I mean, the organization can go there and be protected somehow
+Voglio dire, l'organizzazione può andare lì ed essere protetta in qualche modo
 
 **Synth**
 
-Its on github so does not matter the country they are in.
+È su github quindi non importa il paese in cui si trovano.
 
-Protected from what? No one has tried to attack skycoin devs yet.
+Protetto da cosa? Nessuno ha ancora provato ad attaccare gli sviluppatori Skycoin.
 
 **Artem Kotelskiy**
 
-But you are saying that people are scared to say they are involved with the project
+Ma stai dicendo che le persone hanno paura di dire che sono coinvolte nel progetto
 
-I just don't understand why?
+Non capisco perché?
 
 **Synth**
 
-for tax reasons
+Per motivi fiscali
 
 **Artem Kotelskiy**
 
 No
 
-Can't believe this
+Non posso crederci
 
-Why don't you want to pay taxes?
+Perché non vuoi pagare le tasse?
 
 **Vadim 🛌**
 
-why would anyone want:D
+perché qualcuno dovrebbe volerlo :D
 
 **Monty Crypto (Xa no)**
 
-Lol, yeah everyone else loves paying taxes
+Lol, si tutti amano pagarle
 
 **Artem Kotelskiy**
 
-I don't see how rejecting to pay taxes can help your project at all
+Non vedo come il rifiuto di pagare le tasse possa aiutare il tuo progetto
 
-Please explain
+Per favore, spiegamn
 
 **Monty Crypto (Xa no)**
 
-There's a difference between tax evasion and tax avoidance
+C'è una differenza tra evasione fiscale ed elusione fiscale
 
-Tax avoidance is perfectly legal and executed by every single corporation in the world
+L'elusione fiscale è perfettamente legale ed eseguita da ogni singola azienda nel mondo
 
 **Synth**
 
-Imagine you have 800 million in bitcoin. Do you run down the street bragging about it?
+Immagina di avere 800 milioni di bitcoin. Corri per strada vantandoti?
 
-Do people with security cleanances and NDA agreements go around putting faces on websites? These people do not even have Facebook accounts and NDA says they cannot tell their clients who their other clients are.
+Le persone con accordi sicurezza e accordi NDA vanno in giro a mettere le facce sui siti web? Queste persone non hanno nemmeno account Facebook e la NDA dice che non possono dire ai loro clienti chi sono i loro altri clienti.
 
-Also there are IP issues with employers. If someone works at company the contract says the company owns everything they do. Including work in free time.
+Inoltre ci sono problemi di proprietà intellettuale con i datori di lavoro. Se qualcuno lavora in azienda, il contratto dice che la società possiede tutto ciò che fa. Compreso il lavoro nel tempo libero.
 
-So they cannot contribute code publicly or company/employer can claim ownership and IP and causes legal problems.
+Quindi non possono contribuire pubblicamente al codice e l'azienda/datore di lavoro può rivendicare proprietà e l'IP e causare problemi legali.
 
-There is a whole bunch of drama and bullshit. Anyone competent is secretive. And the people promoting themselves in public are losers.
+C'è un sacco di schifezze e cazzate. Chiunque sia competente è riservato. E le persone che si promuovono in pubblico sono dei perdenti.
 
-ALL of the early bitcoin people expected the US government to crack down in it VIOLENTLY. And that fear never went away.
+TUTTI i primi bitcoin si aspettavano che il governo degli Stati Uniti lo reprimesse VIOLENTEMENTE. E quella paura non è mai andata via.
 
-The people entering crypto today do not remember the crypto wars and government oppression of the 90s
+Le persone che entrano in cripto oggi non ricordano le cripto-guerre e l'oppressione del governo degli anni '90
 
 **Vadim 🛌**
 
-i find it strange that people are surprised by the anonymity of those interested in cryptography
+Trovo strano che le persone siano sorprese dall'anonimato di chi è interessato alla crittografia
 
 **Artem Kotelskiy**
 
-I don't like ndas
+Non mi piacciono gli NDA
 
-I would think competent people never sign nda
+Penso che le persone competenti non firmerebbero mai un NDA
 
-Apparently I am wrong
+Apparentemente mi sbaglio
 
-Contracts with the companies...
+Contratti con le aziende ...
 
-Eh
+eh
 
-So your devs and researchers are worried about their money, and you (presumably along with other projects of your scale) are imposing on them rules. Hard to believe.
+Quindi i tuoi sviluppatori e ricercatori sono preoccupati per il loro denaro e tu (presumibilmente insieme ad altri progetti di tua portata) imponi loro delle regole. Difficile da credere.
 
-**Synth** *[In reply to Vadim 🛌]*
+**Synth** *[In risposta a Vadim 🛌]*
 
-What a world.
+Che mondo.
 
-And they forget that ALL of the professional math and crypto people either work for the government or military.
+E dimenticano che TUTTI i professionisti della matematica e della cripto lavorano per il governo o per i militari.
 
-**Synth** *[In reply to Artem Kotelskiy]*
+**Synth** *[In risposta a Artem Kotelskiy]*
 
-Everyone who works at Google or a Fortune 500. We have commits from people who work for Google/Amazon if you look at commit history.
+Tutti coloro che lavorano in Google o in una Fortune 500. Abbiamo preso decisioni da persone che lavorano per Google / Amazon se guardi la cronologia dei commit.
 
 **Artem Kotelskiy**
 
-The only thing I believe professional researcher is worried about is security.
+L'unica cosa a cui credo che il ricercatore professionista sia preoccupato per la sicurezza.
 
-Yeah, I don't think google/Amazon are such great companies frankly
+Sì, non credo che google / Amazon siano aziende così grandi francamente
 
-Although people there are competent
+Sebbene le persone siano competenti
 
-Anyway
+Comunque
 
-I got your point
+Ho capito il tuo punto
 
-About all professional math people you stretched too far. I know exactly what kind of people leave pure math and go to military, and they are not the best, believe me.
+Di tutte le persone professioniste di matematica che hai portato avanti. So esattamente quale tipo di persone lascia la matematica pura e va ai militari, e non sono i migliori, credimi.
 
-**Synth** *[In reply to Artem Kotelskiy]*
+**Synth** *[In risposta a Artem Kotelskiy]*
 
-Like Google.
+Come Google.
 
-Almost all large companies gave contract that says "we own you. You are our slave. We own everything you do in your free time".
+Quasi tutte le grandi aziende hanno dato un contratto che dice "siamo tuoi, tu sei il nostro schiavo, noi possediamo tutto ciò che fai nel tuo tempo libero".
 
-That is ALL fortune 500 companies. You will notice that they stopped commiting after taking employment at those companies.
+Questo è in TUTTE le aziende Fortune 500. Noterai che hanno smesso di impegnarsi dopo aver assunto un impiego presso tali società.
 
 **Artem Kotelskiy**
 
