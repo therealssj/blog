@@ -21,5 +21,5 @@ I cambiamenti più importanti sono:
 - Mostra sempre il saldo corretto del portafogli.
 - Risolve il file della cache del database blockchain danneggiato.
 - Nessun problema di prestazioni. L'interfaccia utente è reattiva.
-- [Distribuzione monete temporizzate.] (/ Statement / skycoin-distribution-plan / # timelocked-distribution)
+- [Distribuzione delle monete temporizzata](/statement/skycoin-distribution-plan/#timelocked-distribution)
 [Changelog Completo](https://github.com/skycoin/skycoin/blob/master/CHANGELOG.md#0200---2017-10-10)
