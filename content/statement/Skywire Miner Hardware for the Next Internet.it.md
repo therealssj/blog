@@ -59,7 +59,7 @@ archiviazione flash. L'hardware è segmentato in modo tale che anche se un servi
 il router con regole di inoltro dei pacchetti e controllo dell'accesso aumenta la sicurezza.
 La configurazione può essere ulteriormente personalizzata per inserire di 4, 8, 16 o 32 schede.
 
-![Skywire miner] (https://i.imgur.com/2zj4CUV.jpg)
+![Skywire miner](https://i.imgur.com/2zj4CUV.jpg)
 
 Gli utenti possono distribuire i nodi manualmente, ma la distribuzione automatica è solo intorno al
 angolo. [Sky-Messenger] (https://github.com/skycoin/net) fornirà un chatbot
