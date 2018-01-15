@@ -23,7 +23,8 @@ e la condivisione di contenuti senza blocco, rallentamenti o censura. Skywire  h
 la rete ad accesso aperto preservndo la privacy e incoraggindo la libertà di parola. La nostra missione nel
 creare Skywire è dare forma al futuro di Internet al meglio.
 
-[Skywire] (https://github.com/skycoin/skywire) Il nuovo rivoluzionario protocollo di rete sta già cambiando Internet
+[Skywire] (https://github.com/skycoin/skywire) 
+Il nuovo rivoluzionario protocollo di rete sta già cambiando Internet
 come lo conosciamo. Il protocollo è basato su Multi-Protocol Label Switching (MPLS).
 I vantaggi di MPLS includono velocità, qualità del servizio, affidabilità e sicurezza.
 Skywire va oltre questi standard per fornire una rete ancora più veloce e migliore.
@@ -58,7 +59,7 @@ archiviazione flash. L'hardware è segmentato in modo tale che anche se un servi
 il router con regole di inoltro dei pacchetti e controllo dell'accesso aumenta la sicurezza.
 La configurazione può essere ulteriormente personalizzata per inserire di 4, 8, 16 o 32 schede.
 
-! [Skywire miner] (https://i.imgur.com/2zj4CUV.jpg)
+![Skywire miner] (https://i.imgur.com/2zj4CUV.jpg)
 
 Gli utenti possono distribuire i nodi manualmente, ma la distribuzione automatica è solo intorno al
 angolo. [Sky-Messenger] (https://github.com/skycoin/net) fornirà un chatbot
@@ -81,54 +82,54 @@ componente, costituisce la spina dorsale del sistema di rete distribuito. È un
 rete MPLS pubblica basata su sorgente, costruita in uno spazio dei nomi univoco e su una nuova
 stack di rete. Gli utenti di Skynet funzionano essenzialmente come propri ISP.
 
-Aether and Skynet can be run separately, but Skywire combines them to form an
-indestructible network. With Skywire, a local cache holds resources without
-connecting to the external internet. File downloads are copied directly into the
-local cache. Peers who are looking for that file can get it from you and pass it
-along the network. By leveraging peer-to-peer technology in an innovative and
-unique way, Skywire provides a viable internet alternative that’s secure, fast,
-and sustainable.
+Aether e Skynet possono essere eseguiti separatamente, ma Skywire li combina per formare una
+rete indistruttibile. Con Skywire, una cache locale contiene risorse senza
+connessione all'internet esterno. I download di file vengono copiati direttamente nella
+cache locale. I peers che stanno cercando quel file possono ottenerlo e passarlo
+lungo la rete. Sfruttando la tecnologia peer-to-peer in un innovativo e
+modo unico, Skywire offre un'alternativa valida, sicura, veloce,
+e sostenibile.
 
-The internet’s future is balanced between large ISPs that restrict content for
-profit and cutting-edge network technology that brings the internet to you, the
-user. Skywire is at the vanguard of this revolution. The truth is, we don’t need
-to rely on ISPs to explore the internet. With Skywire’s networking protocol,
-we’re creating a free, global, decentralized internet experience that’s unlimited
-by the current market. Our vision for Skywire goes beyond transformation. As we
-continue to develop this trailblazing technology, one thing becomes clear:
-Skywire won’t just change the internet. It will reinvent it.
+Il futuro di Internet è bilanciato tra i grandi ISP che limitano il contenuto, il
+profitto e la tecnologia di rete all'avanguardia che ti porta internet.
+Skywire è l'avanguardia di questa rivoluzione. La verità è che non abbiamo bisogno di
+affidarsi agli ISP per esplorare Internet. Con il protocollo di rete di Skywire,
+stiamo creando un'esperienza Internet gratuita, globale, decentralizzata, illimitata
+dal mercato attuale. La nostra visione per Skywire va oltre la trasformazione. Man mano che
+continuiamo a sviluppare questa tecnologia all'avanguardia, una cosa diventa chiara:
+Skywire non cambierà solo Internet. Lo reinventerà.
 
-### Details
+### Dettagli
 
-We want the Skywire miner released in the next 6 months.  Ideally it would
-be released within the next 3 months, but testing alone could take a few months.
-We also need to work out the logistics of assembly and shipping.
+Vogliamo che lo Skywire Miner venga rilasciato nei prossimi 6 mesi. Idealmente potrebbe
+essere rilasciato entro i prossimi 3 mesi, ma il test da solo potrebbe richiedere alcuni mesi.
+Dobbiamo anche elaborare la logistica dell'assemblaggio e della spedizione.
 
-The 6 months target is still a soft date.  Until the hardware and software is
-entering the full testing phase, we do not want to promise any date. We will not
-be collecting orders until we are confident about when the miners can be delivered.
+L'obiettivo di 6 mesi è ancora una data morbida. Finochè l'hardware e al software
+non hanno superato i test completamente, non vogliamo promettere alcuna data. Noi non
+raccogliamo gli ordini fino a quando non siamo sicuri di quando i minatori possono essere consegnati.
 
-*Join the [Skycoin Telegram](https://t.me/Skycoin) for discussion of the Skywire miner and network.*
+* Unisciti a [Skycoin Telegram] (https://t.me/Skycoin) per la discussione sul minatore e sulla rete Skywire. *
 
-There will be 300 units available for purchase. When we are ready to take orders,
-a form on the website will allow you to register for one.
+Ci saranno 300 unità disponibili per l'acquisto. Quando saremo pronti a prendere ordini,
+un modulo sul sito Web ti consentirà di registrarti per uno.
 
-The price will be 1 BTC for 1 unit.  Purchasers will receive:
+Il prezzo sarà 1 BTC per 1 unità. Gli acquirenti riceveranno:
 
-* Skywire miner
-* An amount of Skycoin equal to 1 BTC minus the hardware cost (estimated to be around $600), based on market rates at the time of purchase.
+* Minatore Skywire
+* Un ammontare di Skycoin pari a 1 BTC meno il costo dell'hardware (stimato intorno ai $ 600), in base ai tassi di mercato al momento dell'acquisto.
 
-Nodes operating on the Skywire network will be receiving a network incentive reward
-to help build out the network, in addition to traffic forwarding payments.
-For the Skywire miners, we'd like to increase this network incentive reward.
-However, we're still working out a mechanism for distinguishing the Skywire miners
-from other nodes, which could be any machine on the network.
+I nodi che operano sulla rete Skywire riceveranno una ricompensa per incentivi di rete
+per aiutare a costruire la rete, oltre ai pagamenti di inoltro del traffico.
+Per i minatori Skywire, vorremmo aumentare questa ricompensa di incentivo della rete.
+Tuttavia, stiamo ancora elaborando un meccanismo per distinguere i minatori Skywire
+da altri nodi, che potrebbero essere qualsiasi macchina sulla rete.
 
-The value and structure of the general network incentive reward is not yet specified.
-More information on this will be in a future release.
+Il valore e la struttura del premio di incentivazione della rete generale non sono ancora stati specificati.
+Ulteriori informazioni su questo saranno in una versione futura.
 
-### Errata
+### Errata corrige
 
-- *[More pictures of the Skywire miner](https://imgur.com/a/mpnzh)*
+- *[Altre immagini del Miner](https://imgur.com/a/mpnzh)*
 - *[Skywire Github](https://github.com/skycoin/skywire)*
 - *[Sky-Messenger Github](https://github.com/skycoin/net)*
