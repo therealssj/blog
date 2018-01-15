@@ -1,5 +1,5 @@
 +++
-title = "Registro di Telegram - §Libro Bianco, Schiavitù e Anarchia"
+title = "Registro di Telegram - Documentazione, Schiavitù e Anarchia"
 tags = [
     "Ask the Developers",
 
