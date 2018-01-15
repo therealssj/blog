@@ -15,7 +15,7 @@ categories = [
 
 *Questo è un post archiviato dal thread di bitcointalks il 23 aprile 2014*
 
-> Quote from: **JFK01** on April 23, 2014, 01:54:50 PM
+> Citazione da: **JFK01** il 23 Aprile 2014, 01:54:50 PM
 
 > Immagino che Skycoin voglia solo fare delle prove. Non c'è niente di sbagliato
 con loro. Sono ingegneri e vogliono fare test per tutto. Loro sono
