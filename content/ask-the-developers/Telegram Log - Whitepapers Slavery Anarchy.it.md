@@ -335,165 +335,165 @@ Questo è in TUTTE le aziende Fortune 500. Noterai che hanno smesso di impegnars
 
 **Artem Kotelskiy**
 
-I see...
+Vedo...
 
-Sad
-
-**Synth**
-
-also the way US works is that information / research can still be classified after being published into the public domain.
-
-So if a person gets government grant or worked on source routing or something and it is published, but that technology is used on later project they are associated with then it does not absolve them of legal liability
-
-and if they worked at university while the algorithms were developed the university can make IP claim
-
-so everyone in the US lives terrorized by lawyers
-
-**Artem Kotelskiy**
-
-I see. Hard to believe there are Universities in USA who would file such ip
-
-But I still stand by my point
-
-I think on your homepage you should explain why devs are hidden
+Tristezza
 
 **Synth**
 
-You mean like Stanford/Cisco/Googler etc
+Anche il modo in cui gli Stati Uniti lavorano è che le informazioni/ricerche possono ancora essere classificate dopo essere state rese di pubblico dominio.
+
+Quindi, se una persona riceve una sovvenzione statale o ha lavorato al routing della sorgente o qualcosa del genere e viene pubblicata, ma quella tecnologia viene utilizzata nel progetto successivo a cui sono associati, allora non li assolve dalla responsabilità legale.
+
+E se lavoravano all'università mentre gli algoritmi venivano sviluppati, l'università può fare reclami sugli IP
+
+così tutti negli Stati Uniti vivono terrorizzati dagli avvocati
 
 **Artem Kotelskiy**
 
-Ah, but then this will attract attention
+Ah. Difficile credere che ci siano università negli Stati Uniti che dovrebbero archiviare tali IP
 
-**Artem Kotelskiy** *[In reply to Synth]*
+Ma resto fermo sul mio punto
 
-Could you link or give keywords for any ip case there?
-
-Google and Cisco are companies
-
-**Synth** *[In reply to Artem Kotelskiy]*
-
-They are not hidden. People are just too stupid to check github.
-
-Skycoin is not about bragging about who has the biggest developer dick on their advisor board.
-
-The website is about the coin and the technology. We dont believe in the advisor board, celebrity CEO dick measuring contest.
-
-**Artem Kotelskiy**
-
-Lol, account on github also doesn't add anything, although I admit that there are accounts there which have other social media
-
-You know, I don't advice you to advertise yourself
-
-Not at all
-
-In fact I hate all these bright "team" pages and stuff
-
-But here is one simple thing
-
-I like the project
-
-The future of the project is in hands of developers completely
-
-So it would help if I know who they are, and what are their values
-
-For me to decide, if I am going to be the sky node, or simply sky hodler
-
-But I get it, you think that code and execution speaks to itself, fair enough
+Penso che nella tua home page dovresti spiegare perché gli sviluppatori sono nascosti
 
 **Synth**
 
-You go dox yourself and report all your stuff to the government and go pay your taxes to the central bank that owns you. All human cattle, please line up for bar coding.
-
-Its the exact opposite of why bitcoin was created.
+YIntenzi aziende come Stanford/Cisco/Googler etc
 
 **Artem Kotelskiy**
 
-Yeah well, there are different degrees of being crypto anarchist
+Ah, ma questo attirerà l'attenzione
+
+**Artem Kotelskiy** *[In risposta a Synth]*
+
+Potresti collegare o fornire parole chiave per qualsiasi caso di ip lì?
+
+Google e Cisco sono aziende
+
+**Synth** *[In risposta a Artem Kotelskiy]*
+
+Non sono nascosti. Le persone sono semplicemente troppo stupide per controllare Github.
+
+Skycoin non si vanta di chi ha il più grande sviluppatore di cazzi nel proprio comitato di esperti.
+
+Il sito web parla della moneta e della tecnologia. Non crediamo nel comitato di consulenza, celebrità CEO che si confontano il cazzo.
+
+**Artem Kotelskiy**
+
+Lol, l'account su github non aggiunge nulla, anche se ammetto che ci sono account lì che hanno altri social media
+
+Sai, non ti consiglio di pubblicizzarti
+
+Affatto
+
+In effetti odio tutte queste pagine e quel "team" brillante
+
+Ma ecco una cosa semplice
+
+Mi piace il progetto
+
+Il futuro del progetto è completamente nelle mani degli sviluppatori
+
+Quindi sarebbe d'aiuto se sapessi chi sono e quali sono i loro valori
+
+Per me decidere, se sto per diventare il nodo del cielo, o semplicemente sky hodler
+
+Ma capisco, pensi che il codice e l'esecuzione parlino da sé, abbastanza bene
+
+**Synth**
+
+Vai da solo e riferisci tutte le tue cose al governo e vai a pagare le tasse alla banca centrale che ti possiede. Tutti i bovini umani, si prega di allinearsi per la codifica dei codici a barre.
+
+È l'esatto opposto del motivo per cui è stato creato bitcoin.
+
+**Artem Kotelskiy**
+
+Si, beh, ci sono diversi gradi di essere cripto-anarchico
 
 **Vadim 🛌**
 
-being one in words and in reality?:D
+essere uno nelle parole e nella realtà?: D
 
 **Artem Kotelskiy**
 
-I tend to believe that declaring a war to the previous governors doesn't help pieceful transitioning to a better system.
+Tendo a credere che dichiarare una guerra ai precedenti governatori non aiuti la transizione frammentaria a un sistema migliore.
 
-I might be wrong, guys, so don't push
+Potrei sbagliarmi, ragazzi, quindi non spingete
 
-Just an opinion :)
+Solo un parere :)
 
-**Synth** *[In reply to Artem Kotelskiy]*
+**Synth** *[In risposta a Artem Kotelskiy]*
 
-The central bank creates money out of nothing. Then the government taxes the money back from the slaves.
+La banca centrale crea denaro dal nulla. Quindi il governo riscuote il denaro dagli schiavi.
 
-You are either a slave or you are free. People working for other peoples money, are not working for themselves. They are slaving for for their master/owner.
+O sei uno schiavo o sei libero. Le persone che lavorano per il denaro di altri popoli, non lavorano per loro stessi. Sono schiavi per il loro padrone / proprietario.
 
-There is no degrees. You are either owned and are a slave and have a slave tracking number and live under a massive surveilence, police state central bank run slave plantation OR you are free. Slave or Free. There is no degrees.
+Non ci sono gradi. O sei di proprietà e sei schiavo e hai un numero di tracciamento degli schiavi e vivi sotto una sorveglianza massiccia, la piantagione di schiavi gestita da una banca centrale di polizia o sei libero. Schiavo o libero Non ci sono alternative.
 
 **Artem Kotelskiy**
 
-I see. I think the next thing to discuss is if the government is good or not (let's say US). And I know I will lose this one, so let's not go into this. I completely understand your pov. It differs from mine in that I believe in kindness more, and think that there is a spectrum of freedom. But could be I am just young and inexperienced.
+Vedo. Penso che la prossima cosa da discutere sia se il governo è buono o no (diciamo così). E so che perderò questa argomentazione, quindi non entriamo in questo discorso. Capisco perfettamente il tuo punto di vista. Differisce dal mio in quanto credo più nella gentilezza, e penso che ci sia uno spettro di libertà. Ma potrei essere io sono solo giovane e inesperto.
 
 **Synth**
 
-"Freedom to masturbate to porn", "freedom to smoke marijuana", "freedom to have anal sex", "freedom to shoot up heroin", "freedom to run around in the 'free market' laboring like a slave for someone elses money", "freedom to shop!".
+"Libertà di masturbarsi con i porno", "libertà di fumare marijuana", "libertà di fare sesso anale", "libertà di spararsi dell'eroina", "libertà di correre nel" libero mercato "che lavora come uno schiavo per qualcuno che ama i soldi "," libertà di acquistare! ".
 
-Slavery is not about free or slave. Its about independent (free) or dependent (slave).
+La schiavitù non riguarda il libero o lo schiavo. È indipendente (gratuito) o dipendente (schiavo).
 
-You make people dependent upon you for survival, then you give them fake "freedoms" so they dont revolt. That is how you turn a society into a labor camp and then give them enough free porn, prozac and zoloft until you have domesticated "happy slaves" that cannot even imagine what an alternative would look like.
+Rendi le persone sono dipendenti da te per sopravvivere, poi dai loro le "libertà" false, quindi non si ribelleranno. È così che trasformi una società in un campo di lavoro e poi dai loro abbastanza porno gratis, prozac e zoloft finché non hai addomesticato "schiavi felici" che non riescono neanche a immaginare quale sarebbe l'alternativa.
 
-Look how free those people are with their $750,000 in student debt they wont pay off until they die! Lol. Its just a mockery.
+Guarda quanto sono libere quelle persone con il loro debito da $ 750.000 che non pagheranno fino alla morte! Lol. È solo una presa in giro.
 
 **Artem Kotelskiy**
 
-Everyone makes his own choices
+Ognuno fa le sue scelte
 
-Some people just grow food and live off that
+Alcune persone coltivano il cibo e vivono di quello
 
-I am from the country where half of the population lives like this, it's just fine
+Vengo dal paese in cui metà della popolazione vive in questo modo, va bene
 
-And I think if one really wants, he can be free
+E penso che se uno lo vuole davvero, può essere libero
 
 **Vadim 🛌**
 
-let me guess, belarus?
+fammi indovinare, Bielorussia?
 
 **Artem Kotelskiy**
 
-No, it's harder to guess
+No, è più difficile da indovinare
 
 **Synth**
 
-Anyone who does not want to be a slave is an anarchist now! Lol
+Chiunque non voglia essere schiavo ora è anarchico! lol
 
-"Whoa. Whoa. Whoa. I dont want to be an anararchist. I mean a little slavery is ok, but the masters should be nicer to the slaves." Lol.
+"Whoa, Whoa, Whoa, non voglio essere un anarchico, voglio dire che un po 'di schiavitù va bene, ma i maestri dovrebbero essere più simpatici con gli schiavi." Lol.
 
 **Artem Kotelskiy**
 
-Anarchist is someone who declares a war on the government
+L'anarchico è qualcuno che dichiara guerra al governo
 
-Loool
+loool
 
 **Synth**
 
-Anarchist.
+Anarchico.
 
 An-archon
 
-An means without.
+Significa senza
 
-Archon means "master" or "ruler".
+Archon significa "maestro" o "governante".
 
-Anarchy means "without masters" or without rulers. All of the words are inverted to mock the public and the illiterate.
+Anarchia significa "senza padroni" o senza governanti. Tutte le parole sono invertite per deridere il pubblico e gli analfabeti.
 
 **Artem Kotelskiy**
 
-Anyway
+Comunque
 
-Keep up the skycoin guys, I sincerely hope it will allow more people not to have masters
+Continua con gli Skycoin, spero sinceramente che permetterà a più persone di non avere padroni
 
-**Artem Kotelskiy** *[In reply to Synth]*
+**Artem Kotelskiy** *[In risposta a Synth]*
 
 Ok
 
@@ -501,49 +501,51 @@ Ok
 
 Lol
 
-matthieu *[In reply to Synth]*
+**matthieu** *[In risposta a Synth]*
 
-👍🏾agree completely
+👍🏾completamente d'accordo
 
-**Synth** *[In reply to Artem Kotelskiy]*
+**Synth** *[In risposta a Artem Kotelskiy]*
 
-No. The problem is human nature.
+No. Il problema è la natura umana.
 
-You cannot free slaves. They will just find another master. They *want* and choose to be slaves. They just want a slave driver with a softer whip.
+Non puoi liberare gli schiavi. Troveranno solo un altro maestro. Loro * vogliono * e scelgono di essere schiavi. Vogliono solo un governante con una frusta più morbida.
 
-Look at how people spontaniously elect leaders to tell them what to do and tell them how they should live and what they should fear. Because they refuse to do it themselves.
+Guarda come le persone scelgono spontaneamente i leader per dire loro cosa fare e dire loro come dovrebbero vivere e cosa dovrebbero temere. Perché si rifiutano di farlo da soli.
 
-matthieu *[In reply to Artem Kotelskiy]*
+**matthieu** *[In risposta a Artem Kotelskiy]*
 
-Actually maybe it would serve the coin more to put forward the ideology behind as synth put it rather than having a few faces....
+In realtà forse servirebbe una moneta in più per far avanzare l'ideologia dietro come sintetizzarla piuttosto che avere qualche volto in prima facciata ....
 
-matthieu
+Matthieu
 
-Synth So far I didn't know what were your motivations/values and  deep ideology. Now I am an even bigger supporter of the coin. This is important to remind the final aim of all of this... Loads of ppl forget and just want to be overnight millionaires by buying into ICOs...
+**Synth **
 
-**Synth** *[In reply to matthieu]*
+Finora non sapevo quali fossero le tue motivazioni / valori e la profonda ideologia. Ora sono un sostenitore ancora più grande della moneta. Questo è importante per ricordare l'obiettivo finale di tutto questo ... Le persone dimenticano e vogliono solo essere milionari durante la notte acquistando in ICOs ...
 
-Trillionaires lol. Worlds first trillionaires. Briefly until this bubble bursts.
+**Synth** *[In risposta a matthieu]*
 
-Millionaire is so 1994
+Miliardari lol. I primi miliardari del mondo. Brevemente fino a quando questa bolla non scoppierà.
 
-matthieu
+Come i milionari del 1994
+
+**matthieu**
 
 😂😂
 
 **Synth**
 
-Bitcoin gets pushed up to $5000 but if even 1% of holders sold it would be back at $2000. So very high price increase vs the market depth.
+Bitcoin viene spinto fino a $ 5000, ma se anche l'1% dei possessori vendesse tornerebbe a $ 2000. L'aumento dei prezzi è così elevato rispetto alla profondità del mercato.
 
-I think we could see trillionaires or people worth more than Billgates briefly, before they start moving money out and it implodes.
+Penso che potremmo vedere brevemente trilioni di persone o persone che valgono più di Billgates, prima che inizino a prelevare denaro e imploda.
 
-Altcoins, unlike real estate and stocks, have no price ceiling. There is no fundamental economics or mathematics keeping the price from going up to infinity.
+Gli Altcoin, a differenza degli immobili e delle scorte, non hanno massimali di prezzo. Non vi è alcuna economia o matematica fondamentale che mantenga il prezzo dal salire all'infinito.
 
-There is no revenues or loss and no objective way to determine that a buggy "smart contract" platform no one uses, should not be worth $250 billion dollars.
+Non ci sono entrate o perdite e nessun modo oggettivo per determinare che una piattaforma "smart contract" con errori che non usa nessuno non dovrebbe valere $ 250 miliardi di dollari.
 
 **Steve**
 
-A Distributed Consensus Algorithm for Cryptocurrency Networks
+Un algoritmo di consenso distribuito per reti di criptovaluta
 https://github.com/skycoin/whitepapers/blob/master/whitepaper_skycoin_consensus_v01_jsm.pdf
 
-Is the most recent consensus algorithm whitepaper
+È il whitepaper di consenso più recente
