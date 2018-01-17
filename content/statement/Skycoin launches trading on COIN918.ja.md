@@ -1,5 +1,5 @@
 +++
-title = "Skycoin launches trading on COIN918"
+title = "Skycoinが新しい取引所に上場：COIN918"
 tags = [
     "Statement",
     "Exchange Listing",
@@ -13,28 +13,29 @@ categories = [
 ]
 +++
 
-Skycoin recently announced that it will list on COIN918, a global digital currency trading platform. With the new listing, Skycoin brings its vision for a better cryptocurrency to even more users worldwide. It’s one more step towards a free and open network.
+グローバル仮想通貨取引所のCOIN918にSkycoinが上場されることが決まりました。この上場により、Skycoinの優れた仮想通貨のビジョンをより多くのユーザーに届けられることになりました。私たちは、自由でオープンなネットワークへまた一歩近づいたことになります。
 
-## About COIN918
+## COIN918について
 
-COIN918 is owed by Australia COIN918 Fintech Group Pty. Ltd. in Sydney, Australia. It launched in beta in 2016 and currently is in version 5.0. The development time has paid off: today, COIN918 offers its users a high level of system reliability, with bank-quality user data encryption, dynamic authentication, and multi-level risk identification control. Its features include multi-wallet encryption, offline storage in bank safes, actively managed third-party funds, instant recharging, and quick withdrawal for greater ease of use.
+COIN918はオーストラリアのシドニーにある「Australia COIN918 Fintech Group Pty. Ltd」を運営母体としています。ベータ版が２０１６年に発表され、現在はバージョン5.0になります。COIN918が開発にかけた数年の時間は既に実を結んできています。 今日、COIN918のシステムの安定度は非常に高く、銀行レベルのユーザー情報保管システムと、動的認証や複層のリスク管理体制を整えています。 複数のウォレットの暗号化に対応しており、オフラインでの通貨の保管、第三者により運用されるファンド、速い着送金という特徴を備え、ユーザーの利便性の高さを追求しています。 
 
-In addition to these security and advantages, COIN918 offers personalization and customer service by a dedicated team. Its high-performance trading engine streamlines trading and gives the platform added utility. COIN918 a great choice for anyone 
-## Skycoin’s Expansion
+安全性と利便性の高さに加えて、COIN918は専門のチームによるカスタマーサービスと個別対応に力を入れています。非常に優れたトレーディングエンジンとその他の追加機能を備えたCOIN918は、どのレベルのユーザーにもお勧めできる取引所です。
 
-The COIN918 listing is the latest in Skycoin’s rollout to users around the world. It’s only a matter of time before the coin becomes a major influence in the cryptocurrency space.
+## Skycoinの規模の拡大
 
-Skycoin is taking off for a simple but powerful reason: it’s a technically superior coin that re-engineers consensus to achieve true decentralization. By eliminating mining, Skycoin restores fairness to trading. It features a web-of-trust system that eliminates the corruption and network abuses that plague Bitcoin and other cryptocurrencies.
+COIN918への上場は、Skycoinが世界に進出しようとする足がかりの最新のものです。暗号通貨の世界でSkycoinが主流のものとなるのは時間の問題でしょう。
 
-Skycoin is lightning-fast, with transactions that take less than 2 seconds and have no block limits. It’s 100% anonymous and highly secure, with built-in protection against all known network attacks. It has no heavy processing requirements, making it a good choice for protecting the environment. Plus, Skycoin also powers Skywire, a peer-to-peer internet that lets users browse without corporate interference or network manipulation. 
+Skycoinが躍進している理由はとても単純です。技術的に圧倒的な優位性を誇る通貨であり、独自の合意形成メカニズムを開発することで真の分散化を実現しています。マイニングを必要としないことで、Skycoinは取引に公平性をもたらします。信用の輪のシステムを用いることで、不正やネットワーク操作を防ぐことができます。この問題はBitcoinなどの他の暗号通貨が依然として抱えているものです。
 
-Skycoin has been engineered to directly benefit the users. It’s about creating a better coin and a better network experience for everyone. With the listing on COIN918, the Skycoin team is excited to bring this carefully-crafted, user-oriented cryptocurrency to a wider population of users.
+Skycoinは非常に処理速度が早く、送金は数秒で、ブロックサイズに限度はありません。完全な匿名性を実現し、ネットワーク攻撃への耐性を備えた、安全性の高い通貨です。電力消費量の高い特別な機会も必要なく、環境に優しい設計になっています。また、企業の干渉やネットワーク操作から自由なP2Pのインターネットである、Skywireの通貨としてもSkycoinは使われる予定です。 
+
+質の高い暗号通貨とネットワークの体験をユーザーに届けるためにSkycoinは作られました。COIN918の上場により、ユーザー目線で精巧に作られたこの通貨がより幅広い層に行き渡ることを、チーム一同嬉しく思っております。
 
 
-## Start Trading Now
+## COIN918でSkycoinの取引を開始
 
-You can trade Skycoin now on https://coin918.com.
+SkycoinはCOIN918で取引ができます https://coin918.com.
 
-To learn more about Skycoin, check out https://www.skycoin.net/ and join the Skycoin community.
+Skycoinについて詳しく知りたい方は、リンク先で詳細をご覧になれます。 https://www.skycoin.net/ 
 
 
