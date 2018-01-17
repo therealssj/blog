@@ -1,5 +1,5 @@
 +++
-title = "Skywire Miner: Hardware for the Next Internet"
+title = "Skyminer: 次世代のインターネットのための道具"
 tags = [
     "Skywire",
     "Skycoin Mining",
@@ -13,67 +13,62 @@ categories = [
 bounty = 4
 +++
 
-*Sign up to our mailing list for Skywire Miner updates: http://eepurl.com/c4DyAv*
+*Skyminerの最新ニュースを受け取るためにはメールリストに登録: http://eepurl.com/c4DyAv*
 
-How can we create a truly free and open internet? To answer this question, we
-developed Skywire, the new alternative internet. Skywire is a groundbreaking,
-novel technology that takes control from large internet service providers (ISPs)
-and gives it back to the users. Its peer-to-peer model promotes net neutrality
-and sharing of content without blocking, slowdowns, or censorship. Skywire’s
-open-access network preserves privacy and encourages free speech. Our mission in
-creating Skywire is to shape the internet’s future for the better.
+どうすれば真に開かれた、自由なインターネットを作れるのでしょう?私たちはこの疑問から出発して、
+新たな、別の形のインターネットであるSkywireを開発しました。Skywireは既存と異なる、新たな
+技術を発明することで、インターネットを所有する権利をインターネットサービス・プロバイダ（ISPs）
+企業からユーザーに移行します。P2Pの形式で作られるSkywireはネットの中立性を守り、ブロック、
+遅延、監視なしにコンテンツの共有を可能にします。このネットワークはプライバシーを保護し、人びと
+の自由な主張を守ります。インターネットの未来を形作るのがSkywireの使命です。
 
-[Skywire](https://github.com/skycoin/skywire)’s revolutionary new networking protocol is already changing the internet
-as we know it. The protocol is based on Multi-Protocol Label Switching (MPLS).
-Benefits of MPLS include speed, quality of service, reliability, and security.
-Skywire goes beyond these standards to deliver an even faster, better network.
-It’s designed for high performance and maximum privacy, allowing users to bypass
-ISPs and take control of their experience, essentially becoming their very own
-ISP.
+[Skywire](https://github.com/skycoin/skywire)の革新的なネットワーキングプロトコルは、
+私たちの考えるインターネットの姿を既に大きく変えています。Multi-Protocol Label Switching 
+(MPLS)を基礎にSkywireは作られています。MPLSの特徴は速度が速く、質が高く、動作も安定しており、
+セキュリティが高いことです。SkywireはMPLSの水準以上に、速く、質の高いネットワークを提供します。
+最高のパフォーマンスとプライバシーのために設計され、ユーザーはISPの企業を経由することなしに、
+自らインターネットを所有することができます。
 
-Skycoin is the currency of Skywire, giving it a practical application beyond just
-a digital currency. When the user forwards traffic or provide network resources,
-he or she receives Skycoin. Likewise, when the user consumes network resources or
-media, he or she spends Skycoin. Users can maximize their coins in two ways:
-having high bandwidth in high-traffic areas, or having highly sought-after
-content.
+SkywireではSkycoinが通貨として使われ、電子通貨の役割を超えた実用性が付与されることになります。
+ユーザーがトラフィックの転送やネットワークのリソースを提供するとき、ユーザーはSkycoinを受けとること
+ができます。同じように、ネットワークのリソースやメディアを消費するとき、ユーザーはSkycoinを支払うこと
+になります。Skycoinの使用用途には２つあります。回線が混雑しているエリアで高い帯域を得るか、または
+需要の高いコンテンツを消費することです。
 
-![Skywire miner](https://i.imgur.com/ASFEeYi.jpg)
+![Skyminer](https://i.imgur.com/ASFEeYi.jpg)
 
-The Skywire “miner” is meticulously designed and configured to provide a backbone
-for the new internet. Its custom-built hardware exceeds technical specifications
-to deliver maximum power and performance. Skywire functions as a “miner” for
-Skycoins. It acts as a specialized VPN, using the following hardware
-configuration:
+Skyminerは、次世代のインターネットSkywireの根幹となるマイニング機器で、精巧に設計されています。
+Skywireのために作られた独自の機器で、最大限の出力とパフォーマンスのために作られました。Skywire
+はSkycoinのマイニング装置として使われます。言うならば、次の機器を使用した、特別なVPNです。
 
-- 8 CPU boards
-- 2 GB of RAM per board
-- 4 CPU cores per board
-- 64 GB of storage per board
+- 8 CPUボード
+- 2 GBのRAM (各ボード)
+- 4 CPUコア (各ボード)
+- 64 GBの要領 (各ボード)
 - 64-bit Linux (Alpine Linux)
 - Gigabit ethernet, 8+1 port switch
 
-Each board features an ARM processor, 2 GB of RAM, and anywhere from 32 to 256 GB
-flash storage. The hardware is segmented in such a way that even if one service
-is compromised, the other services on the same machine can’t be. An OpenWRT
-router with strict packet forwarding rules and access control increases security.
-The setup can be further customized to consist of 4, 8, 16, or 32 boards.
+ARMプロセッサー、2 GBのRAM、32~256GBのフラッシュストレージを各ボードに搭載しています。この
+機器は内部が複数部分で構成されており、１つの部分に不具合が生じても、他の部分が正常に動く
+ように設計されています。厳重なパケットの転送ルールとアクセスコントロールを備えたOpenWRTの
+ルーターを搭載して、セキュリティに更なる強化をしています。CPUボードを４の倍数で調整すること
+も可能です。
 
 ![Skywire miner](https://i.imgur.com/2zj4CUV.jpg)
 
-Users can deploy nodes manually, but automatic deployment is just around the
-corner. [Sky-Messenger](https://github.com/skycoin/net) will provide a chatbot
-that allows users to peer clusters by public key. Once metering and settlement is
-implemented, Skywire will generate coins for operating the network.
+ユーザーはノードを主導でセットアップすることができますが、自動設定の実装も開発中です。公共鍵
+を[Sky-Messenger](https://github.com/skycoin/net)のchatbotに入力すると、ユーザー
+はクラスタにピア接続されます。メータリングとセトルメントが実装された後、Skywireはネットワークの
+参加者に通貨を配当するようになります。
 
-Plans are already in place for second-generation hardware, which will include an
-OLED screen that displays RAM/CPU/Bandwidth and Skycoins per hour, an OpenWRT
-router, SATA ports on the board for at least 4 CPU boards, and 32 and 64 board
-models. The network runs on its own internal internet with dedicated hardware. In
-the future, the above hardware configuration will be extended to support physical
-wireless mesh networks.
+第二世代の機器の設計も既に始まっています。RAM/CPU/帯域と時間あたりのSkycoinsの報酬を表示
+するOLEDスクリーン、OpenWRTルーター, 少なくとも4つのCPUボードにSATAポートが搭載され、32ビット
+と64ビットのモデルが作られます。ネットワークは内部のインターネットにて動作します。将来的に、上記
+の機器はワイヤレスのメッシュネットワークをサポートするために拡張される予定です。
 
-Skywire distributes content faster and more anonymously than other alternatives.
+他の選択肢に比べて、Skywireでは匿名性の高い、速いネットワークでコンテンツが通信されます。この
+ネットワークには
+他の選択肢に比べて、Skywireでは匿名性の高い、速いネットワークでコンテンツが通信されます。こ
 It does this by combining two powerful components: Aether and Skynet. Aether is a
 peer-to-peer replicated object system that powers the distribution of anonymous
 and immutable web content. Traditional internet apps for video streaming,
