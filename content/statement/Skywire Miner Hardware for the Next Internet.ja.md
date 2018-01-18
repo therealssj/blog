@@ -13,13 +13,13 @@ categories = [
 bounty = 4
 +++
 
-*Skyminerの最新ニュースを受け取るためにはメールリストに登録: http://eepurl.com/c4DyAv*
+*メールリストに登録してSkyminerの最新情報を受け取りましょう: http://eepurl.com/c4DyAv*
 
 どうすれば真に開かれた、自由なインターネットを作れるのでしょう?私たちはこの疑問から出発して、
 新たな、別の形のインターネットであるSkywireを開発しました。Skywireは既存と異なる、新たな
-技術を発明することで、インターネットを所有する権利をインターネットサービス・プロバイダ（ISPs）
-企業からユーザーに移行します。P2Pの形式で作られるSkywireはネットの中立性を守り、ブロック、
-遅延、監視なしにコンテンツの共有を可能にします。このネットワークはプライバシーを保護し、人びと
+技術を使用することで、インターネットサービス・プロバイダ（ISPs）の巨大企業からユーザー自身に
+インターネットを所有する権利を移行します。P2Pの形式のSkywireはネットの中立性を守り、制限、
+遅延、監視なしにコンテンツの共有を可能にします。このネットワークはプライバシーを保護し、人々
 の自由な主張を守ります。インターネットの未来を形作るのがSkywireの使命です。
 
 [Skywire](https://github.com/skycoin/skywire)の革新的なネットワーキングプロトコルは、
@@ -102,23 +102,21 @@ Skyminerは今後６ヶ月以内にリリースされる予定です。３ヶ月
 第一回目の注文個数は300になります。注文を受け付ける準備ができ次第、ウェブサイトに登録フォーム
 が公開されます。
 
-価格は１台につき1BTC(bitcoin)です。購入者は次の:
-が公開されます。. When we are ready to take orders,
+価格は１台につき1BTC(bitcoin)で、購入者は次の商品を受け取ります:
 
-* Skywire miner
-* An amount of Skycoin equal to 1 BTC minus the hardware cost (estimated to be around $600), based on market rates at the time of purchase.
+* Skyminer
+* 1BTCからSkyminerの費用分(約$600)を差し引いたSkycoin (数量はSKYの市場価格による)
 
-Nodes operating on the Skywire network will be receiving a network incentive reward
-to help build out the network, in addition to traffic forwarding payments.
-For the Skywire miners, we'd like to increase this network incentive reward.
-However, we're still working out a mechanism for distinguishing the Skywire miners
-from other nodes, which could be any machine on the network.
+Skywireのネットワークに参加するノードは、トラフィック転送の手数料に加えて、ネットワーク維持のため
+の報酬を受け取ります。Skyminerの購入者には報酬を特別に高くする予定です。どのような割合で報酬
+を分配するかは現在計画中です。
 
-The value and structure of the general network incentive reward is not yet specified.
-More information on this will be in a future release.
+Skyminerのノードを他と区別するための仕組みについても現在議論を進めています。
+
+ネットワークへの参加報酬の価値と数量の具体的な情報は公式の発表をお待ち下さい。 
 
 ### Errata
 
-- *[More pictures of the Skywire miner](https://imgur.com/a/mpnzh)*
+- *[Skyminerの写真](https://imgur.com/a/mpnzh)*
 - *[Skywire Github](https://github.com/skycoin/skywire)*
 - *[Sky-Messenger Github](https://github.com/skycoin/net)*
