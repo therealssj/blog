@@ -1,5 +1,5 @@
 +++
-title = "Understanding the Skycoin Supply & Distribution"
+title = "Skycoin的供应量和分配计划"
 tags = [
     "Statement",
 ]
@@ -10,35 +10,25 @@ categories = [
 ]
 +++
 
-## Understanding Supply
+## 供应量详细说明
 
-Skycoin has a total supply of 100 million premined coins. Currently the circulating supply is at 7.278.040 SKY (~7,2%).
+总共有1亿枚预挖的Skycoin。 目前流通量是727 8040 SKY (约7.2%)。
 
-75 million coins (75%) are timelocked ([hardcoded in skycoin.go](https://github.com/skycoin/skycoin/blob/develop/cmd/skycoin/skycoin.go) scroll down to bottom)
-and 25 million coins are currently unlocked. 
+7500万枚 (75%) 是锁定的（访问 skycoin.go(https://github.com/skycoin/skycoin/blob/develop/cmd/skycoin/skycoin.go) 可查看硬编码 ），目前2500万枚已经解锁。
 
-The remaining supply of immediately distributable Skycoin in this moment comes down to 17.721.960 million coins (~17,7%).
-These coins will be used to further the growth of the skycoin project as well as to incentivize 
-the [Skywire meshnet](https://www.skycoin.net/blog/overview/skywire---skycoin-meshnet-project/).
+当下其余可分配的Skycoin有1772 1960亿枚 (约17.7%) 。
+这些skycoin将来会用于skycoin项目的推进以及激励[Skywire meshnet](https://www.skycoin.net/blog/overview/skywire---skycoin-meshnet-project/)。
 
-The 75 million (75%) undistributable Skycoin **cannot be distributed until the first 25 million** (25%) have been distributed. 
-After that is done, for each subsequent year thereafter, 5 million coins (5%) are unlocked via an unanimous consent (1 vote against distribution
-can stop the whole process) of an unknown group of developers. This does **not mean** that each year 5 million coins have to be distributed, they are just unlocked and it is possible
-to distribute them. This process depends on the growth of Skywire.
-Unlocking the total supply of 100 million takes a **minimum of 14 years** and the distribution can be extended to up to 25 years 
-if necessary.
+**前面2500万枚(25%)完毕后**才轮到剩下的7500万枚(75%) 未分配的Skycoin。
+此后，后面的75%通过不具开发者团体匿名投票统一共识每年解锁500万枚（5%）（有一票反对可能会终止这个过程）。**但这并不意味着每年必须有5%必须被立刻分配，只是解锁链后允许被分配而已。**这个过程要依照Skywire的发展情况。 
+解锁所有1亿枚skycoin需要花**至少14年时间**，有必要的话skycoin的分发可能会延长25年。
 
-## Understanding Distribution
+## 分配量详细说明
 
-As stated above 17.721.960 million coin (~17.7%) are distributable. 
+如上所述，有1772 1960枚 (约17.7%) 已经可分配。 
 
-There is an [OTC](https://otc.skycoin.net/) that comes up regularly to erratic 
-times and it contains **up to 10BTC worth of Skycoin** each day it opens. 
-The price is adjusted manually and set at 10% above [coinmarketcap](https://coinmarketcap.com/currencies/skycoin/) rate.
+会有定期或不定时的[OTC](https://otc.skycoin.net/)场外交易，每天开放**10BTC等价值的Skycoin**。
+价格会始终设置在比[coinmarketcap](https://coinmarketcap.com/currencies/skycoin/) 上所列汇率高10%。
+其余部分的资金正用于（同样将来也会用于）产品的搭建，上线交易所以及Skywire硬件部分的生产基础设备（比如Antennas，芯片等），Skywire发布后这部分资金也用于支付给为Skywire网络提供带宽的参与者。
 
-The other part of the funds is being used and will be used to **build product**, **listings on exchanges** and **production facilities** for the hardware
-components of Skywire (antennas, chips etc.) as well as to **pay Skywire participants** for providing bandwith when the mainnet of Skywire launches.
-
-The end goal is to have a network that is in a closed, internal economic cycle, meaning that the Skywire incentives are tweaked in a
-way, that the mean revenue per user (capital inflows) exceeds the cost per user over lifetime.
-
+终极目标是搭建一个封闭的，内部的经济自循环，这意味着在某种方式上Skywire网络的激励机制会进行微调，同时意味着每个用户收入（资金流）始终会超过他的花费。
