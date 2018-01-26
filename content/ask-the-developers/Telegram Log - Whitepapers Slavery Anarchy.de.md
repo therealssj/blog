@@ -12,9 +12,9 @@ categories = [
 
 **Artem Kotelskiy**
 
-Hey
+Hey,
 
-Ich habe bemerkt, dass beide Whitepaper über den Consensus-Algorithmus auf 	Arvix, aufgrund von Fehlern, offline 
+ich habe bemerkt, dass beide Whitepaper über den Consensus-Algorithmus auf 	Arvix, aufgrund von Fehlern, offline 
 genommen wurden. Ist das wahr ? 
 
 Kann bitte jemand aus dem Team dazu Stellung beziehen ?
@@ -28,7 +28,7 @@ Welche Artikel fehlen denn?
 
 **Synth** *[Antwort an Artem Kotelskiy]*
 
-Nein. Chen hat sie vom Arvix runtergenommen um aus dem renommierteren ACM-Journal zitiert zu werden.
+Nein. Chen hat sie vom Arvix runtergenommen, um aus dem renommierteren ACM-Journal zitiert zu werden.
 
 **Synth**
 
@@ -45,7 +45,7 @@ Dort steht 'äußerst wichtiger theoretischer Fehler'.
 
 **Synth**
 
-Das ist nur Chen wie er ein Trottel ist.
+Das ist nur Chen, wie er ein Trottel ist.
 
 **Artem Kotelskiy**
 
@@ -53,7 +53,7 @@ Dasselbe mit dem 'Opinion Dynamics' Artikel.
 
 **Synth**
 
-In einem der Artikel ist ein Fehler, von dem ich ihm bereits Monate vor der Veröffentlichung in Kenntnis gesetzt 
+In einem der Artikel ist ein Fehler, von dem ich ihn bereits Monate vor der Veröffentlichung in Kenntnis gesetzt 
 habe.
 
 **Synth**
@@ -84,7 +84,7 @@ Ich finde es mit Google nicht.
 
 **Synth** *[Antwort an Artem Kotelskiy]*
 
-Chens Professor ist Ko-Autor der Artikel und möchte, dass die Artikel nicht veröffentlich werden. 
+Chens Professor ist Koautor der Artikel und möchte, dass die Artikel nicht veröffentlich werden. 
 Er versteht die Blockchain-Technologie nicht und denkt, dass die chinesische Regierung die Blockchain-Technologie 
 sowie involvierte Personen angreift und ihn die Artikel in Schwierigkeiten bringen könnten.
 
@@ -94,11 +94,11 @@ http://njtech.findplus.cn/?h=search_list&query=AR:%22Shu%2C%20Jiwu%22
 
 **Artem Kotelskiy** *[Antwort an Synth]*
 
-Ich denke dies sollte auf eurer Website addressiert werden. Das gesamte Projekt basiert auf der Sicherheit des 
+Ich denke, dies sollte auf eurer Website addressiert werden. Das gesamte Projekt basiert auf der Sicherheit des 
 Obelisk-Algorithmus. Es sollte glasklar sein, dass der Algorithmus zumindest per Peer-Review von Kryptographen 
 geprüft wurde.
 
-Aufgrund eines simplen Grundes - niemand wird sich die Mühe machen und die Artikel auf Korrektheit prüfen mit 
+Aufgrund eines simplen Grundes - niemand wird sich die Mühe machen und die Artikel auf Korrektheit prüfen, mit
 Ausnahme von Kryptographen.
 
 **Synth** *[Antwort an Artem Kotelskiy]*
