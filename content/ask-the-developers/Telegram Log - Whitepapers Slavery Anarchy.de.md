@@ -103,10 +103,10 @@ Ausnahme von Kryptographen.
 
 **Synth** *[Antwort an Artem Kotelskiy]*
 
-Es wird ein sechstes Whitepaper geben, welches 40-60 Seiten lang sein wird und auf Details wie die Implementierung 
+Es wird ein sechstes Whitepaper geben, welches 40-60 Seiten lang sein wird und auf Details, wie die Implementierung 
 eingehen wird. Es hat nur keiner Zeit es zu schreiben. 
 
-Wir haben die Simulation beendet und nachdem nun die peer-to-peer-Verbindung läuft werden wir die erste Generation 
+Wir haben die Simulation beendet und nachdem nun die peer-to-peer-Verbindung läuft, werden wir die erste Generation 
 implementieren und es in der echten, realen Welt testen.
 
 **Synth** *[Antwort Artem Kotelskiy]*
@@ -124,8 +124,8 @@ Das sollte ebenfalls auf der Website zu finden sein. Jedenfalls bedanke ich mich
 Der Artikel wurde in einer Top 2 ACM-Konferenz zur Thematik 'Konsens zwischen verteilten Datenbanken' mit 
 zugehörigem Journal veröffentlicht und per Peer-Review geprüft.
 
-Wir sind die einzige Cryptowährung welche über, von Fachleuten geprüften, wissenschaftliche Artikel verfügt und 
-darüber hinaus mittels Simulationen testet.
+Wir sind die einzige Cryptowährung welche über, von Fachleuten geprüfte, wissenschaftliche Artikel verfügt und 
+darüber hinaus mittels Simulationen validiert.
 
 **Synth**
 
@@ -135,7 +135,7 @@ Chen.
 
 Davon wusste ich nichts.
 
-Ich kann seine Involvierung in Ethereum mit Google nicht finden.
+Ich kann seine Involvierung in Ethereum mithilfe von Google nicht finden.
 
 Bitte stelle mir einen Link bereit.
 
@@ -156,8 +156,8 @@ Warum denn das??
 
 **Synth**
 
-In China wird ein potentieller Bitcoin-Ban befürchtet oder auch schlichtweg aufgrund einschüchternder Panikmache, 
-in den USA hingegen sind es steuerrechtliche-, sowie berufliche Gründe.
+In China wird ein potentieller Bitcoin-Bann befürchtet, dazu kommt einschüchternde Panikmache.
+In den USA hingegen sind es steuerrechtliche-, sowie berufliche Gründe.
 
 **Artem Kotelskiy**
 
@@ -169,31 +169,31 @@ In der Tat, ich habe Chen im Ethereum-Team gefunden.
 
 **Monty Crypto (Xa no)**
 
-Von allen Coins gibt es sehr wenige mit einem ähnlichen Github-repository, einer ähnlichen Geschichte, 
-ähnlichen Artikeln sowie dem ganzen Rest und du nennst das dubios, weil wir keine unnützen Gesichter und Namen 
+Von allen Coins, gibt es sehr wenige mit einem ähnlichen Github-Repository, einer ähnlichen Geschichte, 
+ähnlichen Artikeln, sowie dem ganzen Rest und du nennst das dubios, weil wir keine unnützen Gesichter und Namen 
 auf unserer Website preisgeben?😂
 
 **Synth**
 
-Sein öffentlicher Schlüssel(pubkey) ist in dem Repository der Ethereum-Entwickler. Schau in seinem Github nach.
+Sein öffentlicher Schlüssel (pubkey) ist in dem Repository der Ethereum-Entwickler. Schau in seinem Github nach.
 
 **Monty Crypto (Xa no)**
 
-Meiner Meinung nach ist es dubios zehn oder hunderte Millionen in ICOs einzusammeln ohne eine Zeile Code vorweisen 
+Meiner Meinung nach ist es dubios zehn oder hunderte Millionen in ICOs einzusammeln, ohne eine Zeile Code vorweisen 
 zu können.
 
 **Synth**
 
-Der Bitcoin-Entwickler, der die doppelten Coinbase-Ausgaben entdeckt hat war ebenso sehr stark involviert und 
+Der Bitcoin-Entwickler, der die doppelten Coinbase-Ausgaben entdeckt hat, war ebenso sehr stark involviert. Außerdem  
 zwei weitere wesentliche Mitglieder, aber wir können sie alle nicht auf unserer Website listen, auch nicht als 
 Berater.
 
 Es gibt sehr viel Drama deswegen. 
 
-Die australische Regierung hat die Häuser von Leuten innerhalb von acht Stunden gestürmt nachdem sie als 
-frühzeitiger Bitcoin-Entwickler geoutet wurden.
+Die australische Regierung hat die Häuser von Leuten innerhalb von acht Stunden gestürmt, nachdem sie als 
+frühzeitige Bitcoin-Entwickler geoutet wurden.
 
-Viele der tatsächlichen Crypto-Leute besitzen über eine Sicherheitsfreigabe und möchten, wegen ihres Angestellten-
+Viele der ernsthaften Crypto-Leute besitze eine Sicherheitsfreigabe und möchten, wegen ihres Angestellten-
 verhältnisses, deshalb nicht öffentlich in Verbindung gebracht werden (obwohl sie privat beteiligt sind).
 
 **Artem Kotelskiy** *[Antwort an Monty Crypto (Xa no)]*
@@ -204,7 +204,7 @@ Ich habe nur gescherzt, beachte die "))".
 
 Die einzigen Leute, die mit ihrem regulären Github-Account mitgewirkt haben, waren im Grunde genommen Idioten 
 ohne Voraussicht bezüglich betriebsbedingter Sicherheit. Die anderen involvierten Personen sitzen nicht in 
-Beraterpositionen oder machen Werbung für sich selbst.
+Beraterpositionen, oder machen Werbung für sich selbst.
 
 Ich weiß nicht einmal weshalb Chen seinen regulären Github-Account verwendet hat. 
 Es wurde ihm geraten dies nicht zu tun.
@@ -236,34 +236,34 @@ waren und sind!
 
 Hoffentlich. 
 
-Nach wie vor, weshalb nicht alles in die Schweiz verlagern ? 
+Nach wie vor, weshalb nicht alles in die Schweiz verlagern? 
 
-Und absolut transparente Entwicklung wie Ethereum haben?
+Und eine absolut transparente Entwicklung wie Ethereum haben?
 
 **Synth** *[Antwort an Artem Kotelskiy]*
 
-Für was ? 
+Für was? 
 
-Achtzig Menschen sollen also in die Schweiz ziehen ? 
+Achtzig Menschen sollen also in die Schweiz ziehen? 
 
 **Artem Kotelskiy**
 
 Ok..
 
-Ich meine, dass das Unternehmen in die Schweiz verlegt wird und so irgendwie beschützt wird. 
+Ich meine, dass das Unternehmen in die Schweiz verlegt wird und so irgendwie beschützt ist. 
 
 **Synth**
 
-Es ist alles auf Github, also spielt es keine Rolle in welchem Land sie sich befinden. 
+Es ist alles auf Github, also spielt es keine Rolle, in welchem Land sie sich befinden. 
 
-Beschützt vor was? Es hat bisher noch keiner versucht die Skycoin-Entwickler anzugreifen.
+Beschützt vor was? Es hat bisher noch keiner versucht, die Skycoin-Entwickler anzugreifen.
 
 **Artem Kotelskiy**
 
-Aber du sagst doch, dass die Leute so verängstigt sind, dass sie sich nicht trauen zuzugeben in dem Projekt 
+Aber du sagst doch, dass die Leute so verängstigt sind, dass sie sich nicht trauen zuzugeben, in dem Projekt 
 involviert zu sein? 
 
-Ich verstehe einfach nicht weshalb ?
+Ich verstehe einfach nicht weshalb?
 
 **Synth**
 
@@ -286,7 +286,7 @@ Lol, jeder liebt es Steuern zu bezahlen.
 
 **Artem Kotelskiy**
 
-Ich kann nicht nachvollziehen wie die Ablehnung Steuern zu bezahlen dem Projekt helfen soll. 
+Ich kann nicht nachvollziehen, wie die Ablehnung Steuern zu bezahlen, dem Projekt helfen soll. 
 
 Erklärt das bitte.
 
@@ -301,36 +301,35 @@ Steuervermeidung ist absolut legal und wird von jeder Firma dieser Welt betriebe
 Stell dir vor du hast 800 Millionen Dollar in Bitcoin. Rennst du die Straße runter und gibst damit an? 
 
 Platzieren Leute mit Sicherheitsfreigabe und Geheimhaltungsvereinbarung (NDA) ihr Gesicht auf Websiten? 
-Diese Leute haben nicht einmal ein Facebook-Account und die NDA verbietet es ihnen Kunden mitzuteilen, 
-wer ihre anderen Kunden sind.
+Diese Leute haben nicht einmal einen Facebook-Account und die Geheimhaltungsvereinbarung verbietet es ihnen, ihren Kunden mitzuteilen, wer ihre anderen Kunden sind.
 
-Zudem gibt es die Problematik des geistigen Eigentums mit Angestellten. Wenn jemand in einer Firma tätig ist 
-besagt der Arbeitsvertrag, dass die Firma Besitzansprüche auf alles was der Angestellte vollbringt besitzt. 
-Einschließlich Arbeit in der Freizeit.
+Außerdem existiert die Problematik des geistigen Eigentums bei Angestellten. Wenn jemand in einer Firma tätig ist,
+besagt der Arbeitsvertrag, dass die Firma Besitzansprüche auf alles, was der Angestellte vollbringt besitzt. 
+Einschließlich ihrer Arbeit in der Freizeit.
 
 Sie können also nicht einfach öffentlich Code besteuern, sonst kann die Firma oder der Arbeitgeber sein Besitzrecht 
-beanspruchen und juristische Probleme verursachen.
+geltend machen und juristische Probleme verursachen.
 
-Das ist ein großer Haufen Drama und Bullshit. Jeder der kompetent ist, ist geheimnisvoll. 
+Das ist ein großer Haufen Drama und Bullshit. Jeder der kompetent ist, ist anonym. 
 Die Leute die sich selbst öffentlich bewerben sind Loser.
 
 ALLE der frühen Bitcoin-Leute erwarteten, dass die US-Regierung gewalttätig dagegen durchgreifen wird. 
 Diese Angst ist nie verschwunden.
 
-Die Menschen, welche heute in die Crypto-Welt einsteigen erinnern sich nicht mehr an die Krypto-Kriege und 
-die Unterdrückung durch die Regierung in den Neunzigern.
+Die Menschen, welche heute in die Crypto-Welt einsteigen, erinnern sich nicht mehr an die Krypto-Kriege und 
+die Unterdrückung durch die Regierungen in den Neunzigern.
 
 **Vadim 🛌**
 
-Ich finde es seltsam, dass die Leute von der Anonymität, der in Kryptographie Interessierten, überrascht sind.
+Ich finde es seltsam, dass die Leute von der Anonymität, der an Kryptographie interessierten, überrascht sind.
 
 **Artem Kotelskiy**
 
-Ich halte nichts von gegenseitigen Geheimhaltungsvereinbarungen(NDA).
+Ich halte nichts von gegenseitigen Geheimhaltungsvereinbarungen (NDA).
 
 Ich glaubte, dass kompetente Leute niemals NDAs unterschreiben würden. 
 
-Offensichtlich lag ich in meiner Annahme falsch. 
+Offensichtlich lag ich mit meiner Annahme falsch. 
 
 Verträge mit den Firmen... 
 
@@ -346,7 +345,7 @@ Sie vergessen, dass ALLE professionellen Mathematiker und Kryptographen entweder
 
 **Synth** *[Antwort an Artem Kotelskiy]*
 
-Jeder der bei Google arbeitet oder einem anderen der Fortune 500. Wir haben Commits von Leuten, welche für Google/Amazon arbeiten, was man anhand ihrer Commit-Historie erkennt.
+Jeder der bei Google arbeitet, oder einem anderen der Fortune 500. Wir haben Commits von Leuten, welche für Google/Amazon arbeiten, was man anhand ihrer Commit-Historie erkennt.
 
 **Artem Kotelskiy**
 
@@ -356,9 +355,9 @@ Ja, ich glaube nur nicht, dass Google/Amazon derart großartige Unternehmen sind
 
 Jedoch sind die Mitarbeiter durchaus kompetent.
 
-Jedenfalls hab ich es begriffen was du mir sagen wolltest.
+Jedenfalls hab ich es begriffen, was du mir sagen wolltest.
 
-Die Sache mit den professionellen Mathematikern hast du überspitzt. Ich weiß genau welche Art Mensch die reine Mathematik verlassen und zum Militär gehen und diese sind nicht die Besten, glaub mir das.
+Die Sache mit den professionellen Mathematikern hast du überspitzt. Ich weiß genau, welche Art Mensch die reine Mathematik verlassen und zum Militär gehen und diese sind nicht die Besten, glaub mir das.
 
 **Synth** *[Antwort an  Artem Kotelskiy]*
 
@@ -366,7 +365,7 @@ Wie Google.
 
 Alle unserer großen Unternehmen verteilen Verträge in denen steht:"Wir besitzen dich. Du bist unser Sklave. Wir besitzen alles was du in deiner freien Zeit vollbringst.".
 
-Das bezieht sich auf ALLE Fortune 500 Unternehmen. Du wirst bemerken, dass diese Leute aufgehört haben zu committen nachdem sie eine Stelle bei einem dieser Unternehmen angenommen haben.
+Das bezieht sich auf ALLE Fortune 500 Unternehmen. Du wirst bemerken, dass diese Leute aufgehört haben zu committen, nachdem sie eine Stelle bei einem dieser Unternehmen angenommen haben.
 
 **Artem Kotelskiy**
 
@@ -378,7 +377,7 @@ Traurig.
 
 Außerdem funktioniert die USA so, dass selbst veröffentlichte Informationen/Forschungsergebnisse der Geheimhaltung unterliegen. 
 
-Wenn also eine Person ein Stipendium erhält oder durch Subventionen der Regierung unterstützt wird und an Source Routing oder ähnlichem gearbeitet hat und dies anschließend veröffentlicht wird, so obliegt diese Person immernoch der gesetzlichen Haftung, wenn die Technologie in späteren Projekten verwendet wird.
+Wenn also eine Person ein Stipendium erhält, oder durch Subventionen der Regierung unterstützt wird und an Source Routing oder ähnlichem gearbeitet hat und dies anschließend veröffentlicht wird, so obliegt diese Person immernoch der gesetzlichen Haftung, wenn die Technologie in späteren Projekten verwendet wird.
 
 Wenn sie während der Entwicklung der Algorithmen an einer Universität tätig waren, dann kann die Universität ihre geistigen Besitzansprüche geltend machen. 
 
@@ -386,7 +385,7 @@ Jeder, der in den USA lebt, wird also von Anwälten terrorisiert.
 
 **Artem Kotelskiy**
 
-Ich verstehe. Schwer zu glauben, dass es Universitäten in den USA gibt, welche solche geistigen Besitzansprüche geltend machen würden.
+Ich verstehe. Sehr schwer zu glauben, dass es Universitäten in den USA gibt, welche solche geistigen Besitzansprüche geltend machen würden.
 
 Aber ich stehe immernoch zu meinem Argument: Ich finde, dass auf eurer Website erklärt werden sollte, warum die Entwickler unbekannt sind.
 
@@ -400,15 +399,15 @@ Ah, aber das würde doch Aufmerksamkeit erregen?
 
 **Artem Kotelskiy** *[Antwort an Synth]*
 
-Könntest du einen Link schicken oder einige Stichworte von Fällen, bezüglich der geistigen Besitzansprüche, nennen? 
+Könntest du einen Link schicken, oder einige Stichworte von Fällen, bezüglich der geistigen Besitzansprüche, nennen? 
 
 Google und Cisco sind Unternehmen.
 
 **Synth** *[Antwort an Artem Kotelskiy]*
 
-Sie sind nicht geheim. Die Leute sind nur zu dumm um auf Github zu schauen.
+Sie sind nicht geheim. Die Leute sind nur zu dumm, um auf Github zu schauen.
 
-Bei Skycoin geht es nicht darum wer den tollsten Entwickler in seinem Beratungsausschuss(advisory board) hat.
+Bei Skycoin geht es nicht darum, wer den tollsten Entwickler in seinem Beratungsausschuss (advisory board) hat.
 
 Die Website dreht sich um den Coin und um die Technologie. Wir glauben nicht an Beratungsausschüsse oder populäre CEO-Schwanzvergleiche.
 
@@ -417,27 +416,27 @@ Die Website dreht sich um den Coin und um die Technologie. Wir glauben nicht an 
 Lol, Accounts auf Github bringen auch keine weiteren Informationen mit sich, obwohl ich zugeben muss, 
 dass einige von ihnen weitere soziale Medien verknüpfen.
 
-Weißt du, ich möchte dir nicht einreden dich selbst zu promoten. 
+Weißt du, ich möchte dir nicht einreden, dich selbst zu promoten. 
 
-Auf keinste Weise. 
+In keinster Weise.
 
-Tatsächlich hasse ich alle diese schönmalerischen "Team"-Seiten und der ganze Kram. 
+Tatsächlich hasse ich alle diese schönmalerischen "Team"-Seiten und den ganzen Kram. 
 
-Aber hier ist eine simple Sache. 
+Aber hier ist ein simpler Fakt. 
 
 Ich mag das Projekt. 
 
 Die Zukunft des Projekts liegt vollständig in der Hand der Entwickler. 
 
-Es würde also helfen zu wissen wer sie sind und was sie für ihre Werte und Überzeugungen haben, um zu entscheiden, 
-ob ich lediglich Skycoin-Besitzer sein werde, oder sogar einen Skycoin-node betreiben werde. 
+Es würde also helfen zu wissen, wer sie sind und was sie für Werte und Überzeugungen vertreten, um zu entscheiden, 
+ob ich lediglich Skycoin-Besitzer sein werde, oder sogar einen Skycoin-Knoten (node) betreiben würde. 
 
-Aber ich versteh schon, du meinst, dass Code und Ausführung für sich selbst sprechen, das ist in Ordnung.
+Aber ich versteh schon, du meinst, dass Code und Ausführung für sich selbst sprechen, dass ist in Ordnung.
 
 **Synth**
 
-Geh du los und dox dich selbst, liefer all deine Dokumente deiner Regierung und 
-bezahle deine Steuern an die Zentralbank die dich besitzt. Menschliches Vieh bitte antreten zur Strichkodierung.
+Geh du los und dox dich selbst, schick all deine Dokumente deiner Regierung und 
+bezahle deine Steuern an die Zentralbank, die dich besitzt. Menschliches Vieh bitte antreten zur Strichkodierung.
 
 Das ist der exakte Gegensatz des Grunds, aus dem Bitcoin geschaffen wurde.
 
@@ -451,7 +450,7 @@ Einer der Worte und einer der Taten zu sein?:D
 
 **Artem Kotelskiy**
 
-Ich tendiere zu glauben, dass ein erklärter Krieg gegen bisherige Herrscher einer friedlichen Überführung 
+Ich tendiere zu glauben, dass ein erklärter Krieg gegen bisherige Herrscher, einer friedlichen Überführung 
 in ein besseres System nicht zuträglich ist.
 
 Ich könnte falsch liegen, macht micht also nicht fertig. 
@@ -466,25 +465,25 @@ Man ist entweder Sklave oder man ist frei. Menschen, die für anderer Leute Geld
 Sie versklaven sich für ihren Besitzer/Dienstherr.
 
 Da gibt es keine Zwischenstufen. Man wird entweder besessen, ist ein Sklave, hat eine Frachtnummer und 
-lebt unter massivster Überwachung im Polizeistaat der von der Zentralbank geführten Sklavenplantage ODER man ist frei. 
+lebt unter massivster Überwachung im Polizeistaat, der von der Zentralbank geführten Sklavenplantage, ODER man ist frei. 
 Sklaverei oder Freiheit. Es gibt keine Abstufungen.
 
 **Artem Kotelskiy**
 
-Ich verstehe. Der nächste Diskussionspunkt wäre also zu erörtern, ob die Regierung gut oder böse ist (sagen wir mal die US-Regierung). 
+Ich verstehe. Der nächste Diskussionspunkt, wäre also zu erörtern, ob die Regierung gut oder böse ist (sagen wir mal die US-Regierung). 
 Ich weiß, dass ich diese Diskussion verlieren würde, also lassen wir das. Ich verstehe deinen Blickwinkel vollstens. 
-Er unterscheidet sich von meinem dahingegen, dass ich mehr an die Güte glaube und das es ein Spektrum an Freiheitsgraden gibt. 
+Er unterscheidet sich von meinem dahingehend, dass ich mehr an die Güte im Menschen glaube - dass es ein Spektrum an Freiheitsgraden gibt. 
 Es könnte aber sein, dass ich einfach nur jung und unerfahren bin.
 
 **Synth**
 
-"Freiheit zu Pornos zu masturbieren", "Freiheit Marihuana zu rauchen", "Freiheit Anal-Sex zu haben", "Freiheit sich Heroin zu spritzen", "Freiheit in der freien Marktwirtschaft herumzulaufen und für jemand anderen Geldes wie ein Sklave zu schuften", "Freiheit zu Shoppen!".
+"Freiheit zu Pornos zu masturbieren", "Freiheit Marihuana zu rauchen", "Freiheit Anal-Sex zu haben", "Freiheit sich Heroin zu spritzen", "Freiheit in der freien Marktwirtschaft herumzulaufen und für das Geld eines anderen, wie ein Sklave zu schuften", "Freiheit zu Shoppen!".
 
-Sklaverei bezieht sich nicht darauf Sklave zu sein oder frei zu sein. Es dreht sich darum entweder unabhängig (frei) oder abhängig (Sklave) zu sein.
+Sklaverei bezieht sich nicht darauf Sklave zu sein, oder frei zu sein. Es dreht sich darum, entweder unabhängig (frei), oder abhängig (Sklave) zu sein.
 
-Zuerst macht man Leute aus Überlebensgründen abhängig, danach gibt man ihnen gefakte "Freiheiten" damit es zu keiner Revolte kommt. Das ist der Weg wie man eine Gesellschaft in ein Arbeitslager verwandelt - man gebe ihnen genug freie Pornos, Prozac und Zoloft bis man stubenreine "glückliche Sklaven" hat, welche sich eine Alternative nicht einmal mehr vorstellen können.
+Zuerst macht man Leute aus Überlebensgründen abhängig, danach gibt man ihnen unechte "Freiheiten", damit es zu keiner Revolte kommt. Das ist der Weg, wie man eine Gesellschaft in ein Arbeitslager verwandelt - man gebe ihr genug freie Pornos, Prozac und Zoloft, bis man stubenreine "glückliche Sklaven" hat, welche sich eine Alternative nicht einmal mehr vorstellen können.
 
-Sieh dir an wie frei diese Leute sind mit ihren $750.000 Schulden ihres Studienkredits, welchen sie nicht abzahlen werden bis sie tot sind! Lol. Es ist der reinste Hohn.
+Sieh dir an wie frei diese Leute sind, mit ihren $750.000 Schulden ihres Studienkredits, welchen sie nicht abzahlen werden, bis sie tot sind! Lol. Es ist der reinste Hohn.
 
 **Artem Kotelskiy**
 
@@ -524,15 +523,15 @@ An-archon.
 
 An bedeutet ohne. 
 
-Archon bedeutet "Meister" oder "Herrscher". 
+Archon bedeutet "Meister", oder "Herrscher". 
 
-Anarchie bedeutet demnach "ohne Meister" oder ohne Herrscher. All diese Wörter werden in ihrer Aussage verdreht, um die Öffentlichkeit und die Ungebildeten zu verspotten.
+Anarchie bedeutet demnach "ohne Meister", oder ohne Herrscher. All diese Wörter werden in ihrer Aussage verdreht, um die Öffentlichkeit und die Ungebildeten zu verspotten.
 
 **Artem Kotelskiy**
 
 Wie auch immer. 
 
-Bleibt dran mit Skycoin, ich hoffe inständig, dass Skycoin es mehr Menschen ermöglicht keinem Herrscher zu unterstehen.
+Bleibt dran mit Skycoin, ich hoffe inständig, dass Skycoin es mehr Menschen ermöglicht, keinem Herrscher zu unterstehen.
 
 **Artem Kotelskiy** *[Antwort an Synth]*
 
@@ -552,11 +551,11 @@ Nein, das Problem ist die menschliche Natur.
 
 Man kann keine Sklaven befreien. Sie werden schlichtweg und ergreifend einen anderen Meister finden. Sie *wollen* und haben sich dafür entschieden Sklaven zu sein. Sie möchten nur einen Sklaventreiber mit einer angenehmeren Peitsche haben. 
 
-Sieh dir an wie Menschen spontan einen Herrscher bestimmen, der ihnen sagt was zu tun ist, wie sie zu leben haben und was sie zu fürchten haben. Alles, weil sie es ablehnen das selbst zu tun.
+Sieh dir an wie Menschen spontan einen Herrscher bestimmen, der ihnen sagt was zu tun ist, wie sie zu leben haben und was sie zu fürchten haben. Alles, weil sie es ablehnen, dies selbst zu tun.
 
 **matthieu** *[Antwort an Artem Kotelskiy]*
 
-Tatsächlich könnte es dem Coin einen größeren Nutzen bringen, wenn man die Ideologie, wie Synth sie gerade ausführt, in den Vordergrund stellt anstatt einige Gesichter zu präsentieren...
+Tatsächlich könnte es dem Coin einen größeren Nutzen bringen, wenn man die Ideologie, wie Synth sie gerade ausführt, in den Vordergrund stellt, anstatt einige Gesichter zu präsentieren...
 
 **matthieu**
 
@@ -564,7 +563,7 @@ Synth, bisher wusste ich nichts von deiner persönlichen Motivation und tiefgrü
 
 **Synth** *[Antwort an matthieu]*
 
-Billionäre lol. Die weltweit ersten Billionäre. Zumindest bis diese Blase platzt. 
+Billionäre lol. Die weltweit ersten Billionäre. Zumindest, bis diese Blase platzt. 
 
 Millionär sein ist so 1994.
 
@@ -577,13 +576,12 @@ Millionär sein ist so 1994.
 Bitcoin steigt auf $5000, aber wenn auch nur 1% der Coinbesitzer verkaufen würden, würde der Kurs auf $2000 zurückfallen. 
 Es gibt also einen großen Preisanstieg verglichen mit der Markttiefe.
 
-Ich denke wir könnten kurzzeitig Billionäre erleben oder Menschen, welche mehr Wert sind als Bill Gates - solange bis diese Menschen ihr Geld liquidieren und alles implodiert.
+Ich denke wir könnten kurzzeitig Billionäre miterleben, oder Menschen, welche mehr Wert sind als Bill Gates - solange bis diese Menschen ihr Geld liquidieren und alles implodiert.
 
 Altcoins, ungleich zu Immobilien oder Aktien, haben keine obere Grenze des Preises. 
-Es gibt kein ökonomisches oder mathematisches Prinzip welches verhindert, dass der Preis bis zur Unendlichkeit steigt.
+Es gibt kein ökonomisches oder mathematisches Prinzip, welches verhindert, dass der Preis bis zur Unendlichkeit steigt.
 
-Es gibt keine Einnahmen, keine Verluste und keinen objektiven Weg zu entscheiden, ob eine verbuggte "Smart Contract"-Plattform,
-die keiner benutzt, nicht $250 Milliarden Dollar wert sein sollte. 
+Es gibt keine Einnahmen, keine Verluste und keinen objektiven Weg zu entscheiden, ob eine verbuggte "Smart Contract"-Plattform, die keiner benutzt, nicht $250 Milliarden Dollar wert sein sollte. 
 
 **Steve**
 
