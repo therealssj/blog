@@ -14,10 +14,10 @@ categories = [
 
 Hey,
 
-ich habe bemerkt, dass beide Whitepaper über den Consensus-Algorithmus auf 	Arvix, aufgrund von Fehlern, offline 
-genommen wurden. Ist das wahr ? 
+ich habe bemerkt, dass beide Whitepaper über den Consensus-Algorithmus auf Arvix, aufgrund von Fehlern, offline 
+genommen wurden. Ist das wahr? 
 
-Kann bitte jemand aus dem Team dazu Stellung beziehen ?
+Kann bitte jemand aus dem Team dazu Stellung beziehen?
 
 **Monty Crypto (Xa no)**
 
@@ -28,7 +28,7 @@ Welche Artikel fehlen denn?
 
 **Synth** *[Antwort an Artem Kotelskiy]*
 
-Nein. Chen hat sie vom Arvix runtergenommen, um aus dem renommierteren ACM-Journal zitiert zu werden.
+Nein. Chen hat sie vom Arvix runtergenommen, denn er wollte dass die Leute aus dem ACM-Journal zitieren, da es angesehener ist.
 
 **Synth**
 
@@ -65,7 +65,7 @@ funktioniert.
 
 **Artem Kotelskiy**
 
-Also sind die Artikel auf der Website und auf Arvix unterschiedlich ? 
+Also sind die Artikel auf der Website und auf Arvix unterschiedlich? 
 
 Der Kommentar über Arvix gefällt mir überhaupt nicht. Der Autor lehnt seinen eigenen Artikel ab, daran ist etwas 
 seltsames.
@@ -78,7 +78,7 @@ Die endgültige Version wurde auf der ACM-Konferenz sowie im ACM-Journal veröff
 
 **Artem Kotelskiy**
 
-Könntest du bitte einen Link bereitstellen ?
+Könntest du bitte einen Link bereitstellen?
 
 Ich finde es mit Google nicht.
 
@@ -184,7 +184,7 @@ zu können.
 
 **Synth**
 
-Der Bitcoin-Entwickler, der die doppelten Coinbase-Ausgaben entdeckt hat, war ebenso sehr stark involviert. Außerdem  
+Der Bitcoin-Entwickler, der das Problem der duplizierten Coinbase-Ausgaben entdeckt hat, war ebenso sehr stark involviert. Außerdem  
 zwei weitere wesentliche Mitglieder, aber wir können sie alle nicht auf unserer Website listen, auch nicht als 
 Berater.
 
@@ -193,7 +193,7 @@ Es gibt sehr viel Drama deswegen.
 Die australische Regierung hat die Häuser von Leuten innerhalb von acht Stunden gestürmt, nachdem sie als 
 frühzeitige Bitcoin-Entwickler geoutet wurden.
 
-Viele der ernsthaften Crypto-Leute besitze eine Sicherheitsfreigabe und möchten, wegen ihres Angestellten-
+Viele der ernsthaften Crypto-Leute besitzen eine Sicherheitsfreigabe und möchten, wegen ihres Angestellten-
 verhältnisses, deshalb nicht öffentlich in Verbindung gebracht werden (obwohl sie privat beteiligt sind).
 
 **Artem Kotelskiy** *[Antwort an Monty Crypto (Xa no)]*
@@ -307,7 +307,7 @@ Außerdem existiert die Problematik des geistigen Eigentums bei Angestellten. We
 besagt der Arbeitsvertrag, dass die Firma Besitzansprüche auf alles, was der Angestellte vollbringt besitzt. 
 Einschließlich ihrer Arbeit in der Freizeit.
 
-Sie können also nicht einfach öffentlich Code besteuern, sonst kann die Firma oder der Arbeitgeber sein Besitzrecht 
+Sie können also nicht einfach öffentlich Code beisteuern, sonst kann die Firma oder der Arbeitgeber sein Besitzrecht 
 geltend machen und juristische Probleme verursachen.
 
 Das ist ein großer Haufen Drama und Bullshit. Jeder der kompetent ist, ist anonym. 
@@ -549,7 +549,7 @@ Lol.
 
 Nein, das Problem ist die menschliche Natur. 
 
-Man kann keine Sklaven befreien. Sie werden schlichtweg und ergreifend einen anderen Meister finden. Sie *wollen* und haben sich dafür entschieden Sklaven zu sein. Sie möchten nur einen Sklaventreiber mit einer angenehmeren Peitsche haben. 
+Man kann keine Sklaven befreien. Sie werden schlicht und ergreifend einen anderen Herren finden. Sie *wollen* und haben sich dafür entschieden Sklaven zu sein. Sie möchten nur einen Sklaventreiber mit einer angenehmeren Peitsche haben. 
 
 Sieh dir an wie Menschen spontan einen Herrscher bestimmen, der ihnen sagt was zu tun ist, wie sie zu leben haben und was sie zu fürchten haben. Alles, weil sie es ablehnen, dies selbst zu tun.
 
