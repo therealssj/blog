@@ -16,13 +16,13 @@ author = "johnstuartmill"
 
 <!-- MarkdownTOC autolink="true" bracket="round" -->
 
-- [Konsensus-Highlights](#consensus-highlights)
+- [Konsens-Highlights](#consensus-highlights)
     - [Warum Konsens](#why-consensus)
     - [Hohe Skalierbarkeit und niedriger Energieverbrauch](#high-scalability-and-low-energy-consumption)
     - [Robust gegenüber koordinierten Attacken](#robust-to-coordinated-attacks)
     - [Die "51%-Attacke"](#the-%E2%80%9C51-percent-attack%E2%80%9D)
     - [Versteckte IP-Adressen](#hidden-ip-addresses)
-    - [Unabhängig von der Taktsynchronisation](#independence-of-clock-synchronization)
+    - [Unabhängigkeit von der Taktsynchronisation](#independence-of-clock-synchronization)
     - [Zwei Knotentypen: Konsens und Blockerschaffend](#two-type-of-nodes-consensus-and-block-making)
 - [Wie der Skycoin Konsens-Algorithmus funktioniert](#how-skycoin-consensus-algorithm-works)
 - [Referenzen](#references)
@@ -30,15 +30,15 @@ author = "johnstuartmill"
 <!-- /MarkdownTOC -->
 
 
-## Konsensus-Highlights
+## Konsens-Highlights
 
 ### Warum Konsensus
 
-Der Skycoin Konsens-Algorithmus ("Obelisk") synchronisiert den Zustand der Skycoin-Blockchain quer über alle Netzwerkknoten. Dies resultiert in einer konsistenten Buchführung, wenn also der Kontostand eines gegebenen öffentlichen Schlüssels (oder Adresse) berechnet werden soll, liefert jeder Knoten dasselbe Ergebnis bei der Berechnung.
+Der Skycoin Konsens-Algorithmus ("Obelisk") synchronisiert den Zustand der Skycoin-Blockchain quer über alle Netzwerkknoten. Dies resultiert in einer konsistenten Buchführung, soll also der Kontostand eines gegebenen öffentlichen Schlüssels (oder Adresse) berechnet werden, so liefert jeder Knoten dasselbe Ergebnis bei der Berechnung.
 
 ### Hohe Skalierbarkeit und niedriger Energieverbrauch
 
-Bedingt durch das Design ist der Algorithmus hoch skalierbar und eine günstig berechenbare alternative zu Proof-of-Work, deshalb kann der Konsens-Algorithmus und das Blockerschaffen auf einer low-budget Hardware mit niedrigem Energieverbrauch und niedrigen Anschaffungskosten laufen, was das Cryptowährungsnetzwerk robuster gegenüber Zentralisierungsversuchen macht (sprich die Knoten sind für die breite Masse erschwinglich).
+Bedingt durch das Design ist der Algorithmus hoch skalierbar und eine günstig berechenbare Alternative zu Proof-of-Work, deshalb kann der Konsens-Algorithmus und das Blockerschaffen auf einer low-budget Hardware mit niedrigem Energieverbrauch und niedrigen Anschaffungskosten laufen, was das Cryptowährungsnetzwerk robuster gegenüber Zentralisierungsversuchen macht (sprich die Knoten sind für die breite Masse erschwinglich).
 
 ### Robust gegenüber koordinierten Attacken
 
@@ -46,9 +46,9 @@ Unser Konsens-Algorithmus (i) konvergiert schnell, (ii) benötigt minimalen Netz
 
 ### Die "51%-Attacke"
 
-In einer eingeschränkten Betrachtungsweise kann die Basisversion des Algorithmus Ziel einer solchen Attacke sein. Speziell wenn die modifizierten oder bösartigen Knoten in der Mehrheit sind und einen protokollkonformen, UTXO-konformen Blockkandidaten versenden und dieser die Konsensfindung gewinnt. Allerdings wird ein Bock, der auf irgendeine Weise nicht Regelkonform ist, sofort von dem (unmodifizierten) Algorithmus ausgeschieden, bevor der Block die Chance bekommt an dem Konsensprozess teilzunehmen.
+In einer eingeschränkten Betrachtungsweise kann die Basisversion des Algorithmus, Ziel einer solchen Attacke sein. Speziell wenn die modifizierten oder bösartigen Knoten in der Mehrheit sind und einen protokollkonformen, UTXO-konformen Blockkandidaten versenden und dieser die Konsensfindung gewinnt. Allerdings wird ein Bock, der auf irgendeine Weise nicht Regelkonform ist, sofort von dem (unmodifizierten) Algorithmus ausgeschieden, bevor der Block die Chance bekommt an dem Konsensprozess teilzunehmen.
 
-Konsensknoten können optional das Konzept des Netz-des-Vertrauens verwenden, indem Nachrichten von unbekannten Knoten (sprich signiert mit vertrauensunwürdigen öffentlichen Schlüsseln) bezüglich des Konsensprozessen ignoriert werden.
+Konsensknoten können optional das Konzept des Netz-des-Vertrauens verwenden, indem Nachrichten von unbekannten Knoten (sprich signiert mit nicht vertrauenswürdigen öffentlichen Schlüsseln) bezüglich des Konsensprozesses ignoriert werden.
 
 Wenn das Netz-des-Vertrauens eingeschaltet ist, würde das Zuschalten einer großen Menge an bösartigen Konsensknoten um (a) einen Blockchainfork auszulösen, (b) den Konsensprozess zu unterbrechen, wenig Wirkung zeigen, sofern nicht eine große Menge der Mitglieder des Netz-des-Vertrauens unwissentlich diese bösartigen Knoten in ihre lokale Liste von vertrauenswürdigen Knoten aufnehmen würden.
 
@@ -56,19 +56,19 @@ Wenn das Netz-des-Vertrauens eingeschaltet ist, würde das Zuschalten einer gro�
 
 Die Knoten werden mittels ihres kryptographischen öffentlichen Schlüssels adressiert. Die IP-Adresse der Knoten ist nur den Knoten bekannt, zu denen sie eine direkte Verbindung haben.
 
-### Unabhängig von der Taktsynchronisation
+### Unabhängigkeit von der Taktsynchronisation
 
 Der Algorithmus nutzt keine "Wanduhr" (sprich kalendarische(s) Datum/Zeit). Stattdessen werden Blocksequenznummern verwendet, welche aus validen konsens- und blockchainrelatierten Nachrichten extrahiert werden, um die knoten-interne Zeit zu berechnen. Diese kann informell als "Blocktakt" bezeichnet werden.
 
 ### Zwei Knotentypen: Konsens und Blockerschaffend
 
-Ein Konsensknoten erhält seinen Input von einem oder mehreren blockerschaffenden Knoten. Der Algorithmus für den Konsens und das Blockerschaffen sind separat, dennoch operieren sie beide auf denselben Datenstrukturen. Wir erwähnen das Blockerschaffen an den Stellen, an denen es hilft den Konsens-Algorithmus zu verstehen und wie dieser sich in das restliche System integriert.
+Ein Konsensknoten erhält seinen Input von einem oder mehreren blockerschaffenden Knoten. Der Algorithmus für den Konsens und das Blockerschaffen sind separat, dennoch operieren sie beide auf denselben Datenstrukturen. Wir erwähnen das Blockerschaffen an den Stellen, an denen es hilft den Konsens-Algorithmus und wie dieser sich in das restliche System integriert, zu verstehen.
 
-Beide Knotentypen führen immer die Verifikation des Authors durch und die Betrugserkennung des eingehenden Datums. Betrügerische oder ungültige Nachrichten werden erkannt, ausgeschieden und niemals verbreitet; Verbindungen mit Peer-Knoten, die in verdächtige Aktivitäten verwickelt sind, werden abgetrennt und ihre öffentlichen Schlüssel werden gebannt.
+Beide Knotentypen führen stets eine Verifikation des Autors und eine Betrugserkennung des eingehenden Datums durch. Betrügerische oder ungültige Nachrichten werden erkannt, ausgeschieden und niemals verbreitet; Verbindungen mit Peer-Knoten, die in verdächtige Aktivitäten verwickelt sind, werden abgetrennt und ihre öffentlichen Schlüssel werden gesperrt.
 
 ## Wie der Skycoin Konsens-Algorithmus funktioniert
 
-Aus darstellerischen Gründen setzt die folgende Beschreibung voraus, dass (i) jeder Knoten zugleich Konsens, als auch Blockerschaffend ist, (ii) konsens-relatierte Nachrichten von nicht-vertrauenswürdigen Knoten akzeptiert werden, sprich kein filtern basiert nach dem Netz-des-Vertrauens durchgeführt wird. Die volle Implementation (sprich ohne diese vereinfachenden Annahmen) wird auf Skycoins Github-Repository verfügbar sein. Für die Simulationsergebnisse und die detaillierten schematischen Beispiele des Konsensprozesses, siehe [\[1\]](#references). Eine Simulation, welche die Vertrauenswürdigkeit beachtet, kann hier, jedoch für einen Anderen als den Skycoin-Algorithmus, gefunden werden [\[2\]](#references). Die Beschreibung des Skycoin Konsens-Algorithmus folgt.
+Aus darstellerischen Gründen setzt die folgende Beschreibung voraus, dass (i) jeder Knoten zugleich Konsens, als auch Blockerschaffend ist, (ii) konsens-relatierte Nachrichten von nicht-vertrauenswürdigen Knoten akzeptiert werden, sprich kein filtern, basiert nach dem Netz-des-Vertrauens durchgeführt wird. Die volle Implementation (sprich ohne diese vereinfachenden Annahmen) wird auf Skycoins Github-Repository verfügbar sein. Für die Simulationsergebnisse und die detaillierten schematischen Beispiele des Konsensprozesses, siehe [\[1\]](#references). Eine Simulation, welche die Vertrauenswürdigkeit beachtet, kann hier, jedoch für einen Anderen als den Skycoin-Algorithmus, gefunden werden [\[2\]](#references). Die Beschreibung des Skycoin Konsens-Algorithmus folgt.
 
 1. *Blockerschaffen*. Jeder blockerschaffende Knoten sammelt neue Transaktionen 
     und verifiziert diese mit den UTXO der gewünschten Sequenznummer, 
@@ -84,13 +84,13 @@ Aus darstellerischen Gründen setzt die folgende Beschreibung voraus, dass (i) j
     oder nachdem andere Kriterien erfüllt wurden, den Block, der von 
     der Mehrheit der Blockerschaffer generiert wurde. 
     Gleichstände werden deterministisch gelöst. Derartige Blöcke werden 
-    als "lokale Gewinner"[^2] markiert und an die lokale Blockchain hinzugefügt. 
+    als "lokale Gewinner"[^2] markiert und in die lokale Blockchain eingefügt. 
     Der zugehörige Schlüsselwert zur Blocksequenznummer des lokalen Gewinners wird gelöscht, 
     damit der Speicherplatz wieder freigegeben wird. 
     Der Hashwert des lokalen Gewinners wird verbeitet/verkündet. 
 
 4. *Verifikationsschritt*. Jeder Knoten behält Statistiken über die, 
-    von anderen Knoten gemeldeten lokalen Gewinner. Wenn lokale Gewinner von
+    von anderen Knoten gemeldeten, lokalen Gewinner. Wenn lokale Gewinner von
     allen oder den meisten Knoten gemeldet wurden [^3], bestimmt der Knoten den 
     globalen Gewinner für die spezifische Sequenznummer. Wenn der globale Gewinner der
     lokale Gewinner ist, dann fährt der Knoten wie oben beschrieben fort.
