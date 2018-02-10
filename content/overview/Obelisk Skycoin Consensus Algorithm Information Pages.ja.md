@@ -15,8 +15,6 @@ author = "johnstuartmill"
 
 ![Obelisk The Skycoin Consensus Algorithm](/img/obelisk-the-skycoin-consensus-algorithm.png)
 
-<!-- MarkdownTOC autolink="true" bracket="round" -->
-
 - [合意形成の要点](#合意形成の要点)
     - [合意形成の理由](#合意形成の理由)
     - [高いスケーラビリティと低消費電力](#高いスケーラビリティと低消費電力)
@@ -27,9 +25,6 @@ author = "johnstuartmill"
     - [2つのタイプのノード：合意形成とブロック生成](#2つのタイプのノード：合意形成とブロック生成)
 - [Skycoin合意形成アルゴリズムはどのように動くか](#Skycoin合意形成アルゴリズムはどのように動くか)
 - [参考](#参考)
-
-<!-- /MarkdownTOC -->
-
 
 ## 合意形成の要点
 
@@ -52,7 +47,7 @@ Skycoin 合意形成アルゴリズム（"Obelisk"）は、すべてのネット
 ### 「51％攻撃」
 
 限られた意味においては、このアルゴリズムのベースバージョンはこの攻撃の対象となる可能性があります。
-具体的には、改変された、または悪意のある多数を占めるノードがプロトコル準拠およびUTXO準拠の候補ブロックを送ると、このようなブロックで合意形成を獲得してしまいます。 
+具体的には、改変された、または悪意のある多数を占めるノードがプロトコル準拠およびUTXO準拠の候補ブロックを送ると、このようなブロックで合意形成を獲得してしまいます。
 しかし、ある種の違反のブロックが合意形成トライアルに参加する機会を得る前に、（未修正の）アルゴリズムによって、このブロックは削除されます。
 合意形成ノードは、未知のノード（すなわち、信頼されていない公開鍵によって署名された）から来る合意形成関連のメッセージが無視されるような方法で、Web-of-Trust（信用の輪）概念を任意に利用することができます。
 
@@ -129,4 +124,4 @@ for Consensus over P2P Network.
 *Read more:*
 
 * *[Skycoin 合意形成アルゴリズム　ホワイトペーパー](https://www.skycoin.net/whitepapers)*
-* *[Obelisk Skycoin 合意形成アルゴリズム](/statement/obelisk-skycoin-consensus-algorithm/)*
+* *[Obelisk Skycoin 合意形成アルゴリズム](/statement/obelisk-the-skycoin-consensus-algorithm/)*
