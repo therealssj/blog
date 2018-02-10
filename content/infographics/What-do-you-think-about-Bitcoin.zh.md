@@ -14,18 +14,17 @@ categories = [
 
 ## Bitcoin was Amazing
 
-We all love Satoshi but what Bitcoin has become is not what he intended. Time and growth have highlighted the limitations of Bitcoin and there is no easy fix.
+人人都爱中本聪，然而比特币的现状已超出了他的意料。随着时间的推移，比特币的缺点也日益显现且难以弥补。
 
-  * Bitcoin is NOT decentralized. Three mining pools control all of Bitcoin.
-  * Transaction speeds can take hours or even days.
-  * Due to centralization, Bitcoin is highly vulnerable to a 51% attack.
-  * $40 transaction fees and climbing!
-  * Nodes can be arbitrarily taken over.
+  * 并未实现去中心，由三个矿池控制。
+  * 交易时间长达数小时甚至数日。
+  * 由于其中心化的设计，易遭受51%攻击。
+  * 手续费高达40美元且还会上涨。
+  * 节点可被任意监管。
 
 ## Skycoin is Better
 
-  * We acheive true decentralization with</br>
-   __Obelisk__ - our revolutionary consensus algorithm.
-  * Transaction speeds are faster than Visa.
-  * No block reward, but also no transaction fees.
-  * It's easy to audit and identify malicious nodes.
+  * 基于Obelisk一种革命性的共识算法Skycoin得以实现真正的去中心化。
+  * 交易比visa更为便捷。
+  * 无区块奖励，无交易手续费。
+  * 容易检查判断恶意节点。
