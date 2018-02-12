@@ -13,28 +13,26 @@ categories = [
 ]
 +++
 
-Skycoin recently announced that it will list on COIN918, a global digital currency trading platform. With the new listing, Skycoin brings its vision for a better cryptocurrency to even more users worldwide. It’s one more step towards a free and open network.
+Το Skycoin πρόσφατα ανακοίνωσε πως θα συμπεριληφθεί στο COIN918, ένα παγκόσμιο ανταλλακτήριο ψηφιακών νομισμάτων. Με την κίνηση αυτή, το Skycoin έρχεται πιο κοντά στο όραμά του για ένα καλύτερο κρυπτονόμισμα σε περισσότερους χρήστες παγκοσμίως. Είναι ένα ακόμα βήμα προς ένα ελεύθερο και ανοιχτό δίκτυο
 
-## About COIN918
+## Tο COIN918
 
-COIN918 is owed by Australia COIN918 Fintech Group Pty. Ltd. in Sydney, Australia. It launched in beta in 2016 and currently is in version 5.0. The development time has paid off: today, COIN918 offers its users a high level of system reliability, with bank-quality user data encryption, dynamic authentication, and multi-level risk identification control. Its features include multi-wallet encryption, offline storage in bank safes, actively managed third-party funds, instant recharging, and quick withdrawal for greater ease of use.
+Το COIN918 ανήκει στην Australia COIN918 Fintech Group Pty. Ltd. στο Σίδνεϊ της Αυστραλίας. Άνοιξε τις πύλες της με την δοκιμαστική(beta) έκδοση το 2016 και αυτή τη στιγμή βρίσκεται στην έκδοση 5.0. Ο χρόνος που αφιερώθηκε για την ανάπτυξη του συστήματος αποπλήρωσε: σήμερα, το COIN918 προσφέρει στους χρήστες του υψηλού βαθμού αξιοπιστία, με τραπεζικού επιπέδου κρυπτογράφηση προσωπικών στοιχείων, δυναμικούς έλεγχους ταυτότητας και πολλαπλού επιπέδου εξακρίβωση και διαχείριση κινδύνων. Τα χαρακτηριστικά του συμπεριλαμβάνουν κρυπτογραφημένα πορτοφόλια, εναπόθεση κεφαλαίων σε τραπεζικές χρηματοθυρίδες, ενεργά διαχειρίσιμα κεφάλαια τρίτων, άμεση αναπλήρωση και γρήγορη ανάληψη για ευκολία χρήσης.
+Επιπρόσθετα σε αυτά τα πλεονεκτήματα και την ασφάλεια, το COIN918 προσφέρει εξατομίκευση  και εξυπηρέτηση πελατών από μια ειδική ομάδα. Το υψηλών επιδόσεων σύστημα συναλλαγών εναρμονίζει τις ανταλλαγές και δίνει στην πλατφόρμα του επιπλέον πρακτικότητα.
 
-In addition to these security and advantages, COIN918 offers personalization and customer service by a dedicated team. Its high-performance trading engine streamlines trading and gives the platform added utility. COIN918 a great choice for anyone 
-## Skycoin’s Expansion
+## Η επέκταση του Skycoin
 
-The COIN918 listing is the latest in Skycoin’s rollout to users around the world. It’s only a matter of time before the coin becomes a major influence in the cryptocurrency space.
+Η ενσωμάτωση του Skycoin στο COIN918 είναι η πιο πρόσφατη εξάπλωση του νομίσματος προς χρήστες από όλο τον κόσμο. Είναι θέμα χρόνου μέχρι το νόμισμα να ασκήσει μεγάλη επιρροή στον χώρο των κρυπτονομισμάτων.
 
-Skycoin is taking off for a simple but powerful reason: it’s a technically superior coin that re-engineers consensus to achieve true decentralization. By eliminating mining, Skycoin restores fairness to trading. It features a web-of-trust system that eliminates the corruption and network abuses that plague Bitcoin and other cryptocurrencies.
+Το SKYCOIN απογειώνεται για έναν απλό αλλά πανίσχυρο λόγο: είναι από τεχνικής απόψεως ανώτερο και αναδιαμορφώνει την κοινή αντίληψη για να επιτύχει πραγματική αποκεντρικοποίηση. Εξαλείπτωντας την εξόρυξη, το Skycoin επαναφέρει τον δίκαιο χαρακτήρα των ανταλλαγών. Το σύστημα web-of-trust εξαλείπτει την διαφθορά και τις καταχρηστικές συμπεριφορές των δικτύων που μαστίζουν το Bitcoin όπως και άλλα κρυπτονομίσματα.
 
-Skycoin is lightning-fast, with transactions that take less than 2 seconds and have no block limits. It’s 100% anonymous and highly secure, with built-in protection against all known network attacks. It has no heavy processing requirements, making it a good choice for protecting the environment. Plus, Skycoin also powers Skywire, a peer-to-peer internet that lets users browse without corporate interference or network manipulation. 
+Το Skycoin είναι ταχύτατο, με συναλλαγές που παίρνουν λιγότερο από 2 δευτερόλεπτα και δεν περιορίζεται από μέγιστη χωρητικότητα μπλοκ. Είναι 100% ανώνυμο και ασφαλέστατο, με ενσωματωμένη προστασία ενάντια σε όλες τις γνωστές επιθέσεις δικτύων. Δεν απαιτεί βαριές διεργασίες, καθιστώντας το φιλικό προς το περιβάλλον. Επιπλέον, το Skycoin τροφοδοτεί το Skywire, ένα διομότιμο διαδίκτυο που επιτρέπει στους χρήστες του να το περιηγηθούν χωρίς εταιρικές παρεμβολές ή χειραγωγήσεις δικτύων.
 
-Skycoin has been engineered to directly benefit the users. It’s about creating a better coin and a better network experience for everyone. With the listing on COIN918, the Skycoin team is excited to bring this carefully-crafted, user-oriented cryptocurrency to a wider population of users.
-
-
-## Start Trading Now
-
-You can trade Skycoin now on https://coin918.com.
-
-To learn more about Skycoin, check out https://www.skycoin.net/ and join the Skycoin community.
+Το Skycoin έχει σχεδιαστεί με σκοπό να ωφελήσει άμεσα τους χρήστες του. Το όλο εγχείρημα γίνεται για να δημιουργηθεί ένα ανώτερο νόμισμα και μια καλύτερη εμπειρία δικτύου για όλους. Με την ενσωμάτωση του στο COIN918, η ομάδα του Skycoin είναι ενθουσιασμένη που φέρνει αυτό το προσεκτικά σχεδιασμένο, προσανατολισμένο γύρω από το χρήστη κρυπτονόμισμα σε ένα ευρύτερο κοινό.
 
 
+## Για να ανταλλάξετε
+
+Μπορείτε πλέον να ανταλλάξετε Skycoin στο https://coin918.com.
+
+Για να μάθετε περισσότερα για το Skycoin, επισκεφτείτε το https://www.skycoin.net/ και γίνετε μέλος της κοινότητας του Skycoin.
