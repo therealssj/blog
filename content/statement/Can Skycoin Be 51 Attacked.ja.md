@@ -1,5 +1,5 @@
 +++
-title = "Can Skycoin be 51% Attacked?"
+title = "Skycoinは51%攻撃を受けますか？"
 tags = [
     "Statement",
     "Obelisk",
@@ -12,117 +12,100 @@ categories = [
 ]
 +++
 
-*This is an archived post from the bitcointalks thread on February 16 2015*
+*これは2015/2/16にbitcointalkでされた投稿です。*
 
-> Quote from: **iamback** on February 16, 2015, 09:28:38 AM
+> 引用:"iamback" 2015/2/16 09:28:38
 
-> A non-PoW consensus is DOA, because there isn't enough time to thresh out the
-issues and trust it before the global economy begins to collapse in 2016.
-For example, the selfish mining attack wasn't discovered (or let's say widely
-proven and recognized) until years after Satoshi published PoW. Thus, the
-serious marketplace isn't going to trust a novel non-PoW consensus.
-Instead I have designed a PoW system which resolves many of the issues
-that plague Bitcoin, including ASIC economics. Some hints are in my linked post
-above.
+> >PoWでない合意形成はDOAです。
+なぜなら世界経済が2016年に崩壊し始める前に問題を議論して解決し、それを信頼する十分な時間がないからです。
+例えば、サトシがPoWを公開した後から数年経つまで利己的なマイニング攻撃はありませんでした。(広く言えば、実証され認識されている）
+つまり、深刻な市場は新たなPoWでない合意形成を信用しないでしょう。
+その代わりに私はASIC経済を含むBitcoinが苦しんでいる問題の多くを解決するPoWシステムを設計しました。
+幾つかのヒントが私が投稿した上記リンクにあります。
 
-> Also I have some mathematical intuition that avoiding the 51% attack will
-always tradeoff security in another facet.
+> さらに私には51％攻撃を避けるためのいくつかの数学的な直感があります。
+セキュリティは常に別の側面でトレードオフになります。
 
-In Skycoin the 51% attack does not matter. The network could be 51%
-attacked twenty times a day and almost no one would care.
+Skycoinでは51%攻撃は問題ではありません。
+ネットワークは1日で20回もの51%攻撃を受け入れ、殆ど誰も気にしません。
 
-Skycoin has different mathematical properties than Bitcoin and is stricter. If
-you are trading coins back and forth between five people in a closed network,
-the 51% attack does not affect them. You need a private key of someone in the
-transaction chain to do any damage in a Skycoin 51% attack. There is no
-transaction malleability in Skycoin. Almost everyone will have exactly the same
-outputs and same balances and same transaction histories on both the original
-chain and the fork, except the attacker and people they were trading coins
-with. If there is a fork in the chain, it just copies the transactions over
-from the other chains.
+SkycoinはBitcoinとは異なる数学的性質を持ち、より厳格です。
+クローズドネットサークで5人の間でコインを行き来して取引している場合、51%攻撃は彼らに影響を与えません。
+Skycoinの51%攻撃において誰かに損益を与えたいのなら、トランザクションチェーンにいる誰かの秘密鍵が必要です。
+Skycoinにおいてはトランザクションの順応性はありません。
+攻撃者とコインを取引していた人を除くと、殆どの人は元のチェーンとフォークの両方で同じ出力、同じ残高、同じ取引履歴を持つことになります。
+チェーンの中にフォークがある場合、他のチェーンからトランザクションをただコピーします。
 
-The 51% attack is only going to affect people day trading with shady people
-and gambling sites.  It will not affect commerce transactions very much. If an
-exchange follows best security practices and keeps the user wallets
-segregated, their worst attack is pretty mild.
+51%攻撃はいかがわしい人々とのデイトレードやギャンブルサイトに影響を与えるだけです。
+それは商取引にそれほど影響を与えないだでしょう。
+もし取引所が最高のセキュリティ対策に従い、利用者のウォレットを分離していた場合は、最悪の攻撃でもとても軽度です。
 
-Bitcoin is doing 100 million dollars a day transaction volume. Total
-transaction volume in Bitcoin is about 200,000 Bitcoins. Bitcoin has
-transaction malleability, this means that if someone 51% attacks and rolls back
-transactions in the last hour, then about 4 million dollars and 10,000 Bitcoin
-in transactions balances will be screwed up. A rollback attack going back 24
-hours could be 100 million in damages and up to 200,000 Bitcoins. An attacker
-can roll back any transaction in Bitcoin.
+Bitcoinは1日につき、1億ドルもの出来高があります。
+Bitcoinの合計出来高は約20万Bitcoinになります。
+Bitcoinにはトランザクション属性があります。
+つまり、誰かが51%攻撃を受けて、過去一時間にトランザクションをロールバックするとなると、400万ドルやトランザクション残高の10,000Bitacoinがだめになります。
+24時間のロールバック攻撃は1億ドルの損失と、最大20万回のBitcoinの損失になる可能性があります。
+攻撃者はBitcoinでどのトランザクションもロールバックすることが出来ます。
 
-In Skycoin, they cannot affect or modify a transaction chain without knowing a
-private key for an address used in that chain of transactions. So if five
-banks are just trading back and forth between each other for settlement and
-they all have good wallet security, the 51% attack would not even be noticed.
-Their balances are the same. That is assuming, the 51% attack is even
-mathematically possible, that someone bothers expending the resources to
-attempt it and that it succeeds.
+Skycoinにおいては、トランザクションチェーンで使われているアドレスの秘密鍵を知らなくては、彼らはトランザクションチェーンに影響を与えたり、修正できません。
+だから、もし5つに銀行が決済のためにお互いの間を取引を行き来していて、彼らが良いウォレットのセキュリティを持っている場合、51%攻撃には気づかないでしょう。
+彼らの残高は同じです。
+51%攻撃が数学的に可能であっても、これは誰かがリソースの拡大するのを邪魔して、それが成功することを前提としています。
 
-If someone manages to 51% attack Skycoin (which may be possible, but is
-mathematically unlikely) merchants will sing and dance with great rejoicement
-because losses will be so much less than for a Visa charge back. Many
-merchants sell laptops and make less than 5% margin on each laptop. Someone
-claims they didnt get the laptop and the merchant loses $1000, does not get
-the laptop back AND has to pay Visa an $80 fee. The company has to sell 25
-laptops to make back the cost of the loss of a single fraud. If someone steals
-a credit card and buys a laptop with it, Visa does not take the loss, Visa
-pushes the loss on to the merchant.
+誰かがSkycoinを51%攻撃を試みようとするなら（可能かもしれないが、数学的には起きにくい）小売商はとても喜んで、歌い、踊るでしょう。
+なぜならビザの返金が損失よりも多いからです。
+多くの小売商はノートパソコンを売って、ノートパソコン1台につき5%以下の利益を上げています。
+誰かがノートパソコンを受け取っていなくて、100ドルの損失だとと主張しても、ノートパソコンは戻らないし、VISAに80ドル支払わなければなりません。
+会社は1つの詐欺の損失を補うために、25個のノートパソコンを売らなければなりません。
+もし誰かがクレジットカードを盗んで、それを使ってノートパソコンを買ったら、VISAは損失を被りません。VISAは損失を小売商に押し付けます。
 
-The Skycoin consensus algorithm and the ledger are separate. The consensus
-system is modular and can be swapped out. If there is a better algorithm five
-years from now, we can just swap out the consensus for the new one. The ledger
-and coin balances will be completely unchanged.
+Skycoinの合意形成アルゴリズムと台帳は分けられています。
+合意形成システムはモジュール式で、スワップアウト出来ます。
+今から5年後により良いアルゴリズムがあれば、新しいもののために、コンセンサスを交換することが出来ます。
+レジャーと通貨の残高は完全に変更されないでしょう。
 
 Skycoin:
 
-- fixes existing problems with Bitcoin
-- future-proofs Bitcoin
-- eliminates the death spiral conditions that Bitcoin has engineered in
+- Bitcoinでの既存の問題を修正
+- 未来を保証するBitcoin
+- Bitcoinが設計したデススパイラルの状態を取り除きます
 
-It is 100% true. There are severe tradeoffs. For example, faster
-consensus times for Skycoin-type relational consensus means that a smaller
-number of nodes are required to DDoS the network. However, people can react
-and remove the nodes from their trust lists.
+100%真です。
+重要なトレードオフがあります。
+例えばSkycoi型のSkycoin型のリレーショナルコンセンサスでコンサンス時間が短縮されることは、DDoSネットワークに必要なのノード数がより少なくなることを意味します。
+しかし人々は信用するリストからノードに反応したり、取り除くことが出来ます。
+問題があり、解決する必要があります。
 
-There will be issues and they will need to be worked out.
-
-## Skycoin Transaction Structure
+## Skycoinの取引構造
 
 https://github.com/skycoin/skycoin/blob/master/src/coin/transactions.go
 
-A Skycoin transaction is:
+Skycoinのトランザクションは以下の通りになります。:
 
-1) A list of output hashes, being spent
-2) A list of signatures authorizing the outputs to be spent (signature of hash
-   of inner part of transaction)
-3) A list of outputs to be created
+1) 使用されている出力ハッシュのリスト
+2) 使用されている出力が許可する署名のリスト（トランザクションの内部分のハッシュの署名）
+3) 生成された出力のリスト
 
-Coins cannot be created or destroyed. The number of coins in has to equal
-number of coins out. Transaction fees are in "coinhours".
+コインは生成も破壊もできません。
+コインの数は生成されたコインと同じ数でなければなりません。
+トランザション手数料は"coinhours"です。
 
-## Skycoin supports Coinjoin natively
+## Skycoinは元々coinjoin方式をサポートします。
+※coinjoin方式:送信履歴を外部から閲覧不可にさせたもの
 
-There is no difference between normal and coinjoin transactions.
+普通のトランザクションとcoinjoin方式のものには違いはありません
 
-- Two people choose the outputs they want to spend, the outputs they want to
-  create, send to remote server.
-- The server creates a transaction and scrambles orders of outputs in/out.
-  Then sends it to each person
-- Each person sends the signatures for their outputs to the server
-- The coinjoin server injects the transaction into the network
+- 使用したい出力を2人の人が選び、出力は彼らが生成し、リモートサーバーへ送信します
+- サーバーはトランザクションを生成し、出力の順番をぐちゃぐちゃにします。
+その後各人にトランザクションを送ります。
+- 各人は出力のための署名をサーバーに送ります。
+- coinjoin方式のサーバーはトランザクションをネットワークに入れ込みます。
+- coinjoin方式のサーバーではコインを盗むことが出来ません。
+- coinjooin方式のサーバーだけが人が関わったかを知ることが出来ます。(1,2,4人?)
+- coinjooin方式のサーバーだけ誰がどの出力に関わったかを知っています。
+- 普通のトランザクションとコインジョインのものには違いはありません。(全く同様に見えます）
 
-- The coinjoin server cannot steal the coins
-- Only the coinjoin server knows how many people are involved (1, 2, 4?)
-- Only the coinjoin server knows which outptus belong to who
-- There is no difference between coinjoin and normal transactions (they look
-  exactly the same)
+i番目のスロットにある署名はi番目の出力を持つアドレスのためにあります。
+トランザクションの内部ハッシュは出力のハッシュを使用してハッシュされ、その後出力を持つ秘密鍵で署名されます。
 
-The signature in the `i`th slot is for the address owning the `i`th output. The
-inner hash of the transaction is hashed with hash of output being spent, then
-this is signed with the private key owning the output.
-
-So it is very simple compared to other coinjoin systems.
+だから他のcoinjoin方式のシステムに比べて非常に簡単です。
