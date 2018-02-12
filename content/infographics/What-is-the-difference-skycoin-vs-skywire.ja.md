@@ -1,5 +1,5 @@
 +++
-title = "Skycoin Digest: Skycoin vs Skywire [INFOGRAPHIC]"
+title = "Skycoinダイジェスト: Skycoin対Skywire [インフォグラフィック]"
 tags = [
     "Skycoin Digest",
     "Infographics",
@@ -12,16 +12,20 @@ categories = [
 image = "img/What-is-the-difference-skycoin-vs-skywire.jpg"
 +++
 
+## SkycoinとSkywireの違いは何でしょうか。
 
-## What’s the difference between Skycoin and Skywire?
+### Skycoinは暗号通貨です。
+> SkycoinはBitcoinでは解決できない問題に対処するために開発されました。
+マイナーを必要としないObeliskと呼ばれる、革命的な合意形成アルゴリズムを作りました。
 
-### Skycoin is the cryptocurrency.
-> It was developed to address problems that Bitcoin could not solve. We created a revolutionary consensus algorithm called Obelisk that eliminates mining.
+### Skywireはメッシュネットワークです。
+> Skywireはインターネットそれ自体にある問題を対処するために開発されました。
+SkywireはSkycoinから独立して管理できます。世界規模のメッシュネットワークの最初の試みではないが、最初に成功することになるでしょう。
+似たようなネットワークを作る試みは何度かされてきましたが、ボランティアで運営されていたためどこも上手く行きませんでした。
+SkywireとSkycoinが統合することによって、大規模なISPの代わりに、インターネットを実行することで個人はお金を得ることで参加するための利点があります。
+これはインターネットインフラを分散化するために、唯一の継続的な方法です。
 
-### Skywire is the mesh network.
+Skywireを使うことは無料ですが、利用者は優待サービスや高い帯域幅のためにノードを支払うことが出来ます。これはSkycoinの長期的需要を提供しています。
 
-> Skywire was developed to address problems with the internet itself. Skywire can operate independently from Skycoin. It’s not the first attempt at a global mesh network, but it will be the first to succeed. There have been several attempts at building similar networks, but none have flourished because they have only been run by volunteers. By integrating Skycoin with Skywire, individuals are incentivized to participate by earning money for running the internet, instead of a large ISPs. This is the only sustainable path for democratizing the internet infrastructure.
-
-Using Skywire is FREE, but users can pay nodes for priority service and higher bandwidth. This provides long term demand for Skycoin.
-
-The Skycoin blockchain and the Skywire network could exist independently from one another but together they create ecosystem that will change the world. Skywire provides a utility purpose for Skycoin, and Skycoin provides a financial incentive to expand Skywire.
+SkycoinブロックチェーンとSkywireネットワークは互いに独立して存在していますが、世界を変えるエコシステムを一緒に作っています。
+SkywireはSkycoinのための利用目的を提供し、SkycoinはSkywireを拡張するための奨励金を提供しています。
