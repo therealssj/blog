@@ -1,5 +1,5 @@
 +++
-title = "Skycoin文摘：Skycoin的五大支柱"
+title = "Skycoin文摘：Skycoin的五大支柱[信息图]"
 tags = [
     "Skycoin Digest",
     "Infographics",
