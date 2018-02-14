@@ -1,5 +1,5 @@
 +++
-title = "Skycoin Digest: What do you think of Bitcoin? [INFOGRAPHIC]"
+title = "Riassunto Skycoin: Cosa ne pensi di Bitcoin? [INFOGRAFICA]"
 tags = [
     "Skycoin Digest",
     "Infographics",
@@ -12,20 +12,20 @@ categories = [
 image = "img/What-do-you-think-about-Bitcoin.jpg"
 +++
 
-## Bitcoin was Amazing
+## Bitcoin era fantastico
 
-We all love Satoshi but what Bitcoin has become is not what he intended. Time and growth have highlighted the limitations of Bitcoin and there is no easy fix.
+Tutti noi amiamo Satoshi, ma ciò che Bitcoin è diventato non è ciò che intendeva. Il tempo e la crescita hanno evidenziato i limiti del Bitcoin e non c'è una soluzione facile.
 
-  * Bitcoin is NOT decentralized. Three mining pools control all of Bitcoin.
-  * Transaction speeds can take hours or even days.
-  * Due to centralization, Bitcoin is highly vulnerable to a 51% attack.
-  * $40 transaction fees and climbing!
-  * Nodes can be arbitrarily taken over.
+   * Bitcoin NON è decentralizzato. Tre pool di mining controllano tutti i Bitcoin.
+   * Le velocità di transazione possono richiedere ore o addirittura giorni.
+   * A causa della centralizzazione, Bitcoin è altamente vulnerabile ad un attacco del 51%.
+   * $ 40 commissioni di transazione in aumento!
+   * I nodi possono essere arbitrariamente presi d'assalto.
 
-## Skycoin is Better
+## Skycoin è meglio
 
-  * We acheive true decentralization with</br>
-   __Obelisk__ - our revolutionary consensus algorithm.
-  * Transaction speeds are faster than Visa.
-  * No block reward, but also no transaction fees.
-  * It's easy to audit and identify malicious nodes.
+* Realizziamo il vero decentramento con </ br>
+    __Obelisk__ - il nostro algoritmo di consenso rivoluzionario.
+   * La velocità di transazione è più veloci di una Visa.
+   * Nessuna ricompensa per blocco minato, ma nanche nessuna commissione di transazione.
+   * È facile controllare e identificare i nodi dannosi.
