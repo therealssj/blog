@@ -26,6 +26,6 @@ Tutti noi amiamo Satoshi, ma ciò che Bitcoin è diventato non è ciò che inten
 
 * Realizziamo il vero decentramento con </ br>
     __Obelisk__ - il nostro algoritmo di consenso rivoluzionario.
-   * La velocità di transazione è più veloci di una Visa.
+   * La velocità di transazione è maggiore di una Visa.
    * Nessuna ricompensa per blocco minato, ma nanche nessuna commissione di transazione.
    * È facile controllare e identificare i nodi dannosi.
