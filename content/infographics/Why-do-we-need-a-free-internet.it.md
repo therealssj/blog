@@ -22,7 +22,7 @@ image = "img/Why-do-we-need-a-free-internet.jpg"
 
 ### 2.) Privacy
 
-I governi e le corporazioni tracciano e censurano tutto ciò che facciamo online. Che si tratti di sporcarsi su un avversario politico o di venderti la prossima nuova statuetta di Batman ... È sbagliato. La tua identità online NON ti appartiene nell'internet di oggi.
+I governi e le corporazioni tracciano e censurano tutto ciò che facciamo online. Che si tratti di infamare un avversario politico o di venderti la prossima nuova statuetta di Batman ... È sbagliato. La tua identità online NON ti appartiene nell'internet di oggi.
 
 ### 3.) Accesso
 
