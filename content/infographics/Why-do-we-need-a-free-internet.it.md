@@ -18,7 +18,7 @@ image = "img/Why-do-we-need-a-free-internet.jpg"
 
 ### 1.) Libertà
 
- In tutto il mondo i governi negano e limitano ai loro cittadini l'accesso ad Internet e la censura di chi è contrario. Hanno dimenticato chi servono.
+ In tutto il mondo i governi negano o limitano ai loro cittadini l'accesso ad Internet e la censura di chi è contrario. Hanno dimenticato chi servono.
 
 ### 2.) Privacy
 
