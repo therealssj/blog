@@ -14,7 +14,7 @@ image = "img/Skycoin-Cryptocurrency-Values.jpg"
 
 ## Ecco cosa cerchiamo di fare ...
 
-   * Popolarizzazione del decentramento risolvendo problemi che Bitcoin non può risolvere.
+   * Rendere popolare il decentramento risolvendo problemi che Bitcoin non può risolvere.
    * Le nostre funzionalità principali sono: velocità, privacy, sicurezza e l'ecosistema.
    * Sicurezza (prova contro l'attacco del 51%).
    * Decentralizzazione - Nessun minatore che detiene la rete in ostaggio, nessuna inflazione.
