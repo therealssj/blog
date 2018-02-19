@@ -20,7 +20,7 @@ image = "img/What-is-the-difference-skycoin-vs-skywire.jpg"
 
 ### Skywire è la rete mesh.
 
-> Skywire è stata sviluppata per risolvere i problemi con Internet stesso. Skywire può operare indipendentemente da Skycoin. Non è il primo tentativo di una rete mesh globale, ma sarà il primo a riuscirci. Ci sono stati diversi tentativi di costruire reti simili, ma nessuno ha avuto successo perché sono stati gestiti solo da volontari. Integrando Skycoin con Skywire, le persone sono incentivate a partecipare guadagnando denaro per la gestione di Internet, invece di un grande ISP. Questo è l'unico percorso sostenibile per la democratizzazione dell'infrastruttura internet.
+> Skywire è stata sviluppata per risolvere i problemi con Internet stesso. Skywire può operare indipendentemente da Skycoin. Non è il primo tentativo di una rete mesh globale, ma sarà il primo a riuscirci. Ci sono stati diversi tentativi nel costruire reti simili, ma nessuno ha avuto successo perché sono stati gestiti solo da volontari. Integrando Skycoin con Skywire, le persone sono incentivate a partecipare guadagnando denaro per la gestione di Internet, invece di un grande ISP. Questo è l'unico percorso sostenibile per la democratizzazione dell'infrastruttura internet.
 
 L'utilizzo di Skywire è GRATUITO, ma gli utenti possono pagare i nodi per il servizio prioritario e una maggiore larghezza di banda. Ciò fornisce una domanda a lungo termine per Skycoin.
 
