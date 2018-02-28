@@ -6,8 +6,8 @@ Skywireは[メッシュネットワーク](https://ja.wikipedia.org/wiki/%E3%83%
 まずSkycoinが初めにつくられました。
 これはそれ自体で独立しています。
 Bitcoinのもつ問題を解決するためにつくられました。
-Bitcoinの最大の問題は、ビットコインの中央集権化を引き起こすminingです。
-Bitcoinが暗号やソフトウェアのバグに主に関係していたといったそのほかの問題も、[トランザクション展性](https://en.bitcoin.it/wiki/Transaction_Malleability)などの問題を引き起こしました。
+Bitcoinの最大の問題は、ビットコインの中央集権化を引き起こすマイニングです。
+その他のBitcoinが抱えていた問題は、ほぼソフトウェアのバグや暗号化部分であり、[トランザクション展性](https://en.bitcoin.it/wiki/Transaction_Malleability)などの問題を引き起こしました。
 
 Skycoinは[Obelisk](https://www.skycoin.net/whitepapers)と呼ばれる新しい合意形成アルゴリズムを開発しました。
 このアルゴリズムは、マイニング（または[Proof-of-Stake](https://ja.wikipedia.org/wiki/%E3%83%97%E3%83%AB%E3%83%BC%E3%83%95%E3%83%BB%E3%82%AA%E3%83%96%E3%83%BB%E3%82%B9%E3%83%86%E3%83%BC%E3%82%AF)のような他の代替手段）を排除します。
