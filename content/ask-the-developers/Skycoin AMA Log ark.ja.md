@@ -12,149 +12,148 @@ bounty = 12
 description = "Log of AMA with Skycoin held at ark.io/slack/ (from 2017-07-02)"
 +++
 
-*originally held July 2, 2017 in the [ark.io slack](https://ark.io/slack/)*
+*この対談は2017年2月に[ark.io slack](https://ark.io/slack/)で行われたものです*
 
-*synth is the skycoin representative in this AMA*
+*synth氏は今回のAMAにSkycoinからの代表として参加しました*
 
 **boldninja**
-Let's all give a warm welcome to @synth from SkyCoin.net and for taking the time to do this AMA
+Skycoin.netのsynthさん、ようこそいらっしゃいました。本日のAMAのためにお時間をいただき、ありがとうございます。
 
 **synth**
-*hello
+*どうも、こんにちは。
 
 **mike**
-Hi Synth
+こんにちは、synthさん。
 
 **jakethepanda**
-Hey @synth
+やあ、synthさん。
 
 **thrice.pi**
-Hey synth
+どうも、synthさん。
 
 **dr10**
-Hi
+こんにちは。
 
 **boldninja**
-I think we can start - you guys know the drill. Give him some time to respond (no more than 2-3 questions on backlog so he can catch up)
+さて、いつもどおりにはじめましょうか。1度にする質問は２〜３個までにとどめるようにしてください。
 
 **dr10**
-How would you - shortly & in easy words - sum-up the advantages of SkyCoin to magazines and non-crypto people?
+短く、簡単な言葉でSkycoinの良いところを説明してくれますか？例えば、雑誌や暗号通貨に詳しくない人を相手に想定して。
 
 **mgaruccio**
-Can you explain a bit about the mesh net? Is it just an mpls network between nodes or is there something deeper going on?
+メッシュネットについて説明をお願いします。単なるノード間のMPLSネットワークですか？それとも何か大きな構想があるのでしょうか？ 
 
 **michaelthecryptoguy**
-Whassup @synth
+やあやあ、synthさん。
 
 **tranzer**
-hi synth. I have a question - are those coins that are not in circulation in any cold wallets since only a portion is currently available according to CMC? What would you say is the 1 unique feature that Skycoin has?
+synthさん、質問があります。流通していないコインは、コールドウォレットに保管してあるのでしょうか？coinmarketcap.comによると、全供給量の部分的にしか現在は流通していないことになっています。あと、Skycoinが持つ、特にユニークな機能はなんでしょうか？
 
 **synth**
-It is very difficult, because Skycoin is a very large project and already has +6 years of development. Different parts of the project have different objectives.
-The cryto, coin part is about solving the problems with the existing consensus algorithms. Being able to do +300 transactions a second, transactions in seconds instead of minutes (faster than credit cards), eliminating miners, eliminating block rewards (eliminating inflation) and eliminating 51% attack and the other problems with mining.
-then there are other repos and experimental projects under https://github.com/skycoin such as a meshnet and distributed VPN prototype, where people will be paid coins for forwarding traffic. Also prototypes of distributed social media application, with peer to peer data replication and different experimental projects. Research into immutable data structures for next generation internet. Some of them are very radical.
+Skycoinを説明するのは難しいですね。なにせ６年間も開発が続けられてきた大きなプロジェクトですから、各部分がそれぞれの目的を持っています。 
+暗号通貨、コインの部分は、既に存在している合意形成アルゴリズムの問題を解決するために作られました。１秒あたりに300という送金の処理速度を誇ります。分単位ではなく、秒単位の話です。マイナーの役割をなくし、インフレ防止のためにブロック報酬をなくし、51%攻撃や他のマイニングに関する問題を解決しています。 
+そして、他にも多数のプロジェクトや実験段階のアイデアがあります (https://github.com/skycoin)。メッシュネットと分散化されたVPNのプロトタイプがあり、ネットワーク参加者はトラフィックを転送することで報酬を得られます。また、分散化されたソーシャルメディアのアプリケーション、P2Pのデータ複製・保管のためのアプリ、その他の実験的なプロジェクトがあります。変更不可なデータ構造に関するリサーつを重ね、次世代のインターネットの構想を実現化しています。このいくつかは革命的なプロジェクトだと思っています。
 
 **dr10**
-How does the Network consensus algorithm Obelisk work and differ from widely known algorithms like Proof of Work and Proof of Stake?
+ネットワーク合意形成アルゴリズムの「Obelisk」はどのような仕組みで、よく知られている他のアルゴリズム（Proof of Work, Proof of Stake）とはどう違うのですか？
 
 **mgaruccio**
-So how much exists today? Could I build an app on the platform if I wanted to?
+実際にどのくらい実用化されていますか?例えば、現時点でSkycoinのブロックチェーン上にアプリを作ることはできますか?
 
 **mike**
-In terms of the rate of progress, what is currently your greatest limiting factor - like funding, manpower, currently available technology?
+進捗状況に関して、プロジェクト発展の最大の障壁になっている要因はなんでしょうか？例えば、資金、人手、技術的な限界点などですか？ 
 
 **synth**
 
-> Can you explain a bit about the mesh net? Is it just an mpls network between nodes or is there something deeper going on?
+> メッシュネットについて説明をお願いします。単なるノード間のMPLSネットワークですか？それとも何か大きな構想があるのでしょうか？ 
 
-It is not actually a meshnet. It is software defined networking, it is much more powerful than just meshnet. Its a new type of networking and new completely new protocol and networking namespace, independent of the existing internet.
-It supports source routing, while the existing internet does hot potato routing, so never achieves optimal latencies.
-It supports multi-homing, which IPv6 does not (Which is critical for when we have gigabit or terabit networking and multi-redundant bandwidth paths)
-It has default oppurunistic crypto, both link layer and end to end; so everything is encrypted by default, unlike the current internet.
-It has store and forward networking and will operate in Africa or even under conditions where latencies are in the minutes or hours and packet loss is excessive. Where existing protocols cannot operate reliability. It is much more robust than IPv4/IPv6 or TCP/ip
-It has improved privacy. If a packet takes a route that is 10 hops, each hop only knows the previous node in the route and the next node in the route. It is not like IPv4 where each packet gives the source and destination. The privacy level is something that does not exist on the current internet.
-IP addresses are replaced by public key and no one can read traffic to a destination, without knowing the private key of the public key that identifies the destination. The system does not need 3rd parties or certificate authorities. The design is a revolution.
+これは単なるメッシュネットのプロジェクトではなく、強力なソフトウェア・ディファインド・ネットワーキングです。全く新しいプロトコルとネームスペースを用いた次世代のネットワーキングのプロジェクトになり、既存のインターネットに頼ることなく成り立つものです。
+インターネットがホットポテト・ルーティングを使用している一方、私たちはソース・ルーティングを用いるので、最適化されたレイテンシーが実現されます。
+IPv6では不可能な、マルチホーミングにも対応しています。ギガバイトやテラバイトのネットワーキングとマルチ冗長化された帯域幅のパスを確保するのに欠かせない要素です。 
+リンク層とE2Eの両方で日和見暗号化がデフォルトとなっています。既存のインターネット異なり、全ての通信はデフォルトで暗号化されています。 
+ストアアンドフォワード・ネットワーキングになりますので、レイテンシーが分や時間単位、そしてパケットの損失が大きいアフリカのような地域でも、問題なく動作します。既存のプロトコルでは動作しないような環境でも、私たちのネットワークには影響なしでしょう。IPv4/IPv6やTCP/ipより、さらに安定した確固なネットワークとなります。
+プライバシーの問題にも取り組んでいます。パケットが１０の中継地点を通って転送されるとしたら、それぞれの中継地点は直前と直後のノードの情報しか得られません。IPv4のように各パケットが出発と到着地点の情報を持つようなことはありません。このプライバシーのレベルは、現在のインターネットでは不可能です。
+IPアドレスは公開鍵に置き換えられ、目的地へのトラフィックは誰にもわからなくなります。それを知るのは、目的地を定めるための公開鍵の秘密鍵を持つ者のみです。このシステムは第三者や認証のための組織を必要としません。革命的なデザインといえるでしょう。
 
-> are those coins that are not in circulation in any cold wallets since only a portion is currently available according to CMC?
+> 流通していないコインは、コールドウォレットに保管してあるのでしょうか？coinmarketcap.comによると、全供給量の部分的にしか現在は流通していないことになっています。
 
-The coins are locked into 100 addresses, each with 1 million coins each. And they are released sequentially.
-There is a complicated locking procedure and releasing new coins requires unamious consent and a shared secret among a group of developers. Anyone in the shared secret group can block distribution of more coins (to stop the problem that killed NXT). So by design the coins were supposed to be difficult to distribut, there had to be a good reason or justification before a distribution would be approved.
+100の異なるアドレスに、１００万個のコインがそれぞれ保管されています。定期的にロックアップが解かれ、段階的に流通量が増えることになっています。
+複雑なロックアップと解除の手順があり、これにはデベロッパー全員からのコンセンサスが必要になります。 このグループにいるデベロッパーなら誰でもが、流通量の増加を止める権限を持っています(暗号通貨のNXTはこの対策に失敗しました)。元々の設計により、コインの流通量を増やすのは難しくなっており、決定には事前承認された正当な理由が求められます。
 
 **mike**
-What are the hardware requirements to operate a wireless Skywire (the name for the protocol described above) Node?
+ワイヤレスのSkywire(上記のプロトコルの名前)のノードとなるためには、どのようなハードウェアが必要ですか？
 
 **arc-over-water**
-nxt i think is doing ok..
+nxtは問題なくやっていると私は思いますが。
 
 **synth**
 
-> How does the Network consensus algorithm Obelisk work and differ from widely known algorithms like Proof of Work and Proof of Stake?
+> ネットワーク合意形成アルゴリズムの「Obelisk」はどのような仕組みで、よく知られている他のアルゴリズム（Proof of Work, Proof of Stake）とはどう違うのですか？
 
-PoS and PoW use miners. Miners receive new coins every block as a block reward. So miners are making money and will fight to control the network. An everyone will suffer because the newly created coins represent inflation.
-Skycoin was designed to eliminate mining and eliminate the inflation. No block rewards, no new coins. And we needed to develop a new consensus algorithm to do that and there are only a few methods that work, for these constraints. The consensus algorithm is based upon Ben-Or's randomization procedure for achieving consensus in a distributed system, with some improvements for detecting adversarial or malicious nodes who are trying to prevent the consensus process.
-There are white papers on skycoin.net about the specifics. I would call it "network consensus" and it uses a sort of Web of Trust (WoT), where if the people creating blocks are doing a bad job or attacking the network, then the community can get rid of them. At the same time, the people who control the network, do not have any real power to attack the network except by slowing down transactions and being annoying, so even if they become malicious the only issue is how to get rid of them and select new people.
+PoSとPoWにはマイナーが必要であり、ブロック生成の報酬にマイナーは新しいコインを受取ります。マイナーはたくさんのお金を得ており、自分たちの利益となるようにネットワークを操作しようとするでしょう。新たなコインが生まれるたびにインフレが悪化し、コインのユーザーが被害を被るのです。
+Skycoinはマイニングとインフレの問題を解決するように設計されました。ブロック報酬はなく、新たなコインも生まれません。このためには新たな合意形成アルゴリズムが必要で、制約をクリアするには限られた方法しかありませんでした。Michael Ben-Orが考案した、分散化されたシステムで合意形成をとるためのランダム化の手順を改良し、合意形成を邪魔する悪意あるノードを検知する仕組みを加え、「Obelisk」が完成しました。
+skycoin.netに詳細が記されたホワイトペーパーがあります。これは「ネットワークコンセンサス」 と呼ばれるべきものです。信頼の環の仕組みを用いて、ブロック生成をする人びとが悪意ある行動をしたときに、その人をネットワークから追放できる仕組みを作りました。同時に、ネットワークをコントロールする人びとも、ネットワークを攻撃する力はありません。できることといえば、処理速度を遅くして邪魔をするくらいなので、悪意ある行動をするノードは追放され、新たな参加者に置き換えられるだけです。
 
 **mike**
-Any idea when Skywire will be released and ready to test on hardware nodes (testnet or mainnet)?
+Skywireが公開され、ハードウェア上のノードとして機能するのはいつですか (テストネットとメインネットの公開予定日)?
 
 **mgaruccio**
-So if there is no block reward what is the incentive to run a node?
+もしブロック報酬がないとすれば、ノードになるインセンティブは何なのでしょうか？
 
 **vega**
-What will be the actual function of Skycoin (the coin itself)? Will the coin be used as currency, as transfer of value in and between all these various developing functionalities, semi-separate projects to tie them all together or it's function will be more limited?
+Skycoinの実際の機能はなんですか?説明されていた様々なプロジェクトを統合して、価値を保存、交換するために使われるのですか?それとも、もう少し限定的な機能ですか？
 
 **michaelthecryptoguy**
-Do you have an idea on the specs of a node that would be required? In the beginning? What about with 10,000 users? (edited)
+ノードとなるためのハードウェアのスペックはなんですか?初期段階においては?ユーザー数が10000人の段階では?
 
 **synth**
 
-> nxt i think is doing ok..
+> nxtは問題なくやっていると私は思いますが。
 
-There were three people that each owned 30% of the coin. One decided he wanted out and began dumping. NXT was over 150 million I think. When he started dumping, it basicly killed NXT.
-Skycoin's distribution was designed to stop dumping by the founders and early people.
-After Skycoin gets to 30% of the total coins distributed, there will probably a hard time lock on the remaining coins, so that a maximum of 5% of the remaining coins can be released per year. So the distribution for the other 70% of the coins will take a minimum of 14 years (and could be longer).
-We cannot even sell the rest of the coins, because if we sold 10% of the total now at $5 per coin, it would be 50 million or something and we cannot spend or even use that amount of money. Not at this stage.
-Ethereum spent 30 million or 70 million in their first year or two after the ICO and then nearly went bankrupt. Silicon Valley wages and offices etc. We have been very conservative and have kept costs down and kept them responsible. Now we have coins like EOS and they want to raise a billion dollars and have not produced anything yet, do not hav a blockchain and I have no idea what they would spend that money on, but they are throwing $350,000 parties in time square for marketing/PR etc...
+nxtでは3人の人間がそれぞれ供給量の30%のコインを所有していました。このうちの１人がプロジェクトを途中で脱退することを決め、コインを投げ売りしました。NXTは当時1億５千万ドルを超える市場規模でしたが、彼が投げ売りをはじめたせいで、NXTの価格は地に落ちました。 
+創始者や早期の参加者が投げ売りをするのを防ぐように、Skycoinの分配計画が作られています。
+Skycoinの流通量が供給量の30%になったとき、 残りのコインには計画的なロックアップがされる予定です。毎年最大で5%のコインが解除、分配されることになります。つまり、残りの70% が分配されるまでに最短で14年かかることになります。
+残りのコインを今売ることはできません。なぜなら、全体の10%を5ドルの価格で売ると、５千万ドルの資金が手に入ることになり、現時点の私たちにその資金は必要ありません。現段階においては使い道のないお金です。 
+Ethereumは3千万ドルから7千万ドルの資金を最初の数年に使い切り、危うく破産するところでした。シリコンバレー並の給料を支払い、綺麗なオフィスを借りたり、といったような使い道です。Skycoinでは保守的な資金の使い方をしており、これまでコストの削減を意識してきました。現在の市場においては、何もプロダクトを発表していない状態で１00億ドルもの資金を調達しようとするEOSのようなプロジェクトもあります。彼らが何にお金を使う予定なのかまるで不明です。マーケティングとPRを目的としたパーティーをタイムズ・スクエアで開催するために350,000ドルものお金を浪費しているという話を聞きました。 
 
 **arc-over-water**
-what prevents you from selling? anybody can spend that amount of money?
-nxt is a newer platform than sky, market value is $220 million plus $166 million, I get what you are saying but the evidence is wrong. Community is huge and active in Nxt. But you say it is killed, i dont get it?
+なぜさっさとコインを売ってしまわないのですか?5千万ドルくらいだったら小さい資金額でしょう?
+nxtはskyよりも新しいプラットフォームですが、 nxtの時価総額は2億2千万ドルでskyは1億6千万ドルです。あなたの言い分は理解できますが、証拠がないでしょう。nxtのコミュニティは非常に大きく、活動的です。全く崩壊などしていないと思いますが、どうでしょうか？
 
 **synth**
 
-> What will be the actual function of Skycoin (the coin itself)? Will the coin be used as currency, as transfer of value in and between all these various developing functionalities, semi-separate projects to tie them all together or it's function will be more limited?
+> Skycoinの実際の機能はなんですか?説明されていた様々なプロジェクトを統合して、価値を保存、交換するために使われるのですか?それとも、もう少し限定的な機能ですか？
 
-Yes. Bitcoin has no purpose. An altcoin does two things - check your balance - send money to other people
-Two features - check balance - send
-For a coin to have value, people need to be forced to buy it to consume specific services. There has to be stuff for people to spend the coin on, that there is demand for.
-So Bitcoin is really just a purely speculative asset. It generates no cashflow and its value is determined by perception or social convention.
-Ideally, Skycoin would start off as a "better Bitcoin" (faster, more secure, new algorithm, simplier, etc), then over time we would build up an ecosystem and have some type of backing and tie the coin's value into the network and usebase.
-The mesh netork (skywire) is good, because it gives something for people to do to get coins and it allows people to consume the coins. You can run your internet traffic through a VPN that tunnels over Skywire and maybe it will be a nominal amount (actually absurdly small amount of money), but there would be real economic activity and a real userbase and community using the coin. Not just speculation.
-Later on the scope is much wider.
+前者になります。Bitcoinには特に使用価値はありませんでした。アルトコインには２つの機能があります。残高を確認して、他の人にお金を送ること。
+コインが価値を持つためには、特定のサービスを利用するために購入される必要があります。実際にコインが使われ、需要が生まれるための価値の源泉がないといけません。
+こうして考えると、Bitcoinは完全に投機的な資産です。キャッシュフローはなく、人びとの主観や社会の常識が価値を決めます。
+アイデアとしてのSkycoinは「Bitcoinの改良版」としてスタートしました。より速く、安全で、シンプルに、新たなアルゴリズムで。しかし、時間が経つと共に、私たちは1つのエコシステムを作り上げるに至りました。そこにはコインの価値の裏付けとなる使用価値とネットワーク価値が生まれます。
+例えば、メッシュネット (skywire) は良い例です。ユーザーは使用するためにコインを手に入れる必要があり、サービスの利用でコインが消費されます。Skywire上のVPNを通してインターネットを利用するとして、おそらく使用料金は驚くほど安いものになりますが、それでも実際の経済活動が生まれていることに意味があります。使用価値に裏付けされたコインと、それを使うコミュニティがあるからです。 そこに投機家はいません。
+開発後期になってくれば、プロジェクトの射程はさらに広くなるでしょう。
 
 **arc-over-water**
-So the skycoin wallet will be a VPN for our internet usage?
+インターネットの使用時に、SkycoinのウォレットがVPNとして使えるということですか?
 
 **synth**
 
-> nxt is a newer platform than sky, market value is $220 million plus $166 million, I get what you are saying but the evidence is wrong. Community is huge and active in Nxt. But you say it is killed, i dont get it?
+> nxtはskyよりも新しいプラットフォームですが、 nxtの時価総額は2億2千万ドルでskyは1億6千万ドルです。あなたの言い分は理解できますが、証拠がないでしょう。nxtのコミュニティは非常に大きく、活動的です。全く崩壊などしていないと思いますが、どうでしょうか？
 
-What I am saying, is that NXT would be a lot further along than it is now and probably around where Ethereum is, except for that mistake in the distribution and keeping it too concentrated. It set them back by years. They did not consider what the impact on the price would be, over the long term, when one of the early whales started selling off or decided he wanted out.
+あの出来事がなければNXTは今よりも進んだ状態に発展していたでしょう。Ethereumと比較しても劣らない地点にいたかもしれない。あの分配計画のミスと価格崩壊のせいで、数年の遅れが出たと言っても過言ではない。長期的に見て、大量保有者が価格に与え得る影響を甘く見ていたのです。 
 
 **arc-over-water**
-But they did the same again with IOTA, same lead dev.. Its over a $Billion
-they released and let the market price distribute
+IOTAでも同じようなことがありましたね。リードのデベロッパーで、あれは１００億ドル近くでしたか。
+コインを完全に分配し、市場に価格を決定させていました。
 
 **synth**
 
-> So the skycoin wallet will be a VPN for our internet usage?
+> インターネットの使用時に、SkycoinのウォレットがVPNとして使えるということですか?
 
-The VPN is just one application, that uses bandwidth over Skywire. There are several things in development.
-This is a BBS like 4chan, that is completely distributed, with CXO. https://github.com/skycoin/bbs
-It will run over Skywire also, This is like building a whole new internet from scratch. The apps that run on it are going to specialized and privacy focused, etc GitHub skycoin/bbs Contribute to bbs development by creating an account on GitHub.
+Skywireを経由して帯域幅を使うアプリケーションの1つがVPNです。他にもいくつかのプロジェクトが進められています。
+例えば、4chanをモデルとして、CXOによって分散化されたBBSがあります。 https://github.com/skycoin/bbs
+Skywire上で機能する、新たなインターネットを私たちは作っているのです。開発されるアプリはプライバシーを重点に置いた、専門的なものです。GitHub上のskycoin/bbsを見てください。BBSの開発に興味がある方は是非協力ください。 
 
 **mike**
-So Skycoin is a Proof of Resource coin where its value is actually backed by provision of a useful service, in this case private and secure networking? Are there plans to add decentralized storage and even distributed processing to it?
+Skycoinの価値はProof of Resource、つまり、何かしらのサービスに裏付けされているんですね。この場合はプライバシー保護がされた、安全なネットワークということでしょうか？分散化ストレージ、分散化されたコンピュータ処理能力の提供などのサービスを展開していく予定はありますか？
 
 **arc-over-water**
 so these 100 separate million coin accounts will be 100 ICOs or how is the distribution patterned? is it written into the code or up to the devs?
