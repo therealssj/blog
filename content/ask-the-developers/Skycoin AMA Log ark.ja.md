@@ -12,15 +12,15 @@ bounty = 12
 description = "Log of AMA with Skycoin held at ark.io/slack/ (from 2017-07-02)"
 +++
 
-*この対談は2017年2月に[ark.io slack](https://ark.io/slack/)で行われたものです*
+*この対談は2017年2月に[ark.io slack](https://ark.io/slack/)で行われたものです。*
 
-*synth氏は今回のAMAにSkycoinからの代表として参加しました*
+*synth氏は今回のAMAにSkycoinからの代表として参加しました。*
 
 **boldninja**
 Skycoin.netのsynthさん、ようこそいらっしゃいました。本日のAMAのためにお時間をいただき、ありがとうございます。
 
 **synth**
-*どうも、こんにちは。
+どうも、こんにちは。
 
 **mike**
 こんにちは、synthさん。
