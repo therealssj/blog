@@ -14,7 +14,7 @@ description = "Log of AMA with Skycoin held at ark.io/slack/ (from 2017-07-02)"
 
 *この対談は2017年2月に[ark.io slack](https://ark.io/slack/)で行われたものです。*
 
-*synth氏は今回のAMAにSkycoinからの代表として参加しました。*
+*synth氏はSkycoinの代表としてAMAに参加しました。*
 
 **boldninja**
 Skycoin.netのsynthさん、ようこそ。本日はAMAのお時間をいただき、ありがとうございます。
@@ -156,19 +156,20 @@ Skywire上で機能する、新たなインターネットを私たちは作っ�
 Skycoinの価値はProof of Resource、つまり、何かしらのサービスに裏付けされているんですね。この場合はプライバシー保護がされた、安全なネットワークということでしょうか？分散化ストレージ、分散化されたコンピュータ処理能力の提供などのサービスを展開していく予定はありますか？
 
 **arc-over-water**
-so these 100 separate million coin accounts will be 100 ICOs or how is the distribution patterned? is it written into the code or up to the devs?
+さっき言っていた100万個のコインが保管してある100個のアカウントから、どのようにコインを分配していくのですか？100回のICOをやるのか、それとも既に配分プランがコーディングされているのか、デベロッパー次第で決められるのか。どれでしょうか？
 
 **rockyj**
-!calculate
+それは計算すればわかりますよ！
 
 **slackbot Custom Response**
 https://docs.google.com/spreadsheets/d/1FGo3FkC3uSWXGHatPQyny2brMWjAIJsHFCR-Lhkl_m0/edit#gid=0
 
 **synth**
 
-> So if there is no block reward what is the incentive to run a node?
+> もしブロック報酬がないとすれば、ノードになるインセンティブは何なのでしょうか？
 
-running a consensus node does not cost anything. You can run it on a raspberry pi.
+合意形成のためのrunning a consensus node does not cost anything. You can run it on a raspberry pi.
+合意形成running a consensus node does not cost anything. You can run it on a raspberry pi.
 The important thing is that if the people doing consensus are doing a bad job, that the community can get rid of them and replace them. The other important thing, is that they can be audited and determined automatically if they are obeying the protocol.
 the miners in skycoin are not very powerful and cannot do anything except slow down transactions. They are unable to spend other people's money without their private keys, so the consensus/mining nodes are almost irrelevent. It is not like Bitcoin where the miners can hold the network hostage or act selfishly (driving up the transactions fees for their own personal benefit and delaying any innovations that would improve bitcoin for everyone, etc).
 
