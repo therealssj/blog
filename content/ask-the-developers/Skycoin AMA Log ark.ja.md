@@ -17,7 +17,7 @@ description = "Log of AMA with Skycoin held at ark.io/slack/ (from 2017-07-02)"
 *synth氏は今回のAMAにSkycoinからの代表として参加しました。*
 
 **boldninja**
-Skycoin.netのsynthさん、ようこそいらっしゃいました。本日のAMAのためにお時間をいただき、ありがとうございます。
+Skycoin.netのsynthさん、ようこそ。本日はAMAのお時間をいただき、ありがとうございます。
 
 **synth**
 どうも、こんにちは。
