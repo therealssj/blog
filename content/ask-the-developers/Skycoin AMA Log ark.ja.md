@@ -211,7 +211,7 @@ Skycoinの毎秒のトランザクション数はいくつですか?ブロック
 例えば、ビデオゲームやSkypeの会話には、レイテンシーの低いパスを選ぶことができます。ビデオのダウンロードには最もスループットの高いパスを選びます。もしくは、特定のノードや機能、国を通るパスを選ぶことができます。これはセキュリティ上の懸念のため、また経由地点の数を最小化するのも選択肢にあります。
 
 **mike**
-Skycoinは元々計画していたように、Skywireのノード参加を促すための報酬を与える予定ですか？ 
+元々計画にあったように、Skywireのノード参加を促すための報酬を与える予定ですか？
 
 **dr10**
 あなたの構想している技術とサービスを消費者に提供するのはいつごろですか？あなたの実現しようとしているものを、いつになったら使えるようになるのですか？
@@ -221,12 +221,13 @@ Skycoinは元々計画していたように、Skywireのノード参加を促す
 > 非チューリング完全なLISPのプログラミング言語を使っているとウェブサイトにありましたが？
 
 それは何かの間違いでしょうね。そのうちに新しいウェブサイトが公開される予定です。
-There is no scripting language on the skycoin blockchain. Each transaction is constant time (for efficiency and security and to achieve the highest transaction rate and to keep the coin simple).
-However, we have a language called CX in development, which is a next generation language that is beyond "smart contracts" and the toy things on ethereum. It uses immutable datastructures and is something completely new. Most of the skycoin "smart contracts" will probably be off blockchain or in personal blockchains and we do not want to shove all the data onto the main chain, because forcing everyone to download everyone one elses contracts it the world is just spamming the blockchain to death. There are better ways to do it.
+Skycoinのブロックチェーンにスクリプト言語はありません。効率性と安全性を確保しながら、最も速い処理速度とシンプルな設計を可能とするために、各トランザクションは定数時間となっています。
+ただ、現在開発中のCXというプログラミング言語があります。Ethereumのスマートコントラクトなる遊びを超えた、次世代のプログラミング言語です。変更不可能なデータ構造を用いており、これは全く新しいものです。Skycoinのスマートコントラクトはオフチェーンまたはプライベートブロックチェーン上で処理され、メインチェーンに全てのデータを突っ込むようなことにはなりません。全員が他の人びとのコントラクトの内容をダウンロードして、ブロックチェーンを混雑させるような状況をわざわざ作るのか？他にもっと良いやり方があるでしょう。 
 
+> 元々計画にあったように、SkycoinはSkywireのノード参加を促すための報酬を与える予定ですか？
+
+はい、そうです。 We are going to get from 20% to 30% distributno of the coins, through network incentives for people running Skywire nodes, consensus nodes and services.
 > Will Skycoin still have the node subsidy plan for setting up and registering the mesh nodes like originally planned?
-
-Yes. We are going to get from 20% to 30% distributno of the coins, through network incentives for people running Skywire nodes, consensus nodes and services.
 I think this is going to be massive for marketing. And it is the best way to get the coins out to the users, instead of all the coins being held by whales
 
 **samuelvihollandia**
