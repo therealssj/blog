@@ -156,7 +156,7 @@ Skywire上で機能する、新たなインターネットを私たちは作っ�
 Skycoinの価値はProof of Resource、つまり、何かしらのサービスに裏付けされているんですね。この場合はプライバシー保護がされた、安全なネットワークということでしょうか？分散化ストレージ、分散化されたコンピュータ処理能力の提供などのサービスを展開していく予定はありますか？
 
 **arc-over-water**
-さっき言っていた100万個のコインが保管してある100個のアカウントから、どのようにコインを分配していくのですか？100回のICOをやるのか、それとも既に配分プランがコーディングされているのか、デベロッパー次第で決められるのか。どれでしょうか？
+さっき言っていた、100万個のコインが保管してある100個のアカウントから、どのようにコインを分配していくのですか？100回のICOをやるのか、それとも既に配分プランがコーディングされているのか、デベロッパー次第で決められるのか。どれでしょうか？
 
 **rockyj**
 それは計算すればわかりますよ！
@@ -168,61 +168,59 @@ https://docs.google.com/spreadsheets/d/1FGo3FkC3uSWXGHatPQyny2brMWjAIJsHFCR-Lhkl
 
 > もしブロック報酬がないとすれば、ノードになるインセンティブは何なのでしょうか？
 
-合意形成のためのrunning a consensus node does not cost anything. You can run it on a raspberry pi.
-合意形成running a consensus node does not cost anything. You can run it on a raspberry pi.
-The important thing is that if the people doing consensus are doing a bad job, that the community can get rid of them and replace them. The other important thing, is that they can be audited and determined automatically if they are obeying the protocol.
-the miners in skycoin are not very powerful and cannot do anything except slow down transactions. They are unable to spend other people's money without their private keys, so the consensus/mining nodes are almost irrelevent. It is not like Bitcoin where the miners can hold the network hostage or act selfishly (driving up the transactions fees for their own personal benefit and delaying any innovations that would improve bitcoin for everyone, etc).
+合意形成のノードを稼働するのにコストはかかりません。Raspberry Pi上でも動作確認済みです.
+重要なのは、もしノードを稼働している人びとが悪意をもった行為をすれば、コミュニティにより追放され、代わりのノードが代替するということです。他に重要な点は、ノードがプロトコルに沿って動作しているかどうか、自動的に監査ができることです。
+Skycoinのノードはネットワークを操作する力を持たず、できることは処理速度を遅くすることくらいです。他の人のコインを使うことは秘密鍵がなければ不可能ですから、合意形成のノードがネットワークにもたらす脅威は限りなく小さいものです。Bitcoinの場合はマイナーがネットワークを人質にとり、利己的な行動をとることができます。例えば、自分たちの利益追求のために送金手数料を釣り上げたり、全体にとって有益になり得るbitcoinのアップデートを邪魔したり、ということをマイナーがしています。
 
-> So Skycoin is a Proof of Resource coin where its value is actually backed by provision of a useful service, in this case private and secure networking? Are there plans to add decentralized storage and even distributed processing to it?
+> Skycoinの価値はProof of Resource、つまり、何かしらのサービスに裏付けされているんですね。この場合はプライバシー保護がされた、安全なネットワークということでしょうか？分散化ストレージ、分散化されたコンピュータ処理能力の提供などのサービスを展開していく予定はありますか？
 
-We have decentralized storage, which is called CXO. But only the bandwidth is monetized by Skywire. We do not nickle and dime and try to attach a coin cost to every API call. Everything that should be free is free. So its a different philosphy.
-On top of CXO we also have distributed social media applications (simmilar to Steemit)
-CXO is very similar to IFPS, but simplier and designed for our internal infrastructure and with our crypto standards, instead of being a mismash.
+私たちは既に分散化されたストレージ、CXOを開発しました。しかし、帯域幅のみがSkywireによってマネタイズされています。それぞれのAPIの動作のために手数料をとるようなことは私たちはやりません。無料のものは無料であるべきです。これが私たち独自の哲学なのです。 
+CXO上で動作するソーシャルメディアも開発を進めています (Steemitに類似したもの)。
+CXOはIFPSに似ていますが、よりシンプルで私たちの開発環境に合うようにデザインされています。暗号技術に特化した設計です。
 
 **mike**
-Is it possible for Skycoin to choose the best paths and route around bad or slow nodes as damage to the network, in effect reducing their impact on consensus?
-looks like you answered the question above while I was typing...
+遅くて働きの悪いノードを避けて、最も速いルートにトラフィックを最適化することはできますか？それはSkycoinの合意形成の安定化につながると思います。
 
 **tranzer**
-How many tx/s can skycoin handle? What are block times?
+Skycoinの毎秒のトランザクション数はいくつですか?ブロック生成時間は?
 
 **thrice.pi**
-300 right? ^
+300でしょう? ^
 
 **arc-over-water**
-on your website it says you will have a NON- Turing complete lisp language?
+非チューリング完全なLISPのプログラミング言語を使っているとウェブサイトにありましたが？
 
 **synth**
 
->so these 100 separate million coin accounts will be 100 ICOs or how is the distribution patterned? is it written into the code or up to the devs?
+>さっき言っていた、100万個のコインが保管してある100個のアカウントから、どのようにコインを分配していくのですか？100回のICOをやるのか、それとも既に配分プランがコーディングされているのか、デベロッパー次第で決められるのか。どれでしょうか？
 
-We will have a distribution page, up on the website soon. Its complicated.
-Skywire, is designed to pull coins out of circuation, through a sort of tithe on network activity and it does automatic buy backs effectively. So the distribution will actually peak and then decline. But one distribution is from the locked coins, and the locked coins are freed, then circulate, then end up at the foundation (from the skywire tithe are pulled out of circulation), but still count towards the free float.
-The coin holders also receive a coinhour dividend and there will be a market rate conversion between coin hours and Skycoins and coinhours are the actual currency for the Skywire network. If you do not have enough coin hours, then you sell Skycoin for CoinHour at the market rate, to purchase bandwidth; but if you have a lot of coins then you have enough coin hours for downloading movies or VPN or whatever you are doing and it is essentially free.
-So there is a dual level economic structure. Both with coin buybacks to pull coins out of circulation and with a dividend or incentive to encourage users to hold the coin if they are using the network.
+分配計画を近いうちにウェブサイトに掲載します。これは複雑で説明が難しいのです。
+市場に出回っているコインはSkywireの使用にかかる租税によって回収されていきます。ネットワークの資源を使うために支払う租税により、実質的には自動的にコインが回収される仕組みです。ここで流通量はピークとなり、それから下降曲線をたどっていきます。しかし、ロックアップされたコインが唯一の分配源として残っています。定期的に解除、分配され、流通してから、また供給源に戻ることでしょう。 
+ここには２重の経済構造があります。コインを流通から外すための買上げと、ユーザーがコインを保持するインセンティブを与える分配金の配布です。 
 
 **arc-over-water**
-so there will be two currencies, holding one reserves the other
+
+つまり、２種類の通貨が存在するということですか。片方を所有することで、他方が付与される。
 
 **synth**
 
-> Is it possible for Skycoin to choose the best paths and route around bad or slow nodes as damage to the network
+> 遅くて働きの悪いノードを避けて、最も速いルートにトラフィックを最適化することはできますか？
 
-Yes. This is very important.
-The person dialing a connection, chooses the path of the connection!
-You can choose the lowest latency path for video games or Skype, and choose highest throughput paths for video downloads etc. Or can choose paths through specific nodes or facilities or countries, for security concerns and to minimize the number of points that the traffic could be intercepted at.
+はい、可能です。これはとても重要なことです。
+接続をしようとする個人が、接続先へのパスを決められるのです!
+例えば、ビデオゲームやSkypeの会話には、レイテンシーの低いパスを選ぶことができます。ビデオのダウンロードには最もスループットの高いパスを選びます。もしくは、特定のノードや機能、国を通るパスを選ぶことができます。これはセキュリティ上の懸念のため、また経由地点の数を最小化するのも選択肢にあります。
 
 **mike**
-Will Skycoin still have the node subsidy plan for setting up and registering the mesh nodes like originally planned?
+Skycoinは元々計画していたように、Skywireのノード参加を促すための報酬を与える予定ですか？ 
 
 **dr10**
-When do you plan to be able to present your planned technology and services to the masses? When can they use what you try do accomplish?
+あなたの構想している技術とサービスを消費者に提供するのはいつごろですか？あなたの実現しようとしているものを、いつになったら使えるようになるのですか？
 
 **synth**
 
-> on your website it says you will have a NON- Turing complete lisp language?
+> 非チューリング完全なLISPのプログラミング言語を使っているとウェブサイトにありましたが？
 
-That is probably an error. LOL. We will have a new website soon.
+それは何かの間違いでしょうね。そのうちに新しいウェブサイトが公開される予定です。
 There is no scripting language on the skycoin blockchain. Each transaction is constant time (for efficiency and security and to achieve the highest transaction rate and to keep the coin simple).
 However, we have a language called CX in development, which is a next generation language that is beyond "smart contracts" and the toy things on ethereum. It uses immutable datastructures and is something completely new. Most of the skycoin "smart contracts" will probably be off blockchain or in personal blockchains and we do not want to shove all the data onto the main chain, because forcing everyone to download everyone one elses contracts it the world is just spamming the blockchain to death. There are better ways to do it.
 
