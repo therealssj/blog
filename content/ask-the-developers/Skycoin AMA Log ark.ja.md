@@ -368,7 +368,7 @@ uploaded this image: 1432540863.jpg Add Comment
 uploaded this image: 2049465686.jpg Add Comment
 
 **mike**
-良い写真だ。ARMを基盤にしたサーバーラックのように見えます。
+良い写真ですね。ARMを基盤にしたサーバーラックのように見えます。
 必要があれば是非手伝いましょう。solidworks上でしたら、私もユーザーなので便利です。
 
 **synth**
@@ -530,7 +530,7 @@ Mikeさん、あとで設計ファイルを送りますから、今からでも�
 上の質問が既にされていたとしたら失礼しました。どの質問もとても良いものです。
 
 **mike**
-アンテナはグラフェンインクを使えばよいですよ。200dBの増加で、CubeSatとも相性がいいです。
+アンテナはグラフェンインクを使えばよいですよ。利得も200dBの増加となり、CubeSatとも相性がいいです。
 
 **michaelthecryptoguy**
 これは良いプロジェクトですね。 :dancing: 第三世界に生きる個人の人間が :sun: (self :this:owned) 自ら金融機関とテレコム企業を代替することができるのです:bananadance::goodjob: :hadouken: あとは彼ら彼女らにスマートフォンを持たせる手段があれば完璧ですね :partysaurus::tophat: (edited)
@@ -590,83 +590,82 @@ Skycoinはこの最も基礎的なレイヤーを作っており、コミュニ�
 SkycoinとArkをつなげて、SkycoinのVPN上でArkが稼働するようにしたいですね。SkycoinのVPNは他の選択肢と比べて非常に分散化されています。
 
 **xano**
-違法行為に最高の環境だという印象を抱いたのですが、これはSkycoinの将来と大衆による受容にどう影響を与えるでしょうか?
+Skycoinは違法行為に最高のプラットフォームだという印象を抱いたのですが、これはSkycoinの将来と大衆による受容にどう影響を与えるでしょうか?
 
 **charles**
 Skycoinがどのようにredditのボット問題を解決するのかわかりません。
 
 **xano**
-Almost everyone loves free movies, series and music, but what if ISIS starts using it for example
+Skycoinの構想はよいですね。誰もが無料で映画、ドラマ、音楽を楽しみたいと思っていますから。しかし、例えば、ISISが利用し始めたらどうします？
 
 **synth**
-now, on twitter; for instance hillary clinton campaign paid twitter money for "brand management" and if 300 people you follow said something negative about her, you wont see any of the tweets. And 1 person in 4000 says something positive and everyone in the that persons followers, will see the tweet in the feed!
-The companies are controlling what people see and what information is allowed into their feeds. Its not organic anymore. Its not based upon your preferences. It is based upon making the platform friendly to advertisers, who can pull their money out. They are pushing social agendas even and requiring the companies they are giving money to, to censor particular people and movements, to keep the advertising money.
-Even Google is being forced to comply with these demands. Fortune 500 pulled out 700 million/year in ad revenue and then google agreed to censor search results to please the advertisers. And then they are threatening them with fines in the EU unless they comply and serve the governments and corporations.
-Decentralized social media, means that you own your own data. It means that you control on your computer, the algorithm used to sort and prioritize your feed. Instead of allowing it to be controlled and manipulated by a third party, who is a whore for money trying avoid being fined by the EU and groveling before soap companies threatening to pull their ad money out, unless they censor things.
-yes, ARK could use skycoin network for block and transaction distribution. And could use it for networking, to avoid blocking.
-And ARK could be deployed as a node in the same framework as skycoin. in the skycoin clusters.
-There is https://github.com/skycoin/viscript and we can add ARK here. This is a cross platform CLI, and application launcher and for cluster management eventually.
+まず、ツイッターの問題です。実際、ヒラリー・クリントンは「ブランド・マネジメント」という建前でツイッターに金を払い、彼女についての否定的なツイートがフィードに上がらないように操作していました。逆に、4000人中の1人でも肯定的な意見を発した場合には、その人をフォローしている全ての人にそのツイートがフィードに表示されるようにしました。
+企業は人びとがアクセスする情報を操作しています。フィードに表示される内容を意図的に編集するようでは、自然な形とはいえないでしょう。ユーザーの好みはもはや関係なく、プラットフォームを広告主の好みと金で変えられるようにしてあるのです。社会的なアジェンダを拡散するのにさえ使われており、プラットフォームにお金を払って、特定の人間やムーブメントを検閲するようにさえ仕向けています。
+Googleでさえトレンドからは自由ではありません。Fortune500の企業が年間700億ドルの広告収益を盾にして、Googleが検索結果を広告主にとって有利なように操作することを約束させました。また、企業や政府の言うことに従わなければ、大量の罰金を支払うようにという制約がEUでは設けられています。
+分散化されたソーシャルメディアでは、ユーザー自身がデータを所有します。自らのコンピューターで、自身のフィードを分類化、優先化しているアルゴリズムを管理します。金と政府の下僕となっている第三者の企業に情報が操作されることはありません。
+もちろん、ARKはSkycoinのネットワークを使い、ブロック生成と処理の分配を行えるでしょう。インターネットからブロックされることなく、ネットワーキングができるでしょう。
+そしてSkycoinと同じフレームワークとクラスタ内に、ARKをノードとして設計することもできます。
+https://github.com/skycoin/viscript ここにARKを追加することができます。最終的には、異なるプラットフォーム間のCLI、アプリケーション実行プログラム、また、クラスタマネジメントが揃う予定となっています。
 
 **mike**
-thanks! will post to our devs. we have and are adding a lot of API's and CLIs for different languages.
+どうもありがとう。デベロッパーたちに伝えておきます。私たちは現在、様々なプログラミング言語のためのAPIとCLIをARKに追加していますので。
 
 **synth**
 
->I also don't quite understand how skycoin solves the bots on reddit
+>Skycoinがどのようにredditのボット問題を解決するのかわかりません。
 
-It is outside of skycoin project, but the people building the BBS has a really cool filtering algorithm. Everyone is identified by their public key and can build out a web of trust. And its like page rank for users.
-Its a decentralized type of moderation, that is automatic.
-is ARK in golang?
+Skycoinのプロジェクトの焦点ではありませんが、BBSを開発しているデベロッパーたちが作ったフィルター用アルゴリズムがあります。これは参加者の公開鍵により身元証明がされ、信頼の環を作ることで、分散化と自動化されたモデレーションの仕組みができるのです。それぞれのユーザーの言動に対する評価がなされます。
+ところでARKの開発言語はgolangですか?
 
 **jarunik**
-Ark chain is in Javascript but we got a golang api.
+ArkのブロックチェーンはJavascriptですが、golang用のAPIがあります.
 
 **arc-over-water**
-Why golang over rust or scala?
+なぜrustやscalaではなく、golangなのですか?
 
 **mike**
-Ark core is written in node.js , may be ported to go. There is a go api/cli being written, by @chris I believe.
+Arkのコアはnode.jsで書かれています。goに対応させることも可能かもしれません。@christがgo用のAPIとCLIを既に作っていたと思います。
 
 **arc-over-water**
-when will there be a lisp coin platform :slightly_smiling_face:
+lispで書かれたコインはいつ生まれるのでしょうか？ :slightly_smiling_face:
 
 **mike**
-golang is done? nice!
+golangにも対応可能なようです。素晴らしい!
 
 **boldninja**
 https://github.com/ArkEcosystem/ark-go GitHub ArkEcosystem/ark-go ark-go - Ark GO client for ARK.io blockchain ecosystem #golang #ark #blockchain
 
 **mike**
-lisp - that would be fun! Continue to be amazed lisp is still around, but popular for machine learning apps. yes, we need lisp added, can you do it arc-over-water?
-lisp seems to have good function for parallel processing but don't know details myself.
+lisp - それも良いでしょうね!まだlispが存在していることは驚きですが、機械学習のアプリケーションによく使われるようですね。lispも追加する必要があります。arc-over-waterが担当してくれるのでしょうか?
+lispは並行処理の機能を開発するのに向いていそうですが、詳しくは知りません。
 
 **arc-over-water**
-now there is Shen.. http://shenlanguage.org/
+Shenもあるようですね.. http://shenlanguage.org/
 
 **synth**
 
->How do you feel the incredible potential for illegal activities will affect the future of Skycoin and mass adoption?
+>Skycoinは違法行為に最高のプラットフォームだという印象を抱いたのですが、これはSkycoinの将来と大衆による受容にどう影響を与えるでしょうか?
 
-The people selling drugs will love skycoin. Bitcoin was worthless until people could buy drugs with it, then it was money and it went from $0.01 to $1000 in a year.
-When the internet was created, the first thing people were doing was downloading porn. When bitcoin was created the first thing people were doing was buying drugs and guns.
-ISIS does not need skycoin, because they are using xbox messanger and facebook messanger. They do not need crypto. Every terrorist attack means budget increases, so the government loves ISIS. Terrorism is big money and the more terror, the more money there is to make. People are making too much money off of ISIS for them to get rid of the problem any time soon.
-Pedophiles were also the first ones to adapt stenography, i2p, tor, tails and bitmessage. They are always the first ones testing out any new crypto stuff. You should look at the logos of the stenography apps and you can guess what kind of people wrote these applications.
-Even two years, before skycoin was launched the intelligence and money laundering people were already showing up and giving lists of requirements for scrubbing or hiding metadata.
-If I was building the next silk road I would be looking at tech like skycoin is building. I think everyone has had that idea.
-We really cannot control what people are going to do with this. Its just inevitable progress and its going to happen whether we do it, or maidsafe does it or someone does it. Its going to happen. (edited)
+薬物のディーラーはSkycoinを重宝するでしょうね。Bitcoinは人々が薬物を購入し始めるまでは無価値でした。1年で0.01ドルから1000ドルに上がったのは薬物購入のおかげです。
+インターネットが最初に作られたとき、最初に人々がしたことはポルノ動画のダウンロードでした。Bitcoinが最初に作られたとき、最初に人々がしたことは薬物と銃器の購入でした。
+しかし、ISISはSkycoinを必要としないでしょう。なぜなら、ISISはxboxとfacebookのメッセンジャーを使っているからです。暗号技術は必要ないのです。テロリストの攻撃がある度に政府の予算は大きくなるので、政府はISISを必要としています。テロリズムは金を生む箱であり、恐怖が大きくなれば、それだけ生まれる金も増えるのです。ISISはたくさんの金を世の中に生み出しました。このためにテロリズムの問題はなくなるまで時間がかかるのです。
+幼児虐待者もステガノグラファー、i2p、tor、tails、bitmessageなどの技術を受容した最初の人々でした。その後も、この類の人びとたちが暗号技術のプロダクトを最初に試そうとするという事実は変わりません。ステガノグラファーのロゴを見てみれば、どのような種類の人間がそれらの技術を開発したのかわかるでしょう。
+これはSkycoinの場合でも似ています。公開される2年も前の段階に、機密情報組織の人間やマネーロンダリングの専門家たちがプロジェクトに加わり、メタデータのスクラビングや保護に必要な技術の詳細を共有していきました。
+もし私が次のシルクロードを作るとしたら、Skycoinが開発しているような技術を使うことでしょう。誰もがそう思うはずです。
+人びとがこの技術をどのように利用するかは私たちのコントロールを超えています。進歩には付きものの問題であり、それはSkycoinにしろMaidSafeにしろ、必ず起こることです。
 
 **mike**
-looks interesting. have you seen julia, https://julialang.org/ . very impressed with its benchmarks, comparable to go
-think the best way to end terrorism is to end foreign interventionism. Last I knew, Switzerland doesn't have a problem with terrorists.
+とても興味深いですね。juliaのウェブサイトは見たことがありますか？ https://julialang.org/ このベンチマークは驚くべきものです。
+テロリズムを終わらせるには外国への干渉をやめることだと私は思います。 少なくとも、スイスはテロリストの問題を抱えていません。
 
 **arc-over-water**
-killary and obomba
+killaryとobombaですか。
 
 **michaelthecryptoguy**
-Sad but true.
+それは悲しいことながら真実です。
 
 **mike**
-and the bushes
+そしてbushesですね。
 
 **synth**
 uploaded this image: Screenshot from 2017-06-29 14:42:25.png Add Comment
@@ -675,18 +674,20 @@ uploaded this image: Screenshot from 2017-06-29 14:42:25.png Add Comment
 uploaded this image: Screenshot from 2017-06-29 14:41:55.png Add Comment
 
 **arc-over-water**
-fake news on an amazing level... sandy hook.. 911
-moon landing... Stephen Hawking...
-anyways..
+驚くレベルのフェイクニュースが世に溢れていますよ... サンディフック.. 911
+月面着陸... Stephen Hawking...
+やれやれ..
 
 **charles**
-North Korea also does not have a problem with terrorism :)
+北朝鮮もテロリズムの問題を抱えていませんね :)
 
 **arc-over-water**
-Sky! the limit
+空の広さにも限りがあるということですね!
 
 **mike**
-don't even have to go to that level, just the current ongoing farce about Russian intervention in the election and supposed ties to Trump team members. War is the health of the corporate state.
+そこまで, just the current ongoing farce about Russian intervention in the election and supposed ties to Trump team members. War is the health of the corporate state.
+**mike**
+**mike**
 
 **synth**
 terrorist attacks are now advertising events for nike; they are fighting each other for who gets the product placement in the latest ISIS attack. It keeps people glued to their televisions and otherwise people would not watch the news. Even terrorist attack keeps people on the television and the fortune 500 fight each other, to get the ad spots for the people glued their television.
