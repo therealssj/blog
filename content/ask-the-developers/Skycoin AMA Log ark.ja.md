@@ -752,131 +752,129 @@ Skycoinの技術に関するホワイトペーパーを書いた2人の中国人
 >Synthさん、あなたのバックグラウンドはどういうものですか？どんな分野だったかは構わず、どのような経験をこれまで積まれてきたのでしょうか？
 
 >Synthさん、あなたのバックグラウンドはどういうものですか？どんな分野だったかは構わず、どのような経験をこれまで積まれてきたのでしょうか？
-色々ですね。. video games, hedge fund/finance, crypto, investment stuff etc... Now am I a sort of project manager.
+色々ですね。ビデオゲーム、ヘッジファンド、金融、暗号技術、暗号通貨投資、その他です。今はプロジェクトマネージャーの役割です。
 
 **charles**
-How will the price of skycoins be determined for the next ICO, I, suppose it cannot be above market price, else people would not buy it, but too far below would depreciate the coin
+次のICOではSkycoinの価格はどのように決定されるのですか?市場価格よりは低くなければ人びとは買わないでしょう。、しかし、市場価格より低すぎればコインの価格を下げることになります。
 
 **arc-over-water**
-do they want high price at this point or well even distribution to the best placement of people?
+現時点で重視しているのは価格の上昇ですか?それとも公平な分配のために値段は抑え気味にするのでしょうか?
 
 **synth**
 
-> Also the two Chinese guys who wrote the technical whitepaper, the scholars, are part of the team?
+> Skycoinの技術に関するホワイトペーパーを書いた2人の中国人の研究者もチームの一員ですか?
 
-One of the chinese guys has nothing to do with it. He is a professor that put his name on paper his graduate student published. And now the professor wants to hide the paper, because he thinks the chinese government is cracking down on bitcoin; but he is wrong and the government doesnt care and the paper is in english so they cant read it anyways.
-And the other one is a core ETH developer. Chen was core ETH and wrote the golang implementation of Ethereum. He is not very public and does not want to be in spotlite or bothered.
-most of the contributors for skycoin are in the background or hiding actually (edited)
-many of the ETH people are all whoring themselves out to advisor boards to various tokens, or dozens of tokens and ICOs; but most of the serious crypto people are very private and hiding themselves. They do not want to be known, do not want to promote or advertise themselves and they are in the background.
-Or they have too much money already and just want to hide. They are also lazy because they do not have to work anymore, or they are busy with other things.
-they also want to avoid taxes and being targetted for theft and do not want attention from government
-skycoin cannot have a "Team" or "Advisor Board" on website, because we asked everyone and no one wants to be public or wants to be in a public position....
+そのうちの1人は全く無関係の人間です。彼は教授で、彼の生徒だった大学院生が提出した論文に名前を載せただけです。しかし、中国政府がbitcoinを攻撃しているのを恐れ、提出した論文を取り下げるようにと著者に圧力をかけていました。論文は英語で書かれていて中国人には読まれないですから、この人物はどうかしていました。
+もう1人の中国人は、Ethereumの元コアデベロッパーのChen氏です。Ethereumのgolangを実装するためのプログラミングをしました。彼は公に出るのが嫌いで、情報を公開しません。
+Skycoinの協力者のほとんどが身元を隠している人たちです。
+ETHのデベロッパーはトークンやICOのアドバイザーを大々的にやっていますが、本当に真剣な暗号通貨のデベロッパーは身元を隠しています。開発の裏方に徹しており、自分自身を宣伝したり、売名行為を働いたりはしたくないのです。
+また、大量の資産を保有しているため、身の安全のために隠れている場合もあります。もはや働かなくてもよいので、単に怠惰になっているとも考えられます。
+税金を払わずに済むため、また脱税の疑いから逃れるために、基本的に政府の目につくようなことは好みません。
+Skycoinがウェブサイトにチームやアドバイザーの情報を載せないのは、関係者が誰も自分の身元を公にするのを好まなかったからなのです。
 
 **arc-over-water**
-yes best to live in a country your not citizen of and earn money from a country your not living in... Been doing it for ten ears, way less stress, (edited)
+そうですね、最もよいのは自分が国民ではない国に住んで、他の国からの収入源を持っていることですね... 私の過去10年間の生活です。ストレスが少なくて済みます。
 
 **synth**
-many early bitcoin people, who identified themselves publicly on twitter; they cannot travel to brazil or certain countries without risking being kinapped and ransomed for money
-lololol
+twitterで身元を明らかにしている初期のbitcoinデベロッパーは、ブラジルや特定の国に行くことはできません。誘拐や強盗に遭うリスクがあるからです(笑)。
 
 **arc-over-water**
-vitalic knows kung fu maybe,,, well he speaks Chinese..
+EthereumのVitalik氏はたぶんカンフーの達人ですね,,, 中国語も話しますし..
 
 **charles**
-Do you think skycoin not having a public figure will negatively affect adoption?
+Skycoinの関係者が身元を明らかにしていないことは、大衆による受容に悪影響を与えると思いますか?
 
 **arc-over-water**
-i think it has.. 6 years on and quiet forums and slack
+私はそう思いますね.. 6年間も開発を続けてきたわりに、コミュニティのチャンネルは静かですから。
 
 **synth**
-we can buy public figures or an adviser board; but they would not have anything to do with project except to put their name on it to create confidence for public; which is what all these advisor boards really are
+アドバイザーや公の立場の人間を用意することはできます。しかし、人びとを安心させるために名前を載せる以外、彼ら彼女らはプロジェクトに関わりがないでしょう。そもそも、ほとんどのアドバイザーというのは実際そういうものでしょうが。
 
 **arc-over-water**
-in the background assuming tek development.
-Next ICO cost and how it will be released?
-github is always active...
+技術の開発が裏では行われていると想像するしかないですね。
+次のICOと値段について教えてくれませんか？
+Skycoinのgithubは常にアクティブですね...
 
 **synth**
-i really do not know
-about the next ICO
+次のICOについてはわかりません。
 
 **arc-over-water**
-ok
+了解です。
 
 **synth**
-it is around the 20th of next month. and will be 1% to 10% of the skycoin. I am not sure the exact number is set
-and it will probably be a fixed price
+来月の20日、販売量は全体の1%~10%のSkycoinです。正確な数字が決まっているかはわかりません。
+価格はおそらく固定されているでしょう。
 
 **dr10**
-this ama is a marathon :trollbounce: nice!
+このAMAは素晴らしく長いですね。 :trollbounce: 頑張って!
 
 **arc-over-water**
-how much of the 100 million is obligated to your team and the people who funded it?
+全体の供給量である1億個のコインのどれくらいがチームと創始者の持ち分になっているのでしょうか?
 
 **synth**
-but then followed by a weekly auction or second priced auction for a fixed number of coins, that will occur every week for 8 weeks; but not sure how many coins or if it will actually happen
+ICOの終了後にもコインをオークションで売り出す予定はあります。8週間にわたって毎週開催することになっています。しかし、コインの枚数は現時点ではわかりません。実際に開催するかどうかも未定です。
 
 **arc-over-water**
-so if its a high price it is 1% and low price it could get to 10%
+値段が高ければ全体の1%、低ければ全体の10%という販売量になるのでしょうね。
 
 **synth**
 
-> how much of the 100 million is obligated to your team and the people who funded it?
+> 全体の供給量である1億個のコインのどれくらいがチームと創始者の持ち分になっているのでしょうか
 
-The people who funded skycoin, did not receive anything for it. They have no entitlement to the coins.
-they had to buy in at ICO like everyone else. Even the developers working on it, had to buy in.
+Skycoinの創始者は何も受け取っていません。創始者がコインを受け取る特権などはありませんから。
+他の人たちと同じようにICOで購入するのみです。プロジェクトに関わるデベロッパーたちもICOで購入しています。
 
 **arc-over-water**
-ok so they have already been looked after in the 10c ICO round
+1コインが10セントで販売された時のICOで既に十分な量が購入されたということですね。
 
 **synth**
-i think the next ICO is mostly marketing event, and to "get it over" with. We are in a bubble now, so we should raise money now, before the ICO bubble pops. Is what people are telling us.
-we cannot spend more then 50 million, so selling an insane number makes no sense. 10 to 15 million is probably reasonable, for next 3 years. And that is with a really good full time marketing team, and trippling number of developers AND funding several parrallel hardware projects.
+次のICOはマーケティングが主目的のイベントになります。現在の暗号通貨市場、特にICOはバブルですから、集められるうちに資金を集めるべきだと人びとは言っています。
+5千万ドルもの資金を使う予定がないのに、それ以上の数や値段でコインを売るのはおかしなことです。今後の3年間の資金は1千万~1千5百万ドルあれば十分でしょう。それだけで十分なフルタイムのマーケティングチーム、3倍の規模のデベロッパーの数を確保できます。また、平行していくつかのハードウェア開発の企画も進められます。 
 
 **mike**
-My approach to Skycoin is regardless how much of a financial return it might provide, it is an investment into producing a future I want to see.
-Also look forward to earning it by running nodes.
+私がSkycoinに投資をするのは金銭的なリターンが理由ではありません。自分の見たい未来の世界を建設するための投資なのです。
+ノードを稼働してコインを報酬として得ることは楽しみにしています。
 
 **arc-over-water**
-So that could be you release 10,000,000 coins and get $10,000,000 dollars for your covering expenses next three years
+1千万個のコインを今回のICOで販売して、手に入る1千万ドルの資金を今後3年の開発のために使うというイメージですね。 
 
 **charles**
-Can a person with limited technical capabilities run a node?
+あまり技術的に詳しくない人でもノードを稼働することはできますか?
 
 **arc-over-water**
-or $20,000,000 as it goes
+調達額はもしくは2千万ドルにもなり得るわけですね。
 
 **synth**
-the people who are going to pump the coin, want us to sell off as much as possible. They are pressuring us to do that.
-However, if we sell fewer coins, then the price per coin will be higher.
-If we only sell 10 million in coins, then the price can go up a lot higher than if we sold 500 million in coins.
-I think EOS is going to raise a billion dollars and I have no idea what they will with the money, except use it to buy EOS and drive the price up or some scam. They are not going to spend it on development. lol
-> Can a person with limited technical capabilities run a node?
+コインの値段を釣り上げようと狙う人たちは、できるだけたくさんのコインを買い占めようとします。そのような重圧もあります。
+しかしまた、少ない数のコインを販売すれば、それがコインの価格を上げてしまうことにもなります。
+1千万個のコインを売るとすれば、5億個のコインを売るよりも値段の上がり方は激しいものです。
+EOSは百億ドル近くを調達するでしょうが、そこまでの金を何に使うのか見当が付きません。それでまたEOSを買い占め、値段を上げるのでしょうか。開発にはそこまでのお金は絶対にかかりませんよ（笑）。
 
-eventually, yes. maybe not right now. after tutorials, yes
+> あまり技術的に詳しくない人でもノードを稼働することはできますか?
+
+チュートリアルが配布された後では十分可能ですよ。現段階ではまだです。
 
 **arc-over-water**
-EOS seems like it is trying to go bear bones and not be as complicated as ETH...
+EOSはEthereumのシンプルな版だというイメージしかありませんね...
 
 **mike**
-I think it is smart to hold a lot for distribution to node operators as a replacement to mining for a good distribution, also selling some to have distribution among those who are interested but not technically inclined to run nodes.
+コインを売らずに、ノード参加者への報酬として使うのは懸命でしょう。良い分配計画はマイニングを代替することができます。また、ノードを稼働させる技術的な能力がなくてもプロジェクトに興味がある人たちにも、コインが買えるような機会を作らなくてはなりません。
 
 **synth**
-So that could be you release 10,000,000 coins and get $10,000,000 dollars for your covering expenses next three years
-The coin price is like $4 or almost $5 at high. It will be at $5 by ICO I think, atleast. The market cap has doubled every 40 days, for a while now.
-10 million coins at $5 per coin, is 50 million.
-We have to distribute coins via the skywire nodes, to make it fair; because ICO is not a good way to get coins into the hands of users. Its only good for fund raising and for whales.
-We decided that we will distribute most of the coins to users and just use sales to whales, to fund development.
-
+> 1千万個のコインを今回のICOで販売して、手に入る1千万ドルの資金を今後3年の開発のために使うというイメージですね。 
+Skycoinの市場価格は現在4ドル~5ドルです。ICOは5ドル以上の値段になるでしょう。時価総額はこれまで40日毎に2倍に上昇してきました。
+1億個のコインが各5ドルの値段ですから、時価総額は5億ドルになります。
+Skywireのノードを稼働する報酬としてコインを分配する必要があります。公平な方法です。ICOはユーザーにコインを届けるのに、必ずしも適切な方法とは言えません。資金調達と大量保有者のためには良いと思いますが。
+ほとんどのコインをユーザーの手に渡すことを私たちは決めました。大量保有者にはセールをして、開発のための資金を調達します。
 **arc-over-water**
-there must be ways to spread to diverse groups the 10,000,000 coins?
+1千万個のコインを多様な人びとに分配するのに良い方法はありますか?
 
 **synth**
-the problem is that all ICOs end up going to less than 20 whales
+問題は、ほとんどのICOの結果が、20名弱の大量保有者の集団となってしまうことです。
 
 **arc-over-water**
-every member of a altcoin slack gets a coupon invite
-If an ICO knows their customer that can be prevented..
+アルトコインのslackのメンバーだと、ICOの招待状がもらえます。
+ICOをするときに、参加者のことを知っているとよいでしょうね。
 
 **synth**
 there are people who own a large percentage of ETH and they want to diversify; they can gamble 20 million in an ICO and could make 50x more, but if they lose it, then its a slight loss; they have so much ETH that they cannot even sell it or convert it, without tanking the market
