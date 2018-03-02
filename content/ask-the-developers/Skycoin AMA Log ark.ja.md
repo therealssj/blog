@@ -52,7 +52,7 @@ synthさん、質問があります。流通していないコインは、コー
 **synth**
 Skycoinを説明するのは難しいですね。なにせ６年間も開発が続けられてきた大きなプロジェクトですから、各部分がそれぞれの目的を持っています。 
 暗号通貨、コインの部分は、既に存在している合意形成アルゴリズムの問題を解決するために作られました。１秒あたりに300という送金の処理速度を誇ります。分単位ではなく、秒単位の話です。マイナーの役割をなくし、インフレ防止のためにブロック報酬をなくし、51%攻撃や他のマイニングに関する問題を解決しています。 
-そして、他にも多数のプロジェクトや実験段階のアイデアがあります (https://github.com/skycoin)。メッシュネットと分散化されたVPNのプロトタイプがあり、ネットワーク参加者はトラフィックを転送することで報酬を得られます。また、分散化されたソーシャルメディアのアプリケーション、P2Pのデータ複製・保管のためのアプリ、その他の実験的なプロジェクトがあります。変更不可なデータ構造に関するリサーつを重ね、次世代のインターネットの構想を実現化しています。このいくつかは革命的なプロジェクトだと思っています。
+そして、他にも多数のプロジェクトや実験段階のアイデアがあります (https://github.com/skycoin)。メッシュネットと分散化されたVPNのプロトタイプがあり、ネットワーク参加者はトラフィックを転送することで報酬を得られます。また、分散化されたソーシャルメディアのアプリケーション、P2Pのデータ複製・保管のためのアプリ、その他の実験的なプロジェクトがあります。変更不可なデータ構造に関するリサーチを重ね、次世代のインターネットの構想を実現化しています。このいくつかは革命的なプロジェクトだと思っています。
 
 **dr10**
 ネットワーク合意形成アルゴリズムの「Obelisk」はどのような仕組みで、よく知られている他のアルゴリズム（Proof of Work, Proof of Stake）とはどう違うのですか？
@@ -207,7 +207,7 @@ Skycoinの毎秒のトランザクション数はいくつですか?ブロック
 > 遅くて働きの悪いノードを避けて、最も速いルートにトラフィックを最適化することはできますか？
 
 はい、可能です。これはとても重要なことです。
-接続をしようとする個人が、接続先へのパスを決められるのです!
+Skywireに接続をしようとする個人が、接続先へのパスを決められるのです。
 例えば、ビデオゲームやSkypeの会話には、レイテンシーの低いパスを選ぶことができます。ビデオのダウンロードには最もスループットの高いパスを選びます。もしくは、特定のノードや機能、国を通るパスを選ぶことができます。これはセキュリティ上の懸念のため、また経由地点の数を最小化するのも選択肢にあります。
 
 **mike**
@@ -226,138 +226,137 @@ Skycoinのブロックチェーンにスクリプト言語はありません。�
 
 > 元々計画にあったように、SkycoinはSkywireのノード参加を促すための報酬を与える予定ですか？
 
-はい、そうです。 We are going to get from 20% to 30% distributno of the coins, through network incentives for people running Skywire nodes, consensus nodes and services.
-> Will Skycoin still have the node subsidy plan for setting up and registering the mesh nodes like originally planned?
-I think this is going to be massive for marketing. And it is the best way to get the coins out to the users, instead of all the coins being held by whales
+はい、そうです。 全体の20%〜30%のコインをネットワークの参加して、Skywireのノードを維持するためのインセンティブとして使いたいと考えています。 
+これは大きなマーケティング効果をもたらすでしょう。コインをユーザーに分配するのに最も効果的な方法であり、数人の大量保有者を生むよりも良いことです。
 
 **samuelvihollandia**
-I read how you suggest Skycoin could be used for VPN connections, is this the largest use case you see?
+SkycoinがVPN接続のために使われると話されていましたが、これが最も大きなSkycoinの存在理由でしょうか？
 
 **arc-over-water**
-Maidsafe has been working on the redesign of the net for about ten years, what are you doing the same and what different?
+Maidsafeはインターネットの再構築のために約１０年間を費やしてきました。Skycoinとの共通点や相違点はどこにあるのでしょうか？
 
 **synth**
 
-> I read how you suggest Skycoin could be used for VPN connections, is this the largest use case you see?
+> SkycoinがVPN接続のために使われると話されていましたが、これが最も大きなSkycoinの存在理由でしょうか？
 
-No. This is just something easy, that we have working. Its not the largest applicatoin at all.
-80% of internet traffic right now is bitorrent and the bitorrent sites are being systematically shutdown and driven off the internet. They wont go away, but will jut go underground. What.cd (largest music tracker, with 800k people) was just shut down, bakabt (largest anime tracker) has gone closed registration, Nyantorrent etc...
-User communities of millions of people will be migrating from the clearnet (the existing corporate shit-net) to the "new internet". We are going to see people migrating by the millions, whole user communities of millions of people.
+いいえ、既に動作している、簡単な実用化の例に過ぎません。最もスケールの大きいアプリケーションではありません。
+現在インターネットのトラフィックの80%はbitorrentが占めていますが、bitorrentのウェブサイトは次々と閉鎖され、インターネットから追放されていっています。しかし、それらのウェブサイトは完全に消えることはなく、公から見えない場所に姿を隠すだけなのです。 What.cd (最も大きなマルチトラックレコーダーサイト、80万人のユーザー数)は閉鎖され、bakabt (最も大きなアニメトラックレコーダーサイト)は新規登録を締め切り、Nyantorrent、その他も...
+何百万人ものユーザーを抱えるコミュニティが、企業によって作られている現在のインターネットから、新たなインターネットへと移動してくるのです。これかが何百万人の単位でユーザーが移動をはじめるのを私たちは目撃することでしょう。
 
 **arc-over-water**
-Are you a corporation or foundation or charity? Registered? I am not sure i have seen anything about who you are? What is the dev team size? Background? - Maidsafe is open and clear so is IOTA and Stellar etc. Can you let us know who you and your team are? Especially you are talking about 15 year and up obligations..
+Skycoinは企業ですか？それとも財団、または慈善団体ですか?登録はされていますか?Skycoinについて書かれた文章をまだ見たことがないのですが?デベロッパーのチームの規模はどれくらいですか?バックグラウンドは?Maidsafeはオープンで、情報も透明性があります。IOTAやStellarも同じです。あなたのチームに誰がいるかを教えてもらえますか?15年にもまたがる計画をあなたは話されているのですから、ユーザーが信頼できるチームでなければならないでしょう..
 
 **techbytes**
-Do we need to hold skycoin to run Skywire nodes or consensus nodes like masternodes from other coins?
+Skywireのノードを稼働させるには、Skycoinを持っている必要がありますか？これはマスターノードのような仕組みなのでしょうか?
 
 **synth**
 
-> Maidsafe has been working on the redesign of the net for about ten years, what are you doing the same and what different?
+> Maidsafeはインターネットの再構築のために約１０年間を費やしてきました。Skycoinとの共通点や相違点はどこにあるのでしょうか？
 
-Maidsafe is in version 2 or 3. Maidsafe will not have a real coin until version 9. Each version takes them about two or three years. Maidsafe will not be "done" or ready for atleast 18 years at this rate.
-Skycoin has been in development for ~6 years and the meshnet for 4 years and it will be finished in a few months. To the poin that people can start using it.
-Skycoin is similar to maidsafe in the objective, but has a different approach and architecture and primitives. We did not try to do everything, but focused on a smaller, tractable core and got that done.
-There will be multiple projects in this space, but few teams are able to plan on the time horizon necisary for building a new internet or able to design each of the components of a system this large, or figure out how to do it so that it is useful at each stage of construction of a project that may take a decade. (edited)
+Maidsafeは現在バージョン2かバージョン3になります。Maidsafeがまともなコインを作るようになるのは、バージョン9になってからです。それぞれのバージョンの開発に数年がかかっています。 このペースでいけば、Maidsafeの構想の実現には少なくとも18年がかかるでしょう。
+それに対して、Skycoinは6年の開発期間、メッシュネットは4年間で、数ヶ月以内には完成する見通しです。そのときには、人びとが使える段階まで持っていけるようになるでしょう。
+Skycoinの目的はmaidsafeと似ていますが、アプローチ、設計、成り立ちからして異なります。全てをやろうとするのではなく、小規模なコアの部分に集中して、これまで実績を積み重ねてきました。
+様々な暗号通貨のプロジェクトが乱立していますが、実現可能なタイムラインで実際に新たなインターネットを作り、これだけ大きなシステムの構成部分をデザインして、それぞれの開発段階で役に立つものをリリースしているチームは数少ないのです。 そして、この計画は１０年単位のものなのです。
 
 **mike**
-Can you see a way for Ark and Skycoin to build on each other in a synergistic manner? I'm all for not reinventing the wheel, especially when it looks like it will be replaced with antigravity like Skycoin.
-I see Skycoin as essentially replacing TCP/IP and providing mesh network type functionality at the hardware level, Ark would run on top of it as a top level application layer.
+ArkとSkycoinが互いの上にシステムを作り、シナジー効果を生み出すことは可能でしょうか? 重力を無にしてしまうようなSkycoinのプロジェクトを前にして、車輪を新たに開発しようとするのは無駄な試みですから。 
+SkycoinはTCP/IPの構造を置き換え、ハードウェアの次元でメッシュネットの機能を実現するものでしょう。Arkはその上のアプリケーション層として機能できるのではないでしょうか？ 
 
 **arc-over-water**
-are you up to date on Maidsafe, they are nearly out of Alpha and its more like release early next year? But that being said, Maidsafe says once it is released it is like a virus or AI type, so does Tau Chain, and also Autonomic by HunterMinerCrafter, are we heading towards AI with Maid, Sky Tau and Autonomic?
+Maidsafeの最新情報にもとづいて話されているのでしょうか？アルファ段階を終えて、プロジェクトは来年にはリリースされるのでは?Maidsafeによれば、公開されれば、ウイルスかAIのように人類にとて驚異的な存在となるだろうとのことです。Tau Chain、HunterMinerCrafterによるAutonomicも同じカテゴリでしょう。Maid、Sky、Tau、Autonomicは私たちをAIの世界に連れていこうとしているのでしょうか?
 
 **dr10**
-smartbridge now! :kappa:
+今はsmartbridgeでしょう!
 
 **mike**
-So Skycoin would act as a sort of global decentralized cloud server to build on top of.
-To communicate, it is more like sharing encrypted files to selected recipients than it is sending messages or hosting sites on a specific server.
+Skycoinは分散化された、グローバルなクラウドサーバーとなろうしているということでしょう。そして、その上にアプリケーションの開発がされるという。コミュニケーションの形としては、メッセージを送ったり特定のサーバーにサイトをホストするのではなく、暗号化されたファイルを特定の受信者に共有するといったものになるのですね。
 
 **synth**
 
->Are you a corporation or foundation or charity? Registered? I am not sure i have seen anything about who you are? What is the dev team size? Background?
+>Skycoinは企業ですか？それとも財団、または慈善団体ですか?登録はされていますか?Skycoinについて書かれた文章をまだ見たことがないのですが?デベロッパーのチームの規模はどれくらいですか?バックグラウンドは?
 
-I think there are over ~60 people who have worked on Skycoin or have made major contributions. Its really a project from the darknet.
-Many of the contributors are anonymous. Some of them have security clearances and were in the military industrial complex and one of them worked at the San Diego Naval Defence Research Lab and a lot of the idea for the networking protocols came out of public sector academic researched, funded from there.
-We also have a lot of very very early Bitcoin people, hardcore crypto people that predate Bitcoin and an Ethereum core developer, etc..
-On the Chinese side we have an early investor in Alibaba and telecom investor. And are doing pilot with china aviation group (owns four publicly traded airline companies) and apparently now Sinopec (which is 2nd largest publicly traded corporation in world).
-Then we have people who are part of israeli and US intelligence and are probably doing some sort of money laundering or phychological operations background, who just showed up for some reason. This group seems very interested in the "applications" of these coins and how to improve tranaction privacy and the specifics of the CoinJoin protocol implementation. We got a lot of advice from people experienced in forensic accounting and what they wanted to see and where they felt Bitcoin was deficient and where it leaked metadata.
-Then a bunch of PHD level people doing research into distributed database consensus algorithms and another group doing programming language research.
-Then a lot of people from the deep darknet, anon, frog twitter and cipher punks and bitorrent communities. (really should be listed as two seperate groups). And people from the Russian darknet community. We have like eight Ivans. (edited)
-> I see Skycoin as essentially replacing TCP/IP and providing mesh network type functionality at the hardware level, Ark would run on top of it as a top level application layer.
+これまで60人近くの人たちがSkycoinで働いた、もしくは主要な貢献をしてきました。これはダークネットのプロダクトだと言えるえしょう。
+この人びとの多くは匿名でした。そのうちの何人かは軍隊におり、秘密情報保護法のために、匿名でなければならなかった。San Diegoの海洋防衛研究所で働いていた人もおり、ネットワーキングプロトコルのアイデアは彼が貢献してくれました。公共セクターによる、アカデミアで検証済みのアイデアでした。
+他のメンバーには、Bitcoinの極めて初期の開発を行ったデベロッパーたちや、Bitcoin以前から暗号技術に携わっていた専門家、またEthereumのコアデベロッパーがいます。
+中国側のメンバーには、Alibabaの初期投資家やテレコム事業の投資家がいます。China Aviation Group(４つの航空会社のホールディングス)とパイロットプログラムを進めていますが、Sinopecも加わる予定です (世界で２番目に大きい上場企業)。
+そして、アメリカとイスラエルの秘密情報組織の人間もいました。このグループの人たちは、Skycoinの送金処理の匿名化とCoinJoinプロトコルを実装する手筈に興味を示していました。フォレンジック会計の専門家からもアドバイスを受けており、Bitcoinの欠陥、メタデータの欠如、その他の知見を提供してもらいました。 
+あとは博士号を保有している研究者がたくさん関わっており、データベースの合意形成アルゴリズムやプログラミング言語のリサーチをやっています。
+ダークネットの深部からやってきた参加者もいます。anon、frog twitter、cipher punks、bitorrentなどのコミュニティから来た人たちです。ロシアのダークネットコミュニティからの参加者もいます。８人の参加者が同じ名前「イワン」を持っています。
 
-Yes. The key functionality is two things - connecting to people by public key (networking) - distributing self validating, immutble data peer to peer (transactions, blocks etc... content addressible storage)
-And you can build almost anything on those two building blocks. The whole internet will eventually be rewritten on top of those primitives and it will replace many of the existing protocols.
+> SkycoinはTCP/IPの構造を置き換え、ハードウェアの次元でメッシュネットの機能を実現するものでしょう。Arkはその上のアプリケーション層として機能できるのではないでしょうか？
+
+それは可能でしょうね。Skycoinの根本的な要素は２つです。まず、公共鍵（ネットワーキング）にユーザーを接続することです。そして、分散化された合意形成をする、変更不可能なデータのP2P取引（送金処理、ブロック生成、データストレージ、その他）があります。
+この上であれば何を作るのも可能です。これらの基礎の上にインターネットが再構築され、既存のプロトコルを置き換えることになるでしょう。 
 
 **arc-over-water**
-Who is the entity that is funding this? I think you have done 2 ICOs? How much did you receive? The first was 10c and the second was @ 50c per coin, released 6 million, is that correct?
+どの組織が資金を提供しているのですか?ICOを２回やったようですが、いくらの資金を手に入れましたか?最初の各コインの値段は10セント、２回目は50セント、合計販売量は６百万個で間違いありませんか?
 
 **samuelvihollandia**
-Are you planning to enter a different exchange market soon?
+他の取引所への上場予定は近々にありますか?
 
 **arc-over-water**
-Have you personally been in Sky from the start? What members have? Who allocates the ICO money etc... I hope you understand that decentralization with investment is a two edged sword, we invest in people but we cannot know these people.... So... we question.. (edited)
+あなたはSkycoinの初期段階から関わっているのですか?誰が初期メンバーですか?ICOで得た資金を誰が配分するのですか？分散化されたプロジェクトというのは投資に当っては諸刃の剣ですね。私たちはチームに投資をするわけですが、そのチームの構成員が誰なのかわかりません。なので、こうして質問をするわけです。
 
 **thrice.pi**
-with all these outside parties that helped to build skycoin and bring it where it is today who are the main core team who will help to keep all these cool features running. Will these outside parties be recruited for the long haul?
+先ほどあげた人びとのなかで、メインのメンバーは誰になりますか？開発のために外部の人間も長期で雇われているのですか？
 
 **synth**
 
-> Who is the entity that is funding this? I think you have done 2 ICOs? How much did you receive? The first was 10c and the second was @ 50c per coin, released 6 million, is that correct?
+> どの組織が資金を提供しているのですか?ICOを２回やったようですが、いくらの資金を手に入れましたか?最初の各コインの値段は10セント、２回目は50セント、合計販売量は６百万個で間違いありませんか?
 
-The people who funded the project for the first four years, were early bitcoin and deep crypto people; who were unhappy with the fact that Bitcoin and the other alts did not seem concerned about the core issues at all. They gave us over 1200 bitcoin I think, over several years and did not ask for anything in return.
-The early Skycoin devs were doing academic research, architecture and new algorithms. Prototyping and simulation. The later stage people were more project managers and doing implementation.
-We did four ICOs for small amounts, to fund development and to allow developers working on the project to buy in. The first ICO I remember was at $0.10 per coin and the price now is about $4.00 per coin, so its up ~35x or 40x, but when you consider the Bitcoin price going from $100 to $3000, the increase has not been so much. lol (edited)
+最初の４年間に資金提供をしていたのは初期のbitcoinの関係者と、暗号技術の専門家です。Bitcoinや他のコインが根本的な問題と向き合おうとしないのに不満を覚えており、その課題を乗り越えようするSkycoinに資金を提供してくれました。合計で1200個のbitcoinがプロジェクトのために無償で与えられました。 
+Skycoinの初期は学問的研究、ネットワークの設計、新たなアルゴリズムのシミュレーションをやっていました。後期ではプロジェクトマネジメントや実装に重点が置かれています。
+私たちは小さな規模で４回のICOを行いました。プロジェクトのための資金集め、またプロジェクトに関わっていたデベロッパーたちへのコインの分配を目的としていました。最初のICOの値段は１コインあたり10セントで、現在の市場価格は4ドルです。既に35~40倍のリターンを出していることになります。もちろんビットコインの価格上昇に比べれば劣りますが。
 
 **arc-over-water**
-With the price up 35x in about 1 year, is it not now time to cool the run up and release another ICO? At what amount of coins released and what procedure?
+１年で35倍の価格上昇があったならば、次のICOをして価格上昇を落ち着ける時ではありませんか？もしそうであれば、どれくらいの量をどのように配布する予定ですか？
 
 **mike**
-Would Intel Edison or Joule, or Samsung Artik 10 work well as a Skywire wireless node? They have 2 Gb-8 Gb RAM, 8-64 Gg eMMC storage, 802.11n wireless, bluetooth, and some with Zigbee?
+Intel Edison、Joule、もしくはSamsung Artik 10はSkywirのワイヤレスノードとして機能しますか?スペックは2Gb-8GbのRAM、8-64Gg eMMC storage、802.11n wireless、 bluetooth、Zigbeeです。
 
 **synth**
 
->Have you personally been in Sky from the start? What members have? Who allocates the ICO money etc... I hope you understand that decentralization with investment is a two edged sword, we invest in people but we cannot know these people.... So... we question.
+>あなたはSkycoinの初期段階から関わっているのですか?誰が初期メンバーですか?ICOで得た資金を誰が配分するのですか？分散化されたプロジェクトというのは投資に当っては諸刃の剣ですね。私たちはチームに投資をするわけですが、チームの構成員が誰なのかわかりません。なので、質問をするわけです。
 
-I think there wer three different groups that merged together in first three years, that had similar objectives. Because the code was in different language. There was python, C code and then eventually golang and the golang code became the basis for the current codebase.
-The way the coin allocations work, is that it requires unamimious consent for releasing coins and it has to be for a specific, ear marked purpose and can be blocked by any of the devs.
-Then there is a pool of coins in bitcoin for various project managers to allocate. And that is an operational fund for paying developers, contractors, marketing etc. Then different people have different responsibilities.
-Then we also have corporate funding and sponsorship and some companies paying our full time devs etc, which helps a lot.
+当初は３つの異なるグループがありましたが、最初の３年で１つとなりました。それぞれが異なるプログラミング言語を使っており、python、C、golangで、golangのコードが現在のコードベースとなっています。
+コインの新規配布は、グループの全員からの同意が必要であり、具体的な目的が決まっている場合のみです。
+全体の資金源として、様々なプロジェクトマネジャーが使えるbitcoinがあります。デベロッパーや契約社員の給料、そしてマーケティング費用のためのオペレーションの資金です。
+また、企業からの後援も受け手います。フルタイムのデベロッパーの給料のための資金源です。
 
 **arc-over-water**
-Silicon Valley (TV SHOW) recently had their decentralized web running on a network or refrigerators? So i would guess, smart phones, smart gadgets? Home gadgets etc could add services and receive rewards from Sky?
+Silicon Valley (テレビ番組)の最近のエピソードで、分散化されたインターネットがスマート冷蔵庫のネットワークが登場しました。これはスマートフォン、スマート機器であれば同じように可能なわけですね?このような家庭機器もSkywireのノードとして機能して、報酬を受けることは可能なのですか？
 
 **mike**
-best would be a totally open source and publicly audited manufactured system on a chip for the nodes to prevent any backdoors. Even chip designers now don't really know what they're putting into the chips since they just drag and drop black boxes known as IP cores into the ASIC designs.
+理想は完全なオープンソースで、ノードに自動監査システムを組み込んで、バックドアを防ぐことでしょうね。今ではチップの製造者でさえ、自分たちがチップのなかに何を組み込んでいるのかわかっていないくらいです。IPコアなるブラックボックスをASICデザインに入れるだけの単純作業になっています。
 
 **synth**
 
->With the price up 35x in about 1 year, is it not now time to cool the run up and release another ICO? At what amount of coins released and what procedure?
+>１年で35倍の価格上昇があったならば、次のICOをして価格上昇を落ち着ける時ではありませんか？もしそうであれば、どれくらいの量をどのように配布する予定ですか？
 
-I think the Skycoin price has been doubling every 40 days, for as long as I can remember. However, it will still be years before it is in the top 20, its still a long way to climb. It took bitcoin years to go from 0 to $1, even though it was growing at 1% per day the whole time for six years.
+私の記憶が正しければ、Skycoinの値段は40日毎に2倍になっています。しかし、時価総額のトップ20に入るには数年かかるでしょう。 bitcoinでも1ドルの値段を付けるのに数年かかりました。6年間連続で毎日1%の価格上昇はありましたが。
 
-> best would be a totally open source and publicly audited manufactured system on a chip for the nodes to prevent any backdoors.
+> 理想は完全なオープンソースで、ノードに自動監査システムを組み込んで、バックドアを防ぐことでしょうね。
 
-we are going to use arm
+私たちはarmを使う予定です。
 
 **arc-over-water**
-IOTA is also working on their own hardware for nodes etc, Trinary asset is JINN
+IOTAもノードのためのハードウェアを製造しようとしています。
 
 **synth**
-all intel and AMD systems have remote management engine backdoors. So they are not safe for storing large amounts of coins.
-We also have alpine linux and special version of linux, that is 6 MB and has everything that is needed for running our toolchain. It will not have any binary blobs in the kernel or anything that we cant compile from source. It does not have systemd and does not have gli, but uses musl. And does not have openssl.
+全てのintelとAMDのシステムは遠隔操作でエンジンをバックドアできます。そのため、大量のコインを保管するには安全な選択肢ではありません。
+Skycoinのノードにはalpineバージョンのlinuxと独自のバージョンのlinuxがOSとして用意されています。6MBで全ての仕様が揃っています。カーネルにバイナリーブロブもなく、ソースから組み立てられないものは含まれていません。systemd、gli、opensslはなく、muslのみが使われています。
 
 **mike**
-so looks like the Samsung Artik 5 and 10 can run it no problem, they're ARM based. 25x35x4mm package for the Artik 10, Artik 5 is smaller, less powerful but has 2 separate antenna ports, nice for mesh networking with an omni and a directional antenna.
+SamsungのArtik5またはArtik10がノードとして稼働するのには問題なさそうですね。ARMを基盤にしていますし。サイズはArtik10で25x35x4mm、Artik5は少し小さいですが、２つのアンテナポートがあります。無指向性アンテナには向いているでしょう。
 
 **earlyarkinvestor**
-how does Ark compare to Lisk?
+ArkはLiskと比較してどうでしょうか?
 
 **synth**
 uploaded this image: 1923810435.jpg Add Comment
 
 **earlyarkinvestor**
-isn't Lisk trying to achieve interoperability between blockchains as well
+Liskは異なるブロックチェーン間の交流を可能にしようとしていますね。
 
 **synth**
 uploaded this image: 1433594905.jpg Add Comment
@@ -369,168 +368,166 @@ uploaded this image: 1432540863.jpg Add Comment
 uploaded this image: 2049465686.jpg Add Comment
 
 **mike**
-nice! looks like an ARM based server rack
-let me know if you need any help with it, see you're on solidworks, which I run as well.
+良い写真だ。ARMを基盤にしたサーバーラックのように見えます。
+必要があれば是非手伝いましょう。solidworks上でしたら、私もユーザーなので便利です。
 
 **synth**
-this is the skycoin cluster; it has 8 CPU boards; 4 cores per CPU, 2 GB of ram per CPU and 64 bit ARM processor. Only one program will run on each individual board, so there is compartmentalization and a physical gap so that compromising one process on a system does no allow all other processes on the system to be compromised
+これがSkycoinのクラスターです。8個のCPU板、CPU板毎に4つのコア、2GBのram、64bitのARMプロセッサーです。各CPU板で１つのプログラムが稼働するので、１つの部分に不具合が生じても、他の部分が正常に動くように設計されています。
 
 **mike**
-looks like 2 ethernet ports per board.
+各CPU板に2つのethernetのポートがありますね。
 
 **synth**
-and the hardware does not have the qualcom backdoors and is actually chinese equipment; and the backdoors are normally at the kernel level because they are not at hardware backdoors yet
-lol
+ハードウェアにはqualcomのバックドアもありません。これは中国製の機器になりますから。バックドアは通常においてカーネルレベルで行われ、ハードウェアのバックドアというのも現時点ではありませんが。 
 
 **mike**
-do they have SATA ports, maybe M.2 for storage?
+SATAポートはありますか？おそらく容量はM.2でしょうか?
 
 **synth**
-and we will hav an ARM openwrt router eventually too
-this model does not have SATA, but we have a model with SATA; you could hook up 16 2 TB drives, lol and download half the piratebay to your cluster (edited)
-the skycoin infrastructure is cluster based and designed for running across +300 computers, with one "node" deployed per computer. Eithe a CXO storage node, or a skywire SDN/meshnet node, or a VPN end point node or a consensus network, or skycoin node, etc. We have multiple node/application types.
-so this is a "personal cloud' by itself
-its not like StoreJ where you have other people storing your stuff; you are going to have ~5 clusters and 300 computers and can store your own files, on your own internet, on your own hardware. You do not need to go outside of your own network.
+最終的にはARMのopenwrtを使ったルーターも作る予定です。
+現在製造中のモデルはSATAがありませんが、SATAに対応するモデルもあります。16個の2TBドライブが接続できます。パイレートベイの半分のコンテンツを自分のクラスタにダウンロードするのも可能になりますね。
+Skycoinのインフラはクラスタを基礎にして、300個以上のコンピューターの間で稼働するようにデザインしてあります。各コンピューターで１つのノードです。 CXOのストレージノードまたはSkywireのSDN/meshnetノード、もしくはVPNのエンドポイントノード、合意形成ネットワーク、Skycoinの送金処理ノードなど、異なるアプリケーションとノードのタイプが存在します。
+これ自体がパーソナルクラウドとも言えるでしょう。
+StorJのように、他の人びとが自分のデータを保管するのではありません。5個のクラスタと300個以上のコンピューターからなる自身のインターネットに、自身のハードウェアに、ファイルを保管できるのです。自分のネットワークの外に出る必要はありません。 
 
 **mike**
-Have thought it'd be nice to have a board with an array of M.2 sockets to run SSD arrays without all the cables, have the busses shielded in circuit board.
+M.2ソケットの列があるCPU板があれば、SSDをケーブルなしに稼働させられますね。サーキット板にバスを内包させて。 
 
 **synth**
-yes, i think there will be m.2 eventually
-these actually use a microSSD for storage, and its 48MB/s
+M.2も最終的には実装されるでしょう。
+現行のものはストレージにmicroSSDを使っており、速度は48MB/秒です。
 
 **mike**
-any idea on the pricing on your ARM boards in quantity? We are looking at Intel for Bitseed V3, but ARM would be good to stay with, especially using your boards if there is SATA.
+このARM板はどれくらいの価格になりますか?IntelのBitseed V3を考えていますが、あなたの説明するARM板もよいかもしれません。SATAが付いていれば尚更。 
 
 **arc-over-water**
-Do you have a general idea of usable functions to be released next in what order? The first release was the Coin and wallet, then the ICOs and can you give a general future with dates if you can
+現実に使用可能な機能は次のどれが公開されますか?コインとウォレットが最初のリリースでした。将来の開発と公開予定を教えてください。
 
 **synth**
-the boards are $30 each and the memory for solid state, is actually more than the the cost of the CPU/RAM/board now. Which is sort of insane.
+板はそれぞれ30ドルですが、SSSのメモリはCPU/RAM板よりも高い値段です。これはおかしな話なのですが。
 
 **mike**
-so you have microSSD, what's maximum size? we shipping 1with Tb hard drives right now
+microSSDの最大サイズは何ですか?私たちは現在、1Tbのハードドライブを配布しているところです。
 
 **synth**
-Bitseed mike is going to help with this; so we can pool the boards and do a custom PCB
+Bitseed Mikeが手助けをしてくれる予定です。そうすれば板を集めてカスタムのPCBができます。
 
 **mike**
-yes, that's where we see the price jumps, is in RAM and eMMC costs.
-and it's hard to find low cost boards with SATA
+そこですね。RAMとeMMCのコストのせいで価格が跳ね上がります。
+低価格の板でSATAが付いているのもないですから。
 
 **synth**
-try the orange pi
-the price goes up 30% for SATA
+Orange Piがおすすめです。
+SATAになった途端に価格が30%上がります。 
 
 **mike**
-yes, very nice specs.
+Orange Piはスペックが優れていますね。
 
 **synth**
-eventually, we will make one that has custom PCB and is a pluggable blade server, I think.
+最終的には、オリジナルのカスタムPCBを製造して、ブレードサーバにしたいですね。 
 
 **mike**
-I like the Samsung Artiks for the tiny form factor for drone routers, cubesat/picosat possibilities.
-but like the fact that you are controlling much deeper down the supply chain with your boards.
+Samsung Artiksは省スペースパソコンで、ドローンルーター、cubesat/picosatの可能性もあってよいと思います。
+しかし、オリジナルの板を作り、サプライチェーンの深部を自身で管理できるというのは魅力的ですね。
 
 **synth**
-we only need ram, CPU, then microSD slot; and that is it. so the wifi and all this other stuff is just crap and its junk. We only have communication, storage and computation. So should be minimialist.
+必要なのは、ram、CPU、microSDスロットのみで、wifiやら他の部品はただの役立たずです。コミュニケーション、ストレージ、計算能力があれば十分です。ミニマリストですね。
 
 **mike**
-yes, we use very few of the ports on the pcduino nano, no need for video, audio, IR
+同意します。pcduino nanoにもいくつかのポートを使うだけで、ビデオやらオーディオ、その他の機能は必要ありませんしね。
 
 **synth**
-there is even open source FPGA toolchain and a one instruction computer with subtract and jump if not zero; and if you have ram and a byte array, could even compile down to that; which is trolling, but for signing transactions or something, you could operate at that level.
+オープンソースのFPGAツールチェインすら存在しますね。 a one instruction computer with subtract and jump if not zero; and if you have ram and a byte array, could even compile down to that; which is trolling, but for signing transactions or something, you could operate at that level.
 
 **mike**
-do you have a link for the FPGA. My favorite has been the ZYNQ 7000 series, but this sounds a lot lower cost.
+そのFPGAのリンクはありますか？私のお気に入りはZYNQ7000ですが、そのFGPAはかなり低コストになりそうです。
 
 **synth**
-I have to ask about the FPGA
+FPGAの詳細を調べてみます。
 
 **mike**
-Blue Canyon uses ZYNQ 7000 for their Cubesat bus.
+Blue CanyonはZYNQ7000をCubeSatのバスに使っていますよ。
 
 **synth**
-it is education company in shanghai
+上海にある教育事業をやっている会社のようです。
 
 **thrice.pi**
-i dont want to disrupt this communication u and mike have going on cuz its good to see you two discussing these things so please do continue..but i just a simple question that mike actually asked earlier which i didnt see a reply to..he asked what type of spes is needed to run a node for skycoin
+2人の会話を邪魔したくないのですが、1つだけ質問させてください。Mikeさんも先ほど聞いていましたが、Skycoinのノードが動作するために必要なスペックは何ですか？
 
 **synth**
-how much is it for cube sats for launch? 200 for 3 million?
+CubeSatの打ち上げにはいくらかかりますか?200個で3百万ドルくらいですか?
 
 **mike**
-it has dual core ARM with an attached FPGA and both analog and GIO, PWM
+デュアルコアのARMと附属のFPGA、GIOとPWMでしたかね。 
 
 **synth**
 
-> he asked what type of spes is needed to run a node for skycoin
+> Skycoinのノードが動作するために必要なスペックは何ですか？
 
-We are trying to keep to level where 2 Ghz arm board with 1 GB of ram can run it. ideally
+2GhzのARM板と1GBのRAMが動作するようにしたいと思います。理想的には、ですが。 
 
 **mike**
-50K per 1U satellite was the going rate, but that is coming down a lot.
+1U人工衛星につき5万ドルが市場価格ですが、値段は落ちてきています。
 
 **synth**
-skycoin is very minimalist; it much lower on resource usage than either bitcoin or ethereum; the bandwidth usage is less than 10 Kb/s
-*10 KB/s
+Skycoinはミニマリストです。bitcoinやethereumと比較してリソースの消費も非常に低く、帯域幅の仕様も10KB/秒以下となるでしょう。
 
 **thrice.pi**
-thank u..yes it doesn't sound like much at all..thank you for your reply @synth
-maybe i missed this answer but when is the next ico taking place
+返事をありがとうございました。
+次のICOはいつになりますか？
 
 **mike**
-so current Bitseed V2 can run it no problem. is dual core Arm with 1 Gb RAM, 1G ethernet and SATA, 4 Gb eMMC on board.
+現行のBitseed V2でノードは動作するのですね。デュアルコアのArm板で、1GBのRAM、1Gのethernet、SATA、4GBのeMMCというスペックです。
 
 **synth**
-the next ICO is just marketing event, but is july 20th I think
-and it is just run up before largest exchange listings and marketing and PR push etc
-oh, the dual core arm can run bitcoin and ethereum; that is amazing; ethereum should be CPU hog
+次のICOはマーケティング目的ですが、7月20日に実施されます。
+大きな取引所への上場とその他のマーケティング、PRの取り組みのはじまりとなるイベントです。
+デュアルコアARMであればbitcoinやethereumもマイニングできますね。
 
 **thrice.pi**
-how long is it on for ?
+ICOはどれくらいの期間開催されますか？
 
 **michaelthecryptoguy**
-also techbytes had a good question >>>>>Do we need to hold skycoin to run Skywire nodes or consensus nodes like masternodes from other coins?
+techbytesが良い質問をしていましたね。 >>>>> Skywireや合意形成アルゴリズムのノードとなるためにはSkycoinを保持する必要がありますか？例えば、他のコインでいうマスターノードのよう仕組みはありますか？ 
 
 **synth**
 
-> Do we need to hold skycoin to run Skywire nodes or consensus nodes like masternodes from other coins?
+> Skywireや合意形成アルゴリズムのノードとなるためにはSkycoinを保持する必要がありますか？例えば、他のコインでいうマスターノードのよう仕組みはありますか？ 
 
-No. We want to have some kind of freemum thing. If you are not paying coins, the nodes will allocate 20% of bandwidth for the free tier
-But you wont have congestion if you are paying, so much better service and speed, but we dont want people not being able to access a service or the network if they have no coins in the wallet
-but we need to cap the resource usage of the freemium tier, so that it does not get out of control or clog the network
+いいえ、それはありません。基本的なサービスは無料で提供したいと考えています。高品質なサービスを求める場合にはSkycoinが必要となります。コインを保持していない場合、ノードは帯域幅の20%のみをユーザーに提供するような仕組みです。
+有料のユーザーは通信がつまることもないですし、スピードも安定感もあるインターネットが使えます。しかし、コインがなければサービスが使えないような仕組みにはしたくありません。
+気をつけるべき点は、無料のユーザーの仕様上限を決め手、ネットワークが混雑し過ぎないようにすることでしょう。
 
 **michaelthecryptoguy**
-:excellent:
+なるほど、素晴らしい。
 
 **thrice.pi**
-@synth the ico in july for marketing purposes that u mentioned ...is that pertaining to what mike asked about when he asked "Will Skycoin still have the node subsidy plan for setting up and registering the mesh nodes like originally planned?" (edited)
+7月のICOはマーケティング目的だと言っていましたが、次の質問が指している内容も意図は同じですか？ "元々計画にあったように、Skywireのノード参加を促すための報酬を与える予定ですか？"
 
 **synth**
-it is easier to get people on network, without having to do anything; then they wil figure out the rest later and how to optimize it and setup a 32 node cluster and load coins in and learn linux and use a CLI and becoming a mining baron with a 10 Gbps uplink and physical cables to their neighbors and wifi nodes on their roof etc, lol
+人びとをネットワークに加わらせるのは比較的簡単です。一旦加わってしまえば、32のノードのクラスタをセットアップする方法、linuxの操作方法、コマンドラインの使い方、10Gbpsのアップリンクとケーブルをご近所に繋げて、屋根にwifiのノードを取り付けて、などのマイナーになるための作業を人びとは学ぶわけです。
 
 **thrice.pi**
 lol
 
 **mike**
-so looks like you're using the Orange Pi PC, one of the connector ports is the USB, the other ethernet. http://www.orangepi.org/orangepipc/ . These are nice cards. orangepi.org orange pi pc - Orangepi
+USBとethernetのポートが付いた仕様のOrange PiのPCを使うことになるようですね。. http://www.orangepi.org/orangepipc/ orangepi.org orange pi pc - Orangepi
 
 **synth**
-eventually, if you have 40 Ghz and directional antennas, satilites or drones make sense for long haul or relaying traffic between cities. I think if we can get this working, the "miners" and hardware innovation will be insane.
-We have guy who did PHD thesis on printing phased array and fractal antennas with organic semiconductor ink and he already wants to start companies to do antennas for skycoin "mining" hardware; but the software still needs a lot of work before they can start this insanity.
+40Ghzの指向性アンテナ、人工衛星、または街の間のトラフィックを輸送するにはドローンも有効ですね。もし実現されれば、マイナーとハードウェアのイノベーションはすさまじいことになるでしょう。
+Skycoinのメンバーに、有機半導体を用いたフェーズドアレイレーダー、フラクタルアンテナについて博士論文を書いた研究者がいます。彼は今すぐにでもSkycoinのマイニングハードウェアのためにアンテナを作りたいと言っていますが、まずはソフトウェアの開発を終えなければなりません。
 
 **mike**
-yes, that's what we were waiting for with Bitseed, been doing BTC fullnodes in mean time.
+Bitseedを使ってそれをやりたいですね。それまではBitcoinのマイニングで我慢しましょう。
 
 **thrice.pi**
-it seems skycoin is one hell of a coin..but it may be difficult to use for the everyday user to wrap their mind around..you think there is potential for something like ark to be used as a gateway to skycoin..so the everyday user can use something easy like arks network to link to something so broad, complex and revolutionary like skycoin ? @synth (edited)
+Skycoinの構想はものすごいですね。しかし、詳しくないユーザーにとっては、全貌を理解するのが難しそうです。例えば、そのためにarkをSkycoinのゲートウェイとして使うことは可能だと思いますか？そうすれば、シンプルで簡潔な仕様のArkを通して、普通のユーザーもSkycoinの革新的で複雑なネットワークに参加できます。
 
 **synth**
-i will give you the solid works files, so you can start manufacturing these in bulk; we do not have factory and even assembling 30 units at a time is difficult for us
+Mikeさん、あとで設計ファイルを送りますから、今からでもマイナーを組み立て始められますよ。まだ工場はなく、同時に30台のマイナーを組み立てるのも現段階では難しいのです。
 
 **thrice.pi**
-sorry if this has been addressed..i may of blinked and missed it with all these great questions (edited)
+上の質問が既にされていたとしたら失礼しました。どの質問もとても良いものですね。
 
 **mike**
 the antennas can be printed with graphene ink, have over 200 dB gain on a cubesat compatible form factor if done right.
