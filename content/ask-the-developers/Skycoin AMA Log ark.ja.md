@@ -38,7 +38,7 @@ Skycoin.netのsynthさん、ようこそ。本日はAMAのお時間をいただ�
 さて、いつもどおりにはじめましょうか。1度にする質問は２〜３個までにとどめるようにしてください。
 
 **dr10**
-短く、簡単な言葉でSkycoinの良いところを説明してくれますか？例えば、雑誌や暗号通貨に詳しくない人を相手に想定して。
+Skycoinの良いところを簡潔に説明してくれますか？例えば、雑誌や暗号通貨に詳しくない人を想定して。
 
 **mgaruccio**
 メッシュネットについて説明をお願いします。単なるノード間のMPLSネットワークですか？それとも何か大きな構想があるのでしょうか？ 
@@ -47,12 +47,12 @@ Skycoin.netのsynthさん、ようこそ。本日はAMAのお時間をいただ�
 やあやあ、synthさん。
 
 **tranzer**
-synthさん、質問があります。流通していないコインは、コールドウォレットに保管してあるのでしょうか？coinmarketcap.comによると、全供給量の部分的にしか現在は流通していないことになっています。あと、Skycoinが持つ、特にユニークな機能はなんでしょうか？
+synthさん、流通していないコインは、コールドウォレットに保管してあるのでしょうか？coinmarketcap.comによると全供給量の部分的にしか現在は流通していません。あと、Skycoinの特異的な機能はなんでしょうか？
 
 **synth**
-Skycoinを説明するのは難しいですね。なにせ６年間も開発が続けられてきた大きなプロジェクトですから、各部分がそれぞれの目的を持っています。 
-暗号通貨、コインの部分は、既に存在している合意形成アルゴリズムの問題を解決するために作られました。１秒あたりに300という送金の処理速度を誇ります。分単位ではなく、秒単位の話です。マイナーの役割をなくし、インフレ防止のためにブロック報酬をなくし、51%攻撃や他のマイニングに関する問題を解決しています。 
-そして、他にも多数のプロジェクトや実験段階のアイデアがあります (https://github.com/skycoin)。メッシュネットと分散化されたVPNのプロトタイプがあり、ネットワーク参加者はトラフィックを転送することで報酬を得られます。また、分散化されたソーシャルメディアのアプリケーション、P2Pのデータ複製・保管のためのアプリ、その他の実験的なプロジェクトがあります。変更不可なデータ構造に関するリサーチを重ね、次世代のインターネットの構想を実現化しています。このいくつかは革命的なプロジェクトだと思っています。
+Skycoinを簡潔に説明するのは難しいですね。６年間も開発が続けられてきた大きなプロジェクトですから、各部分がそれぞれの目的を持っています。 
+暗号通貨、コインの部分は、既に存在している合意形成アルゴリズムの問題を解決するために作られました。１秒あたりに300という送金の処理速度を誇ります。分単位ではなく、秒単位の話です。マイナーを必要とせず、インフレ防止のためにブロック報酬もありません。51%攻撃や他のマイニングに関する問題を既に解決しています。 
+そして、他にも多数のプロジェクトや実験段階のアイデアがあります (https://github.com/skycoin)。メッシュネットと分散型VPNのプロトタイプがあり、ネットワーク参加者はトラフィックを転送するために帯域幅を共有することで報酬を得られます。また、分散型ソーシャルメディアのアプリケーション、P2Pのデータ複製・収容のためのアプリ、その他の実験的なプロジェクトがあります。変更不可なデータ構造に関するリサーチを重ね、次世代のインターネットの構想を着々と実現に近づけています。いくつかは非常に革命的なプロジェクトです。
 
 **dr10**
 ネットワーク合意形成アルゴリズムの「Obelisk」はどのような仕組みで、よく知られている他のアルゴリズム（Proof of Work, Proof of Stake）とはどう違うのですか？
@@ -685,14 +685,12 @@ uploaded this image: Screenshot from 2017-06-29 14:41:55.png Add Comment
 空の広さにも限りがあるということですね!
 
 **mike**
-そこまで, just the current ongoing farce about Russian intervention in the election and supposed ties to Trump team members. War is the health of the corporate state.
-**mike**
-**mike**
+そこまで論理を飛躍させずとも、ロシアによるアメリカ大統領選挙への干渉、トランプ大統領とロシアの繋がりを考えてみてください。つまるところ、戦争の存在は企業的国家の健康度を示すものなのでしょう。
 
 **synth**
-terrorist attacks are now advertising events for nike; they are fighting each other for who gets the product placement in the latest ISIS attack. It keeps people glued to their televisions and otherwise people would not watch the news. Even terrorist attack keeps people on the television and the fortune 500 fight each other, to get the ad spots for the people glued their television.
-The governments and companies race in, like sharks with the latest "surveilence" bill to get the governments to buy billions of dollars of useless equipment from them. The government agencies all rush in to influence the press and get budget increases passed.
-Its just insanity. They only care about money.
+今やテロリストによる攻撃は、Nikeの宣伝広告と化しています。最新のISISによる攻撃のニュース報道に、どの会社の製品の広告掲載するかで競っているのです。このような報道があれば人びとはテレビに釘付けになりますから。逆にこのような事件でなければ、ニュースなど誰が見るでしょうか？テロリストによる攻撃は人びとをテレビに釘付けにし、そのチャンネルと時間の広告枠を確保しようとFortune 500の企業が争っているのです。
+政府や素早いサメのように国民を監視するための法案を作り、企業から必要のない機器を何兆円も買い集めるのです。政府機関は報道機関を操作して、予算の上乗せのための法案を通してしまいます。これは狂っている
+
 
 **mike**
 it would be very inconvenient to improve relations with Russia for those making money and expanding power over escalating global tensions.
