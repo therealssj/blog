@@ -527,75 +527,73 @@ Skycoinの構想はものすごいですね。しかし、詳しくないユー�
 Mikeさん、あとで設計ファイルを送りますから、今からでもマイナーを組み立て始められますよ。まだ工場はなく、同時に30台のマイナーを組み立てるのも現段階では難しいのです。
 
 **thrice.pi**
-上の質問が既にされていたとしたら失礼しました。どの質問もとても良いものですね。
+上の質問が既にされていたとしたら失礼しました。どの質問もとても良いものです。
 
 **mike**
-the antennas can be printed with graphene ink, have over 200 dB gain on a cubesat compatible form factor if done right.
+アンテナはグラフェンインクを使えばよいですよ。200dBの増加で、CubeSatとも相性がいいです。
 
 **michaelthecryptoguy**
-This would really help :dancing: people in third world countries turn into a :sun: (self :this:owned) Financial Services and Communications Company :bananadance::goodjob: :hadouken: Now we just need to find a way to get them a smartphone :partysaurus::tophat: (edited)
+これは良いプロジェクトですね。 :dancing: 第三世界に生きる個人の人間が :sun: (self :this:owned) 自ら金融機関とテレコム企業を代替することができるのです:bananadance::goodjob: :hadouken: あとは彼ら彼女らにスマートフォンを持たせる手段があれば完璧ですね :partysaurus::tophat: (edited)
 
 **mike**
-would very much like to do that, maybe come up with packaging which takes a lot less time to assemble, lower cost. though makerbeam is cool...
-that's been intent, have stationary nodes with storage, and open source modular mobile with mesh networking, which can achieve global penetration with secure, encrypted networking.
+マイナーの構築にはとても興味があります。組み立てに時間がかからない、低コストのパッケージングを考えつく必要があるかもしれませんね。ストレージ機能のある定位置のハードウェアのノードと、メッシュネットの付いたオープンソースのモジュラーモバイル。安定な、暗号化されたグローバルネットワーキングがSkycoinによって実現されるわけですね。
 
 **synth**
-yes, stationary, moving nodes creates a lot of problems
-skywire only works because its it designed to run over point-to-point segments and not for "mobile adhoc networking" where people are moving around
+定位置であるのが重要です。ノードが動いては問題が色々ありますから。
+Skywireが可能なのも、ポイント・ツー・ポイントのセグメント上で動作するです。モバイルアドホックネットワーキングのように、人びとが動き回る場合には不可能です。 
 
 **arc-over-water**
-Do you have a basic program product release? Is it correct at them moment it is just the wallet?
+Skywireの基本的なプログラムは公開されていますか?現時点ではウォレットのみが公開されているのでしょうか?
 
 **mike**
-so the routing tables don't update that often?
+そうなると、ルーティングテーブルは頻繁には更新されないわけですね?
 
 **synth**
-https://github.com/skycoin has a lot of different applications
-https://github.com/skycoin/bbs works right now
-the routing tables only change on new connection; so you make ~10 connections to a pubkey and if some drop you create new ones. so there is redundancy in the path and transit method. "diversity routing"
-where as the direct connections between nodes are supposed to change less frequency, such as not more often than 10 seconds. Ideally never changing. any change to underlying physical connectivity, causes update cascade and is a change to network topology (should be minimized).
-Where as connection dropping or routes being or connection established, does not change network topology and has no administrative overhead in bandwidth.
-short range, mobile ad hoc routing needs to be handled by another protocol like BATMAN, while fixed infrastructure like WIFI hotspots, fiber between cities, ethernet cables etc is handled by the skywire stuff; so if you enter a coffee shop and connect and are there for 30 minutes, then you are fine; but if you are driving down the street connecting to different hotspot every 5 seconds, its not designed for that and needs another protocol layer for "mobile"
+https://github.com/skycoin こちらでSkycoinの様々なアプリケーションが見られます。
+https://github.com/skycoin/bbs 現時点で既に動作しているものです。
+ルーティングテーブルは新しい接続先が見つかったときのみ更新されます。例えば、10個以下の接続先を公共鍵に結びつけたとして、何個かが接続を解除したので、新たな接続先を見つけるとします。これはパスと転送方法に冗長性があることを意味しています。ダイバーシティルーティングと言います。
+ノード間の直接接続の変わる頻度は少なく、10秒間隔以下が標準になります。もちろん、決して変わらないのが理想的です。物理的な接続に関する変化は更新の波を引き起こし、ネットワークのトポロジーを変化させてしまいます。この変化は最小に抑えられなければなりません。
+接続の中断、新規接続やルートの確立はネットワークのトポロジーを変化させず、帯域幅にも影響を与えません。 
+近距離のモバイルアドホックルーティングはBATMANのような別のプロトコルを必要とします。逆に、WiFiのホットスポット、都市間のファイバー、イーサーネットケーブルのように固定化されたインフラは、Skywireで代替可能になります。例えば、コーヒーショップにいって、30分間の接続をするのは大丈夫です。しかし、車を運転しながらの異なるホットスポットに5秒毎に接続するようなことはできません。モバイルには別のレイヤーのプロトコルが必要になります。
 
 **mike**
-so nodes can move if the transmission is not interrupted, like a beam forming antenna could do it as long as the beams can be moved fast enough to not interrupt the communication.
+つまり、情報の転送が邪魔されなければノードは動いても大丈夫なのですか？ビームフォーミングアンテナで、ビームの速度が限りなく速くできれば、コミュニケーションを邪魔することもありません。これならばノードが動いても大丈夫になるでしょう。
 
 **mike**
-so nodes can move if the transmission is not interrupted, like a beam forming antenna could do it as long as the beams can be moved fast enough to not interrupt the communication.
-see update, they are ok even if some interruption.
-makes sense though, works fine for having like mini cell tower and access points, hand held mobile is another protocol if moving from cell to cell.
+情報の転送が邪魔されなければノードは動かせます。
+小さなタワーやアクセスポイントでは実現可能かもしれません。手のひらサイズのモバイル機器だとしたら他のプロトコルが必要になるでしょうが。
 
 **synth**
-yes, phased array would be fine; or signal interrupted for second or even if signal goes out every hour for and hour and comes back on
-but fundamental changes to network topology are more annoying, because everyone involved in routing across the whole network has to get notified; so you actually have to do the updates peer to peer, over CXO; and eventually network has to be segmented so that each node belongs to one or more routing/subscription domains that are partitioned in a sane way
-in the current internet the number of hops between two people can be ~40 or 80 or just some insane number; in skycoin it will be 4 or a max of 7. etc, from house to neighborhood, to city, to city/country and then to destination. It wont appear as 40 physical hops, that can each have their own independent congestion
-the advantage of phased array, is that you just throw it on your roof and it can scan for whoever it can connect it; and then can connect to different people or best person, without having to climb up on roof and ajust anything; the beam focus is on software control
-i like the BBS and VPN, because we do not need to build a physical new internet to run them; we can just tunnel over the existing internet and its useful. It will take years before we see a hardware alternative to the existing internet. Even people are installing 100,000 nodes a month and its growing at 1% per day, it would still take 10 or 15 years until it could replace the existing internet.
-There is just so much equipment installed and even if growth rate is massive, it will take forever.
+フェーズドアレイレーダーもよいでしょう。シグナルが数秒、もしくは数時間途切れたとしても、また戻ってこれば問題ありません。
+しかし、ネットワーク・トポロジーへの根本的な変化の場合は影響が出ます。ネットワーク全体のルーティングに関わる人たち全員が通知を受けるからです。そのためP2PでCXOを通して更新がされなければなりません。最終的にネットワークはセグメント化される必要があります。それぞれのノードが、区画化されたルーティング、登録ドメインに属するようになります。
+現行のインターネットでは2者間のホップ数は40か80だったか、とにかく正気でない数字です。Skycoinではホップ数は最大でも7、平均では4になります。家庭から近所、近所から都市、そして国、目的地へと転送されます。
+フェーズドアレイレーダーの利点は、屋根に設置するだけで、誰でも接続可能な相手に接続されるということです。他の人につなぎ直したり、最も条件のよい相手に自動的につながれるのです。屋根に上がってアンテナの向きを調整したりする必要もありません。ソフトウェアによってビームはコントロールされるのです。 
+BBSとVPNは私のお気に入りのアプリケーションです。なぜなら、物理的に新たなインターネットを作らなくても、それらは動作するからです。既に存在するインターネット上でも役に立つアプリケーションです。実際にハードウェアのレベルでインターネットの次の姿が表れるのは数年後の話でしょう。 例え、月間10万人がノードをインストールして、毎日1%のペースで成長しても、現在のインターネットを代替するためには10年から15年はかかるでしょう・
+機材もたくさん必要になりますので、例え成長速度が驚くべきものとなっても、実現には長い時間が必要とされます。
 
 **mike**
-yes, this is what i like about it, much easier for automated set-up than pointing antennas, even with motorized directional. had thought of using low frequency for nodes to transmit gps coordinates to locate each other, then point highest possible frequency for range to connect at each other.
+その点は私も気に入っています。手動ではなく、自動調整されるアンテナは必要不可欠ですね。低い周波数を設定して、ノードがGPS機能を使って互いを探せるようにするのもよいかもしれません。そして高い周波数を互いに接続するためのものとするのです。 
 
 **synth**
-the VPN will be big application; hardware vpn, whole house VPN; you plug it in and it VPNs your whole house and all your connections
-the ISPS are allowed to sell all the data they collect now
-and you can start hardware blocking the IP addresses for ad servers and tracking servers and so on; and different vpn end point for each device on the lan and be able to rotate them out automatically
-what will happen, is that all the torrent sites and communities will be driven underground; and when that happens, the downloads will eventually be blocked or slowed by ISPS and you will need a "new internet" to really get a lot of the content that is available to people now.
-Five years ago, there was no point in doing this. Today the motivations are emerging, that will drive people to something new
-and another thing is that reddit has been overrun with bots; controlling all the upvotes and content now. And corporations have completely taken over and subverted facebook and twitter.
-People are going to be looking for decentralized platforms and there will be a mass movement to the platforms that can solve the bot manipulation problem, the shilling problem and the company owned by corporate money whore sellout problem.
-so there were attempts at a building decentralized twitters and facebooks, but five years ago there was not a need; now people are ready to siwtch and the technology is ready.
-the skycoin project is building the base layer, then the communities are building their own projects. We are just giving them the tools.
+VPNはSkycoinの主要アプリケーションとなるでしょう。ハードウェアVPN、家全体のVPNです。接続すれば、家全体のコネクションがVPNを通したものとなります。 
+インターネットサービス・プロバイダは現在、集めたデータを自由に売ることができるようになっています。
+これに対して、ハードウェアの段階で広告やトラッキングサービスに紐付けられているIPアドレスをブロックできるようになります。ローカルネットワーク内の異なるデバイスにはそれぞれのVPNエンドポイントが割り当てられ、デバイス間で自動的にスワップすることも可能になります。
+今後、全てのトレントサイトやコミュニティはアンダーグラウンドに追いやられるでしょう。そして、インターネットサービスプロバイダーによってダウンロード速度が調整、またはブロックされるようになるでしょう。このときこそ、新たなインターネットの出番です。将来的にブロックされるコンテンツを、今と同じように自由にアクセスできるようにするための場所です。
+5年前であれば問題なかった話でしょう。しかし、今日、新たなものを必要とする環境が整いつつあります。 
+他には、redditのようなオンライン掲示板がボットによって荒らされ、投票数やコンテンツが操作されている問題もあります。フェイスブックやツイッターは企業によって完璧に支配されてしまいました。
+このような状況で、人びとは分散型のインターネットを求めるようになるでしょう。ボット操作の問題、金による広告の操作、金による情報操作など、数ある現行のインターネットの問題を解決できる新しいプラットフォームへの、大規模な移動が始まるのです。
+分散型のツイッターやフェイスブックを作ろうとする試みは以前もありましたが、5年前には必要ありませんでした。現在、人びとも技術も移行を始めることができる段階に入っています。
+Skycoinはこの最も基礎的なレイヤーを作っており、コミュニティがアプリケーションを開発しています。私たちはただ、ツールを提供するだけなのです。 
 
 **mike**
-Yes, like as an example, twitter made my sign-up email public, had no idea, was getting spammed all the sudden, finally found out why when I went to twitter to stop getting multiple copies of a privacy notice.
-Would very much like to bridge skycoin with Ark, so Ark runs on top of this VPN, and advantage is that your VPN is trustless, or at least much more decentralized than relying on a single VPN provider, which is 100% reliant on trust.
+ネットの集権化の問題は深刻になりつつあります。例えば、私のツイッターアカウントで、理由もなくメールアドレスが公にされてしまったことがありました。重複していたプライバシー通知を止めてもらうように頼みにツイッターに行ったら、その理由もわかりましたが。 
+SkycoinとArkをつなげて、SkycoinのVPN上でArkが稼働するようにしたいですね。SkycoinのVPNは他の選択肢と比べて非常に分散化されています。
 
 **xano**
-How do you feel the incredible potential for illegal activities will affect the future of Skycoin and mass adoption?
+違法行為に最高の環境だという印象を抱いたのですが、これはSkycoinの将来と大衆による受容にどう影響を与えるでしょうか?
 
 **charles**
-I also don't quite understand how skycoin solves the bots on reddit
+Skycoinがどのようにredditのボット問題を解決するのかわかりません。
 
 **xano**
 Almost everyone loves free movies, series and music, but what if ISIS starts using it for example
