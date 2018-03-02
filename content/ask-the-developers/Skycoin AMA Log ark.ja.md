@@ -689,69 +689,70 @@ uploaded this image: Screenshot from 2017-06-29 14:41:55.png Add Comment
 
 **synth**
 今やテロリストによる攻撃は、Nikeの宣伝広告と化しています。最新のISISによる攻撃のニュース報道に、どの会社の製品の広告掲載するかで競っているのです。このような報道があれば人びとはテレビに釘付けになりますから。逆にこのような事件でなければ、ニュースなど誰が見るでしょうか？テロリストによる攻撃は人びとをテレビに釘付けにし、そのチャンネルと時間の広告枠を確保しようとFortune 500の企業が争っているのです。
-政府や素早いサメのように国民を監視するための法案を作り、企業から必要のない機器を何兆円も買い集めるのです。政府機関は報道機関を操作して、予算の上乗せのための法案を通してしまいます。これは狂っている
-
-
-**mike**
-it would be very inconvenient to improve relations with Russia for those making money and expanding power over escalating global tensions.
-
-**arc-over-water**
-wasnt the first main scandal trump attack that he weed on some prostitutes in Russia. OMG
-
-**synth**
-they have oil companies and russia produces oil; so hey want any execuse for "sanctions" to force people to buy their oil instead of russian oil. They would do a war, just to stop any Russian oil pipeline to Europe.
-It just about money.
-
-**arc-over-water**
-Putin is actually kicking some ass with his speeches the last years.
-
-**synth**
-if russia gave me free prostitutes, I would pee on them too, lol. Why not? (edited)
+政府や素早いサメのように国民を監視するための法案を作り、企業から必要のない機器を何兆円も買い集めるのです。政府機関は報道機関を操作して、予算の上乗せのための法案を通してしまいます。
+これは狂っているでしょう。金のためなら何でもやるということです。
 
 **mike**
-don't forget Pussygate - the press sat on the tape for 10 years until 3 weeks before the election, instead of during the primaries.
+ロシアとの関係改善は、世界各国の関係悪化から金を儲け、権力を拡大している連中にとっては不都合でしょうね。 
 
 **arc-over-water**
-crazy shit out there...
-time for crypto to shine..
+トランプ大統領の最初のスキャンダルは、たしかロシアの娼婦とマリファナに関するものでしたね。やれやれ。
+
+**synth**
+トランプ一族は石油関連の企業を持っており、ロシアは産油国です。なので、人びとがロシアからの石油を買わないようにするため、制裁という名の言い訳が欲しかったのです。ロシアがヨーロッパに石油のパイプラインを作るのを止めるために、戦争ですら厭わないでしょうね。
+要するに、全ては金だということでしょう。
+
+**arc-over-water**
+プーチン氏は去年のスピーチで悔しそうにしていましたね。
+
+**synth**
+ロシアが私に無料で娼婦を用意してくれるなら、彼女らに向かって放尿でもしてみましょうか?極論を言えば、そういうことでしょう(笑)。
+
+**mike**
+Pussygateのスキャンダルもありました。報道機関は例のテープの存在を10年間も知っていたにも関わらず、大統領予備選挙の時点では公開しませんでした。あのニュースが発表されたのも本選挙の3週間前になってからでした。 -
+
+**arc-over-water**
+おかしな世の中になっているからこそ...
+暗号通貨が必要とされている時代なのでは..
 
 **xano**
-I just wonder how services like mega would have ended up with Skycoin
+megaのようなサービスがSkycoinと一緒になっていたら、今頃はどうなっていたのでしょう?
 
 **synth**
-the "Y2K" was also excuse, to sell tens of billions of dollars of "upgrades" to government and corporations. They told them "give us your money or the sky will fall".
-terrorism is the same story, its just turned into a money making scam. 90% of the surveilence crap is just companies finding excuses to lobby the government to buy over priced equipment, so they can make money. They do no even know what to do with the data they collect. They are doing insider trading and rigging markets and all sorts of crap with the data and then panicing when people start using HTTPS because its harder for them to keep making money the same way.
+"Y2K"も、何兆ドルもするアップグレード版の機器やソフトウェアを政府や企業に売りつけるための言い訳でした。「私たちに金を払わなかったら世界が終わるぞ」というのは強力な宣伝文句だったのでしょう。
+テロリズムも同じように、金を作るためのスキャムに成り果てています。人びとの活動を監視しようとする動きの90%は、企業が政府にロビー活動をして、高額な機器を売りつけるための言い訳にすぎないのです。集めた情報をどうしていいのか、政府にはわかっていないのです。インサイダートレーディングや市場操作、その他の違法行為が集められたデータを元に行われているのです。そしてHTTPSが普及し始めると彼らは途端にパニックに陥りました。トラックがさらに難しく、今までのように集めたデータを使って金儲けをできなくなるからです。
 
 **arc-over-water**
-Mega2 is about to show its prototypes
+Mega2のプロトタイプはもうすぐ発表されますよ。
 
 **synth**
-you have mom and pop local police departments, buying $150,000 string ray cell phone interception equipment that is NSA level, who could not even afford it, but its paid for out of 10 billion dollar DHS "terror" fund to buy useless equipment for local police. To "fight terrorism". Its really a joke.
+地方の小さな警察署に、NSAが使うような、15万ドルの携帯電話用盗聴器が用意されていました。NSAでさえ予算の事情で買えないような代物です。地方の警察署が全く必要のない機材を買うための資金は、私たちの税金で作られた1000億ドルのDHSというファンドから支払われています。「テロリズムを撲滅するために」というのは冗談ですね、本当に。
 
 **arc-over-water**
-Sky list of aims over the next two years?
-Next ICO cost and how it will be released?
+Skycoinの今後2年間の目標は何でしょうか?
+次回のICOの値段と、どのように公開されるかについて教えてください。
 
 **synth**
-people know that companies like apple and goolge are required to hand over all their data to the government. including messages, so why would anyone use imessanger or icloud?
-So they are staging fake events with "police cant break the 4 digit pin on an iPhone and its unbreakable" when they can actually trojan the phone from the carrier, etc and have all sorts of insane mandatory backdoors.
-So we are heading towards a decentralized internet and these new apps, as people get sick of being tracked like animals.
+AppleやGoogleのような企業が政府に全てのデータを渡さなければならないというのは人びとも知っています。しかし、それでもiMessageなどを使うのはなぜでしょう?
+消費者を安心させるためのフェイクニュースがばら撒かれています。例えば、「iPhoneの4桁の暗号は警察でさえ破れなかった。この暗号技術は解読不可能である」と言ったような話がありましたが、実際には、携帯電話会社に対してトロイの木馬を仕掛ければ、ありとあらゆるバックドアにアクセスすることが可能なのです。
+これらのことを知っている人たちは、分散型インターネットと関連するアプリケーションを選ぼうと思うのです。あたかも動物かのように追跡されるのは我慢ならないことでしょう。
 
 **michaelthecryptoguy**
-@synth What is your background? Can you tell me a little about your prior experience, regardless of what area it was in? (edited)
+Synthさん、あなたのバックグラウンドはどういうものですか？どんな分野だったかは構わず、どのような経験をこれまで積まれてきたのでしょうか？
 
 **synth**
+> Skycoinの今後2年間の目標は何でしょうか?
 
-> Sky list of aims over the next two years?
-
-Get meshnet working Get BBS and first demo apps working Get VPN working and get it to users List on more exchanges Build up community Improve the wallet, fix website, translations into more languages ec
+メッシュネットの実用化、BBSの実用化、VPNの実用化、新しい取引所への上場、コミュニティの形成、ウォレットの改善、ウェブサイトのデザイン変更、多言語への翻訳、ですね。
 
 **arc-over-water**
-Also the two Chinese guys who wrote the technical whitepaper, the scholars, are part of the team?
+Skycoinの技術に関するホワイトペーパーを書いた2人の中国人の研究者もチームの一員ですか?
 
 **synth**
-@synth What is your background? Can you tell me a little about your prior experience, regardless of what area it was in?
-I did a lot of things. video games, hedge fund/finance, crypto, investment stuff etc... Now am I a sort of project manager.
+>Synthさん、あなたのバックグラウンドはどういうものですか？どんな分野だったかは構わず、どのような経験をこれまで積まれてきたのでしょうか？
+
+>Synthさん、あなたのバックグラウンドはどういうものですか？どんな分野だったかは構わず、どのような経験をこれまで積まれてきたのでしょうか？
+色々ですね。. video games, hedge fund/finance, crypto, investment stuff etc... Now am I a sort of project manager.
 
 **charles**
 How will the price of skycoins be determined for the next ICO, I, suppose it cannot be above market price, else people would not buy it, but too far below would depreciate the coin
