@@ -1,5 +1,5 @@
 +++
-title = "SkycoinのSynth氏によるAMA(@ark.io)"
+title = "Skycoinに関するQ&A(@ark.io)"
 tags = [
     "Ask the Developers",
 ]
@@ -12,9 +12,9 @@ bounty = 12
 description = "Log of AMA with Skycoin held at ark.io/slack/ (from 2017-07-02)"
 +++
 
-*この対談は2017年2月に[ark.io slack](https://ark.io/slack/)で行われたものです。*
+*この会話は2017年2月に[ark.io slack](https://ark.io/slack/)で行われたものです。*
 
-*synth氏はSkycoinの代表としてAMA(Ask Me Anything)に参加しました。*
+*synth氏はSkycoinの代表としてAMA(Ask Me Anything=Q&Aセッション)に参加しました。*
 
 **boldninja**
 Skycoin.netのsynthさん、ようこそ。本日はAMAのためにお時間をいただき、ありがとうございます。
