@@ -1,5 +1,5 @@
 +++
-title = "Skycoin PSA: Onwards and upwards SkyArmy!"
+title = "Skycoin PSA: Onwards and upwards SkyNation!"
 tags = [ "Statement", ]
 bounty = 0
 date = "2018-03-02"
@@ -10,17 +10,17 @@ Lots of work going on at Skycoin, and lots of exciting news to share: We are mov
 
   
 
-### New Official r/Skycoin & r/Skytrader Reddits
+# New Official r/Skycoin & r/Skytrader Reddits
 
 The Skycoin official Reddit community is moving to [r/Skycoin](http://www.reddit.com/r/skycoin). The old r/skycoinproject subreddit will be closing down on Monday, March 5th. This subreddit will be for official news, events, and serious questions.
 
   
 
-All memes, price and trading discussion, and less serious discussions will take place in our community club house at [r/Skytrader](http://www.reddit.com/r/skytrader). This is where the SkyArmy can hang out, throw up some stickers, let loose and have fun.
+All memes, price and trading discussion, and less serious discussions will take place in our community club house at [r/Skytrader](http://www.reddit.com/r/skytrader). This is where the SkyNation can hang out, throw up some stickers, let loose and have fun.
 
   
 
-### First In A Series Of AMAs To Feature Synth
+# First In A Series Of AMAs To Feature Synth
 
 To kick off the new community home, an AMA is scheduled with Synth, and the community can submit their questions for him [here](https://www.reddit.com/r/skycoin/comments/815pn2/skycoin_official_ama_collecting_questions_for_the/). Questions will be collected until Friday, March 2nd, and answers will be posted on Monday, March 5th. See the link above for details.
 
@@ -30,7 +30,7 @@ Thereafter, a new AMA will be taking place on Reddit every 2 weeks or so on a di
 
   
 
-### Skycoin Expands Marketing Team
+# Skycoin Expands Marketing Team
 
   
 
@@ -42,11 +42,11 @@ Great things are coming for Skycoin in 2018 and it is time to take marketing and
 
   
 
-Of course, none of this can be achieved without you, the community, our SkyArmy. We will be calling on you to help as much as possible in the future. Stay tuned, stay ready.
+Of course, none of this can be achieved without you, the SkyNation community. We will be calling on you to help as much as possible in the future. Stay tuned, stay ready.
 
   
 
-### Reaffirming The Skycoin Vision
+# Reaffirming The Skycoin Vision
 
   
 
