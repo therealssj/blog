@@ -17,7 +17,7 @@ description = "Log of AMA with Skycoin held at ark.io/slack/ (from 2017-07-02)"
 *synth氏はSkycoinの代表としてAMAに参加しました。*
 
 **boldninja**
-Skycoin.netのsynthさん、ようこそ。本日はAMAのお時間をいただき、ありがとうございます。
+Skycoin.netのsynthさん、ようこそ。本日はAMAのためにお時間をいただき、ありがとうございます。
 
 **synth**
 どうも、こんにちは。
@@ -437,10 +437,10 @@ Samsung Artiksは省スペースパソコンで、ドローンルーター、cub
 同意します。pcduino nanoにもいくつかのポートを使うだけで、ビデオやらオーディオ、その他の機能は必要ありませんしね。
 
 **synth**
-オープンソースのFPGAツールチェインすら存在しますね。 a one instruction computer with subtract and jump if not zero; and if you have ram and a byte array, could even compile down to that; which is trolling, but for signing transactions or something, you could operate at that level.
+オープンソースのFPGAツールチェインとコマンドが1つのコンピューターがあり、 RAMとバイト配列にまで圧縮することも可能です。処理に著名をするくらいのことであれば、そのレベルでも十分に動作できますから。
 
 **mike**
-そのFPGAのリンクはありますか？私のお気に入りはZYNQ7000ですが、そのFGPAはかなり低コストになりそうです。
+FPGAのリンクはありますか？私のお気に入りはZYNQ7000ですが、そのFGPAはかなり低コストになりそうです。
 
 **synth**
 FPGAの詳細を調べてみます。
@@ -505,10 +505,10 @@ techbytesが良い質問をしていましたね。 >>>>> Skywireや合意形成
 7月のICOはマーケティング目的だと言っていましたが、次の質問が指している内容も意図は同じですか？ "元々計画にあったように、Skywireのノード参加を促すための報酬を与える予定ですか？"
 
 **synth**
-人びとをネットワークに加わらせるのは比較的簡単です。一旦加わってしまえば、32のノードのクラスタをセットアップする方法、linuxの操作方法、コマンドラインの使い方、10Gbpsのアップリンクとケーブルをご近所に繋げて、屋根にwifiのノードを取り付けて、などのマイナーになるための作業を人びとは学ぶわけです。
+人びとをネットワークに加わらせるのは比較的簡単です。一旦ネットワークに加わってしまえば、32のノードのクラスタをセットアップする方法、linuxの操作方法、コマンドラインの使い方、10Gbpsのアップリンクとケーブルをご近所に繋げて、屋根にwifiのノードを取り付けて、などの面倒なマイナーの手順でも人びとは学ぶわけです。
 
 **thrice.pi**
-lol
+笑
 
 **mike**
 USBとethernetのポートが付いた仕様のOrange PiのPCを使うことになるようですね。. http://www.orangepi.org/orangepipc/ orangepi.org orange pi pc - Orangepi
@@ -633,10 +633,10 @@ lispで書かれたコインはいつ生まれるのでしょうか？ :slightly
 golangにも対応可能なようです。素晴らしい!
 
 **boldninja**
-https://github.com/ArkEcosystem/ark-go GitHub ArkEcosystem/ark-go ark-go - Ark GO client for ARK.io blockchain ecosystem #golang #ark #blockchain
+https://github.com/ArkEcosystem/ark-go GitHub ArkEcosystem/ark-go ark-go - ArkのブロックチェーンのためのGOクライアント #golang #ark #blockchain
 
 **mike**
-lisp - それも良いでしょうね!まだlispが存在していることは驚きですが、機械学習のアプリケーションによく使われるようですね。lispも追加する必要があります。arc-over-waterが担当してくれるのでしょうか?
+lisp - それも良いでしょうね!まだlispが存在するのは驚きですが、機械学習のアプリケーションによく使われるようですね。lispも追加する必要があります。arc-over-waterが担当してくれるのでしょうか?
 lispは並行処理の機能を開発するのに向いていそうですが、詳しくは知りません。
 
 **arc-over-water**
@@ -877,106 +877,105 @@ Skywireのノードを稼働する報酬としてコインを分配する必要�
 ICOをするときに、参加者のことを知っているとよいでしょうね。
 
 **synth**
-there are people who own a large percentage of ETH and they want to diversify; they can gamble 20 million in an ICO and could make 50x more, but if they lose it, then its a slight loss; they have so much ETH that they cannot even sell it or convert it, without tanking the market
+Ethereumは少人数の大量保有者がおり、できれば投資先を分散させたいと考えています。2千万ドルをICOにつぎ込んで50倍のリターンを狙うこともでき、例え損失が出ても、それは少額になるでしょう。この人たちはあまりにも大量のEtherを持っているため、市場に影響を与えないレベルで売ったり、他のトークンに変換したりができないのです。 
 
 **arc-over-water**
-in one day every altcoin slack member of every altcoin could get a btc address used once in their pm, allowed a max amount sent etc..
+slackのメンバー全員にメッセージをして、ICO参加のためのbitcoinの送り先と上限を指定する、くらいのことをするのには1日もかかりませんが..
 
 **synth**
-yes, ideally, that might work
-we have been doing OTC sales at market price; with a cap of 10 BTC and that works well
+それができれば理想的です。
+私たちは市場価格でOTCの販売をしてきました。購入量は10BTCが上限で、うまく機能してきました。
 
 **arc-over-water**
-do the OTC reflect in the blockchain? (edited)
+OTCで購入されたコインはブロックチェーンに記録されるのですか? 
 
 **synth**
-but we have single whales that want to put in 700 BTC and each one individually, is larger than whole individuals doing the OTC sales
-OTC is "over the counter", or direct sale; when people private message a developer and ask to buy
+700BTC分もの購入額を設定してきたユーザーがいました。これは全体のOTCの販売量を上回る金額でした。 
+OTCは相対取引または直接販売を意味します。購入者がデベロッパーに直接メッセージをして、購入する方法です。
 
 **arc-over-water**
-ok so private sales are happening
+そうすると、プライベートセールは開いているということですね。
 
 **mike**
-uploaded and commented on this image: TEC chart.png 1 Comment Here is a sample method based on power law for pricing I have planned for Ark based Token Exchanges for projects, including funding Ark/Skycoin based nodes. As more as sold, the price increses by a power law so people can enter at the irsk and expected ROI combination they feel comfortable without being pressured into hasty emotional decisions by FOMO.
+uploaded and commented on this image: TEC chart.png 1 Comment ArkとSkycoinのノードを含めて、Arkを基盤にしたトークン取引所の価格設定のサンプルを作ってみました。売られれば売られるほど値段は上がる仕組みなので、自らの許容範囲内のリスクとリターンでプロジェクトに参入できます。FOMOによる投資決定を防ぐためです。
 
 **mike**
-*irsk=risk
-so entering on any part of the curve looks the same as any other part.
+このため、どの段階で参入しても、リスクとリターンの組み合わせの曲線は変わらないようになっています。
 
 **synth**
-hmmm
-how does this work?
-the more money you put in, the more you pay?
+これはどういう仕組でしょうか?
+自分の投資額が大きければ大きいほど、単価が高くなるということですか?
 
 **arc-over-water**
-but as you do these OTC sales it reflects here in distributed? http://explorer.skycoin.net/blocks
+OTCで販売されたコインによる流通量の増加は反映されるのですか? http://explorer.skycoin.net/blocks
 
 **mike**
-here is a link to the spreadsheet, has the formulas and table of calculations for the graph, https://docs.google.com/spreadsheets/d/1en9lqzBIuHgp0-Q3ohoq3yJUe1lJcOK9U4bF2TiXZew/edit?usp=sharing
-yes, the more that is put in, the higher the price.
-it will take some experience to determine the best parameters to prevent instant sell-off while not stalling the exchange indefinitely, and different project might be best suited for different exchange rates over time period.
+グラフの計算の元となった数式はこちらでチェックできます。
+https://docs.google.com/spreadsheets/d/1en9lqzBIuHgp0-Q3ohoq3yJUe1lJcOK9U4bF2TiXZew/edit?usp=sharing
+そうです、投資額が大きければ、単価も上がる仕組みです。
+投げ売りを防ぐための最もよいパラメーターを考案するには経験が必要です。それぞれのプロジェクト、タイムラインに適した為替レートがあるでしょうから。
 
 **synth**
-we have a really good strategy now
-We can distribute coins to top content producers on the BBS
-to people doing bountries (like skycoin logo, sticker design etc)
-to people who want to do development (mobile wallet etc, some features for bbs and bug fixes)
-Then massive substained distribution, over time to the people running the skywire nodes.
-Then disribution also to nodes hosting content on CXO.
-Then distribution to people coming on to platform who are bringing user communities with millions of people (we have been talking to these people for years and they do not have real developers, so we have to help them; they only have web designers and curators and community managers but cannot actually develop anything new).
+Skycoinの分配計画はとても良いものだと思っています。
+BBSで最も良いコンテンツを作っているユーザーにコインを付与するのです。
+また、Skycoinのロゴやスティッカーのデザインのための、バウンティーに参加している人びと、
+モバイルウォレットやBBS、バグ修正などの開発をやってくれる人たちにも付与しています。
+そして、Skywireのノードを稼働している人たちへの、大規模な報奨金を予定しています。
+CXOにコンテンツをホストしているノードにも報奨金が与えられます。
+最後に、これからインターネット上からダークネットへと移行していくであろう、巨大なコミュニティの管理人たちへの報奨金があります。Skywireへの移行については数年間をかけて管理人たちと話を進めてきました。これらのコミュニティではデベロッパーの人手が足りないので、私たちが補助しなければなりませんが。
 
 **mike**
-like a long term term ArkSpace project for space exploration and development will be sold over a lot longer time frame than funding an index coin bridged to Ark.
-yes, and either way, the project can award blocks of tokens to contributors other than just for money.
-I'm a fan of the Slicing Pie method.
+例えば、宇宙探索のための長期計画であるArkSpaceには長期視点の投資が必要になります。逆に、Arkに紐付けられたコインの売買のタイムラインは短期です。
+どちらにせよ、プロジェクトの発展のために仕事をしてくれる人たちにトークンを付与するのは良いことです。
+資源を独占するよりも、分け合うやり方には私も賛成します。パイの共有戦略ですね。
 
 **arc-over-water**
-Ok so your saying it will be between 1%-10% next month to get funding and start the marketing campaign. Then after that distribution then there are monthly small releases of ICO and the majority being bounties for services rendered. and nodes etc
+つまり、来月には供給量の1%-10%のコインがICOで販売され、得られた資金を使ってマーケティングを開始するのですね。 ICOの後にも小規模のオークションが毎月行われ、また、プロジェクトに貢献した人びとへコインの付与が行われる予定だということで理解しました。
 
 **mike**
-http://slicingpie.com/ Slicing Pie Perfect Equity Splits for Bootstrapped Startups Slicing Pie is a formula that allows founders to create a PERFECTLY FAIR equity split between founders, investors, partners and employees. (92kB)
-Skycoin is very similar, but doing it manually with adjustment.
+http://slicingpie.com/ パイの共有戦略は、創始者、投資家、パートナー、従業員の間で、完全に公平な株式の分配を可能にする方法です。t
+Skycoinも似たやり方をとっていますが、手動での調整も合わせて行っていますね。
 
 **synth**
-yes
-what i am interested in, is if we can block the BBS up and get alot of users with the incentives
-every dollar in coins we sold over OTC, drove the skycoin market cap up $4
-we would sell coins, then price explodes the next week; because people promote it on twitter and blog about it
-skycoin needs to get on more exchanges
+そのとおりです。
+私がやりたいのは、BBSのコンテンツと報酬を充実させ、大量のユーザーを呼び込むことです。
+OTCで販売してきたコインにつぎ込まれてきた金により、Skycoinの価格は4ドルまで上がりました。
+私たちがコインを売る度に、次の週には価格が跳ね上がるのです。保有者がツイッターやブログで宣伝をするからです。
+Skycoinはもっとたくさんの取引所に上場しなければなりませんが。
 
 **synth**
-I have to sleep now. LMAO. We should end AMA soon
+さて、そろそろ私の寝る時間になりました。これくらいでAMAを終えましょう。
 
 **arc-over-water**
-cool thanks for your time... haha 3.17 am here
+どうも今日はありがとうございました... こちらは午前3時17分です。
 
 **synth**
-4 hours?
+私たちは4時間も話していたのですか?
 
 **dr10**
 XD
 
 **synth**
-is there an archive for the AMA?
+このAMAはアーカイブに保存されるのですか?
 
 **dr10**
-reddit hopefully :joy:
+redditでしょうね。 :joy:
 
 **michaelthecryptoguy**
-Thank You for taking your time to answer everything in complete detail. It was nice that you cared enough to make sure everything was answer very thoroughly.
+詳細な情報提供を感謝します。全ての質問に対して漏れなのない答えをいただきました。
 
 **boldninja**
-@michaelthecryptoguy can you copy everything and make it reddit friendly?
-thanks @synth for taking the time for this AMA it was :mindblown: really interesting stuff
+@michaelthecryptoguy この会話をコピーして、redditのフォーマットに合わせてくれますか?
+synthさん、今晩はありがとうございました。非常に興味深い話ばかりで、驚きと学びに満ちていました。
 
 **techbytes**
-marathon session today.
+今日のマラソンセッションはこれにて終了です。
 
 **michaelthecryptoguy**
-I sure can. As long as jarunik hasn't already started. (edited)
+redditには私が保存しておきますよ。jarunikがまだやっていないようでしたら。
 
 **mike**
-Thank you very much for joining us synth, please stop by again.
-I will also be continuing to check in on skycoin slack for updates as well,
+今日はどうもありがとうございました。またいつでもお越しください。
+Skycoinのslackをチェックして、アップデートに目を光らせていますよ。
 [skycoin.herokuapp.com](https://skycoin.herokuapp.com)
-The closer the integration of Skycoin with Ark, the better.
+SkycoinとArkの統合の日が訪れるのを楽しみにしています。
