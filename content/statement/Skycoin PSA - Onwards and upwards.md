@@ -1,4 +1,10 @@
-+++ title = "Skycoin PSA: Onwards and upwards SkyArmy!" tags = [ "Statement", ] bounty = 0 date = "2018-03-02" categories = [ "Statement", ] +++
++++
+title = "Skycoin PSA: Onwards and upwards SkyArmy!"
+tags = [ "Statement", ]
+bounty = 0
+date = "2018-03-02"
+categories = [ "Statement", ]
++++
 
 Lots of work going on at Skycoin, and lots of exciting news to share: We are moving Reddit community to [r/Skycoin](http://www.reddit.com/r/skycoin), submit questions for AMA with Synth. Our marketing team is expanding, and we reaffirm our vision and mission to change the world.
 
