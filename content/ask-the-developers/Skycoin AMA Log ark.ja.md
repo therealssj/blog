@@ -965,7 +965,7 @@ redditでしょうね。 :joy:
 詳細な情報提供を感謝します。全ての質問に対して漏れなのない答えをいただきました。
 
 **boldninja**
-@michaelthecryptoguy この会話をコピーして、redditのフォーマットに合わせてくれますか?
+@michaelthecryptoguy redditの形式に合わせて、今日のAMAを保存してくれますか?
 synthさん、今晩はありがとうございました。非常に興味深い話ばかりで、驚きと学びに満ちていました。
 
 **techbytes**
