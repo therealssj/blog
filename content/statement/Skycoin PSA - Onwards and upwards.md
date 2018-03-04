@@ -1,5 +1,5 @@
 +++
-title = "Skycoin PSA: Onwards and upwards SkyNation!"
+title = "Skycoin PSA: Onwards and upwards SkyFleet!"
 tags = [ "Statement", ]
 bounty = 0
 date = "2018-03-02"
@@ -16,7 +16,7 @@ The Skycoin official Reddit community is moving to [r/Skycoin](http://www.reddit
 
   
 
-All memes, price and trading discussion, and less serious discussions will take place in our community club house at [r/Skytrader](http://www.reddit.com/r/skytrader). This is where the SkyNation can hang out, throw up some stickers, let loose and have fun.
+All memes, price and trading discussion, and less serious discussions will take place in our community club house at [r/Skytrader](http://www.reddit.com/r/skytrader). This is where the SkyFleet can hang out, throw up some stickers, let loose and have fun.
 
   
 
@@ -42,7 +42,7 @@ Great things are coming for Skycoin in 2018 and it is time to take marketing and
 
   
 
-Of course, none of this can be achieved without you, the SkyNation community. We will be calling on you to help as much as possible in the future. Stay tuned, stay ready.
+Of course, none of this can be achieved without you, the SkyFleet community. We will be calling on you to help as much as possible in the future. Stay tuned, stay ready.
 
   
 
@@ -55,3 +55,6 @@ We strongly believe that digital currency should empower all users to trade in a
   
 
 That is why we have created the Skycoin ecosystem, to solve the problems nobody else will. Join us, join the revolution, and let’s change the world together.
+
+
+{{< vimeo 258430020 >}}
