@@ -55,6 +55,3 @@ We strongly believe that digital currency should empower all users to trade in a
   
 
 That is why we have created the Skycoin ecosystem, to solve the problems nobody else will. Join us, join the revolution, and let’s change the world together.
-
-
-{{< vimeo 258430020 >}}
