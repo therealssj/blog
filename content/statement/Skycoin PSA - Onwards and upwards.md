@@ -1,6 +1,6 @@
 +++
 title = "Skycoin PSA: Onwards and upwards Skyfleet!"
-tags = [ "Statement", ]
+tags = [ "Announcements", ]
 bounty = 0
 date = "2018-03-02"
 categories = [ "Statement", ]
