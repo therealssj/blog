@@ -1,6 +1,6 @@
 +++
 title = "Skycoin Now Trading on Cryptowolf"
-tags = [ "Statement", ]
+tags = [ "Announcements", ]
 bounty = 0
 date = "2018-03-05"
 categories = [ "Statement", ]
