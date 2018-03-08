@@ -16,7 +16,7 @@ Here’s a little more information on the two events where we will speaking.
 
 
 
-# [**Blockchain Unbound**](https://blockchainunbound.com/)
+# [Blockchain Unbound](https://blockchainunbound.com/)
 **Date:** 14 - 16th March, 2018
 
 **Location:** Condado Vanderbilt Hotel, San Juan, Puerto Rico
@@ -28,7 +28,7 @@ Here’s a little more information on the two events where we will speaking.
 **Description:**  More than 45 globally recognized speakers and panelists will discuss key issues including profitable trading strategies, new blockchain and crypto technologies, regulatory issues and coin offering strategies in conjunction with the Puerto Rico Department of Economic Development and the Governor’s office.
 
 
-# [**CoinAgenda Caribbean**](https://coinagenda.com/)
+# [CoinAgenda Caribbean](https://coinagenda.com/)
 **Date:** 17th - 19th March, 2018
 
 **Location:** La Concha Resort, San Juan, Puerto Rico
