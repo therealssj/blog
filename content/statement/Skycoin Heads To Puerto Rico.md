@@ -10,7 +10,7 @@ categories = [ "Statement", ]
 
 It is our pleasure to announce that the Skycoin Team will be attending the Blockchain Unbound and CoinAgenda Caribbean conferences in Puerto Rico this month to present our vision to the public and speak about our future development and plans. We were invited to join the elite of blockchain and cryptocurrency speakers to spread the news about Skycoin and its reputation as one of the best projects in cryptocurrency.
 
-Our team will be represented by Synth (Co-founder), Jonathan Wilson (Brand Evangelist), Daken Freeborn (Events Manager) and Matt Oksa (Public Relations).
+Our team will be represented by Synth (Co-founder), Jonathan Wilson (Brand Evangelist), and Daken Freeborn (Events Manager).
 
 Here’s a little more information on the two events where we will speaking.
 
