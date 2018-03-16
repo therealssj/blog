@@ -1,6 +1,6 @@
 baseURL = "https://www.skycoin.net/blog"
 languageCode = "en-us"
-title = "Skycoin Blog"
+title = "Blog"
 defaultContentLanguage = "en"
 
 relativeURLs = true
@@ -24,20 +24,35 @@ pygmentsStyle = "murphy"
     note = "/note/:year/:month/:day/:slug/"
 
 [[menu.main]]
-    name = "Posts"
-    identifier = "posts"
-    url = "/"
+    name = "Home"
+    identifier = "home"
+    url = "https://www.skycoin.net"
     weight = 1
 [[menu.main]]
-    name = "Categories"
-    identifier = "categories"
-    url = "/categories/"
+    name = "Blog"
+    identifier = "blog"
+    url = "/"
     weight = 2
 [[menu.main]]
-    name = "Tags"
-    identifier = "tags"
-    url = "/tags/"
+    name = "Explorer"
+    identifier = "explorer"
+    url = "https://explorer.skycoin.net"
     weight = 3
+[[menu.main]]
+    name = "Wallet"
+    identifier = "wallet"
+    url = "https://www.skycoin.net/downloads/"
+    weight = 4
+[[menu.main]]
+    name = "Team"
+    identifier = "team"
+    url = "https://www.skycoin.net/team/"
+    weight = 5
+[[menu.main]]
+    name = "Ecosystem"
+    identifier = "ecosystem"
+    url = "https://www.skycoin.net/ecosystem/"
+    weight = 6        
 
 [[menu.footer]]
   name = "skycoin.net"
@@ -85,7 +100,7 @@ pygmentsStyle = "murphy"
 [Languages]
 [Languages.en]
   weight = -1
-  title = "Skycoin Blog"
+  title = "Blog"
   languageName = "English"
 
 [Languages.zh]
@@ -96,47 +111,47 @@ pygmentsStyle = "murphy"
 
 [Languages.ru]
   weight = 2
-  title = "Skycoin Блог"
+  title = "Блог"
   languageName = "Русский"
 
 [Languages.ko]
   weight = 3
-  title = "Skycoin 블로그"
+  title = "블로그"
   languageName = "한국어"
 
 [Languages.es]
     weight = 4
-    title = "Skycoin Blog"
+    title = "Blog"
     languageName = "Español"
 
 [Languages.de]
     weight = 5
-    title = "Skycoin Blog"
+    title = "Blog"
     languageName = "Deutsch"
 
 [Languages.ja]
     weight = 6
-    title = "Skycoin Blog"
+    title = "Blog"
     languageName = "日本語"
 
 [Languages.el]
     weight = 7
-    title = "Skycoin Blog"
+    title = "Blog"
     languageName = "Ελληνικά"
 
 [Languages.fr]
     weight = 8
-    title = "Skycoin Blog"
+    title = "Blog"
     languageName = "Français"
 
 [Languages.pt]
     weight = 9
-    title = "Skycoin Blog"
+    title = "Blog"
     languageName = "Português"
 
 [Languages.it]
     weight = 10
-    title = "Skycoin Blog"
+    title = "Blog"
     languageName = "Italiano"
 
 [[menu.languages]]

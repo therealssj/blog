@@ -40,29 +40,14 @@
 <body>
   <header class="header">
     <div class="header__wrapper">
-      <div class="header__topnav">
-        <a href="https://www.skycoin.net" class="header__link">&larr; skycoin.net</a>
-        <div class="js-dropdown header-dropdown">
-          {{ $currentLang := .Site.Language.LanguageName }}
-          <div class="js-dropdown-current header-dropdown__current">{{ $currentLang }}</div>
-          <div class="js-dropdown-list header-dropdown__list">
-            {{ range .Site.Menus.languages }}
-              <a class="js-dropdown-item header-dropdown__item {{ if eq $currentLang .Name }} header-dropdown__item_active {{ end }}" href="{{ .URL }}">{{ string .Name }}</a>
+        <a href="https://www.skycoin.net">
+          <img class="logo" alt="Skycoin Blog" src="{{ "/images/logo-outlined.svg" | relURL }}" />
+        </a>
+        <nav class="nav">
+            {{ range .Site.Menus.main }}
+              <a class="nav__item {{if eq .Identifier "blog" }}nav__item--active{{end}}" href="{{ .URL | relLangURL }}">{{ .Name }}</a>
             {{ end }}
-          </div>
-        </div>
-        <a href="{{ .Site.Params.rss }}" target="_blank" class="btn btn--pill btn--outline btn--blue header__btn">Subscribe (RSS)</a>
-      </div>
-
-      <a href="/">
-        <img class="logo" alt="Skycoin Blog" src="{{ "/images/logo-outlined.svg" | relURL }}" />
-      </a>
-
-      <nav class="nav">
-        {{ $currentPage := . }}
-        {{ range .Site.Menus.main }}
-          <a class="nav__item {{if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }}nav__item--active{{end}}" href="{{ .URL | relLangURL }}">{{ .Name }}</a>
-        {{ end }}
-      </nav>
+            <a href="https://www.skycoin.net/downloads" target="_blank" class="btn">BUY SKYCOIN</a>
+        </nav>
     </div>
   </header>

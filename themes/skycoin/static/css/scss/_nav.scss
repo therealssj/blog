@@ -1,17 +1,21 @@
 .nav {
-  width: 100%;
-
   &__item {
-    font-size: 0.9375rem;
-    color: $black;
+    padding-top: 0.25rem;
+    padding-bottom: 0.25rem;
+    color: $blue;
     text-decoration: none;
-    font-weight: $font-weight-bold;
-    font-family: $font-family-mono;
-    margin-right: 2.5rem;
+    margin-right: 2rem;
+    height: 40px;
+    padding-left: 5px;
+    padding-right: 5px;
 
-    &:hover,
+    &:hover, &--active {
+      color: $dark-gray;
+    }
     &--active {
-      text-decoration: underline;
+      border-bottom-width: 2px;
+      border-bottom-color: $blue;
+      border-bottom-style: solid;
     }
 
     &:last-of-type {
