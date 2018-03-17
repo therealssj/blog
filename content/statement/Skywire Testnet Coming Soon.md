@@ -8,6 +8,7 @@ categories = [ "Statement", ]
 
 {{< youtube id="yl6FtLUKVZw" autoplay="true" >}}
 
+
 Our esteemed development team is proud to announce that the Skywire testnet is ready for launch ahead of schedule. Skywire is the foundation upon which the Skycoin platform will be built.  Skywire's uses range from operating our innovative web-of-trust consensus algorithm, Obelisk, to operating an end-to-end encrypted distributed internet that all Skycoin holders will ultimately gain free access to via the Coin Hour system.
 
 Stay tuned for the official launch date coming soon! The Skycoin team will be unveiling the Skywire testnet with a series of technical and community posts to keep you all informed and involved in this exciting next step for blockchain technology.
