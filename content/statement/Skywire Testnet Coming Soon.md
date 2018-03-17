@@ -1,10 +1,10 @@
- +++
- title = "Skywire Testnet Coming Soon"
- tags = [ "Announcements", ]
- bounty = 0
- date = "2018-03-17"
- categories = [ "Statement", ]
- +++
++++
+title = "Skywire Testnet Coming Soon"
+tags = [ "Announcements", ]
+bounty = 0
+date = "2018-03-17"
+categories = [ "Statement", ]
++++
 
 https://www.youtube.com/watch?v=yl6FtLUKVZw
 
@@ -16,4 +16,4 @@ All official Skyminers that have been shipped will be authorized to participate 
 
 Check out our [recent infographic](https://www.skycoin.net/blog/infographics/skycoin-digest-skywire-overview/) for an overview of Skywire, and stay tuned for the exciting details to follow soon.
 
-![](https://raw.githubusercontent.com/skycoin/blog/master/content/img/Skyminer-Launch-Announcement.jpg)
+![Skywire Testnet Coming Soon](https://raw.githubusercontent.com/skycoin/blog/master/content/img/Skyminer-Launch-Announcement.jpg)
