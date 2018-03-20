@@ -9,7 +9,10 @@ date = "2018-02-03"
 categories = [
     "Infographics",
 ]
-image = "img/Skycoin-Cryptocurrency-Values.jpg"
+[image]
+    url = "img/Skycoin-Cryptocurrency-Values.jpg"
+    type = "image/jpg"
+    length = 436215
 +++
 
 ## Here's what we stand for...

@@ -7,9 +7,11 @@ date = "2017-09-08"
 categories = [
     "Statement",
 ]
+[image]
+    url = "img/obelisk-the-skycoin-consensus-algorithm.png"
+    type = "image/jpg"
+    length = 920655
 +++
-
-![Obelisk l'Algorithme de Consensus de Skycoin](/img/obelisk-the-skycoin-consensus-algorithm.png)
 
 La chaîne de blocs (ou blockchain) de Skycoin utilise un nouvel algorithme de consensus appelé « Obelisk »  qui remplace à la fois la Preuve de Travail (Proof of Work ou PoW) et la Preuve de Participation (Proof of Stake ou PoS).
 

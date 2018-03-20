@@ -10,9 +10,11 @@ categories = [
     "Overview",
 ]
 author = "johnstuartmill"
+[image]
+    url = "img/obelisk-the-skycoin-consensus-algorithm.png"
+    type = "image/png"
+    length = 920655
 +++
-
-![Obelisk Skycoin Konsens-Algorithmus](/img/obelisk-the-skycoin-consensus-algorithm.png)
 
 <!-- MarkdownTOC autolink="true" bracket="round" -->
 

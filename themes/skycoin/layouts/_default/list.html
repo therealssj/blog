@@ -2,6 +2,11 @@
 
 <main class="list">
     {{ if .Title }}
+      {{ if ne .Title .Site.Title }}
+      <a class="back_link" href="{{ "/" | relLangURL }}">
+        <img src="{{ "images/icArrow_2x.png" | absURL }}" /> Back
+      </a>
+      {{ end }}
       <h1 class="list__title">{{ .Title }}</h1>
     {{ end }}  
     <div class="list__container">
@@ -11,7 +16,7 @@
           {{ range $paginator.Pages }}      
             <li class="list__item">
                 {{ if .Params.image }}
-                  <img src="{{ .Params.image | relURL }}" class="list__image">
+                  <img src="{{ .Params.image.url | relURL }}" class="list__image">
                 {{ else }}
                   <img src="{{ "img/default.png" | relURL }}" class="list__image">
                 {{ end }}

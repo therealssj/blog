@@ -6,8 +6,8 @@
   </a>
   <div class="post__container">
     <section class="post__content">
-      {{if .Params.image}}
-        <img  src="{{.Params.image | absURL }}">     
+      {{if .Params.image }}
+        <img  src="{{ .Params.image.url | relURL }}">
       {{ end }}
       <div class="meta">
         {{ if .Params.date }}

@@ -9,7 +9,10 @@ date = "2018-02-03"
 categories = [
     "Infographics",
 ]
-image = "img/Why-do-we-need-a-free-internet.jpg"
+[image]
+    url = "img/Why-do-we-need-a-free-internet.jpg"
+    type = "image/jpg"
+    length = 1115628
 +++
 
 

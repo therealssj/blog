@@ -7,9 +7,11 @@ date = "2017-09-08"
 categories = [
     "Statement",
 ]
+[image]
+    url = "img/obelisk-the-skycoin-consensus-algorithm.png"
+    type = "image/png"
+    length = 920655
 +++
-
-![Obelisk 스카이코인 합의 알고리즘](/img/obelisk-the-skycoin-consensus-algorithm.png)
 
 스카이코인 블록체인은 채굴 기반("PoW")와 스테이크 기반("PoS")를 모두 대체하는 
 "Obelisk"라는 신개념 합의 알고리즘을 사용합니다.
