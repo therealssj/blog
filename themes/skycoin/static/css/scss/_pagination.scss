@@ -1,5 +1,5 @@
 .pagination {
-  @include container($container-width-base);
+  @include container($container-width-base, false);
   display: flex;
   flex-direction: row;
   margin-top: 60px;

@@ -15,13 +15,19 @@
         <ul class="list__list">
           {{ range $paginator.Pages }}      
             <li class="list__item">
-                {{ if .Params.image }}
-                  <img src="{{ .Params.image.url | relURL }}" class="list__image">
-                {{ else }}
-                  <img src="{{ "img/default.png" | relURL }}" class="list__image">
-                {{ end }}
-                <span class="list__meta">{{ .Date.Format "Jan 2 2006" }}</span>
-                <a class="list__link" href="{{ .URL | relLangURL }}">{{ .Title }}</a>
+                <div class="list__item-inner">
+                  {{ if .Params.image }}
+                    <div class="list__item-image">
+                      <img src="{{ .Params.image.url | relURL }}" class="list__image">
+                    </div>
+                  {{ else }}
+                    <div class="list__item-image">
+                      <img src="{{ "img/default.png" | relURL }}" class="list__image">
+                    </div>
+                  {{ end }}
+                  <span class="list__meta">{{ .Date.Format "Jan 2 2006" }}</span>
+                  <a class="list__link" href="{{ .URL | relLangURL }}">{{ .Title }}</a>
+                </div>
             </li>
           {{ end }}
         </ul>

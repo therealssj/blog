@@ -4,6 +4,9 @@ $breakpoint-sm: 640px;
 $breakpoint-md: 832px;
 $breakpoint-lg: 1024px;
 
+$screen-sm: 40rem;
+$screen-md: 52rem;
+
 // Typography
 $font-family-mono: "Inconsolata", monospace, sans-serif;
 $font-family-sans: "Skycoin", sans-serif;
@@ -23,6 +26,7 @@ $gray: #92A4BA;
 $light-gray: #EFF0F0;
 $pale-grey: #F7F7F7;
 $dark: #101F34;
+$white: #fff;
 
 // Container widths
 $container-width-base: 70rem;

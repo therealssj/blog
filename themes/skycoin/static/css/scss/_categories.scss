@@ -1,5 +1,7 @@
+.categories-container {
+  @include container($container-width-base, false);
+}
 .categories {
-  @include container($container-width-base);
   height: 60px;
   background-color: #F4F9FF;
   padding: 20px 10px;
