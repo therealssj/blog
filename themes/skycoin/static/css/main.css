@@ -715,7 +715,9 @@ a {
 .signup {
   margin-top: 60px;
   background-image: url(../images/bg-signup.png);
-  color: white; }
+  background-size: cover;
+  color: white;
+  padding: 20px 0; }
   .signup__container {
     margin-left: auto;
     margin-right: auto;
@@ -727,21 +729,49 @@ a {
     flex-direction: row;
     justify-content: flex-end; }
   .signup__wrapper {
+    width: 100%;
     min-height: 122px;
-    width: 58rem;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
     align-items: center;
     flex-wrap: wrap; }
+  .signup__form {
+    width: 100%; }
+    @media screen and (min-width: 52rem) {
+      .signup__form {
+        width: 50%; } }
+    .signup__form-image {
+      display: none;
+      text-align: right; }
+      @media screen and (min-width: 52rem) {
+        .signup__form-image {
+          display: block;
+          width: 15%; } }
+    .signup__form-label {
+      width: 100%;
+      text-align: center; }
+      @media screen and (min-width: 52rem) {
+        .signup__form-label {
+          width: 35%; } }
+    .signup__form-group {
+      position: relative; }
   .signup__label {
     font-size: 20px;
     font-weight: bold; }
   .signup .btn {
-    font-family: "Skycoin", sans-serif;
-    width: 195px;
+    width: 100%;
     height: 44px;
-    margin-left: -3rem; }
+    margin-left: 0;
+    margin-top: 20px;
+    font-family: "Skycoin", sans-serif; }
+    @media screen and (min-width: 40rem) {
+      .signup .btn {
+        position: absolute;
+        top: 0;
+        right: 0;
+        margin-top: 0;
+        width: 8.7rem; } }
   .signup .mc-field-group {
     font-family: "Skycoin", sans-serif;
     display: flex;
@@ -757,12 +787,32 @@ a {
   .signup .email {
     height: 44px;
     border-radius: 1000px;
-    width: 321px;
+    width: 100%;
     color: white;
     background: transparent;
     border: solid 1px white;
+    margin-top: 20px;
     padding-left: 24px;
-    padding-right: 4rem; }
+    padding-right: 24px;
+    font-family: "Skycoin", sans-serif; }
+    .signup .email:focus {
+      outline: none; }
+    .signup .email::-webkit-input-placeholder {
+      font-family: "Skycoin", sans-serif;
+      color: #fff; }
+    .signup .email::-moz-placeholder {
+      font-family: "Skycoin", sans-serif;
+      color: #fff; }
+    .signup .email:-ms-input-placeholder {
+      font-family: "Skycoin", sans-serif;
+      color: #fff; }
+    .signup .email:-moz-placeholder {
+      font-family: "Skycoin", sans-serif;
+      color: #fff; }
+    @media screen and (min-width: 40rem) {
+      .signup .email {
+        margin-top: 0;
+        padding-right: 8.7rem; } }
 
 .telegram {
   background-color: #F7F7F7; }
