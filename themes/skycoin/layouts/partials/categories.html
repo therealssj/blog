@@ -1,13 +1,15 @@
-<section class="categories">
-  <a class="arrow" href="javascript:;" onmousedown="startScroll(-5)" onmouseout="stopScroll()" onmouseup="stopScroll()"><i class="prev"></i></a>
-  <ul class="categories__list">
-    {{ range $name, $taxonomy := .Site.Taxonomies.categories }}
+<section class="categories-container">
+  <div class="categories">
+    <a class="arrow" href="javascript:;" onmousedown="startScroll(-5)" onmouseout="stopScroll()" onmouseup="stopScroll()"><i class="prev"></i></a>
+    <ul class="categories__list">
+      {{ range $name, $taxonomy := .Site.Taxonomies.categories }}
       <li class="categories__item">
-        <a href="{{ "/categories/" | relLangURL }}{{ $name | urlize }}">{{ $name }}</a>        
+        <a href="{{ "/categories/" | relLangURL }}{{ $name | urlize }}">{{ $name }}</a>
       </li>
-    {{ end }}
-  </ul>
-  <a class="arrow" href="javascript:;" onmousedown="startScroll(5)" onmouseout="stopScroll()" onmouseup="stopScroll()"><i class="next"></i></a>
+      {{ end }}
+    </ul>
+    <a class="arrow" href="javascript:;" onmousedown="startScroll(5)" onmouseout="stopScroll()" onmouseup="stopScroll()"><i class="next"></i></a>
+  </div>
 </section>
 <script type="text/javascript">
   var scrollInterval;
