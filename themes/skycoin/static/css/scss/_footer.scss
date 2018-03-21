@@ -1,26 +1,58 @@
 .footer {
-  min-height: 6.25rem;
-  display: flex;
-  flex-wrap: wrap;
-  align-items: center;
-  justify-content: center;
-  padding: 1rem;
+  background-color: $dark;
 
-  &__link {
-    margin-top: 0.5rem;
-    color: $gray;
-    width: 100%;
-    text-align: center;
+  &__container {
+    @include container($container-width-base, true);
+  }
 
-    @media (min-width: $breakpoint-sm) {
-      margin-left: 0;
-      margin-top: 0;
-      margin-right: 2.5rem;
-      width: auto;
+  &__menu {
+    padding-bottom: 56px;
+    padding-top: 80px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
 
-      &:last-of-type {
-        margin-right: 0;
+    .nav__item {
+      color: white;
+      margin-left: 1rem;
+
+      &:hover {
+        color: $gray;
       }
+    }
+  }
+
+  &__social {
+    border-top: 1px solid rgba(255, 255, 255, .12);
+    border-bottom: 1px solid rgba(255, 255, 255, .12);
+    padding: 24px 0;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+
+    a {
+      padding: 16px 0;
+      width: 8.333333333333332%;
+      text-align: center;
+    }
+  }
+
+  &__copyright {
+    padding: 40px 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between; 
+    color: $gray;
+
+    a {
+      color: $gray;
+    }
+  }
+
+  .languages {
+    & a:not(:first-of-type):before {
+      content: ' · '
     }
   }
 

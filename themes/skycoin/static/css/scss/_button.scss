@@ -13,6 +13,8 @@
   color: white;
   background-color: $blue;  
   margin-left: 8px;
+  text-transform: uppercase;
+  outline: none;
 
   &:hover {
     box-shadow: $box-shadow-hover;
@@ -21,5 +23,37 @@
 
   &:active {
     background-color: darken($blue, 10%);
+  }
+}
+
+.white {
+  background-color: white;
+  box-shadow: none;
+  color: $blue;
+
+  &:hover {
+    box-shadow: $box-shadow-hover;
+    background-color: darken(white, 5%);
+  }
+
+  &:active {
+    background-color: darken(white, 10%);
+  }
+}
+
+.arrow {
+  border: 0 !important;
+  
+  & i {
+    border: solid;
+    border-width: 0 1px 1px 0;
+    display: inline-block;
+    padding: 4px;
+  }    
+  .prev {
+    transform: rotate(135deg);
+  }
+  .next {
+    transform: rotate(-45deg);
   }
 }

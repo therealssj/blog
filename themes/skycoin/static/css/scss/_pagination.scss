@@ -1,4 +1,5 @@
 .pagination {
+  @include container($container-width-base);
   display: flex;
   flex-direction: row;
   margin-top: 60px;
@@ -15,23 +16,6 @@
   li.active a, li.disabled a {
     color: $gray;
     border-color: $gray;
-  }
-
-  a.arrow {
-    border: 0;
-    
-    & i {
-      border: solid;
-      border-width: 0 1px 1px 0;
-      display: inline-block;
-      padding: 4px;
-    }    
-    .prev {
-      transform: rotate(135deg);
-    }
-    .next {
-      transform: rotate(-45deg);
-    }
   }
 
   a {

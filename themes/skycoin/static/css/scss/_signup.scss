@@ -1,0 +1,62 @@
+.signup {
+  margin-top: 60px;
+  background-image: url(../images/bg-signup.png);
+  color: white;
+
+  &__container {
+    @include container($container-width-base);
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+  }
+
+  &__wrapper {
+    min-height: 122px;
+    width: 58rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+
+  &__label {
+    font-size: 20px;
+    font-weight: bold;
+  }
+
+  .btn {
+    font-family: $font-family-sans;
+    width: 195px;
+    height: 44px;
+    margin-left: -3rem;
+  }
+
+  .mc-field-group {
+    font-family: $font-family-sans;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+
+  .mce_inline_error, .response {
+    padding-left: 1rem;
+    max-width: 25rem;
+    a {
+      color: white;
+      text-decoration: underline;
+    }
+  }
+
+  .email {
+    height: 44px;
+    border-radius: 1000px;
+    width: 321px;
+    color: white;
+    background: transparent;
+    border: solid 1px white;
+    padding-left: 24px;
+    padding-right: 4rem;
+  }
+}

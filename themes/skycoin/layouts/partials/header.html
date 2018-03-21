@@ -23,7 +23,7 @@
     {{ range .Params.tags }}
     <meta property="og:tags" content="{{ . }}">
     {{ end }}
-    <!-- End of Open Graph -->
+  <!-- End of Open Graph -->
   {{ if .Site.GoogleAnalytics }}
     <script>
     (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -41,13 +41,12 @@
   <header class="header">
     <div class="header__wrapper">
         <a href="https://www.skycoin.net">
-          <img class="logo" alt="Skycoin Blog" src="{{ "/images/logo-outlined.svg" | relURL }}" />
+          <img class="logo" alt="Skycoin" src="{{ "/images/logo-outlined.svg" | relURL }}" />
         </a>
         <nav class="nav">
-            {{ range .Site.Menus.main }}
-              <a class="nav__item {{if eq .Identifier "blog" }}nav__item--active{{end}}" href="{{ .URL | relLangURL }}">{{ .Name }}</a>
-            {{ end }}
-            <a href="https://www.skycoin.net/downloads" target="_blank" class="btn">BUY SKYCOIN</a>
+            {{ partial "menu.html" . }}
+            <a href="//www.skycoin.net{{ "/downloads" | relLangURL }}" target="_blank" class="btn">BUY SKYCOIN</a>
         </nav>
     </div>
   </header>
+  {{ partial "categories.html" . }}
