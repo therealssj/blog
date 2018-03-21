@@ -39,7 +39,7 @@
 
 <body>
   <header class="page-header">
-    <div class="wrapper">
+    <div class="header-container">
       <div class="nav-wrapper">
         <div class="header-inner">
           <a href="https://www.skycoin.net/" class="logo">
@@ -52,7 +52,7 @@
               <div class="nav-inner">
                 <button class="menu-toggle-btn menu-hide-btn" onclick="toggleMenu(false)"></button>
                 <div class="nav-group">
-                  {{ partial "menu.html" . }}                   
+                  {{ partial "menu.html" . }}
                 </div>
                 <div class="nav-group mobile">
                   <a href="https://t.me/Skycoin" target="_blank" class="nav-link">
@@ -65,7 +65,7 @@
                   </a>
                 </div>
                 <div class="nav-group">
-                  <a href="//www.skycoin.net{{ "/downloads" | relLangURL }}" class="btn">BUY SKYCOIN</a>
+                  <a href="//www.skycoin.net{{ "/downloads" | relLangURL }}" class="nav-button">BUY SKYCOIN</a>
                 </div>
               </div>
             </div>
