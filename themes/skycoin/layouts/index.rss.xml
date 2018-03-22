@@ -22,9 +22,7 @@
       <description>{{ .Summary | html }}</description>
       {{ if .Params.image }}
         <enclosure url="{{ .Params.image.url | absURL }}" length="{{ .Params.image.length }}" type="{{ .Params.image.type }}"/>
-      {{ else }}
-        <enclosure url="{{ "img/default.png" | absURL }}" length="166217" type="image/png"/>
-      {{ end}}
+      {{ end }}
     </item>
     {{ end }}
   </channel>
