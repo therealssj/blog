@@ -42,7 +42,7 @@
     <div class="header-container">
       <div class="nav-wrapper">
         <div class="header-inner">
-          <a href="https://www.skycoin.net/" class="logo">
+          <a href="//www.skycoin.net/" class="logo">
             <img src="{{ "/images/logo-outlined.svg" | relURL }}" alt="Skycoin">
           </a>
           <div>
@@ -55,11 +55,11 @@
                   {{ partial "menu.html" . }}
                 </div>
                 <div class="nav-group mobile">
-                  <a href="https://t.me/Skycoin" target="_blank" class="nav-link">
+                  <a href="{{ .Site.Params.telegram }}" target="_blank" class="nav-link">
                     <img src="{{ "images/telegram.svg" | relURL }}" alt="Telegram">
                     Telegram
                   </a>
-                  <a href="https://discordapp.com" target="_blank" class="nav-link">
+                  <a href="{{ .Site.Params.discord }}" target="_blank" class="nav-link">
                     <img src="{{ "images/discord.svg" | relURL }}" alt="Discord">
                     Discord
                   </a>
