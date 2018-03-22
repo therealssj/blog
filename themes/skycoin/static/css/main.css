@@ -964,8 +964,7 @@ a {
     align-items: center;
     flex-wrap: wrap; }
   .signup .mce_inline_error, .signup .response {
-    padding-left: 1rem;
-    max-width: 25rem; }
+    padding-left: 1rem; }
     .signup .mce_inline_error a, .signup .response a {
       color: white;
       text-decoration: underline; }
