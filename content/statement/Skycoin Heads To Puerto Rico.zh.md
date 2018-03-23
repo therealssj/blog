@@ -15,6 +15,8 @@ Blockchain Unbound 3月14-16日
 Coinagenda Caribbean 3月17-19日
 
 
+
+
 Skycoin团队于本月参加波多黎各的Blockchain Unbound（自由的区块链）和CoinAgenda Caribbean（加勒比海）会议，对外阐述了我们的愿景，并介绍了我们未来的发展和计划。我们被邀请加入区块链和加密货币精英讲者队伍，介绍有关Skycoin的消息，以及作为加密货币领域最好的项目之一，对外宣传Skycoin。
 
 Synth（联合创始人）、Jonathan Wilson（品牌传播者）和Daken Freeborn（活动经理）将作为团队的代表。
