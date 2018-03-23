@@ -776,11 +776,11 @@ a {
         padding: 8px 0; } }
     .footer__social a {
       padding: 16px 0;
-      width: 8.333333333333332%;
+      width: 10%;
       text-align: center; }
       @media (max-width: 40rem) {
         .footer__social a {
-          width: 16.666666666666662%;
+          width: 20%;
           padding: 8px 0; } }
   .footer__copyright {
     padding: 40px 0;

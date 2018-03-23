@@ -57,11 +57,11 @@
     
     a {
       padding: 16px 0;
-      width: 8.333333333333332%;
+      width: 10%;
       text-align: center;
 
       @media (max-width: $breakpoint-sm) {
-        width: 16.666666666666662%;
+        width: 20%;
         padding: 8px 0;
       }      
     }
