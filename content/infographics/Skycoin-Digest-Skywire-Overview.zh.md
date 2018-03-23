@@ -29,3 +29,5 @@ Skywire是端到端加密的，节点由公钥哈希而不是IP地址进行识�
 
 我们不只在改变互联网，我们在重塑互联网。
 
+了解更多，请访问：[skycoin.net](https://www.skycoin.net/) 
+
