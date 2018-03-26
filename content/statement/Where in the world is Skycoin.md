@@ -54,7 +54,7 @@ A great opportunity for B2B networking with high-end decision makers, VIP guests
 
 Full Speaker List Unavailable (Synth will be speaking) 
 
-[Registration](http://aspiresummits.com/register.html)[](http://www.aspireinvests.com/index.html)
+[Registration](http://aspiresummits.com/register.html)
 
 ## **April 17**
 
