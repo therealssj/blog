@@ -44,6 +44,18 @@ Beyond Blocks looks to be the online and offline platform for Blockchain enthusi
 
 [Tickets](https://www.eventbrite.co.uk/e/beyond-blocks-summit-tokyo-tickets-41815694869)
 
+## **April 10**
+
+### [Shanghai Event](https://www.skycoin.net/blog/statement/shanghai-event-announcement/) *Shanghai, China*
+
+The Skycoin team is pleased to announce that we will be hosting a special event in Shanghai, China on Tuesday, April 10th.
+
+This special event is the first of its kind for Skycoin, and we are treating it as such. Synth and Steve will be speaking, as well as many other prominent figures on the Skycoin team. We are finally ready to share the Skycoin Ecosystem with all of China. There will be several local, governmental and international news agencies covering this groundbreaking event.
+
+Expect huge announcements to be made in Shanghai during this event. We will have video of the event on YouTube soon after it is completed, so stay tuned!
+
+[Event Link](https://i.eqxiu.com/s/bEVyHN6D?eqrcode=1&share_level=2&from_user=5665b4c4-5685-4ccd-9088-3424c61a9a54&from_id=2a6645bd-801a-4d20-bce9-663b407226e6&share_time=1522125788247&from=groupmessage&isappinstalled=0)
+
 ## **April 12**
 
 ### [Smarter World Summit](http://aspiresummits.com/smarterworld.html) *Dubai, UAE*
@@ -69,3 +81,4 @@ Join visionary leaders, economic pioneers and enterprising investors from around
   
 *Skycoin is a sponsor of this event
 
+As always, we want to thank our loyal Skyfleet community for their continued dedication and support for the Skycoin project.
