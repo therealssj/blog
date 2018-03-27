@@ -20,4 +20,4 @@ We will have video of the event on YouTube soon after it is completed, so stay t
 
 As always, we want to thank our loyal Skyfleet community for their continued dedication and support for the Skycoin project.
 
-![Shanghai Event Announcement](https://raw.githubusercontent.com/skycoin/blog/master/content/img/Skycoin-Launch-Announcement-English-large.png)
+[![Shanghai Event Announcement](https://raw.githubusercontent.com/skycoin/blog/master/content/img/Skycoin-Launch-Announcement-English-large.jpg)](https://raw.githubusercontent.com/skycoin/blog/master/content/img/Skycoin-Launch-Announcement-English-large.jpg)
