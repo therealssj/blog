@@ -9,8 +9,11 @@ date = "2018-01-29"
 categories = [
     "Infographics",
 ]
+[image] 
+    url = "img/What-do-you-think-about-Bitcoin.jpg"
+    type = "image/jpg"
+    length = 397078
 +++
-![Skycoin Infographic](/img/What-do-you-think-about-Bitcoin.jpg)
 
 ## 비트코인은 놀라웠습니다.
 

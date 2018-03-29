@@ -9,8 +9,11 @@ date = "2018-02-03"
 categories = [
     "Infographics",
 ]
+[image]
+    url = "img/Why-do-we-need-a-free-internet.jpg"
+    type = "image/jpg"
+    length = 1115628
 +++
-![Skycoin Infographic](/img/Why-do-we-need-a-free-internet.jpg)
 
 ## 왜 우리는 자유로운 인터넷을 만들고 있습니까?
 

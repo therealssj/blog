@@ -11,9 +11,11 @@ categories = [
     "Overview",
 ]
 author = "johnstuartmill"
+[image]
+    url = "img/obelisk-the-skycoin-consensus-algorithm.png"
+    type = "image/png"
+    length = 920655
 +++
-
-![Obelisk L'algoritmo di Consenso di Skycoin](/img/obelisk-the-skycoin-consensus-algorithm.png)
 
 - [Punti Salienti del Consenso](#punti-salienti-del-consenso)
     - [Perchè Consenso](#perch%C3%A8-consenso)
