@@ -32,7 +32,12 @@
   .meta {
     margin-bottom: 2.5rem;
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
+    flex-wrap: wrap;
+
+    @include tablet {
+      flex-direction: row;
+    }
 
     &__date {
       color: $gray;
@@ -42,7 +47,16 @@
       margin-right: 30px;
     }
 
+    &__tag-list {
+      margin-top: 8px;
+
+      @include tablet {
+        margin-top: 0;
+      }
+    }
+
     &__link {
+      display: inline-block;
       color: $gray;
       font-size: 12px;
       line-height: 24px;

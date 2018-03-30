@@ -1066,14 +1066,24 @@ a {
   .post .meta {
     margin-bottom: 2.5rem;
     display: flex;
-    flex-direction: row; }
+    flex-direction: column;
+    flex-wrap: wrap; }
+    @media screen and (min-width: 40rem) {
+      .post .meta {
+        flex-direction: row; } }
     .post .meta__date {
       color: #92A4BA;
       font-size: 12px;
       line-height: 26px;
       height: 26px;
       margin-right: 30px; }
+    .post .meta__tag-list {
+      margin-top: 8px; }
+      @media screen and (min-width: 40rem) {
+        .post .meta__tag-list {
+          margin-top: 0; } }
     .post .meta__link {
+      display: inline-block;
       color: #92A4BA;
       font-size: 12px;
       line-height: 24px;
