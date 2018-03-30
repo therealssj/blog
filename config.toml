@@ -34,8 +34,8 @@ pygmentsStyle = "murphy"
     url = "//explorer.skycoin.net"
     weight = 2
 [[menu.main]]
-    name = "Wallet"
-    identifier = "wallet"
+    name = "Downloads"
+    identifier = "downloads"
     url = "/downloads/"
     weight = 3
 [[menu.main]]
@@ -65,7 +65,7 @@ pygmentsStyle = "murphy"
 
 [[params.social]]
   name = "Medium"
-  url = "/"
+  url = "https://medium.com/@Skycoinproject"
   image = "images/medium.svg"
 [[params.social]]
   name = "Twitter"
