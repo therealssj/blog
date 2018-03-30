@@ -13,14 +13,16 @@
         {{ if .Params.date }}
           <span class="meta__date">{{ .Date.Format "Jan 2 2006" }}</span>
         {{ end }}
-        {{ range $i := (slice "categories" "tags") }}
-          {{ with ($.Param $i) }}
-            {{ range $k := . }}
-              <a class="meta__link" href="{{ relLangURL (print "/" $i "/" $k | urlize) }}">{{$k}}</a>
+        <div class="meta__tag-list">
+          {{ range $i := (slice "categories" "tags") }}
+            {{ with ($.Param $i) }}
+                {{ range $k := . }}
+                  <a class="meta__link" href="{{ relLangURL (print "/" $i "/" $k | urlize) }}">{{$k}}</a>
+                {{ end }}
             {{ end }}
           {{ end }}
-        {{ end }}
-      </div>        
+        </div>
+      </div>
       <h1 class="post__title">{{ .Title }}</h1>
       {{ .Content }}
       {{ if eq .Lang "en" }}
