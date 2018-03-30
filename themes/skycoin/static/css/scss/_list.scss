@@ -58,6 +58,10 @@
     }
   }
 
+  &__link {
+    display: block;
+  }
+
   &__image {
     position: absolute;
     top: 0;
@@ -76,7 +80,7 @@
     }
   }
 
-  &__link {
+  &__title {
     display: block;
     height: 48px;
     margin: 12px 24px 0 24px;
