@@ -5,7 +5,11 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{{ .Title }} | {{ .Site.Title }}</title>
-  <link rel="stylesheet" href="{{ "/css/main.css" | relURL }}" />
+  {{ if (getenv "CSS_VERSION") }}
+    <link rel="stylesheet" href="{{ "/css/" | relURL }}main-{{ getenv "CSS_VERSION" }}.css" />
+  {{ else }}
+    <link rel="stylesheet" href="{{ "/css/main.css" | relURL }}" />
+  {{ end }}
   <!-- Start of Open Graph -->
     <meta property="og:title" content="{{ .Title }}">
     {{ if .IsPage }}
