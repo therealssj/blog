@@ -6,7 +6,7 @@ date = "2018-04-05"
 categories = [ "Statement", ]
 +++
 
-##### During the month of March, our development teams have made tremendous progress on many projects within the Skycoin ecosystem:
+#### During the month of March, our development teams have made tremendous progress on many projects within the Skycoin ecosystem
 ---
 
 **Skycoin**
@@ -94,23 +94,15 @@ categories = [ "Statement", ]
 
 -   Custom OpenWRT routers tested with a double sided PCB and antennas.
 
-   ![](https://raw.githubusercontent.com/skycoin/blog/master/content/img/tech-report-1.jpg)
-
-![](https://raw.githubusercontent.com/skycoin/blog/master/content/img/tech-report-2.jpg)
-
-![](https://raw.githubusercontent.com/skycoin/blog/master/content/img/tech-report-3.jpg)
-
-![](https://raw.githubusercontent.com/skycoin/blog/master/content/img/tech-report-4.jpg)
-
-![](https://raw.githubusercontent.com/skycoin/blog/master/content/img/tech-report-5.jpg)
+   ![](https://raw.githubusercontent.com/skycoin/blog/master/content/img/tech-report-8.png)
+---
 
 **SPO Miners development**
 
 -   Miners for decentralised storage with 1TB hard discs are being tested by the SPO team. Skycoin team and SPO will continue collaboration and develop a version with custom chips and m.3 SSD form factor for Skycoin.
 
-   ![](https://raw.githubusercontent.com/skycoin/blog/master/content/img/tech-report-6.jpg)
-
-![](https://raw.githubusercontent.com/skycoin/blog/master/content/img/tech-report-7.jpg)
+   ![](https://raw.githubusercontent.com/skycoin/blog/master/content/img/tech-report-9.png)
+---
 
 **Miscellaneous**
 
