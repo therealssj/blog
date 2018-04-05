@@ -6,20 +6,18 @@ date = "2018-04-05"
 categories = [ "Statement", ]
 +++
 
-###### During the month of March, our development teams have made tremendous progress on many projects within the Skycoin ecosystem:
+##### During the month of March, our development teams have made tremendous progress on many projects within the Skycoin ecosystem:
 ---
 
 **Skycoin**
 
 -   Completed command-line interface documentation and overall testing.
 
--   Based on BIP21's Skycoin URIs, "hours" will now be displayed to show the quantity of Coin Hours. For example *Skycoin:2hYbwYudg34AjkJJCRVRcMeqSWHUixjkfwY?amount=123.456&hours=70*
+-   Based on BIP21's Skycoin URIs, "hours" will now be displayed to show the quantity of Coin Hours. For example `Skycoin:2hYbwYudg34AjkJJCRVRcMeqSWHUixjkfwY?amount=123.456&hours=70`
 
--   Using a new logging module (github.com/sirupsen/logrus) to replace the old module (github.com/op/go-loggin) to ensure compatibility with future projects.
+-   Using a new [logging module](https://github.com/sirupsen/logrus) to replace the [old module](https://github.com/op/go-loggin) to ensure compatibility with future projects.
 
--   Completed Skycoin Exchange Integration's documentation.  
-
-     *Link:  [github.com/skycoin/skycoin/blob/develop/INTEGRATION.md](http://github.com/skycoin/skycoin/blob/develop/INTEGRATION.md)*
+-   Completed Skycoin Exchange Integration's [documentation.](http://github.com/skycoin/skycoin/blob/develop/INTEGRATION.md)
 
 -   Tested the newest Go implementation v1.10.
 
@@ -27,9 +25,8 @@ categories = [ "Statement", ]
 
 -   Released wallet v22. Completed both the front-end and fixed vulnerabilities.
 
--   Added a signature to the newest version of wallet in order to proof its authenticity.
+-   Added a [signature](http://github.com/skycoin/skycoin#release-signing) to the newest version of wallet in order to proof its authenticity.
 
-    *Link: [github.com/skycoin/skycoin#release-signing](http://github.com/skycoin/skycoin#release-signing)*
 
 **KittyCash**
 
