@@ -6,8 +6,7 @@ date = "2018-04-05"
 categories = [ "Statement", ]
 +++
 
-# Foreword to the first chapter of a new internet:
-## Skywire Testnet FAQ
+# Foreword to the first chapter of a new internet
 ---
 
 ##### Last Update: April 5, 2018
