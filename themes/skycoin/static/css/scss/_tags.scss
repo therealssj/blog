@@ -22,26 +22,19 @@
   }
 
   &__item {
-    border: 1px solid $gray;	
+    display: inline-block;
+    color: $gray;
+    font-size: 12px;
+    line-height: 24px;
+    border: 1px solid $gray;
     border-radius: 13px;
     padding: 0 20px;
     margin: 0 10px 10px 0;
-    height: 26px;
-
-    a {
-      font-size: 12px;
-      line-height: 24px;
-      color: $gray;
-      text-decoration: none;
-      vertical-align: top;
-    }
+    min-height: 26px;
 
     &:hover {
       background: $gray;
-
-      a {
-        color: $white;
-      }
+      color: $white;
     }
   }
 }
