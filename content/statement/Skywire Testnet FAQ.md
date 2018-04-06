@@ -85,11 +85,20 @@ Any computer can be added to the Skywire Public Testnet, set up as a node, and u
 
 Machines not on the whitelist will still be able to participate in the network and access the full service of the network, however they will not receive rewards.
 
-### 8\. Is there any difference between Official Skyminers and DIY Skyminers?
+
+### 8\. Is there a limit of one whitelisted miner per person during testnet? For example, if someone builds two identical miners that both meet spec can they both be whitelisted? Or if someone purchased an official miner but also built one DIY that meets specification?
+
+Once you provide all the information required and your miners are approved, we will likely allow each person with 1 to 2 miners in the whitelist. 
+
+### 9\. Is a dedicated router part of the required spec? For example, if someone builds a miner that meets spec with 8 nodes and a switch, but just has it connected directly to their home/ISP Router will they be whitelisted?
+
+They could be whitelisted. Official miner is just a benchmark and DIY Skyminer doesn't require the exact same setup as the benchmark.
+
+### 10\. Is there any difference between Official Skyminers and DIY Skyminers?
 
 The Skywire software application layer is the same for all Skyminers, whether Official or DIY. In terms of hardware, the minimum required specification for DIY Skyminers will be set according to the baseline established by the Official Skyminers.
 
-### 9\. How do I setup the software for my Official Skyminer?
+### 11\. How do I setup the software for my Official Skyminer?
 
 Our Skyfleet community members have created an Orange Pi Skyminer software installation manual on Skywug.net, and many of our members have installed the software without issue.
 
@@ -97,15 +106,15 @@ We have simplified the process of setting up a Skyminer by creating a Skywire so
 
 ***Stay tuned for Official Skywire Manager Installation/Operating Manuals.***
 
-### 10\. How do we join the Testnet?
+### 12\. How do we join the Testnet?
 
 Those who have previously installed a version of Skywire can update directly in the software. (Note: if the update fails, please reinstall it by following the instructions on Github: <https://github.com/skycoin/skywire>)
 
-### 11\. What do we do after installation?
+### 13\. What do we do after installation?
 
 It is simple!  All you have to do is keep the node online so that other Skywire nodes can connect to yours, as we perform network tests and do all the heavy lifting from our end. Grab a drink, sit back, relax and enjoy using the new internet :).
 
-### 12\. Where can we learn more about Skywire and join the discussions?
+### 14\. Where can we learn more about Skywire and join the discussions?
 
 Chinese community:
 
