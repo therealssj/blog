@@ -15,7 +15,7 @@ categories = [ "Statement", ]
 
 -   Based on BIP21's Skycoin URIs, "hours" will now be displayed to show the quantity of Coin Hours. For example `Skycoin:2hYbwYudg34AjkJJCRVRcMeqSWHUixjkfwY?amount=123.456&hours=70`
 
--   Using a new [logging module](https://github.com/sirupsen/logrus) to replace the [old module](https://github.com/op/go-loggin) to ensure compatibility with future projects.
+-   Using a new [logging module](https://github.com/sirupsen/logrus) to replace the [old module](https://github.com/op/go-logging) to ensure compatibility with future projects.
 
 -   Completed Skycoin Exchange Integration's [documentation.](http://github.com/skycoin/skycoin/blob/develop/INTEGRATION.md)
 
@@ -94,14 +94,14 @@ categories = [ "Statement", ]
 
 -   Custom OpenWRT routers tested with a double sided PCB and antennas.
 
-   ![](https://raw.githubusercontent.com/skycoin/blog/master/content/img/tech-report-8.png)
+   ![](/img/tech-report-8.png)
 ---
 
 **SPO Miners development**
 
 -   Miners for decentralised storage with 1TB hard discs are being tested by the SPO team. Skycoin team and SPO will continue collaboration and develop a version with custom chips and m.3 SSD form factor for Skycoin.
 
-   ![](https://raw.githubusercontent.com/skycoin/blog/master/content/img/tech-report-9.png)
+   ![](/img/tech-report-9.png)
 ---
 
 **Miscellaneous**
