@@ -1,5 +1,5 @@
 +++
-title = "Skycion 会被51%攻击吗？"
+title = "Skycoin 会被51%攻击吗？"
 tags = [
     "Statement",
     "Obelisk",

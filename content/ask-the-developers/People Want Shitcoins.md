@@ -13,7 +13,7 @@ bounty = 3
 *Excerpt from the Telegram channel*
 
 >Question：
-I mean if Skycion is so good I would definitely use it for my business over
+I mean if Skycoin is so good I would definitely use it for my business over
 the rest but where can we see the proofs? The tests and all? Is there a website
 with more info and data? Is the network already strong with many nodes?
 
