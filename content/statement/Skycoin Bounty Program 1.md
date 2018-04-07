@@ -19,7 +19,6 @@ Apply for rewards in the [Skycoin Bounty Program Telegram Channel](https://t.me/
 - [Graphics and Videos](#graphics-and-videos)
 - [Translations](#translations)
 - [Writing](#writing)
-- [Social Media Engagement](#social-media-engagement)
 
 <!-- /MarkdownTOC -->
 
@@ -71,12 +70,6 @@ Blog posts, articles
 
 Please be sincere with content produced for the bounty program.
 If something appears to be done in bad faith we may reject or reduce the reward (for example, fake youtube views or sloppy infographics).
-
-## Social Media Engagement
-
-Special bonus for active community users:
-
-* 10 SKY per 100 [Skycoin subreddit](https://reddit.com/r/skycoinproject) posts
 
 *If you have other ideas for promoting Skycoin that deserve a bounty, please suggest them in the Telegram channel.*
 

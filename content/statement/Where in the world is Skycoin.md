@@ -4,25 +4,19 @@ tags = [ "Announcements", ]
 bounty = 0
 date = "2018-03-26"
 categories = [ "Statement", ]
+[image]
+    url = "img/where-in-the-world-is-skycoin.png"
+    type = "image/png"
+    length = 446616
 +++
 
-![Where In The World is Skycoin? 🌎](https://raw.githubusercontent.com/skycoin/blog/master/content/img/where-in-the-world-is-skycoin.png)
 ## **Skycoin Events April Update**
 
-
-  
-
-The Skycoin team is hitting the road in April, looking to grow our Skyfleet community and connect with our existing Skyfleet community as well. 
-
-  
+The Skycoin team is hitting the road in April, looking to grow our Skyfleet community and connect with our existing Skyfleet community as well.
 
 We are excited to show you all how far we’ve come in development, and to speak on where we’re headed in the future. If you see the Skycoin booth at these events, we encourage you to stop by and say hello!
 
-  
-
 We welcome you to please join us at the following events around the globe.
-
-  
 
 ## **April 2-3**
 
@@ -62,9 +56,9 @@ Expect huge announcements to be made in Shanghai during this event. We will have
 
 A great opportunity for B2B networking with high-end decision makers, VIP guests and investors.
 
-  
 
-Full Speaker List Unavailable (Synth will be speaking) 
+
+Full Speaker List Unavailable (Synth will be speaking)
 
 [Registration](http://aspiresummits.com/register.html)
 
@@ -78,7 +72,7 @@ Join visionary leaders, economic pioneers and enterprising investors from around
 
 [Tickets](https://dubai.keynote.ae/tickets/)
 
-  
-*Skycoin is a sponsor of this event
+
+*Skycoin is a sponsor of this event*
 
 As always, we want to thank our loyal Skyfleet community for their continued dedication and support for the Skycoin project.

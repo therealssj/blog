@@ -4,14 +4,16 @@ tags = [ "Announcements", ]
 bounty = 0
 date = "2018-04-05"
 categories = [ "Statement", ]
+[image]
+    url = "img/Skyminer-unboxing.jpg"
+    type = "image/jpg"
+    length = 181090
 +++
 
 # Foreword to the first chapter of a new internet
 ---
 
-##### Last Update: April 5, 2018
-
-![Skyminer Unboxing](https://raw.githubusercontent.com/skycoin/blog/master/content/img/Skyminer-unboxing.jpg)
+*Last Update: April 5, 2018*
 
 We know you all have been very eager to learn more about the next milestone of Skycoin, the Skywire testnet. We are proud to say the wait is now over! We have the answers for you below.
 
@@ -77,7 +79,7 @@ The reward ratio will be set carefully. We will first need a rigorous dataset as
 
 ***It is important to note that Coin Hours and Skycoin rewards will not be released at this stage. Once the model is established, rewards will be released retroactively based on the recorded data.***
 
-![Skyminer Preview](https://raw.githubusercontent.com/skycoin/blog/master/content/img/Skyminer-preview.jpg)
+![Skyminer Preview](/img/Skyminer-preview.jpg)
 
 ### 7\. What kind of hardware will be able to participate in the Testnet?
 
@@ -88,7 +90,7 @@ Machines not on the whitelist will still be able to participate in the network a
 
 ### 8\. Is there a limit of one whitelisted miner per person during testnet? For example, if someone builds two identical miners that both meet spec can they both be whitelisted? Or if someone purchased an official miner but also built one DIY that meets specification?
 
-Once you provide all the information required and your miners are approved, we will likely allow each person with 1 to 2 miners in the whitelist. 
+Once you provide all the information required and your miners are approved, we will likely allow each person with 1 to 2 miners in the whitelist.
 
 ### 9\. Is a dedicated router part of the required spec? For example, if someone builds a miner that meets spec with 8 nodes and a switch, but just has it connected directly to their home/ISP Router will they be whitelisted?
 

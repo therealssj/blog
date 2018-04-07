@@ -4,6 +4,10 @@ tags = [ "Announcements", ]
 bounty = 0
 date = "2018-03-17"
 categories = [ "Statement", ]
+[image]
+    url = "img/Skyminer-Launch-Announcement.jpg"
+    type = "image/jpg"
+    length = 58734
 +++
 
 {{< youtube id="yl6FtLUKVZw" autoplay="true" >}}
@@ -16,5 +20,3 @@ Stay tuned for the official launch date coming soon! The Skycoin team will be un
 All official Skyminers that have been shipped will be authorized to participate in the testnet, and we are excited to onboard and whitelist our community DIY Skyminers as well.
 
 Check out our [recent infographic](https://www.skycoin.net/blog/infographics/skycoin-digest-skywire-overview/) for an overview of Skywire, and stay tuned for the exciting details to follow soon.
-
-![Skywire Testnet Coming Soon](https://raw.githubusercontent.com/skycoin/blog/master/content/img/Skyminer-Launch-Announcement.jpg)

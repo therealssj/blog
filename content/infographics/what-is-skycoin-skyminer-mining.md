@@ -5,14 +5,17 @@ tags = [
     "Infographics",
 ]
 bounty = 4
-date = "2018-03-16"
+date = "2018-04-07"
 categories = [
     "Infographics",
 ]
+[image]
+    url = "img/what-is-skycoin-skyminer-mining.jpg"
+    type = "image/jpg"
+    length = 514918
 +++
-![Skycoin Infographic](/img/what-is-skycoin-skyminer-mining.jpg)
 
-## A skyminer? Are you kidding me?
+## A Skyminer? Are you kidding me?
 
 No, we are not kidding you. The Skyminer is no joke. It’s an advanced yet robust piece of hardware that we’re distributing all over the world. Built from scratch, this little fella will do amazing things!
 
