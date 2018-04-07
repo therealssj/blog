@@ -44,6 +44,6 @@ Interpretation of the LLVM Bitcode on an emulator type virtual machine, eliminat
 
 Natively compiled code may be subject to microcode exploits. V8 may even allow microcode vulnerability exploitation from javascript, given that it is doing run-time compilation to machine code. A microcode exploit may allow a computer to be rooted by clicking a link over tor/darknet, where the page runs specific javascript. However, this would only be used against a high value target. The only way to mitigate this attack is to disable javascript or compile everything down to LLVM IR, interpret the code on an interpreter for the IR.
 
-That was our original approach, but I dont see how it will work with Blink/V8 as the frontend for the application.
+That was our original approach, but I don't see how it will work with Blink/V8 as the frontend for the application.
 
 What we can now works and its very secure, but in long term we have to work out these problems.

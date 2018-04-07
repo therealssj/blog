@@ -68,7 +68,7 @@ If someone develops a widespread SHA256 preimage attack, Bitcoin is dead and
 Skycoin will probably still be running.
 
 Banks and businesses do not want to learn about or check for Signature
-Malleability. They dont want to know how Bitcoin works. They want to be able to
+Malleability. They don't want to know how Bitcoin works. They want to be able to
 trust that the developers fix known vulnerabilities before coins get stolen.
 Bitcoin is not clean or mature software. Fixing many of the minor issues in
 Bitcoin require a blockchain reset, that the developers are unable and

@@ -150,6 +150,6 @@ If you are connected to 10 peers and each block averages 10 KB and each peer sen
 
 There are delicate DDoS edge cases that need to be designed around. If we prevent block propagation from blocks so far outside of the consensus set (forks of the chain more than N blocks in the past), then it eliminates certain DDoS attacks but leads to an edge case with netsplits, but also eliminates propagation of 51% attacks.
 
-These are some of the long term technical measures we are looking at. We dont see a technical reason why global block propagation should take more than a few seconds.
+These are some of the long term technical measures we are looking at. We don't see a technical reason why global block propagation should take more than a few seconds.
 
 

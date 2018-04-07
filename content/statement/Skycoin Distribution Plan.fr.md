@@ -10,7 +10,7 @@ categories = [
 ]
 +++
 
-**Ceci est une annonce officielle concernant la façon dont les Skycoin seront dorénavant distribués.**
+**Ceci est une annonce officielle concernant la façon don't les Skycoin seront dorénavant distribués.**
 
 La distribution de Skycoin a dans le passé était peu clair et a été géré jusqu'à présent de plusieurs manières.
 
