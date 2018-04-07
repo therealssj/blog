@@ -1,4 +1,16 @@
-+++title = "Skycoin vs Skywire"tags = [    "Skywire",]bounty = 4date = "2017-08-30"categories = [    "Skywire",    "Statement",]+++
++++
+title = "Skycoin vs Skywire"
+tags = [
+    "Skywire",
+]
+bounty = 4
+date = "2017-08-30"
+categories = [
+    "Skywire",
+    "Statement",
+]
++++
+
 SkycoinとSkywireはSkycoinプロジェクトにおいて二つの別々の要素です。
 Skycoinはブロックチェーンです。
 Skywireは[メッシュネットワーク](https://ja.wikipedia.org/wiki/%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF)です。
