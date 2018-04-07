@@ -16,7 +16,7 @@ description = "Release notes highlighting the current development behind Skycoin
 - You close client, there is not sig signal for clear program exit triggered on windows, so you lose all the blocks (they are not saved to disc, like they are on exit, on linux)
 - You open client and the coins are "missing", until you redownload the blockchain to current head
 
-So coins were still there and appears to just be bug with blockchain not being saved to disc on exit on windows. So coins dont appear until the blockchain has been redownloaded.
+So coins were still there and appears to just be bug with blockchain not being saved to disc on exit on windows. So coins don't appear until the blockchain has been redownloaded.
 
 This needs to be fixed.
 

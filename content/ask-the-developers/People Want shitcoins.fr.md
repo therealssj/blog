@@ -24,7 +24,7 @@ Si Skycoin est aussi bien que vous le prétendez, il est clair que je préférer
 +Skycoin a son propre code, sa propre chaîne de bloc et ses propres développeurs. Ce qui est très avancé et demande plus d'effort d'éducation que les autres jetons (qui n'ont pas leur propre chaine de bloc et leur propres développeurs) et qui sont juste des clones de BITCOIN ou des jetons ERC20 que tout le monde comprend.
 +
 +Pour d'autres jetons les gens n'ont pas à apprendre quoi que ce soit, ils savent juste qu'ils peuvent acheter le jeton, faire monter le prix et le vendre quand ils ont fait de l'argent.
-+Cela ne requiert pas d'apprendrentissage pour l'utilisateur ou d'explication sur la façon dont le jeton fonctionne ou même son but. Il y a donc peu de barrières à l'adoption.
++Cela ne requiert pas d'apprendrentissage pour l'utilisateur ou d'explication sur la façon don't le jeton fonctionne ou même son but. Il y a donc peu de barrières à l'adoption.
 +
 +De plus tout ce qui est nouveau ou innovant demande plus de connaissance et d'apprentissage. Les jetons populaires comme DogeCoin sont l'opposé de celà.
 +

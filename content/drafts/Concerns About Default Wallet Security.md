@@ -12,7 +12,7 @@ description = "Discussion regarding Default Wallet Security."
 +++
 We are also concerned about "**Default Security**" for average user.
 
-Here is an example. Many people want "vanity addresses". Third party services generate the addresses, then you import the private key. They store the private key, wait until you have a bunch of coins and then steal some of them! Users think it was trojan or they dont even know how the coins were stolen. To protect against that, we have to make sure vanity address gen is client side and integrated into the skycoin wallet. We have to make sure that the default way is the easiest way and that it is secure, for every single action that can result in coins being stolen or lost.
+Here is an example. Many people want "vanity addresses". Third party services generate the addresses, then you import the private key. They store the private key, wait until you have a bunch of coins and then steal some of them! Users think it was trojan or they don't even know how the coins were stolen. To protect against that, we have to make sure vanity address gen is client side and integrated into the skycoin wallet. We have to make sure that the default way is the easiest way and that it is secure, for every single action that can result in coins being stolen or lost.
 
 Normally, when a vanity address theft happens, they only steal a fraction of the coins. The user wonder why they stole only a few and not every coin. If they had a trojan, why would someone steal a few coins when they could steal them all? The user is confused. It is because if they did transactions, then some of the coins are in the vanity address and some of the coins are in change addresses. The thief is the 3-rd party who generated the vanity address and they only have the private key for that address (which only has fraction of the keys in the wallet).
 
@@ -24,7 +24,7 @@ We have multiple wallets in Skycoin, because we have seen people delete wallets 
 
 We have deterministic wallets and only deterministic wallets as the default, because we have seen people lose coins unexpectedly by loading a wallet from backup after making transactions, because backups do not contain the newly generated change addresses! Bitcoind generates new change addresses after every transaction, which bitcoin are sent to. So if you restore a wallet from backup, you may be missing coins. This also means in Bitcoin, if you have two thumb drives with the same wallet on them and do transactions on each, they will end up with difference coin balances! Each wallet will have different change addresses after being used for a while!
 
-Skycoin doesn't do this at all, because it would mean unexpected behavior and people would lose coins. We made sure that the default behavior is exactly what users expect and that the defaults dont result in people losing coins.
+Skycoin doesn't do this at all, because it would mean unexpected behavior and people would lose coins. We made sure that the default behavior is exactly what users expect and that the defaults don't result in people losing coins.
 
 There are so many ways to lose coins in Bitcoin, that addressing every situation is overwhelming. We need to hire contractors to work on each little detail (vanity gen in wallet, locking/unlocking wallets, default on screen keyboard), because we will go mad otherwise. I think we have covered 90% of the causes of coin theft than the user could not control.
 
@@ -62,7 +62,7 @@ In the web-wallet, add /wallets to the URL and you can see your wallets and copy
 
 ## Remote Wallet Example:
 
-This is a remote wallet. Its public, so dont inport your wallet seed here. This is for publicly checking balances and demonstration.
+This is a remote wallet. Its public, so don't inport your wallet seed here. This is for publicly checking balances and demonstration.
 
 http://skycoin-chompyz.c9.io/
 

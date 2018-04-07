@@ -112,7 +112,7 @@ Companies are about product and it matters what the company produces and does mo
 
 Skycoin needs a driver that will acquire hundreds of millions of users. Having the best coin is not good enough. From the beginning Skycoin was aimed at a number one position. Bitcoin is niche and the challenge of any new coins is not to become the next Litecoin, but how to surpass Bitcoin in terms of adaption.
 
-If you dont have a strategy for surpassing Bitcoin, then the coin should be positioned to take over if/when Bitcoin is destroyed by internal/external forces. If the coin does neither, then its a pump and dump, or at best an inspiration for the successor to Bitcoin.
+If you don't have a strategy for surpassing Bitcoin, then the coin should be positioned to take over if/when Bitcoin is destroyed by internal/external forces. If the coin does neither, then its a pump and dump, or at best an inspiration for the successor to Bitcoin.
 
 To succeed Skycoin must be radically different and more intentional than previous coins. Skycoin must achieve a level of necessity that Bitcoin has been unable to achieve.
 

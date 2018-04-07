@@ -37,6 +37,6 @@ Here’s a little more information on the two events where we will speaking.
 
 **Start:** N/A
 
-**Description:** More than 50 exhibitors, 60 speakers, 40 startups and 350 attendees.We will be speaking on the Skycoin platform, speaking about some future developments, and reveal some exciting Skycoin news!
+**Description:** More than 50 exhibitors, 60 speakers, 40 startups and 350 attendees. We will be speaking on the Skycoin platform, speaking about some future developments, and reveal some exciting Skycoin news!
 
 We would love for you to join us at these events. Come meet the team and learn more about the bright future of Skycoin and our partner projects. If you see us around, please stop by and say hi!

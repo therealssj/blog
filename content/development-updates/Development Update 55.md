@@ -11,7 +11,7 @@ categories = [
 description = "Release notes highlighting the current development behind Skycoin."
 +++
 
-There will be a blockchain reset soon. There are some minor last minute changes to block header and I dont want to delay the distribution event further to fix this.
+There will be a blockchain reset soon. There are some minor last minute changes to block header and I don't want to delay the distribution event further to fix this.
 
 ###### Skycoin is designed so that we can:
 - export the transactions in JSON from the current blockchain

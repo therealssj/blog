@@ -9,8 +9,11 @@ date = "2018-02-03"
 categories = [
     "Infographics",
 ]
+[image]
+    url = "img/Skycoin-Cryptocurrency-Values.jpg"
+    type = "image/jpg"
+    length = 436215
 +++
-![Skycoin Инфографика](/img/Skycoin-Cryptocurrency-Values.jpg)
 
 ## Мы убеждённые сторонники:
 

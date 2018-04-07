@@ -9,8 +9,11 @@ date = "2018-02-08"
 categories = [
     "Infographics",
 ]
+[image]
+    url = "img/The-Five-Pillars-of-the-Skycoin-Cryptocurrency.jpg"
+    type = "image/jpg"
+    length = 778103
 +++
-![Skycoin Infographic](/img/The-Five-Pillars-of-the-Skycoin-Cryptocurrency.jpg)
 
 The 5 Pillars of Skycoin
 

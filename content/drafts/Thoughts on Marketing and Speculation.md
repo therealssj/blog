@@ -33,6 +33,6 @@ Marketing tactics designed to cause bubbles and bursts are great for speculators
 Also,
 1. Skycoin development is being funded by the founders, not from the ICO
 2. The ICO is a small initial distribution to the community and supporters
-3. Speculators dont add anything to the project. Skycoin needs testers, developers, translators and other contributions.
+3. Speculators don't add anything to the project. Skycoin needs testers, developers, translators and other contributions.
 
-For marketing, you dont want to know. We received message from fashion magazine writing story about Skycoin, Dogecoin and the Darknet. I have a feeling that the whole altcoin space is going to go insane soon.
+For marketing, you don't want to know. We received message from fashion magazine writing story about Skycoin, Dogecoin and the Darknet. I have a feeling that the whole altcoin space is going to go insane soon.

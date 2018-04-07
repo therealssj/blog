@@ -14,7 +14,7 @@ description = "Release notes highlighting the current development behind Skycoin
 
 Here is basic python simulation of the Skycoin consensus process http://pastebin.com/5DJ9d29D
 
-We dont have much time for academic details until its done, but found that Ben-Or's consensus process could be modeled used a mathematical model called a "spin glass". https://en.wikipedia.org/wiki/Spin_glass
+We don't have much time for academic details until its done, but found that Ben-Or's consensus process could be modeled used a mathematical model called a "spin glass". https://en.wikipedia.org/wiki/Spin_glass
 
 Each node has a state. Each node is subscribed to a subset of nodes in the network. There is a local function (a function of the node's state and the state of the nodes it is subscribed to) that can be called "energy". The "energy" of the network is the sum of the energy of each node. The network has achieved consensus (all nodes are in the same state), when the energy is minimized. A node changes its state at each round, to minimize its energy function. Through local energy minimization, it can be proved that the global energy reaches a minimum within a finite time bound for a particular type of network topology and update rule.
 

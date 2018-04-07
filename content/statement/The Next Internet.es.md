@@ -7,11 +7,13 @@ bounty = 5
 date = "2017-11-07" 
 categories = [ 
     "Skywire", 
-] 
+]
+[image]
+    url = "img/skywire-the-next-internet.png"
+    type = "image/png"
+    length = 194882 
 +++ 
-  
-![Skywire logo](/img/skywire-the-next-internet.png) 
-  
+
 En la primavera de 2017, la FCC hizo una propuesta en la que los proveedores
 de servicio de Internet pueden recopilar, usar, y vender información sobre los
 hábitos de navegación del cliente. Los ISPs (proveedores de servicio de Internet)

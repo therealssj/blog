@@ -169,7 +169,7 @@ There is a lot of drama about this.
 
 Australian government was raiding peoples houses within 8 hours of them being outed as early bitcoin dev etc
 
-And a lot of the real crypto people have security clearances and dont want to be publicly associated (but are involved in private) because of employment stuff
+And a lot of the real crypto people have security clearances and don't want to be publicly associated (but are involved in private) because of employment stuff
 
 **Artem Kotelskiy** *[In reply to Monty Crypto (Xa no)]*
 
@@ -177,9 +177,9 @@ I was just kidding, see the "))"
 
 **Synth**
 
-The only people commiting with their real github names were basicly idiots with no opsec. And the other people involved dont sit on advisor boards or advertise themselves.
+The only people commiting with their real github names were basicly idiots with no opsec. And the other people involved don't sit on advisor boards or advertise themselves.
 
-I dont even know why chen used his main/public github account. He was advised not to do that.
+I don't even know why chen used his main/public github account. He was advised not to do that.
 
 **Artem Kotelskiy**
 
@@ -377,7 +377,7 @@ They are not hidden. People are just too stupid to check github.
 
 Skycoin is not about bragging about who has the biggest developer dick on their advisor board.
 
-The website is about the coin and the technology. We dont believe in the advisor board, celebrity CEO dick measuring contest.
+The website is about the coin and the technology. We don't believe in the advisor board, celebrity CEO dick measuring contest.
 
 **Artem Kotelskiy**
 
@@ -441,7 +441,7 @@ I see. I think the next thing to discuss is if the government is good or not (le
 
 Slavery is not about free or slave. Its about independent (free) or dependent (slave).
 
-You make people dependent upon you for survival, then you give them fake "freedoms" so they dont revolt. That is how you turn a society into a labor camp and then give them enough free porn, prozac and zoloft until you have domesticated "happy slaves" that cannot even imagine what an alternative would look like.
+You make people dependent upon you for survival, then you give them fake "freedoms" so they don't revolt. That is how you turn a society into a labor camp and then give them enough free porn, prozac and zoloft until you have domesticated "happy slaves" that cannot even imagine what an alternative would look like.
 
 Look how free those people are with their $750,000 in student debt they wont pay off until they die! Lol. Its just a mockery.
 
@@ -467,7 +467,7 @@ No, it's harder to guess
 
 Anyone who does not want to be a slave is an anarchist now! Lol
 
-"Whoa. Whoa. Whoa. I dont want to be an anararchist. I mean a little slavery is ok, but the masters should be nicer to the slaves." Lol.
+"Whoa. Whoa. Whoa. I don't want to be an anararchist. I mean a little slavery is ok, but the masters should be nicer to the slaves." Lol.
 
 **Artem Kotelskiy**
 

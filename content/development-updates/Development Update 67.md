@@ -30,7 +30,7 @@ The top levels, the gui and json are not as polished as lower levels (blockchain
 - Skycoin still kills someone's wifi for unknown reasons (one user has reported). This may be DHT (which is same as bitorrent uses). The issue is probably the router firmware.
 - PEX may need to be modified, so that it only keeps list of clients that allow incoming connections. If you cannot connect to the peer, knowing about them does not help the client.
 
-People have reported that port 6000 is X11. Skycoin to prevent blocking by ISPs is not bound to particular port. DHT assumes port 6000. So disable DHT and then make sure you have people in your peer list, or manually connect to server. Once you are finding peers through PEX, you dont need DHT and port does not matter.
+People have reported that port 6000 is X11. Skycoin to prevent blocking by ISPs is not bound to particular port. DHT assumes port 6000. So disable DHT and then make sure you have people in your peer list, or manually connect to server. Once you are finding peers through PEX, you don't need DHT and port does not matter.
 
 ## Other:
 

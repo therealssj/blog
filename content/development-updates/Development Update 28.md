@@ -15,7 +15,7 @@ description = "Release notes highlighting the current development behind Skycoin
 
 The design is amazing. Skywire darknet router may be able to replace BGP and existing corporate VPN solutions. Its reverse comparable with IPv6 (IPv6 can be embedded over Skywire). Its very simple.
 
-I dont want to talk much about this. Just have to finish implementation and get source code out there.
+I don't want to talk much about this. Just have to finish implementation and get source code out there.
 
 ## Skycoin Application Framework
 
