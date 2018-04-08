@@ -18,7 +18,7 @@ The Orange Pis will only light up and turn on when you flash the SD cards with t
 
 Some switches come with the on/off sides reversed, as compared to instructions in the manual, which expects the "on" side to be on the right. To fix this, first make sure that the Skyminer is not plugged in to your wall AC power outlet.  Then, on the back of the switch, simply remove the brown wire from its connecting tab, and connect it to the other tab as indicated in the image below.
 
-![Skyminer Troubleshooting 7024](img/skyminer-assembly-7024.png)
+![Skyminer Troubleshooting 7024](/img/skyminer-assembly-7024.png)
 
 #### 3\. Why won't my nodes light up on the router when I turn them all on?
 
@@ -54,3 +54,20 @@ Also of note, when operating in modem mode some routers will only have one ether
 
 Your manager node will show a login screen requiring a password, and the default is 1234.
 
+9. When I log in to my Skywire Manager node on a browser it behaves unexpectedly. How can I fix this?
+
+A common solution to this is to remove or disable any adblockers or similar from your browser, as this can interfere with the Skywire manager.
+
+
+#### 10\. My nodes aren’t showing up in the manager?
+
+It can take a few minutes for everything to sync with the manager node and to then be reflected in your browser. Click refresh and if the problem persists try rebooting the Skyminer.
+
+
+#### 11\. I can’t connect to any nodes from the manager. How do I connect?
+
+Open the terminal operation of a node and check to make sure that there is no error message, confirming that it is connected properly. If there is an error message, a common fix is to simply reflash the SD card with a newly downloaded image, then reboot the Skyminer. Repeat the reflashing process a few times if necessary.
+
+Another tip is to fix the IP address of the laptop computer you are using to connect to the Skyminer’s router. Set the IP address to 192.168.0.20, assuming that is not one of the IP addresses that the Orange Pis are trying to use, and it should work much more reliably.
+
+If you set a static IP for your laptop computer, then you can turn off DCHP in the Skyminer router.
