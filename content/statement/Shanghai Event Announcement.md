@@ -2,7 +2,7 @@
 title = "Shanghai Event Announcement"
 tags = [ "Announcements", ]
 bounty = 0
-date = "2018-03-27"
+date = "2018-04-08"
 categories = [ "Statement", ]
 [image]
     url = "img/Skycoin-Launch-Announcement-English-large.jpg"
