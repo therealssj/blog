@@ -54,17 +54,15 @@ Also of note, when operating in modem mode some routers will only have one ether
 
 Your manager node will show a login screen requiring a password, and the default is 1234.
 
-9. When I log in to my Skywire Manager node on a browser it behaves unexpectedly. How can I fix this?
+#### 8\. When I log in to my Skywire Manager node on a browser it behaves unexpectedly. How can I fix this?
 
 A common solution to this is to remove or disable any adblockers or similar from your browser, as this can interfere with the Skywire manager.
 
-
-#### 10\. My nodes aren’t showing up in the manager?
+#### 9\. My nodes aren’t showing up in the manager?
 
 It can take a few minutes for everything to sync with the manager node and to then be reflected in your browser. Click refresh and if the problem persists try rebooting the Skyminer.
 
-
-#### 11\. I can’t connect to any nodes from the manager. How do I connect?
+#### 10\. I can’t connect to any nodes from the manager. How do I connect?
 
 Open the terminal operation of a node and check to make sure that there is no error message, confirming that it is connected properly. If there is an error message, a common fix is to simply reflash the SD card with a newly downloaded image, then reboot the Skyminer. Repeat the reflashing process a few times if necessary.
 
