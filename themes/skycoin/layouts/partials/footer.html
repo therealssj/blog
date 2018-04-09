@@ -17,8 +17,12 @@
         {{ end }}
       </div>
       <div class="footer__copyright">
-        <span>© Skycoin.net 2018</span>
-        <a href="mailto:contact@skycoin.net">contact@skycoin.net</a>
+        <div class="copy">
+          <span>© Skycoin.net 2018</span>
+        </div>
+        <div class="contact">
+          <a href="mailto:contact@skycoin.net">contact@skycoin.net</a>
+        </div>
         <div class="languages">
             {{ range .Site.Menus.languages}}
               <a href="{{ .URL | relURL }}">{{ .Name }}</a>

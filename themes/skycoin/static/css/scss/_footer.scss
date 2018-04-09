@@ -77,15 +77,19 @@
   }
 
   &__copyright {
-    padding: 40px 0;
-    @media (max-width: $breakpoint-sm) {
-      padding-top: 24px;          
-    }    
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-between; 
+    justify-content: space-between;
+    align-items: center;
     font-size: 13px;
     color: #616d7c;
+    padding-top: 24px;
+    padding-bottom: 24px;
+
+    @include tablet {
+      padding-top: 40px;
+      padding-bottom: 40px;
+    }
 
     & > * {
       line-height: 1.5rem;
@@ -99,9 +103,31 @@
       font-size: 13px;
       color: #616d7c;
     }
+
+    .copy,
+    .contact,
+    .languages {
+      width: 33.3333%;
+      text-align: center;
+    }
+
+    .copy {
+      @include tablet {
+        text-align: left;
+      }
+    }
+
+    .languages {
+      @include tablet {
+        text-align: right;
+      }
+    }
   }
 
   .languages {
+    & > a {
+      white-space: nowrap;
+    }
     & a:not(:first-of-type):before {
       content: ' · '
     }
