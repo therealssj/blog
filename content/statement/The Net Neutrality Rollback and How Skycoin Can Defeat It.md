@@ -3,12 +3,14 @@ title = "The Net Neutrality Rollback and How Skycoin Can Defeat It"
 tags = [
     "Statement",
     "Net Neutrality",
+    "Skyminer",
 ]
 bounty = 3
 date = "2017-12-12"
 categories = [
     "Net Neutrality",
     "Skywire",
+    "Skyminer",
 ]
 +++
 

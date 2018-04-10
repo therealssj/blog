@@ -3,12 +3,14 @@ title = "Skycoin文摘：Skywire概述（信息图）"
 tags = [
     "Skycoin Digest",
     "Infographics",
+    "Skyminer",
 ]
 bounty = 4
 date = "2018-03-12"
 
 categories = [
     "Infographics",
+    "Skyminer",
 ]
 [image]
     url = "img/Skycoin-Digest-Skywire-Overview.jpg"

@@ -3,12 +3,14 @@ title = "ネット中立性の後退とSkycoinが克服する方法"
 tags = [
     "Statement",
     "Net Neutrality",
+    "Skyminer",
 ]
 bounty = 6
 date = "2017-12-12"
 categories = [
     "Net Neutrality",
     "Skywire",
+    "Skyminer",
 ]
 +++
 

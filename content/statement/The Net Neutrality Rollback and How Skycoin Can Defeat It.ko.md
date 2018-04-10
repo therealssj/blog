@@ -3,12 +3,14 @@ title = "네트워크 중립성 롤백과 스카이코인이 어떻게 그것을
 tags = [
     "Statement",
     "Net Neutrality",
+    "Skyminer",
 ]
 bounty = 3
 date = "2017-12-12"
 categories = [
     "Net Neutrality",
     "Skywire",
+    "Skyminer",
 ]
 +++
 

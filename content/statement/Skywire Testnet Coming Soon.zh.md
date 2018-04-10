@@ -1,9 +1,9 @@
 +++
 title = "Skywire测试网即将上线"
-tags = [ "Announcements", ]
+tags = [ "Announcements", "Skyminer", ]
 bounty = 0
 date = "2018-03-17"
-categories = [ "Statement", ]
+categories = [ "Statement", "Skyminer", ]
 +++
 
 {{< youtube id="yl6FtLUKVZw" autoplay="true" >}}

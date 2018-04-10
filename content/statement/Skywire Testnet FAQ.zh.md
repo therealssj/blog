@@ -1,9 +1,9 @@
 +++
 title = "Skywire测试网常见问题"
-tags = [ "Announcements", ]
+tags = [ "Announcements", "Skyminer", ]
 bounty = 0
 date = "2018-04-05"
-categories = [ "Statement", ]
+categories = [ "Statement", "Skyminer", ]
 +++
 
 ---

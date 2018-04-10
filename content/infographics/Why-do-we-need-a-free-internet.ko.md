@@ -3,11 +3,13 @@ title = "스카이코인 다이제스트 : 왜 우리는 자유로운 인터넷�
 tags = [
     "Skycoin Digest",
     "Infographics",
+    "Skyminer",
 ]
 bounty = 4
 date = "2018-02-03"
 categories = [
     "Infographics",
+    "Skyminer",
 ]
 [image]
     url = "img/Why-do-we-need-a-free-internet.jpg"
