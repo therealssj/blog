@@ -3,11 +3,13 @@ title = "스카이코인 다이제스트 : 스카이와이어 메쉬넷 프로�
 tags = [
     "Skycoin Digest",
     "Infographics",
+    "Skyminer",
 ]
 bounty = 4
 date = "2018-04-02"
 categories = [
-    "Infographics",
+    "Infographics", 
+    "Skyminer",
 ]
 [image]
     url = "img/What-is-the-difference-skycoin-vs-skywire.jpg"

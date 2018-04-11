@@ -1,9 +1,9 @@
 +++
 title = "Skywire Testnet FAQ"
-tags = [ "Announcements", ]
+tags = [ "Announcements", "Skyminer", ]
 bounty = 0
 date = "2018-04-05"
-categories = [ "Statement", ]
+categories = [ "Statement", "Skyminer", ]
 [image]
     url = "img/Skyminer-unboxing.jpg"
     type = "image/jpg"

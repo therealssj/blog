@@ -2,11 +2,13 @@
 title = "Skywire: 下一代互联网"
 tags = [
     "Skywire",
+    "Skyminer",
 ]
 bounty = 5
 date = "2017-11-07"
 categories = [
     "Skywire",
+    "Skyminer",
 ]
 [image]
     url = "img/skywire-the-next-internet.png"

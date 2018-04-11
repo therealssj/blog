@@ -3,12 +3,14 @@ title = "El desmantelamiento de la neutralidad de la red y cómo Skycoin puede d
 tags = [
     "Statement",
     "Net Neutrality",
+    "Skyminer",
 ]
 bounty = 3
 date = "2017-12-12"
 categories = [
     "Net Neutrality",
     "Skywire",
+    "Skyminer",
 ]
 +++
 

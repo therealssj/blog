@@ -3,12 +3,14 @@ title = "스카이코인 다이제스트 : 스카이와이어 개요 [인포그�
 tags = [
     "Skycoin Digest",
     "Infographics",
+    "Skyminer",
 ]
 bounty = 4
 date = "2018-03-12"
 
 categories = [
     "Infographics",
+    "Skyminer",
 ]
 [image]
     url = "img/Skycoin-Digest-Skywire-Overview.jpg"
