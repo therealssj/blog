@@ -177,31 +177,31 @@ pygmentsStyle = "murphy"
   name = "한국어"
   weight = 3
   url = "/ko/"
-# [[menu.languages]]
-#   name = "Español"
-#   weight = 4
-#   url = "/es/"
-# [[menu.languages]]
-#   name = "Deutsch"
-#   weight = 5
-#   url = "/de/"
-# [[menu.languages]]
-#   name = "日本語"
-#   weight = 6
-#   url = "/ja/"
-# [[menu.languages]]
-#   name = "Ελληνικά"
-#   weight = 7
-#   url = "/el/"
-# [[menu.languages]]
-#   name = "Français"
-#   weight = 8
-#   url = "/fr/"
-# [[menu.languages]]
-#   name = "Português"
-#   weight = 9
-#   url = "/pt/"
-# [[menu.languages]]
-#   name = "Italiano"
-#   weight = 10
-#   url = "/it/"
+ [[menu.languages]]
+   name = "Español"
+   weight = 4
+   url = "/es/"
+ [[menu.languages]]
+   name = "Deutsch"
+   weight = 5
+   url = "/de/"
+ [[menu.languages]]
+   name = "日本語"
+   weight = 6
+   url = "/ja/"
+ [[menu.languages]]
+   name = "Ελληνικά"
+   weight = 7
+   url = "/el/"
+ [[menu.languages]]
+   name = "Français"
+   weight = 8
+   url = "/fr/"
+ [[menu.languages]]
+   name = "Português"
+   weight = 9
+   url = "/pt/"
+ [[menu.languages]]
+   name = "Italiano"
+   weight = 10
+   url = "/it/"
