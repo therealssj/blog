@@ -23,7 +23,7 @@ Skycoin BBS v4.1 wurde released!
 - Vereinfachter Prozess zur Erstellung von Foren und deren Hosting.
 - Verbesserung der CXO Datenstruktur.
 
-Das nächste Release wird viele weitere spannende Features bringen! Bleiben Sie auf dem laufenden und schauen Sie hier erneut vorbei!
+Das nächste Release wird viele weitere spannende Features bringen! Bleibe auf dem laufenden und schaue hier erneut vorbei!
 
 ## Downloads
 
@@ -40,4 +40,4 @@ https://github.com/skycoin/bbs
 
 ## Community
 
-[Klicken Sie hier um der Telegram Gruppe beizutreten!](https://t.me/skycoinbbs)
+[Klicke hier um der Telegram Gruppe beizutreten!](https://t.me/skycoinbbs)
