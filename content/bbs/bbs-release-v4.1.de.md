@@ -20,7 +20,7 @@ Skycoin BBS v4.1 wurde released!
 - Verbesserung der Benutzeroberfläche.
 - Implementierung der "service discovery" (Verbindungen zu anderen Nodes werden nun automatisch verwaltet).
 - Verbesserung des Einreichens von Foreninhalten (Implementiert durch "service discovery").
-- Vereinfachter Prozess zur Erstellung von Foren und dessen Hosting.
+- Vereinfachter Prozess zur Erstellung von Foren und deren Hosting.
 - Verbesserung der CXO Datenstruktur.
 
 Das nächste Release wird viele weitere spannende Features bringen! Bleiben Sie auf dem laufenden und schauen Sie hier erneut vorbei!
