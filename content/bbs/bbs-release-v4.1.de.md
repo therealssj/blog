@@ -25,7 +25,7 @@ Skycoin BBS v4.1 wurde released!
 
 Das nächste Release wird viele weitere spannende Features bringen! Bleiben Sie auf dem laufenden und schauen Sie hier erneut vorbei!
 
-## Binaries
+## Downloads
 
 Die Binaries sind für 64bit Windows, Mac und Linux verfügbar.
 
