@@ -19,8 +19,8 @@ Skycoin BBS v4.1 wurde veröffentlicht!
 ## Änderungsprotokoll
 - Verbesserungen der Benutzeroberfläche.
 - Implementierung der Serviceentdeckung (Verbindungen zu anderen Knoten werden nun automatisch verwaltet).
-- Verbesserte remote Einreichung von Brettinhalten (implementiert via Serviceentdeckung).
-- Vereinfachung der Bretterstellung (board creation) und dessen Webhosting.
+- Verbesserte remote Einreichung von Boardinhalten (implementiert via Serviceentdeckung).
+- Vereinfachung der Boarderstellung (board creation) und dessen Webhosting.
 - Verbesserungen der CXO Datenstruktur.
 
 Das nächste Release wird noch mehr spannende Features mit sich bringen! Schaut hier regelmäßig rein um auf dem Stand 
