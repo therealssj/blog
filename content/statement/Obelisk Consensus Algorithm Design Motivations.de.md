@@ -14,13 +14,13 @@ bounty = 20
 
 *Dies ist ein archivierter Post aus dem Bitcointalksthread vom 19. Juni 2014.*
 
-> Zitat von: yxxyun am 19. Juni um 02:52:38 morgens
+> Zitat von: yxxyun am 19. Juni 2014 02:52:38
 
->> Zitat von: skycoin am 19. Juni 2014 um 02:31:59 morgens
+>> Zitat von: skycoin am 19. Juni 2014 02:31:59.
 
->>> Zitat von: FrictionlessCoin am 18. Juni 2014 09:15:07 abends
+>>> Zitat von: FrictionlessCoin am 18. Juni 2014 21:15:07
 
->>>> Zitat von: skycoin am 18. Juni 2014 um 09:08:56 abends
+>>>> Zitat von: skycoin am 18. Juni 2014 um 21:08:56
 
 >>>> Entwicklungsupdate:
 
@@ -50,56 +50,56 @@ bounty = 20
 >>>> Die obere Grenze der Anzahl der Knoten und die Coin-Bedingungen fügen eine 
 >>>> weitere Schicht gegen die Sybil-Attacke hinzu.
 
->>>> Bin mir nicht sicher, wie das eine Sybil-Attacke verhindern soll.
->>>> Fügt ihr nicht einfach nur Kosten für das Hinzufügen eines Knoten zum Netzwerks hinzu 
->>>> und deshalb verursacht eine Sybil-Attacke finanzielle Kosten?
+>>> Bin mir nicht sicher, wie das eine Sybil-Attacke verhindern soll.
+>>> Fügt ihr nicht einfach nur Kosten für das Hinzufügen eines Knoten zum Netzwerks hinzu 
+>>> und deshalb verursacht eine Sybil-Attacke finanzielle Kosten?
 
->>>> Dies ist aktuell nur eine Idee. Habe eine Verbesserung gefunden. Jeder Obelisk-Knoten 
->>>> hat einen öffentlichen Schlüssel. Wir hashen diesen öffentlichen Schlüssel
->>>> zu einer Adresse und diese speichert dann 10 Coins in einer Ausgabe, 
->>>> welche von dieser Adresse besitzt wird.
+>> Dies ist aktuell nur eine Idee. Habe eine Verbesserung gefunden. Jeder Obelisk-Knoten 
+>> hat einen öffentlichen Schlüssel. Wir hashen diesen öffentlichen Schlüssel
+>> zu einer Adresse und diese speichert dann 10 Coins in einer Ausgabe, 
+>> welche von dieser Adresse besessen werden.
 
->>>> Es werden keine Kosten hinzugefügt. Es beweist nur, dass man 10 Coins besitzt. 
->>>> Es beweist, dass man den privaten Schlüssel für einen öffentlichen kennt, 
->>>> wessen Adresse 10 Coins aufweist. Man kann diese Coins immernoch ausgeben.
+>> Es werden keine Kosten hinzugefügt. Es beweist nur, dass man 10 Coins besitzt. 
+>> Es beweist, dass man den privaten Schlüssel für einen öffentlichen kennt, 
+>> wessen Adresse 10 Coins aufweist. Man kann diese Coins immernoch ausgeben.
 
->>>> Die Idee ist, die obere Grenze der Anzahl von Knoten zu begrenzen. Wenn 10 coins 
->>>> gehalten werden müssen und es insgesamt 100 Millionen Coins gibt, begrenzt es das Netzwerk 
->>>> nach oben auf 10 Millionen Knoten. Die obere Grenze scheint aktuell mathematisch nicht 
->>>> nützlich zu sein, aber sie ist etwas, was wir im Hinterkopf behalten sollten.
+>> Die Idee ist, die obere Grenze der Anzahl von Knoten zu begrenzen. Wenn 10 coins 
+>> gehalten werden müssen und es insgesamt 100 Millionen Coins gibt, begrenzt es das Netzwerk 
+>> nach oben auf 10 Millionen Knoten. Die obere Grenze scheint aktuell mathematisch nicht 
+>> nützlich zu sein, aber sie ist etwas, was wir im Hinterkopf behalten sollten.
 
->>>> Wenn ein Obelisk-Knoten betrieben wird, "vertraut" dieser zufälligen Peers. 
->>>> Der User kann einige Knoten, welchen vertraut werden soll, von Hand eingeben (Exchanges oder 
->>>> vertrauenswürdige Community-Mitglieder). Ein Knoten wird mit dem Hash seines
->>>> öffentlichen Schlüssels identifiziert über DHT gefunden. Es ist nicht wie bei Bitcoin,
->>>> wo Knoten IP:Port-Paare sind. Man kann seinen Computer herumbewegen und die Identität
->>>> des Knotens beruht nicht auf der IP-Adresse.
+>> Wenn ein Obelisk-Knoten betrieben wird, "vertraut" dieser zufälligen Peers. 
+>> Der User kann einige Knoten, welchen vertraut werden soll, von Hand eingeben (Exchanges oder 
+>> vertrauenswürdige Community-Mitglieder). Ein Knoten wird mit dem Hash seines
+>> öffentlichen Schlüssels identifiziert über DHT gefunden. Es ist nicht wie bei Bitcoin,
+>> wo Knoten IP:Port-Paare sind. Man kann seinen Computer herumbewegen und die Identität
+>> des Knotens beruht nicht auf der IP-Adresse.
 
->>>> Wir wollen, dass das Netzwerk sicher ist, indem zufällige Knoten gewählt werden. 
->>>> Wir wollen keine Situation wie bei Ripple, in der drei Entwickler das Netzwerk 
->>>> kontrollieren. Jedoch wollen wir auch eine Situation verhindern, in der jemand
->>>> 200,000 Knoten betreibt und versucht die Vertrauensbeziehung mit neuen Usern einzugehen.
->>>> Diese Sybil-Attacken-Knoten können immernoch, im Allgemeinen, keine 51%-Attacke ausführen, 
->>>> aber alles Mögliche, dass die Kosten der Attacke erhöht ist sinnvoll.
+>> Wir wollen, dass das Netzwerk sicher ist, indem zufällige Knoten gewählt werden. 
+>> Wir wollen keine Situation wie bei Ripple, in der drei Entwickler das Netzwerk 
+>> kontrollieren. Jedoch wollen wir auch eine Situation verhindern, in der jemand
+>> 200,000 Knoten betreibt und versucht die Vertrauensbeziehung mit neuen Usern einzugehen.
+>> Diese Sybil-Attacken-Knoten können immernoch, im Allgemeinen, keine 51%-Attacke ausführen, 
+>> aber alles Mögliche, dass die Kosten der Attacke erhöht ist sinnvoll.
 
->>>> Vielleicht werden wir es so begrenzen, dass neue User nur zufällig gewählten Knoten vertrauen, 
->>>> welche eine Coinbilanz aufweisen. Vertrauensbeziehungen würden nicht getrennt werden, wenn der Knoten 
->>>> keine Coinbilanz aufweisen kann, aber sie würden keine neuen zufälligen User erhalten.
+>> Vielleicht werden wir es so begrenzen, dass neue User nur zufällig gewählten Knoten vertrauen, 
+>> welche eine Coinbilanz aufweisen. Vertrauensbeziehungen würden nicht getrennt werden, wenn der Knoten 
+>> keine Coinbilanz aufweisen kann, aber sie würden keine neuen zufälligen User erhalten.
 
->>>> Der Konnektivitätsgraph für Vertrauensbeziehungen sollte vermeintlich ein komplett 
->>>> verbundener Zufallsgraph sein. Einige Knoten (vertrauenswürdige Community-Mitgleider, Exchanges, 
->>>> Webseiten, Organisationen) werden eine höhere Anzahl an Vertrauensbeziehungen haben, was
->>>> der Konsenszeit für den Block-Konsens zu Gute kommt. Es reduziert den Netzwerkdurchmesser 
->>>> ein wenig. Einige Knoten werden verwendet werden um den Konsens zu verifizieren (man wählt
->>>> ein Haufen von Exchanges oder verschiedene öffentliche Schlüssel), diese Knoten beeinflussen
->>>> den Konsensprozess nicht, aber fungieren als "Konsensorakel" um zu überprüfen, ob der Knoten 
->>>> mit dem Netzwerk übereinstimmt.
+>> Der Konnektivitätsgraph für Vertrauensbeziehungen sollte vermeintlich ein komplett 
+>> verbundener Zufallsgraph sein. Einige Knoten (vertrauenswürdige Community-Mitgleider, Exchanges, 
+>> Webseiten, Organisationen) werden eine höhere Anzahl an Vertrauensbeziehungen haben, was
+>> der Konvergenzzeit des Block-Konsens zu Gute kommt. Es reduziert den Netzwerkdurchmesser 
+>> ein wenig. Einige Knoten werden verwendet werden um den Konsens zu verifizieren (man wählt
+>> ein Haufen von Exchanges oder verschiedene öffentliche Schlüssel), diese Knoten beeinflussen
+>> den Konsensprozess nicht, aber fungieren als "Konsensorakel" um zu überprüfen, ob der Knoten 
+>> mit dem Netzwerk übereinstimmt.
 
->>>> Wenn zwei große Exchanges zu einem unterschiedlichen Konsens für einen bestimmten Block kommen,
->>>> ist das ein Problem. Dies könnte auf einen Netzwerkspalt hindeuten oder auf eine Attacke auf 
->>>> das Netzwerk. Exchanges könnten den Handel bis zur Behebung des Problems aussetzen.
+>> Wenn zwei große Exchanges zu einem unterschiedlichen Konsens für einen bestimmten Block kommen,
+>> ist das ein Problem. Dies könnte auf einen Netzwerkspalt hindeuten oder auf eine Attacke auf 
+>> das Netzwerk. Exchanges könnten den Handel bis zur Behebung des Problems aussetzen wollen.
 
->>>> Obelisk ist Skycoins verteilter Konsensknoten? Ich dachte immer der Skycoind ist der Knoten...
+> Obelisk ist Skycoins verteilter Konsensknoten? Ich dachte immer der Skycoind ist der Knoten...
 
 Genau. 
 
@@ -131,13 +131,13 @@ erreicht haben, wechselt man zu diesem Kandidaten. Das Netzwerk kann auf mehrere
 auf einmal abstimmen, dies verlangsamt nicht das Warten auf einen Konsens. Die Abzweigungen
 werden mit der Zeit auf einzelne Chains zurechtgestutzt. Aufteilungen von zwei oder drei Blöcken sind normal,
 aber nach einigen Bestätigungen wächst die Wahrscheinlichkeit, dass ein Block zurückkehrt
-exponentiell gegen 0. Wenn eine Transaktionen auf allen Chains der Kandidaten ausgeführt wurde, 
+exponentiell gegen 0. Wenn eine Transaktion auf allen Chains der Kandidaten ausgeführt wurde, 
 dann ist sie im Wesentlichen ausgeführt, selbst wenn sich die betreffende 
 Konsens-Chain noch nicht entschieden hat.
 
 Das ist binärer Ben-Ors und Skycoin wird etwas verwenden, was ein wenig schneller und weiterentwickelter ist, 
 wenn mehrere potentiell nachfolgende Blöcke aus dem Netzwerk zur Auswahl stehen. Randomisierung ist wichtig
-um die Teilgraphen des Netzwerk am feststecken zu hindern. Der Abstimmungsprozess ist eine Form des "Glühens", 
+um die Teilgraphen des Netzwerks am feststecken zu hindern. Der Abstimmungsprozess ist eine Form des "Glühens", 
 bei der jeder Knoten unabhängig voneinander zum globalen Konsens findet, ausschließlich bedingt
 durch seine lokal verfügbaren Informationen.
 
@@ -146,9 +146,9 @@ seinem privaten Schlüssel und diese Blöcke werden Peer-zu-Peer zwischen den Ab
 Es gibt dann keine "Konsensorakel", was Knoten sind, die genutzt werden um den Konsens zu verifizeren,
 diesen aber nicht beeinflussen. Man wählt also den öffentlichen Schlüssel einiger Exchanges und einigen
 vertrauenswürdigen Community-Mitgliedern und dein Knoten wird diese verwenden um zu bestimmen, 
-falls mal etwas nicht ganz richtig sein sollte. Dies wird verwendet um Netzwerkspalte zu verhindern. 
-Dies schützt ebenso vor einer Attacke, bei der ein Hacker den eigenen Router kontrolliert 
-und somit auch die Möglichkeit der Verbindung der Peers, zu denen man eine Verbindung aufbauen möchte.
+falls mal etwas nicht ganz richtig sein sollte. Dies wird verwendet um ein Spalten des Netzwerks zu verhindern.
+Ebenso schützt dies vor einer Attacke, bei der ein Hacker den eigenen Router kontrolliert 
+und somit auch Einfluss darüber hat, zu welchen Peers man eine Verbindung aufbauen kann.
 
 Wenn ein Knoten im Netzwerk auftaucht und versucht das Netzwerk zur Akzeptanz einer anderen Chain 
 zu bekommen (51%-Attacke, umkehren der Transaktionen), wird er üblicherweise ignoriert.
@@ -161,7 +161,7 @@ eine automatisch verbannende Straftat für einen Knoten gemacht.
 
 Wir versuchen die letzte Möglichkeit der 51%-Attacke zu eliminieren, welche so funktioniert,
 dass ein Teilnetzwerk der Knoten offline geht (Netzaufspaltungsattacke), sich dann 
-wieder mit einer anderen Konsens-Blockchain anschließt und versucht diese dem Netzwerk aufzuzwängen 
+wieder mit einer anderen Konsens-Blockchain zusammenschließt und versucht diese dem Netzwerk aufzuzwängen 
 um Transaktionen rückgangig zu machen. Die meisten dieser Attacken werden fehlschlagen, weil das 
 Teilnetzwerk nicht genügend Einfluss haben wird.
 
