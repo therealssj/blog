@@ -2,15 +2,19 @@
 title = "Skywire: Das nächste Internet"
 tags = [
     "Skywire",
+    "Skyminer",
 ]
 bounty = 5
 date = "2017-11-07"
 categories = [
     "Skywire",
+    "Skyminer",
 ]
+[image]
+    url = "img/skywire-the-next-internet.png"
+    type = "image/png"
+    length = 194882
 +++
-
-![Skywire logo](/img/skywire-the-next-internet.png)
 
 Im Frühling 2017 hat die FCC einen Antrag gestellt, in welchem es den Internetdienstanbietern (ISP)
 erlaubt ist Informationen über Browser-Gewohnheiten zu sammeln, zu nutzen und zu verkaufen. 

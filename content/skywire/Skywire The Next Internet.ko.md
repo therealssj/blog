@@ -2,15 +2,19 @@
 title = "스카이와이어 : 차세대 인터넷"
 tags = [
     "Skywire",
+    "Skyminer",
 ]
 bounty = 5
 date = "2017-11-07"
 categories = [
     "Skywire",
+    "Skyminer",
 ]
+[image]
+    url = "img/skywire-the-next-internet.png"
+    type = "image/png"
+    length = 194882
 +++
-
-![Skywire logo](/img/skywire-the-next-internet.png)
 
 2017년 봄, FCC는 인터넷 서비스 제공 업체가 고객의 검색 습관에 대한 
 정보를 수집, 사용 및 판매할 수 있는 제안을 했습니다. 

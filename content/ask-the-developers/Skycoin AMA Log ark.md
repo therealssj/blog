@@ -118,7 +118,7 @@ Ethereum spent 30 million or 70 million in their first year or two after the ICO
 
 **arc-over-water**
 what prevents you from selling? anybody can spend that amount of money?
-nxt is a newer platform than sky, market value is $220 million plus $166 million, I get what you are saying but the evidence is wrong. Community is huge and active in Nxt. But you say it is killed, i dont get it?
+nxt is a newer platform than sky, market value is $220 million plus $166 million, I get what you are saying but the evidence is wrong. Community is huge and active in Nxt. But you say it is killed, i don't get it?
 
 **synth**
 
@@ -137,7 +137,7 @@ So the skycoin wallet will be a VPN for our internet usage?
 
 **synth**
 
-> nxt is a newer platform than sky, market value is $220 million plus $166 million, I get what you are saying but the evidence is wrong. Community is huge and active in Nxt. But you say it is killed, i dont get it?
+> nxt is a newer platform than sky, market value is $220 million plus $166 million, I get what you are saying but the evidence is wrong. Community is huge and active in Nxt. But you say it is killed, i don't get it?
 
 What I am saying, is that NXT would be a lot further along than it is now and probably around where Ethereum is, except for that mistake in the distribution and keeping it too concentrated. It set them back by years. They did not consider what the impact on the price would be, over the long term, when one of the early whales started selling off or decided he wanted out.
 
@@ -455,7 +455,7 @@ Blue Canyon uses ZYNQ 7000 for their Cubesat bus.
 it is education company in shanghai
 
 **thrice.pi**
-i dont want to disrupt this communication u and mike have going on cuz its good to see you two discussing these things so please do continue..but i just a simple question that mike actually asked earlier which i didnt see a reply to..he asked what type of spes is needed to run a node for skycoin
+i don't want to disrupt this communication u and mike have going on cuz its good to see you two discussing these things so please do continue..but i just a simple question that mike actually asked earlier which i didnt see a reply to..he asked what type of spes is needed to run a node for skycoin
 
 **synth**
 how much is it for cube sats for launch? 200 for 3 million?
@@ -499,7 +499,7 @@ also techbytes had a good question >>>>>Do we need to hold skycoin to run Skywir
 > Do we need to hold skycoin to run Skywire nodes or consensus nodes like masternodes from other coins?
 
 No. We want to have some kind of freemum thing. If you are not paying coins, the nodes will allocate 20% of bandwidth for the free tier
-But you wont have congestion if you are paying, so much better service and speed, but we dont want people not being able to access a service or the network if they have no coins in the wallet
+But you wont have congestion if you are paying, so much better service and speed, but we don't want people not being able to access a service or the network if they have no coins in the wallet
 but we need to cap the resource usage of the freemium tier, so that it does not get out of control or clog the network
 
 **michaelthecryptoguy**

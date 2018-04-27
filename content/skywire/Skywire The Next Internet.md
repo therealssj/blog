@@ -2,15 +2,19 @@
 title = "Skywire: The Next Internet"
 tags = [
     "Skywire",
+    "Skyminer",
 ]
 bounty = 5
 date = "2017-11-07"
 categories = [
     "Skywire",
+    "Skyminer",
 ]
+[image]
+    url = "img/skywire-the-next-internet.png"
+    type = "image/png"
+    length = 194882
 +++
-
-![Skywire logo](/img/skywire-the-next-internet.png)
 
 In spring 2017, the FCC made a proposal in which internet service providers can
 collect, use, and sell information about customer browsing habits. ISPs can do

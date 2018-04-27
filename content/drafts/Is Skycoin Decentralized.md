@@ -36,7 +36,7 @@ Skycoin is not ideologically opposed to trusted third parties, as long as the us
 
 The Bitcoin developers would reject any feature on ideological grounds, that would introduce a third third party relationship into any officially sanctioned part of the Bitcoin protocol, because it would compromise the ideological purity of Bitcoin's decentralization philosophy. Skycoin has technical decentralization but accepts that trusted third parties are sometimes a necessary evil (example: you cannot currently have exchanges without using a trusted third party).
 
-For example, If there are multiple exchanges and Skycoin has an exchange API, that API is interacting with a trusted third party. This is OK in Skycoin as long as we dont force the users to use a particular exchange and they choose which exchange they are extending trust to.
+For example, If there are multiple exchanges and Skycoin has an exchange API, that API is interacting with a trusted third party. This is OK in Skycoin as long as we don't force the users to use a particular exchange and they choose which exchange they are extending trust to.
 
 In Skycoin, 3rd party escrow in the protocol is OK as long as the user gets to choose which escrow authorities they will accept. The Bitcoin developers are ideologically opposed to any third parties and would not include sanction for escrow in the protocol or client, unless it can be enforced mathematically and under zero trust assumptions.
 

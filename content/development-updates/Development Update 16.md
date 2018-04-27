@@ -16,7 +16,7 @@ description = "Release notes highlighting the current development behind Skycoin
 ## Summary:
 - The new developers for the meshnet are setup and working now.
 - The source routing implementation is almost done.
-- wifi controller library is working and just needs adhoc mode support and some bug fixes. https://github.com/skycoin/darknet/commit/21e08943e753d985d3f30f5dee1022f027831c3d
+- wifi controller library is working and just needs adhoc mode support and some bug fixes.
 - Last gui changes to wallet are being made. One of the coin developers who was on vacation for past two weeks is coming back to project.
 - First draft the of Obelisk white paper is done. Will be on Github soon.
 
@@ -59,7 +59,7 @@ This is our current understanding.
 
 Public identities for developers subject Skycoin to unnecessarily legal harassment. The Megaupload lawsuit demonstrates that governments will put protecting powerful economic interests ahead of due process and the law. Comcast and Time Warner have spent hundreds of millions of dollars to crush municipal broadband at the state and federal level. These companies exercise powerful influence over municipalities and foster political connections they use to exclude competitors. They buy nominees to the FCC, buy court systems through political patronage and have even corrupted congressional staffers to reclassify themselves as except from the common carrier access rules. Whitespace networking equipment that would threaten their monopoly over internet service has consistently been sabotaged before testing while in FCC custody.
 
-They have a record of using frivolous lawsuits to bankrupt smaller competing ISPs offering faster, cheaper, internet service.  Mesh networking is an inevitable threat to their business model and a threat these companies must address.  They are likely to respond by pushing neutered mesh standards that maintain their power, while using patents, regulation and legal threats to kill off viable competitors. If Skycoin succeeds, the developers would in severe legal and possibly physical danger. I dont even have to mention what is happening to the popcorn time developers now.
+They have a record of using frivolous lawsuits to bankrupt smaller competing ISPs offering faster, cheaper, internet service.  Mesh networking is an inevitable threat to their business model and a threat these companies must address.  They are likely to respond by pushing neutered mesh standards that maintain their power, while using patents, regulation and legal threats to kill off viable competitors. If Skycoin succeeds, the developers would in severe legal and possibly physical danger. I don't even have to mention what is happening to the popcorn time developers now.
 
 Bitcoin is a theoretical, remote and abstract threat to banks and the existing financial order. Bitcoin exists within the existing system as just another commodity. Bitcoin is now seen as no more a threat to the system than gold (which is tolerated).
 

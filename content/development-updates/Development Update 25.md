@@ -30,7 +30,7 @@ The idea is that it upper bounds the number of nodes. If 10 coins must be held a
 
 When a new Obelisk node is run, it will "trust" some random peers. The user can also add a few nodes by hand that it trusts (exchanges or trusted community members). A node is identified by its public key hash and found by DHT. Its not like Bitcoin where nodes are IP:port pairs. You can move your computer around and the identity of the node does not depend on its IP address.
 
-We want the network to be secure with random nodes being chosen. We dont want a situation like Ripple, where the three developers nodes control the network. However, we wanted to prevent a situation, where someone runs 200,000 nodes and tries to collect the trust relationships from new users. These Sybil attacks nodes, still cannot 51% attack generally, but anything that increases the cost of the attack is still useful.
+We want the network to be secure with random nodes being chosen. We don't want a situation like Ripple, where the three developers nodes control the network. However, we wanted to prevent a situation, where someone runs 200,000 nodes and tries to collect the trust relationships from new users. These Sybil attacks nodes, still cannot 51% attack generally, but anything that increases the cost of the attack is still useful.
 
 Maybe, we restrict it so that new user will only randomly trust nodes that have a coin balance. Trust relationships wont be severed if the node does not have a coin balance, but they just wont get new random users.
 

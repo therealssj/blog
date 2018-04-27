@@ -52,7 +52,7 @@ We built most of the infrastructure for internal usage and not for some abstract
 
 Once the software is useful, then there will be non-speculative capital inflows.
 
-I dont think end-users care about software quality as much as usability and that it works. It does same thing and has same reliability, but it costs 5x the mental effort and frustration for developers. However, if you are building foundation for larger system it is important. I think we should go on rampage of implementing new things and ignore technical debt/refactoring for a while. As soon as something is working, just move on to next thing instead of improving or refactoring already working components. Then refactor and move things around later.
+I don't think end-users care about software quality as much as usability and that it works. It does same thing and has same reliability, but it costs 5x the mental effort and frustration for developers. However, if you are building foundation for larger system it is important. I think we should go on rampage of implementing new things and ignore technical debt/refactoring for a while. As soon as something is working, just move on to next thing instead of improving or refactoring already working components. Then refactor and move things around later.
 
 Then there loose ends that are frustrating. I want to get the ECC cryptography completely in golang, to enable cross compilation for windows/osx/arm/linux, however this will require a significant testing and will require auditing and fuzzing again.
 

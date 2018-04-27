@@ -72,7 +72,7 @@ bounty = 20
 >>computer around and the identity of the node does not depend on its IP
 >>address.
 
->>We want the network to be secure with random nodes being chosen. We dont want
+>>We want the network to be secure with random nodes being chosen. We don't want
 >>a situation like Ripple, where the three developers nodes control the
 >>network. However, we wanted to prevent a situation, where someone runs
 >>200,000 nodes and tries to collect the trust relationships from new users.

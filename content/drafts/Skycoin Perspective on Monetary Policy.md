@@ -24,7 +24,7 @@ Scammers gonna scam.
 
 ...
 
-The Obelisk/Darkwallet team has been the only one pushing Bitcoin forward in terms of standards. They could not even raise $20,000 compared to the millions that other projects have raised. Then you have RoboCoin. Everyone was excited about the ATMs, but it becomes a money grab and they decide to centralize the system and their system ended up being inferior to the open source ATMs. Biometric palm vein readers that are so invasive its something out of a dystopian scifi novel. In 2030 you wont need Bitcoin because cash is illegal and you dont need to carry around credit cards because you just have to put you hand under the Visa™ biometric palm vein reader after Visa™ buys Robocoin.
+The Obelisk/Darkwallet team has been the only one pushing Bitcoin forward in terms of standards. They could not even raise $20,000 compared to the millions that other projects have raised. Then you have RoboCoin. Everyone was excited about the ATMs, but it becomes a money grab and they decide to centralize the system and their system ended up being inferior to the open source ATMs. Biometric palm vein readers that are so invasive its something out of a dystopian scifi novel. In 2030 you wont need Bitcoin because cash is illegal and you don't need to carry around credit cards because you just have to put you hand under the Visa™ biometric palm vein reader after Visa™ buys Robocoin.
 
 Coinbase has done a very good job. Bitpay has done very well in building a sales force and signing up Microsoft and the New York Times. sipa has improved Bitcoin with his libraries for deprecating OpenSSL and now headers first downloading. So Bitcoin has pushed forward, but we have not really seen the community come together and address the problems facing Bitcoin. It cannot organize on the scale required. We have not seen many Satoshi level technical achievement. Satoshi was brilliant, in terms of integrating existing ideas into something new and using the tools available to get it done quickly.
 
@@ -48,7 +48,7 @@ There are two aspects of Bitcoin. There is a idea of "technological determinism"
 
 In history there were hundreds of currencies within each nation state. As the nation state grew in power, it outlawed competing currencies. Community currencies and regional currencies have arisen very frequently, rapidly grown and then collapsed. The majority of the collapses were from the corruption within the administion of the currency. They would print and debase the currency without limit. Bitcoin was the first system, where the rate of currency creation was defined by mathematics and no longer at the whim of the administrators.
 
-There is a technological aspect determining the properties of the asset, but there is also a sociological aspect concerning what drives adoption. Why do people adapt community currencies? Why do they arise, why do they grow, what would happen if they dont collapse for internal reasons (do they get crushed by the state)?
+There is a technological aspect determining the properties of the asset, but there is also a sociological aspect concerning what drives adoption. Why do people adapt community currencies? Why do they arise, why do they grow, what would happen if they don't collapse for internal reasons (do they get crushed by the state)?
 
 Then there is a question about what currency is.
 

@@ -21,7 +21,7 @@ This means some hashes we were intending to put in the block header are redundan
 
 Skycoin recovers from an attack on the network by identification of the attacking nodes and users collectively kicking them off or marginalizing the influence of the attacking nodes. The kicking of bad nodes off the network can be done by hand or it can be automated if it can be done safety. This incremental checkpointing system even if it is not used to prevent attacks that would revert previously executed transactions, may be useful for automatically identifying the bad nodes.
 
-This has to be worked through very carefully to ensure that it would not introduce any edge cases, so will be something we look at for the second generation consensus algorithm implementation. I dont think there is time to fit into this iteration.
+This has to be worked through very carefully to ensure that it would not introduce any edge cases, so will be something we look at for the second generation consensus algorithm implementation. I don't think there is time to fit into this iteration.
 
 I think the existing Skycoin consensus design is 51% attack proof, because the number of nodes required for performing the attack is much larger than the number of mining pools that need to collude and if it occurred, the chain would just fork and run both chains until they were pruned by hand and the bad nodes are kicked off by hand. So it is not clear what the economic incentive for a 51% attack in Skycoin, or why anyone would attempt it. Its more annoying than anything else.
 
@@ -45,7 +45,7 @@ If the continuous check pointing system works, the number of nodes for a secure 
 - peer-to-peer consensus in closed network, with peer-to-peer slave replication (central bank, bank running assets on a private ledger for internal or for customer use. Ripple. Skycoin ledger running on closed network)
 - peer-to-peer consensus in open network, with peer-to-peer replication (Bitcoin, where we will be at version 1.0)
 
-The danger is that if we dont solve the last problem, that we will have Bitcoin like systems, but they will be controlled by the banks and not the public. The third topology is a special case of the forth and the security problems are easier. If we have last problem solved, then we we end up with a hybrid system inter-operable of closed an open consensus networks on the same code base.
+The danger is that if we don't solve the last problem, that we will have Bitcoin like systems, but they will be controlled by the banks and not the public. The third topology is a special case of the forth and the security problems are easier. If we have last problem solved, then we we end up with a hybrid system inter-operable of closed an open consensus networks on the same code base.
 
 If the solutions are only extended to the third case, then the banks control the ledgers and can still impose transactions fees as gate keepers and can still charge merchants chargeback fees involuntarily and can still add involuntary debits and fees to customer accounts, such as overdraft fees. That is where the industry is being herded right now and why the consensus problem in open networks needs to be solved. Bitcoin in its current form will be obsolete as soon as those systems are in place, but the system will have been recentralized with banks as the gate keeper.
 
@@ -76,6 +76,7 @@ We had difficulty syncing Bitmessage and the network may be under attack. If Bit
 Software barely works in 2015. Key crypto packages like NaCl and toxcore have had deb packages for a year but are still not in debian and do not have alternative repositories. Golang dependency and path management is nowhere as easy or reproducible as it is in python right now. Debian packages do not have deterministic builds, so we cannot be assured there are not back doors in the package binaries that are not present in the source.
 
 The state of computer security right now is very bad. This is a bug in PHP. If you send a server a timestamp or date field, it parses it and takes over the server. Or allows private keys to be read out.
+
 - https://github.com/80vul/phpcodz/blob/master/research/pch-020.md
 
 This bug was released yesterday. This is very similar to the types of exploits that would be used to attack Silk Road and identify the services. There are hundreds of bugs like this. Some of them are intentional. Many of these exploits are in the wild for a decade before they are found. These bugs allow bitcoin exchanges and servers running websites like Silk Road to be hacked.
@@ -85,7 +86,8 @@ Skycoin is using Golang instead of PHP (MtGox) or C++ (like Bitcoin), so we can 
 There is no guarantee that there is not an unknown exploit in the Bitcoin client or library dependencies that would allow remote hijacking of the client and theft of Bitcoin from all active Bitcoin clients. The recent vulnerability in the glibc library that allows remote code execution from DNS resolutions, that escaped all protections on remote code execution is evidence that all the standard libraries are backdoored (intentionally or unintentionally) and that achieving security will require fundamental changes to toolchains, compilers and operating systems and not just the patching of individual exploits.
 
 The vulnerabilities found, just in glibc are very worrying.
-- http://www.intelligentexploit.com/search-results.html?search=GLib
+
+- https://www.exploit-db.com/search/?action=search&q=GLib
 
 Bitcoin uses OpenSSL which has daily security exploits. Skycoin has its own cryptography library that wraps a small C library by sipa. The Skycoin cryptography library is on the 3rd generation and the 4th generation library has been commissioned. For 4th generation we want to get cryptography completely into Golang  for cross compilation and have a common cryptography core across all the major coins (Bitcoin, Dogecoin, Litecoin, Skycoin). The 5th generation will focus on native support for open source key storage and signing devices.
 
@@ -98,6 +100,7 @@ Skycoin uses a web-browser (local web-client). By default Google Chome saves eve
 I think in future will we will see private contracts that do 90% of NSA hacking, looting random computers for coins with the thousand upon thousands of security vulnerabilities. They will do this just because it makes money. As coin adaption increases and becomes serious money, the level of hacking will accelerate beyond anything we have seen before. The attacks we have seen so far are amateur level.
 
 ###### Fixing every bug in every piece of software used is impossible. The best we can do is:
+
 - standardizing a subset of LLVM IR as a CIL and achieving platform independent deterministic builds at the compilation unit
 - compilers that enforce memory safety  (to rule out buffer read overruns and remote code execution attacks)
 - CPU architectures and compilers that enforce memory safety
@@ -106,7 +109,7 @@ I think in future will we will see private contracts that do 90% of NSA hacking,
 - ARA like hardware and standardization of hardware specifications to achieve security.
 - pushing as much of kernel and standards library into user space as possible.
 - pushing the network, graphics and sound stack into user space
-- pushing POSIX and the gnu standard library into user space. See: http://www.intelligentexploit.com/search-results.html?search=GLib
+- pushing POSIX and the gnu standard library into user space. See: https://www.exploit-db.com/search/?action=search&q=GLib
 
 CoreOS, Docker and LLVM are bringing us much closer to these goals. We will not need to implement everything from scratch. It will however be a very expensive process, taking years. We are realistically look at a cost $4 to $15 million dollars over five years and seven dozen small, high intensity six month projects that can be completely by one to three developers.
 

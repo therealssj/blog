@@ -215,7 +215,7 @@ In this system, to send 10 coins, you have to do 10 transactions. The transactio
 You could also relax this to allow N inputs and M outputs, but keeping the single coin per output requirement.
 - If each send transaction is implemented over a single transaction with N inputs and N outputs,  then the input addresses become "linked" and its no longer anonymous. If two addresses appear as inputs to a transaction you know they belong to the same wallet.
 - If the send transaction is implemented with N inputs and N outputs, with CoinJoin, then information is still leaked, but it is fractional bits of information. If two addresses appear as the input to a transaction, the probability they belong to the same wallet is increased.
-- If the send transaction is implemented as N inputs and N outputs, as CoinJoin but only 1 address/output from each wallet can be used as input, then no information is leaked. This is back to the 1 input, 1 output case. There is also diffusion. You know that each input will go to one of the outputs, but you dont know which. If you have N inputs and N outputs, there are N factorial ways of assigning the input coins to the output coins.
+- If the send transaction is implemented as N inputs and N outputs, as CoinJoin but only 1 address/output from each wallet can be used as input, then no information is leaked. This is back to the 1 input, 1 output case. There is also diffusion. You know that each input will go to one of the outputs, but you don't know which. If you have N inputs and N outputs, there are N factorial ways of assigning the input coins to the output coins.
 
 For a practical system instead of only storing a single coin per output (meaning 150 outputs or transactions to send 150 coins), you fix a probability distribution over the natural numbers and then ensure the inputs output balances conform to that statistical distribution.
 
@@ -247,7 +247,7 @@ Therefore a practical system seems to require a CoinJoin type mixing at each sta
 ##### Summary:
 - fix the distribution of output balance to a known probability distribution (eliminate information about which addresses are change)
 - to do a send, send from N addresses to M addresses. N addresses to 1 address + change, like Bitcoin leaks information
-- dont reuse addresses
+- don't reuse addresses
 - CoinJoin with mixing of addresses from multiple wallets as inputs for each transaction is required. Unless each transaction is 1 input and 1 output. Otherwise information is leaked that associates two addresses to the same wallet, by the fact those addresses appear as the owner of the inputs of the same transaction.
 
 It is theoretically possible, if you work through the above, to get perfect level of privacy that cannot be improved, but in practice the requirements are too tedious. "Good enough" privacy means

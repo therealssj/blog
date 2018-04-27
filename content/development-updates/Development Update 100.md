@@ -51,7 +51,7 @@ For instance, this is what getting the skycoin wallet builds looks like
 - Person E starts deprecating nwging something library
 - We have to wait until nwging something is deprecated and packaging is fixed for windows
 - The go cross compilation fails for 32 bit because of a file in the cypto library with 4 megabytes of constants in arrays, that trigger and "out of registers" error.
-- Now we want to deprecate the secp256k1 library for another library, because we dont know what these 10,000 lines of constants in this file are and why we should trust them. Why do we need 10,000 lines of hard-coded constants to raise the base point to the power of a 256 bit integer in an elliptic curve mode some 256 bit prime? Where did these constants come from?
+- Now we want to deprecate the secp256k1 library for another library, because we don't know what these 10,000 lines of constants in this file are and why we should trust them. Why do we need 10,000 lines of hard-coded constants to raise the base point to the power of a 256 bit integer in an elliptic curve mode some 256 bit prime? Where did these constants come from?
 - Then we have to find the person who registered the skycoin domain and get DNS setup
 - Then we have to ask person to start a server and put the website on the server, then login and upload the builds
 - To get a system icon for skycoin wallet, we need a library that has not been ported to Windows yet
