@@ -20,14 +20,14 @@ categories = [
 +++
 
 - [Q&A](#q-a)
-- [Summary of the Current Bitcoin Market](#summary-of-the-current-bitcoin-market)
-- [New Wallet](#new-wallet)
+- [Zusammenfassung des momentanen Bitcoin-Markts](#Zusammenfassung des momentanen Bitcoin-Markts)
+- [Neues Wallet](#Neues Wallet)
 - [CoinHours](#coinhours)
 - [Skycoin \(DEX\) Distributed Exchange Support](#skycoin-dex-distributed-exchange-support)
-- [Skycoin Projects Position on the Smart Contracts Fad](#skycoin-projects-position-on-the-smart-contracts-fad)
+- [Skycoins Position zu Smart Contracts Fad](#skycoin-projects-position-on-the-smart-contracts-fad)
 - [CX](#cx)
-- [Skycoin Roadmap Finished](#skycoin-roadmap-finished)
-- [First Distributed Social Media Platform on Skycoin Platform Launches](#first-distributed-social-media-platform-on-skycoin-platform-launches)
+- [Skycoin Roadmap fertiggestellt](#skycoin-roadmap-finished)
+- [Start der ersten verteilte Social Media Plattform auf Basis der Skycoin Plattform](#first-distributed-social-media-platform-on-skycoin-platform-launches)
 - [Skycoin OTC Market](#skycoin-otc-market)
 
 ## Q&A
@@ -269,7 +269,7 @@ Wir entwerfen gerade einen hartkodierte, 2-Faktor.Mehrfach-Signatur-Transaktions
 
 Wir evaluieren gerade auch Vorschläge, um einen dritten Transaktionstyp für atomare Swaps zwischen Blockchains einzuführen. Wie auch immer, wir glauben, dass atomare Swaps zwischen Blockchains noch nicht ausgereift sind und dass die 2-fach Signatur mit relativen Zeitschlössern der einfachste Weg ist, um dies zu implementieren.
 
-## Skycoins Position zu Smart Contracts fad
+## Skycoins Position zu Smart Contracts Fad
 
 Skycoin hat keine "Smart Contract"-Sprache. Unsere Blockchain-Sprache ist eine vollprogrammierbare Sprache, die für Desktop, Server und Netzwerkanwendungen geeignet ist, aber über alle Eigenschaften verfügt, um diese in eine Blockchain zu integrieren.
 
@@ -311,7 +311,7 @@ Die Roadmap kann nun hier abgerufen werden:
 
 https://www.skycoin.net/roadmap/
 
-## Die erste verteilte Social Media Plattform aus Basis der Skycoin Plattform startet
+## Start der ersten verteilte Social Media Plattform auf Basis der Skycoin Plattform
 
 Der Beta-Test der ersten verteilten Social Media Anwendung auf Basis der Skycoin Plattform is beendet.
 
