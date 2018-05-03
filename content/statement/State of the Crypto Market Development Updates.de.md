@@ -20,14 +20,14 @@ categories = [
 +++
 
 - [Q&A](#q-a)
-- [Zusammenfassung des momentanen Bitcoin-Markts](#Zusammenfassung des momentanen Bitcoin-Markts)
-- [Neues Wallet](#Neues Wallet)
+- [Zusammenfassung des momentanen Bitcoin-Markts](#zusammenfassung-des-momentanen-bitcoin-markts)
+- [Neues Wallet](#neues-wallet)
 - [CoinHours](#coinhours)
 - [Skycoin \(DEX\) Distributed Exchange Support](#skycoin-dex-distributed-exchange-support)
-- [Skycoins Position zu Smart Contracts Fad](#skycoin-projects-position-on-the-smart-contracts-fad)
+- [Skycoins Position zu Smart Contracts Fad](#skycoins-position-zu-smart-contracts-fad)
 - [CX](#cx)
-- [Skycoin Roadmap fertiggestellt](#skycoin-roadmap-finished)
-- [Start der ersten verteilte Social Media Plattform auf Basis der Skycoin Plattform](#first-distributed-social-media-platform-on-skycoin-platform-launches)
+- [Skycoin Roadmap fertiggestellt](#skycoin-roadmap-fertiggestellt)
+- [Start der ersten verteilten Social Media Plattform auf Basis der Skycoin Plattform](#start-der-ersten-erteilten-social-media-plattform-auf-basis-der-skycoin-plattform)
 - [Skycoin OTC Market](#skycoin-otc-market)
 
 ## Q&A
@@ -311,7 +311,7 @@ Die Roadmap kann nun hier abgerufen werden:
 
 https://www.skycoin.net/roadmap/
 
-## Start der ersten verteilte Social Media Plattform auf Basis der Skycoin Plattform
+## Start der ersten verteilten Social Media Plattform auf Basis der Skycoin Plattform
 
 Der Beta-Test der ersten verteilten Social Media Anwendung auf Basis der Skycoin Plattform is beendet.
 
