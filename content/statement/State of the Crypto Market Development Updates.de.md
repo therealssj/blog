@@ -8,8 +8,8 @@ tags = [
     "Roadmap",
     "Statement",
     "Bitcoin",
-    Entwicklung,
-    Wallet Entwicklung
+    "Entwicklung",
+    "Wallet Entwicklung"
 ]
 bounty = 15
 date = "2017-10-14"
