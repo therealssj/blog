@@ -25,7 +25,7 @@ Keep up-to-date with Skycoin development on Twitter, Reddit and Telegram for wha
 KittyCash
 ---------
 
-###KittyCash Test Wallet
+### KittyCash Test Wallet
 
 -   Alpha version of the test wallet published
 
@@ -37,7 +37,7 @@ KittyCash
 
 -   Fixed many bugs.
 
-###KittyAPI
+### KittyAPI
 
 -   Added caching for storing photos of kitties.
 
@@ -45,13 +45,13 @@ KittyCash
 
 -   Improved the ability to obtain kitty images by using a new materializer for the Kittiverse library
 
-###Kittiverse Library
+### Kittiverse Library
 
 -   Completed the first version of materializer for better access to kitty images
 
 -   Added an entry structure for storing relevant information of each kitty
 
-###Infrastructure
+### Infrastructure
 
 -   Added a deployment manager for automated deployment
 
@@ -72,7 +72,7 @@ Skycoin
 
 -   Mobile wallet beta version completed
 
-###Features
+### Features
 
 -   Released a new wallet version with an optional encryption feature
 
@@ -98,16 +98,16 @@ Hardware
 
 -   Hardware wallet prototype now completed. Outer casing and software are currently under development
 
--   ![](/img/skycoin-hardware-wallet-prototype.jpg)
+![][](/img/skycoin-hardware-wallet-prototype.jpg)
 
 -   Custom designed OpenWRT router prototype development was completed. It features sixteen 100Mb and two 1Gb ports with software configuration dashboard functionality
 
--   ![](/img/april-ecosystem-update3.jpg)
+![][](/img/april-ecosystem-update3.jpg)
 
 -   Prototype designs of a one-node software-defined networking Skyminer were released
 
--   ![](/img/april-ecosystem-update4.jpg)
+![][](/img/april-ecosystem-update4.jpg)
 
 -   Prototype photos of the Skywire dish antenna were released
 
--   ![](/img/april-ecosystem-update5.jpg)
+![][](/img/april-ecosystem-update5.jpg)
