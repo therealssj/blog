@@ -164,7 +164,7 @@ Das Ergebnis:
 - Die beiden Scam Coins haben bereits mehrere Börsen in der Warteschlange mit bestätigten Listing-Terminen.
 - Die tatsächlichen Unternehmen mit 100 Millionen Umsatz pro Jahr mit echten Netz-Projekten können nicht einmal mit den Börsen telefonieren.
 
-So sieht der Altcoin Markt gerade aus. Die Nicht-Scam Coins werden aus wirtschaftlichen Gründen herausgefiltert.
+So sieht der Altcoin-Markt gerade aus. Die Nicht-Scam Coins werden aus wirtschaftlichen Gründen herausgefiltert.
 
 Was nun passiert ist:
 
@@ -265,7 +265,7 @@ Skycoin Coin Hours sind auch ein sehr wichtiger Teil für die Skycoin CoinJoin I
 
 ## Skycoin (DEX) Distributed Exchange Support
 
-Wir entwerfen gerade einen hartkodierte, 2-Faktor-Mehrfach-Signatur-Transaktionstyp mit relativen Zeitschlössern für Skycoin. Dieser neue Transaktionstyp wird DEX ermöglichen und atomare Swaps zwischen Skycoin und allen Skyledger Coins unterstützen.
+Wir entwerfen gerade einen hartkodierten 2-Faktor-Mehrfach-Signatur-Transaktionstyp mit relativen Zeitschlössern für Skycoin. Dieser neue Transaktionstyp wird DEX ermöglichen und atomare Swaps zwischen Skycoin und allen Skyledger Coins unterstützen.
 
 Wir evaluieren gerade auch Vorschläge, um einen dritten Transaktionstyp für atomare Swaps zwischen Blockchains einzuführen. Wie auch immer, wir glauben, dass atomare Swaps zwischen Blockchains noch nicht ausgereift sind und dass die 2-fach Signatur mit relativen Zeitschlössern der einfachste Weg ist, um dies zu implementieren.
 
@@ -317,7 +317,7 @@ Der Beta-Test der ersten verteilten Social Media Anwendung auf Basis der Skycoin
 
 https://www.skycoin.net/downloads/ (scrolle weiter zu BBS)
 
-BBS ist ein Peer-to-Peer replizierende Social Media Anwendung, die auf unveränderlichen Datenstrukturen (CXO) auf Basis der Skycoin Plattform aufbaut.
+BBS ist eine durch Peer-to-Peer replizierende Social Media Anwendung, die auf unveränderlichen Datenstrukturen (CXO) auf Basis der Skycoin Plattform aufbaut.
 
 Alle Datenbanken in der verteilten Skycoin BBS Anwendung werden Peer-to-Peer über die Skycoin CX0 Library (ehemals Aether) repliziert. Nachrichten werden über einen Prototyp von Sky-Messenger verschickt, der Skycoins TOX-Standard für die Maschine-Maschine-Kommunikation zwischen Public Keys ist [(github.com/skycoin/net)](https://github.com/skycoin/net).
 
