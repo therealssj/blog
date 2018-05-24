@@ -19,7 +19,7 @@ categories = [
 
 - [Einführung](#einführung)
 - [Routing: Überblick](#routing-überblick)
-- [Belohungen: Bezahlprokotoll](#belohungen-Bezahlprokotoll)
+- [Belohnungen: Bezahlprokotoll](#belohnungen-Bezahlprokotoll)
 - [Source Routing: Link Layer-Verschlüsselung](#source-routing-link-layer-verschlüsselung)
     - [Beispielprotokoll: Knoten `A` und `B`](#beispielprotokoll-knoten-a-und-b)
     - [Mögliche Verbesserungen:](#mögliche-verbesserungen) 
@@ -121,7 +121,7 @@ Manche Anwendungen werden mehrere parallele Routen auf der Application Layer nut
 
 Das ist der Kern des darüberliegenden Skycoin-Netzwerks. Es ist sehr einfach, aber sehr mächtig. Technische und Implementierungsdetails werden im Anschluss besprochen.
 
-Skywire pr#fixt ein Paket einfach mit der Route-ID.
+Skywire präfixt ein Paket einfach mit der Route-ID.
 
 * Routing ist ein sehr einfacher Tabellen Lookup
 * Der Zusatzaufwand pro Paket ist konstant und nimmt mit langen Routen nicht zu
@@ -134,7 +134,7 @@ Hinweise:
 * Ende-zu-Ende-Verschlüsselung eliminiert Packet Injection Attacks und Spoofing. Spoofing von Traffic erfordert die privaten Schlüssel von beiden Enden der Tunnelverbindung.
 * Verschüsselung ist schnell. Ziel sind 10 Gb/s Durchsatz auf FPGA Hardware und 200 mb/s auf ARM.
 
-## Belohungen: Bezahlprokotoll
+## Belohnungen: Bezahlprokotoll
 
 ![Skywire miner](https://i.imgur.com/2zj4CUV.jpg)
 
@@ -160,7 +160,7 @@ Der momentan beste Kanidat ist ChaCha20 mit ECC scp256k1 Ephemeral Key Exchange.
 
 ChaCha20 nutzt nur sehr einfache arithmetische Operationen, ist schnelles als AES für eingebettete Geräte und ist widerstandsfähiger gegenüber Channel Attacks als AES.
 
-Ein moderer CPU cann 6000 secp256k1 ECDH-Operationen pro Sekunde unterstützen. Der Austausch von Session-Schlüsseln sollte einmal pro Sekunde erfolgen oder doppelt so lange wie ein Round Trip zwischen den Nodes. Es sollte unterschiedliche Schlüssel für jede Verbindungsrichtung geben.
+Ein moderer CPU kann 6000 SECP256k1-ECDH-Operationen pro Sekunde unterstützen. Der Austausch von Session-Schlüsseln sollte einmal pro Sekunde erfolgen oder doppelt so lange wie ein Round Trip zwischen den Nodes. Es sollte unterschiedliche Schlüssel für jede Verbindungsrichtung geben.
 
 Der vorhergehende Session-Schlüssel sollte in das Geheimnis, welches über ECDH empfangen wird, eingehen.
 
