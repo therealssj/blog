@@ -21,7 +21,7 @@ categories = [
 
 * Breitband-Wettbewerb erhöhen.
 * Eine Alternative zu ISPs anbieten.
-* Communitiesin die Lage versetzen ISPs in einer benutzergesteuerten Infrastruktur aufzubauen.
+* Communities in die Lage versetzen ISPs in einer benutzergesteuerten Infrastruktur aufzubauen.
 * Ein globales Open-Access-Mesh-Netzwerk oder "Meshnet" zu schaffen.
 
 ## 2. Skywire ist ein neues Datenschutzprotokoll.
