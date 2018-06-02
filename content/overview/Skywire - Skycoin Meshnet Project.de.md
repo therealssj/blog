@@ -54,9 +54,9 @@ categories = [
 Skywire Ziele:
 
 * Breitbandwettbewerb erhöhen. Anbieten einer Alternative zu den existierenden IPs. Überbrückung der letzten Meile.
-* Nutzergemeinden ermöglichen, selbst ISPs auf basis einer nutzerbetriebenen Infrastruktur zu bauen.
+* Nutzergemeinden ermöglichen, selbst ISPs auf Basis einer nutzerbetriebenen Infrastruktur zu bauen.
 
-Skywire ist das neue Darknet Protocol.
+Skywire ist das neue Darknet-Protokol.
 
 * Geringe Latenz (so schnell wie TCP/IP und theoretisch schneller auf dem nativen Netzwerk)
 * Hohe Performanz (entworfen für Video, File Sharing und Applikationen mit hohem Durchsatz)
@@ -128,8 +128,8 @@ Skywire präfixt ein Paket einfach mit der Route-ID.
 
 Hinweise:
 * Das Ziel kennt nicht die Identität des Ursprungs. Identität ist nicht länger in der Routing Layer, sondern auf der Application Layer. Identität muss durch eine Public Key Infrastructur bestätigt werden.
-* Man-in-middle-Attacken sind nicht möglich. Eine Quellen kann das Ziel durch ihren Public Key identifzieren.
-* Privatspähe ist gegenüber IPv4 signifikant verbessert, da jeder, der mit dem Paket zu tun hatte, das Ziel, die Quelle und den Inhalt des Pakets sehen konnte. 
+* Man-in-middle-Attacken sind nicht möglich. Eine Quelle kann das Ziel durch ihren Public Key identifzieren.
+* Privatsphäre ist gegenüber IPv4 signifikant verbessert, da jeder, der mit dem Paket zu tun hatte, das Ziel, die Quelle und den Inhalt des Pakets sehen konnte. 
 * Die Perfomanz ist verbessert im Vergleich zu IPv4/BGP, weil ISPs Hot Potato Routing verwenden.
 * Ende-zu-Ende-Verschlüsselung eliminiert Packet Injection Attacks und Spoofing. Spoofing von Traffic erfordert die privaten Schlüssel von beiden Enden der Tunnelverbindung.
 * Verschüsselung ist schnell. Ziel sind 10 Gb/s Durchsatz auf FPGA Hardware und 200 mb/s auf ARM.
@@ -446,7 +446,7 @@ Mit BGP versuchen die Netzwerke den Traffic so schnell wie möglich los zu werde
 
 Aus Effizienzgründen müssen Bandbreitenkapazität und Fan-In (Anzahl der Routen, die jede virtuelle Route bündelt) auf jeder Ebene der Netzwerkhierarchie konstant sein, um einen konstanten Netzwerkdurchmesser und ein logarithmisches Routing-Tabellenwachstum bzgl. der Anzahl der Hosts zu erreichen.
 
-## Source Routing: Virtual Routen, SONET Topology
+## Source Routing: Virtuelle Routen, SONET Topology
 
 Eine virtuelle Route mit mehreren Eingängen und mehreren Ausgängen kann physisch als ein SONET-Ring implementiert sein, mit Skywire-Knoten in jeder Stadt, die die SONET-Topologie durchläufen. Die Skywire-Knoten fungieren als Gateway-Router zwischen dem Skywire-Netzwerk und der SONET-Topologie.
 
