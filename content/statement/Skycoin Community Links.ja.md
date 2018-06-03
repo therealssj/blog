@@ -34,7 +34,7 @@ SkycoinチームではTelegramが最もよく利用されています。
 * [Skycoin Blog](https://blog.skycoin.net)
 * [Skycoin Twitter](https://twitter.com/skycoinproject)
 * [Skycoin Reddit](https://reddit.com/r/skycoinproject)
-* [Skycoin Facebook](https://www.facebook.com/skycoinproject)
+* [Skycoin Facebook](https://www.facebook.com/SkycoinOfficial)
 
 メディア
 -----
