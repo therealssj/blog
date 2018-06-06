@@ -21,15 +21,15 @@ Die wichtigste Änderungen von allen ist die Einführung des Thin Clients. Man k
 
 In Vorgängerversionen konnte man (und sollte man) nur durch ein lokal betriebenes Webinterface zugreifen bzw. Inhalte versenden. Da das Webinterface (und die API, die es aufruft) direkte Kontrolle über den Knoten selbst haben und Inhalte mit einem privaten Schlüssel signiert werden, der im Knoten gespeichert ist (oder serverseitig), ist es nicht sinnvoll es öffentlich zugänglich zu machen.
 
-Daher benötigt die Einführung eines Thin Clients eine Nutzerverwaltung. Weiterhin muss der Prozess zur Signierung von Inhalten für die Übertragung clientseitig durchgeführt werden. Dies benötigt komplett neue Entpunkte für die Inhaltsübertragung und tiefe Veränderungen im Frontend.
+Daher benötigt die Einführung eines Thin Clients eine Nutzerverwaltung. Weiterhin muss der Prozess zur Signierung von Inhalten für die Übertragung clientseitig durchgeführt werden. Dies benötigt komplett neue Endpunkte für die Inhaltsübertragung und tiefe Veränderungen im Frontend.
 
-Details zum neuen Übertragsungsprozess können im BBS Wiki abgerufen werden: [github.com/skycoin/bbs/wiki/Content-Submission-Process](https://github.com/skycoin/bbs/wiki/Content-Submission-Process).
+Details zum neuen Übertragsungsprozess können im BBS-Wiki abgerufen werden: [github.com/skycoin/bbs/wiki/Content-Submission-Process](https://github.com/skycoin/bbs/wiki/Content-Submission-Process).
 
-Momentan läd das Frontend sehr langsam. Dies ist auf [GopherJS](https://github.com/gopherjs) zurückzuführen, welches für das Setzen des Seed und die Generierung von öffentlichen und privaten Schlüsseln zuständig ist und auch die Signierung und die Verifikation von Daten übernimmt. In zukünftigen Releases wird durch native JavaScript-Bibliotheken die Leistungsfähigkeit verbessert.
+Momentan läd das Frontend sehr langsam. Dies ist auf [GopherJS](https://github.com/gopherjs) zurückzuführen, welches für das Setzen des Seeds und die Generierung von öffentlichen und privaten Schlüsseln zuständig ist und auch die Signierung und die Verifikation von Daten übernimmt. In zukünftigen Releases wird durch native JavaScript-Bibliotheken die Leistungsfähigkeit verbessert.
 
 ## Kommandozeilen-Interface
 
-Nach der Einführung eines öffentlich zugänglichen Thin Clients haben wir die API-Endpunkte entfernt, die administrative Kontrolle ermöglichten und ein Kommandozeilen-Interface für diese Belange eingerichtet.
+Nach der Einführung eines öffentlich zugänglichen Thin Clients haben wir die API-Endpunkte entfernt, die administrative Kontrolle ermöglichten, und ein Kommandozeilen-Interface für diese Belange eingerichtet.
 
 Weitere Informationen sind hier zu finden: [github.com/skycoin/bbs/tree/master/cmd/bbscli](https://github.com/skycoin/bbs/tree/master/cmd/bbscli).
 
