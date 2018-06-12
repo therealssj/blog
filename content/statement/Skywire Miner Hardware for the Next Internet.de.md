@@ -54,7 +54,7 @@ Das Ziel von 6 Monaten ist noch ein ungefähres Zeitziel. Bis sich die Hardware 
 
 * [Skycoin Telegram](https://t.me/Skycoin): Für Diskussionen über Skywire Miner und Skwire Netzwerk.*
 
-Es werden 300 Einheiten für den Kauf verfügbar sein. Wenn wir bereit sind Bestellungen anzunehmen, wird dir ein Forumlar auf der Webseite die Registrierung ermöglichen.
+Es werden 300 Einheiten für den Kauf verfügbar sein. Wenn wir bereit sind, Bestellungen anzunehmen, wird dir ein Forumlar auf der Webseite die Registrierung ermöglichen.
 
 Der Preis wird 1 BTC für 1 Einheit sein. Im Kauf enthalten sind:
 
