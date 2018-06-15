@@ -21,11 +21,11 @@ Aber der ICO-Preis beträgt 0,002 USD-Cent!!!
 Viel Glück damit.
 Hier gibt es keine Glaubwürdigkeit.
 
-Der springende Punkt dieser Verteilung war für die Technologie-VC, Walkartelle und koreanisch / japanische Wale.
+Der springende Punkt dieser Verteilung war für die Technologie-VC, Walkartelle und koreanische / japanische Wale.
 
 Dies ist nicht öffentlich.
 
-Jeder ist schreibt Nachrichten und fragt nach einem anderen Preis und will große Blöcke über den OTC mit Rabatt auf den Markt kaufen und wir haben keinen einheitlichen Prozess um damit umzugehen. Daher testen wir die Strategie, die größeren OTC-Blöcke über dem Markt zu platzieren, und verwenden dann den Bitcoin als automatische Preisunterstützung.
+Jeder schreibt Nachrichten und fragt nach einem anderen Preis und will große Blöcke über den OTC mit Rabatt auf den Marktpreis kaufen, und wir haben keinen einheitlichen Prozess um damit umzugehen. Daher testen wir die Strategie, die größeren OTC-Blöcke über dem Markt zu platzieren, und verwenden dann den Bitcoin als automatische Preisunterstützung.
 
 Die anfängliche ICO-Bewertung war sehr hoch, was die Verteilung schwierig machte und wir haben mehrere Optionen.
 - Zum Beispiel können wir in einer Ninja-Ankündigung die Coin-Verbrennung von 80% der Coins durchführen (Reduzierung des Total Supplys auf 20 Millionen)
@@ -42,11 +42,11 @@ Dann maximal 5% pro Jahr.
 
 ### Die kritische Phase
 
-Die kritische Periode und Versuchsphase für Skycoin ist jetzt gerade, von 5,8% Verdünnung und geringem Volumen bis zu 10% Verteilung.
+Die kritische Periode und Versuchsphase für Skycoin ist jetzt gerade, von 5,8% Ausdünnung und geringem Volumen bis zu 10% Verteilung.
 
 Wir machen OTC-Verkäufe mit den Walen, um einen Bitcoin-Fond als Preisunterstützung aufzubauen, um den Meilenstein von 10% zu erreichen.
 
-Gleichzeitig werden wir Liquidität aufbauen, indem wir an größeren Börsen gelistet werden. Und starten Sie auch die ersten Anwendungen für die Öffentlichkeit:
+Gleichzeitig werden wir Liquidität aufbauen, indem wir an größeren Börsen gelistet werden. Und wir starten auch die ersten Anwendungen für die Öffentlichkeit:
 
 - Sky Messenger
 - Mobile Wallet
@@ -58,7 +58,7 @@ Gleichzeitig werden wir Liquidität aufbauen, indem wir an größeren Börsen ge
 - CXO Daemon (wird von BBS verwendet)
 
 
-Also diese Verteilungsveranstaltung ist für Menschen mit zu viel Geld, die gut über das Projekt Bescheid wissen, und 300 BTC von Skycoin zu kaufen. Wale und VCs, institutionelle Investoren usw.
+Also diese Verteilungsveranstaltung ist für Menschen mit zu viel Geld, die gut über das Projekt Bescheid wissen, und 300 BTC an Skycoin kaufen. Wale und VCs, institutionelle Investoren usw.
 
 Auch für Infrastrukturtests. Die bestehende ICO-Infrastruktur wird einen OTC-Bot verwenden, so dass es einen einheitlichen Prozess für die Abwicklung von OTC-Verkäufen zum aktuellen Kurs geben wird.
 
@@ -90,7 +90,7 @@ Die Theorie war, dass wenn wir den Verkaufsereignispreis auf 0,002 BTC / SKY (50
 
 Allerdings sind noch 20 Stunden und es ist noch nichts passiert und der Preis liegt immer noch bei 0,0012. Wir werden sehen, was passiert.
 
-Was passiert ist, ist, dass das Liquiditäts- / Handelsvolumen gesunken ist. Ich denke, weil sich die Menschen nicht sicher sind, was passieren wird.
+Was passiert ist dass das Liquiditäts- / Handelsvolumen gesunken ist. Ich denke, weil sich die Menschen nicht sicher sind, was passieren wird.
 
 Am 15. werden wir dann eine zweite Vertriebsstrategie ausprobieren.
 
@@ -102,7 +102,7 @@ Die Gesamtkapitalerhöhung von 5,8% auf 20% wird 15 Millionen oder 3000 Bitcoins
 
 Die Hauptziele sind also:
 
-- Geld für die Entwicklung einsammeln
+- Geld für die Entwicklung einzusammeln
 - Geld für die Preisstützung und das Market Making sammeln
 - Liquidität erhöhen
 - systematisch testen und ermitteln, welche Art von Ausschüttungspolitik und Ausschüttungsrate für das Erreichen der Verteilungsziele am besten geeignet ist, ohne den Preis der Coins zu senken
