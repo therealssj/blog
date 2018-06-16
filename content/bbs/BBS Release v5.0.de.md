@@ -55,4 +55,4 @@ Die Seite ist immer noch im Aufbau!
 
 ## Community
 
-Wir haben einen Telegramkanal: [@skycoinbbs](https://t.me/skycoinbbs).
+Wir haben einen Telegram-Kanal: [@skycoinbbs](https://t.me/skycoinbbs).
