@@ -17,7 +17,7 @@ Skycoin BBS v5.0 wurde endlich veröffentlicht - mit vielen Änderungen unter de
 
 ## Thin Client
 
-Die wichtigste Änderungen von allen ist die Einführung des Thin Clients. Man kann ab sofort auf Skycoin BSS zugreifen ohne einen Knoten zu erstellen. Gehe hierzu einfach auf [bbs.skycoin.net](http://bbs.skycoin.net). 
+Die wichtigste Änderungen von allen ist die Einführung des Thin Clients. Man kann ab sofort auf Skycoin BSS zugreifen, ohne einen Knoten zu erstellen. Gehe hierzu einfach auf [bbs.skycoin.net](http://bbs.skycoin.net). 
 
 In Vorgängerversionen konnte man (und sollte man) nur durch ein lokal betriebenes Webinterface zugreifen bzw. Inhalte versenden. Da das Webinterface (und die API, die es aufruft) direkte Kontrolle über den Knoten selbst haben und Inhalte mit einem privaten Schlüssel signiert werden, der im Knoten gespeichert ist (oder serverseitig), ist es nicht sinnvoll es öffentlich zugänglich zu machen.
 
@@ -45,7 +45,7 @@ Weitere Informationen sind hier zu finden: [github.com/skycoin/bbs/tree/master/c
 
 Den BSS-Download findet du hier: [github.com/skycoin/bbs/releases](https://github.com/skycoin/bbs/releases) (Quellcode wird hier auch zu finden sein).
 
-Du kannst BBS auch über [bbs.skycoin.net](http://bbs.skycoin.net) zugreifen.
+Du kannst auf BBS auch über [bbs.skycoin.net](http://bbs.skycoin.net) zugreifen.
 
 ## Dokumentation
 
