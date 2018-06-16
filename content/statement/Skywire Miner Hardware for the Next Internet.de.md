@@ -59,7 +59,7 @@ Es werden 300 Einheiten für den Kauf verfügbar sein. Wenn wir bereit sind, Bes
 Der Preis wird 1 BTC für 1 Einheit sein. Im Kauf enthalten sind:
 
 * Skywire Miner
-* Eine Anzahl an Skycoins, die äquivalent zu 1 BTC abzüglich der Hardwarekosten (ca. $600) sein wird und vom Marktpreis zum Zeitpunkt des Kaufs abhängt.
+* Eine Anzahl an Skycoins, die äquivalent zu 1 BTC abzüglich der Hardwarekosten (ca. $600) sein werden und vom Marktpreis zum Zeitpunkt des Kaufs abhängen.
 
 Knoten, die auf dem Skywire Netzwerk betrieben werden, erhalten einen Netzwerkbonus, da sie mithelfen, das Netzwerk auszubauen. Diesen Bonus erhalten sie zusätzlich zur Zahlungen für die Weiterleitung des Datenverkehrs. Für die Skywire Miner werden wir die Netzwerkbonus erhöhen. Wie auch immer, wir arbeiten noch an Mechanismen, um die Skywire Miner von anderen Knoten unterscheiden zu können, da es sich um jede Maschine im Netz handeln könnte. 
 
