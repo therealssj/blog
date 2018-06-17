@@ -122,7 +122,7 @@ Das ist der Punkt, an dem das Netzwerk in einem geschlossenen internen Wirtschaf
 
 Wenn wir die Ziele eines geschlossenen oder eigenständigen Wirtschaftssystems erreichen können, wäre das ein wichtiger Meilenstein für Kryptowährungen. Wir brauchen Produzenten und Verbraucher und sie müssen in einem geschlossenen Kreislauf ausgeglichen werden.
 
-Das Steemit-, Bitcoin- und Ethereum-Modell ist auf lange Sicht nicht tragfähig, weil die Mining-Prämien und Anreizkosten durch eine vorübergehende Kapitalzuflußblase in eine neue Anlageklasse (Kryptowährungen) subventioniert werden. Bitcoin wäre nicht lebensfähig, wenn die jährlichen Kosten in Höhe von mehreren hundert Millionen Dollar für das Netzwerk den Bitcoin-Nutzern als Transaktionsgebühren direkt aus der Tasche gezogen würden. Es ist nur mit Hunderten von Millionen Dollar von neuem, externem Geld möglich, um neue Bitcoins zu verkaufen, der für die Betriebskosten des Netzwerks ausgegeben wird.
+Das Steemit-, Bitcoin- und Ethereum-Modell ist auf lange Sicht nicht tragfähig, weil die Mining-Prämien und Anreizkosten durch eine vorübergehende Kapitalzuflußblase in eine neue Anlageklasse (Kryptowährungen) subventioniert werden. Bitcoin wäre nicht lebensfähig, wenn die jährlichen Kosten in Höhe von mehreren hundert Millionen Dollar für das Netzwerk den Bitcoin-Nutzern als Transaktionsgebühren direkt aus der Tasche gezogen würden. Es ist nur mit Hunderten von Millionen Dollar von neuem, externem Geld möglich, um neue Bitcoins zu verkaufen, die für die Betriebskosten des Netzwerks ausgegeben wird.
 
 Aus diesem Grund konzentrierte sich das Skycoin-Projekt in den ersten vier Jahren auf die Erforschung neuer Mining-Algorithmen, um die Netzwerkbetriebskosten zu reduzieren oder zu eliminieren.
 
