@@ -19,7 +19,7 @@
                 <div class="list__item-inner">
                   {{ if .Params.image }}
                     <div class="list__item-image">
-                      <img src="{{ .Params.image.url | relURL }}" class="list__image">
+                        <div style="background-image: url(.{{ .Params.image.url | relURL }})" class="list__image"></div>
                     </div>
                   {{ else }}
                     <div class="list__item-image">
