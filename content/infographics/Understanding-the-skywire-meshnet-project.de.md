@@ -1,5 +1,5 @@
 +++
-title = "Skycoin Digest: Skywire Meshnet Project [INFOGRAPHIC]"
+title = "Skycoin Digest: Skywire Meshnet-Projekt[INFOGRAPHIC]"
 tags = [
     "Skycoin Digest",
     "Infographics",
