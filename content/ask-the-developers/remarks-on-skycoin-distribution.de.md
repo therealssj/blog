@@ -1,5 +1,5 @@
 +++
-title = "Remarks on Skycoin's Distribution"
+title = "Bemerkungen zu Skycoins Distribution"
 tags = [
     "Ask the Developers",  
     "Distribution",
