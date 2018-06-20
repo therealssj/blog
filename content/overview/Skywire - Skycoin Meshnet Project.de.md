@@ -1,5 +1,5 @@
 +++
-title = "Skywire - Skycoin Meshnet Projekt"
+title = "Skywire - Skycoin Meshnet-Projekt"
 tags = [
     "Skywire",
     "Meshnet",
