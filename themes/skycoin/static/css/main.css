@@ -815,8 +815,13 @@ a {
     .footer__copyright .copy,
     .footer__copyright .contact,
     .footer__copyright .languages {
-      width: 33.3333%;
+      width: 100%;
       text-align: center; }
+      @media screen and (min-width: 40rem) {
+        .footer__copyright .copy,
+        .footer__copyright .contact,
+        .footer__copyright .languages {
+          width: 33.3333%; } }
     @media screen and (min-width: 40rem) {
       .footer__copyright .copy {
         text-align: left; } }

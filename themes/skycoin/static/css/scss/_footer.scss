@@ -107,8 +107,11 @@
     .copy,
     .contact,
     .languages {
-      width: 33.3333%;
+      width: 100%;
       text-align: center;
+      @include tablet {
+       width: 33.3333%;
+      }
     }
 
     .copy {
