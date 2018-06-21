@@ -12,7 +12,7 @@ As many skycoin holders are no doubt aware, there was a major selloff over the p
 
 The trigger for the events was the discovery that the previous Skycoin China marketing team (EVOLAB) had embezzled approximately 100,000 skycoins over the course of the past half year. In light of this discovery and their failure to return or account for the embezzled coins, the relationship with this team was terminated.
 
-Following this, at 9:30 PM on June 13th 2018, nine individuals, including/led by marketing team members Sam Sing Fong, Mary Li (李臻/李敏), Xiangdong Yan (闫向东) and Jesse Sun Fei (孙飞) burglarized Synth’s home. They proceeded to hold Synth and his wife against their will for 6 hours, over the course of which they threatened, beat and robbed them. Thanks to wallet security measures, the group was only able to extract 18.88 Bitcoin and 6466 skycoins during the robbery. The gang also attempted and failed to steal the design framework for the skycoin ecosystem.
+Following this, at 9:30 PM on June 12th 2018, nine individuals, including/led by marketing team members Sam Sing Fong, Mary Li (李臻/李敏), Xiangdong Yan (闫向东) and Jesse Sun Fei (孙飞) burglarized Synth’s home. They proceeded to hold Synth and his wife against their will for 6 hours, over the course of which they threatened, beat and robbed them. Thanks to wallet security measures, the group was only able to extract 18.88 Bitcoin and 6466 skycoins during the robbery. The gang also attempted and failed to steal the design framework for the skycoin ecosystem.
 
 The stolen skycoin transaction can be seen here:
 
