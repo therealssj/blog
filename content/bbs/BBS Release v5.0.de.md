@@ -1,5 +1,5 @@
 +++
-title = "Skycoin BBS v5.0 Release Announcement"
+title = "Skycoin BBS v5.0 Release Ankündigung"
 tags = [
     "Development",
     "BBS",
