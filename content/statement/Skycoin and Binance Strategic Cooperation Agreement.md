@@ -23,9 +23,7 @@ Skycoin will support BNB in a number of ways:
 
 3\.   A game developed on Skycoin's Fiber blockchain platform called KittyCash (<http://www.kittycash.com/home)> will accept BNB as a form of payment. Within KittyCash you can own unique kitties and complete game transactions on the Skycoin blockchain.
 
-4\.   Samos (www.samos.io), one of the ecological projects on Skycoin, will adopt BNB as payment system. Samos utilizes CXO, a storage technology developed by Skycoin. Samos aims to build an AI-driven network to provide a cross-platform and cross-ecosystem foundational service. BNB users can directly purchase and enjoy private encrypted storage services through Samos's Pay Gateway.
-
-5\.   BNB payment and circulation will be adopted in all future applications developed within Skycoin to strengthen our ongoing partnership.
+4\.   BNB payment and circulation will be adopted in all future applications developed within Skycoin to strengthen our ongoing partnership.
 
 ## About Skycoin
 
