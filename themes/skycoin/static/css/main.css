@@ -815,8 +815,13 @@ a {
     .footer__copyright .copy,
     .footer__copyright .contact,
     .footer__copyright .languages {
-      width: 33.3333%;
+      width: 100%;
       text-align: center; }
+      @media screen and (min-width: 40rem) {
+        .footer__copyright .copy,
+        .footer__copyright .contact,
+        .footer__copyright .languages {
+          width: 33.3333%; } }
     @media screen and (min-width: 40rem) {
       .footer__copyright .copy {
         text-align: left; } }
@@ -1201,8 +1206,11 @@ li {
   .list__image {
     position: absolute;
     top: 0;
+    left: 0;
     width: 100%;
-    object-fit: cover;
+    bottom: 0;
+    background-size: cover;
+    background-position: center center;
     border-radius: 4px 4px 0 0; }
     .list__image-placeholder {
       position: absolute;
