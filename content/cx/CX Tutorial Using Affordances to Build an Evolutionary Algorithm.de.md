@@ -15,7 +15,7 @@ categories = [
 <!-- MarkdownTOC autolink="true" bracket="round" depth="2" -->
 
 - [Einführung](#introduction)
-- [anforderungsreagierende Architektur](#challenge-response-architecture)
+- [Challenge-Response Architektur](#challenge-response-architecture)
 - [Affordanzsystem](#affordance-system)
 - [Objekte](#objects)
 - [Fazit](#conclusion)
@@ -28,7 +28,7 @@ Dieses Tutorial stellt ein textbasiertes "Spiel" vor (der User interagiert nicht
 er kann die Entscheidungen des Charakters nicht beeinflussen), welches eine 
 [anforderungsreagierende Architektur](#challenge-response-architecture)
 nutzt, um zu bestimmen welche Aktionen der Spielcharakter ausführen kann.
-Der komplette Quellcode kann hier gefunden werden [CXs Repository](https://github.com/skycoin/cx),
+Den kompletten Quellcode finden Sie unter [CXs Repository](https://github.com/skycoin/cx),
 in der Datei *examples/text-based-adventure.cx*.
 
 Das Spiel beschreibt ein Abenteuer eines Reisenden, welcher vor einem Monster flieht (nächsten Monat
@@ -110,11 +110,11 @@ Im obigen Code sucht *remArg()* nach einem Ausdruck mit dem "laufen"-Tag und ent
 Dies wird getan, damit das Affordanzsystem die Argumente, welche zum Ausdrucksoperator gesendet werden 
 können, auflistet. Danach sagt *affExpr()* CX, "unter allen Argumenten, die an *laufen* gesendet werden 
 können, können *ja* oder *nein* als Argumente verwendet werden und wende die 
-*0th*-Option der Affordanzsystemliste, die du zurückerhälst, an."
+*0'te*-Option der Affordanzsystemliste, die du zurückerhälst, an."
 
 Die vorherige Prozedur wird auf alle Aktionen, die während des Abenteuers des 
 Reisenden auftreten können, angewendet. Für jede dieser Aktionen werden die folgenden Regeln
-befragt, um zu bestimmen ob die Aktion erlaubt sein sollte oder nicht.
+abgefragt, um zu bestimmen ob die Aktion erlaubt sein sollte oder nicht.
 
 ```
 setzeKlauseln("
@@ -133,8 +133,7 @@ setzeKlauseln("
         ")
 ```
 
-Die erste Regel kann gelesen werden, als "Ich werde befragt, wenn du überlegst mir ein *ja* Argument für die 
-*laufen*-Aktion zu senden. Wenn das Objekt *monster* präsent ist, ist dieses Argument *nicht* eine Option."
+Die erste Regel kann gelesen werden, als "Ich werde abgefragt ob du überlegst das *ja*-Argument zur *laufen*-Aktion zu senden. Wenn das Objekt *monster* anwesend ist, dann ist dieses Argument eine *nicht*-Option"
 
 Die Regeln im zweiten Block (die vier Regeln nach der ersten Leerzeile) sagen dem Affordanzsystem "niemals" *ja* 
 als Argument zu akzeptieren. Wir machen dies, weil wir das als Standardverhalten haben möchten, aber wir können später
@@ -160,9 +159,9 @@ Das CX Affordanzsystem nutzt Objekte und Regeln um komplexe Entscheidungen darü
 wie Affordanzen gefiltert werden sollen.
 
 Indem Objekte verwendet werden können wir entscheiden, welche Aktionen aktiviert oder deaktiviert
-werden sollen. Für dieses Beispiel wurden eine kleine Menge an Aktionen für den 
+werden sollen. Für dieses Beispiel wurde eine kleine Menge an Aktionen für den 
 Aktivierungsprozess in Betracht gezogen und der Vorteil dieser Architektur könnte zunächst
-nutzlos erscheinen. Nichtsdestotrotz können komplexere Regeln kreiert werden, die mehr Objekte involvieren
+nichtig erscheinen. Nichtsdestotrotz können komplexere Regeln kreiert werden, die mehr Objekte involvieren
 und eine einzige Regel könnte das Kommando über die Aktivierung etlicher Knoten in einem Netzwerk von 
 Aktionen haben. Zudem werden in diesem Beispiel nur zwei mögliche Argumente in Betracht gezogen: 
 *ja* und *nein*; wir hätten mehr Argumente kreieren können und zugehörige Aktionen, welche andere 
