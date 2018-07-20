@@ -27,7 +27,7 @@ categories = [
 
 # Einführung in Skycoin
 
-Skycoin basiert auf einer Technologie, welche neue kryptographische Primitive einführt, 
+Skycoin basiert auf einer Technologie, welche eine neue krytographische Primitive einführt, 
 bekannt als ein öffentlicher Verbreitungskanal. Er führt ebenso die Implementation eines
 neuen Konsens-Algorithmus ein, genannt Obelisk, welcher die verbundenen Probleme, die aus
 dem Proof-of-Work-Konzept und dem Miningprozess entstehen, entschärft und eine Heerschar 
@@ -53,7 +53,7 @@ Eine Funktion wird verwendet um absolute Ordnung unter den Ketten des Blockbaums
 Die Kette mit der höchsten Schwierigkeit und die die meisten Hashingoperationen benötigt,
 ist die "längste Kette" und formt die Konsenskette. Die Vorstellung der "Blocktiefe" und 
 "Schwierigkeit" schaffen eine totale Ordnung über alle linearen Ketten des Blockbaumes und 
-nur die ressourcenintensivsten Kette wird zur Produktion der Konsenskette akzeptiert.
+nur die ressourcenintensivste Kette wird zur Produktion der Konsenskette akzeptiert.
 
 Bitcoin-Knoten bauen Verbindungen untereinander zufällig auf, jeder Knoten übermittelt die
 schwierigste ihm bekannte Kette seinen Peers. Wenn ein Knoten eine schwierigere Kette als ein
@@ -118,7 +118,7 @@ beeinflussen.
 
 ### * Bitcoin-Exchanges sind hoch anfällig gegenüber Attacken geworden
 
-Erfahrene Angreifen können 51%-Attacken durchführen und 
+Erfahrene Angreifer können 51%-Attacken durchführen und 
 durch das Kaufen und Verkaufen von Altcoins auf Bitcoin-Exchanges
 dieses in die Insolvenz treiben.
 
@@ -182,7 +182,7 @@ rückgängig zu machen. Der Konsens sollte so unumkehrbar wie nur möglich sein.
 Die Kosten ein perfekt abgesichertes Konto zu betreiben
 sollten extrem niedrig sein.
 
-### * Speed
+### * Geschwindigkeit
 
 Das System sollte Transaktionen innerhalb von Sekunden bestätigen.
 
@@ -217,8 +217,8 @@ neuer Rahmen definiert werden muss, wie etwa die Verlässlichkeit von Proof-of-W
 
 Sicherheit ist ein Prozess der kontunierlichen Identifikation und Befestigung gegen Bedrohungen.
 Ein gutes System erreicht "tiefgehende Verteidigung", hat mehrere redundante Systeme und wird
-das totale Versagen individueller Maßnahmen überleben. Gute Sicherheit benötigt die Unerscheidung
-zwischen Bedrohung, welche existentiell sind und solchen, welche nur Belästigungen sind.
+das totale Versagen individueller Maßnahmen überleben. Gute Sicherheit bedingt eine Unterscheidung
+zwischen Bedrohungen, welche existentiell sind und solchen, welche nur Belästigungen sind.
 
 Während es offensichtlich ist das kein einzelnes System alle Sicherheitsrisiken eliminieren kann 
 und gleichzeitig alle oben genannten Zielsetzungen erfüllen kann, repräsentiert Skycoin den nächsten 
@@ -300,7 +300,7 @@ In einer Hashkette enthält jeder Header eines jeden Blocks, den Hash seines Vor
 
 Jeder Obelisk-Knoten (Skycoin Konsensknoten) hat einen öffentlichen Schlüssel (eine Identität) 
 und eine persönliche Blockchain (einen öffentlichen Verbreitungskanal). Konsensentscheidungen
-und die Kommunikation geschieht innerhalb der persönlichen Blockchain eines jeden Obelisk-Knotens.
+und die Kommunikation geschehen innerhalb der persönlichen Blockchain eines jeden Obelisk-Knotens.
 Dies erlaubt der Community den Knoten auf Betrug und Kollisionen zu prüfen. Es schafft für die Community 
 außerdem einen Weg Knoten zu identifizieren, welche sich an einer Attacke gegen das Netzwerk beteiligen und 
 zudem macht es Entscheidungen, die im Netzwerk getroffen werden, öffentlich, sowie welche Knoten diese 
@@ -308,9 +308,9 @@ Entscheidungen beeinflussen.
 
 Jeder Knoten hat eine Liste von anderen Knoten die er abonniert hat. Knoten mit mehreren Abonnenten sind
 "vertrauenswürdige" und erbringen mehr Einfluss im Netzwerk. Wenn die Community Misstrauen gegen die 
-knotenbetreibenden Personen hat ode das Gefühl hat, dass die Macht im Netzwerk zu konzentriert 
+knotenbetreibenden Personen hat oder das Gefühl hat, dass die Macht im Netzwerk zu konzentriert 
 (oder zu wenig konzentriert) ist, hat sie die Möglichkeit als Kollektiv ihre Vertrauensbeziehungen 
-im Netzwerk ändern um die Macht im Netzwerk auszugleichen.
+im Netzwerk zu ändern um die Macht im Netzwerk auszugleichen.
 
 Die Beziehung von Knotenabonnenten kann zufällig sein und/oder sie kann mittels eines 
 Netz des Vertrauens ausgebildet werden (abonnieren der Knoten von Leuten denen man vertraut und 
@@ -322,7 +322,7 @@ des Erhaltens des Blocks. Jeder Block ist zeitgestempelt und querverweist auf Bl
 anderen Ketten. Dies schafft eine dichte verflochtene Kette von Blockbestätigungen. 
 Diese Kette baut kausale Beziehungen auf und kann als eine Art verteiltes Zeitstempelsystem agieren,
 wie im nächsten Abschnitt beschrieben. Dies erlaubt dem Netzwerk zu beweisen, dass Daten nicht existierten,
-oder nicht im Netzwerk veröffentlicht wurden, oder nachzuweisen, dass bestimmte Knoten in einem bestimmte 
+oder nicht im Netzwerk veröffentlicht wurden, oder nachzuweisen, dass bestimmte Knoten in einem bestimmten
 Zeitintervall aktiv oder offline waren.
 
 Der aktuelle Obelisk-Konsens-Algorithmus basiert auf Ben-Ors randomisierten Konsens-Algorithmus
@@ -355,7 +355,7 @@ Die Knoten wechseln zufällig zwischen Kandidaten, solange bis der Konsens errei
 
 # Konsens auf mehreren konkurrierenden Zweigwahlen (branch choices)
 
-Ein fortgeschritteneres System veröffentlich (A,B,P), wobei P ein Wert zwischen 0 und 1 ist. 
+Ein fortgeschritteneres System veröffentlicht (A,B,P), wobei P ein Wert zwischen 0 und 1 ist. 
 Die P-Werte aller Nachfolger eines Blockes addieren sich zu 1 auf. Dies erlaubt eine konkurrierende
 Konsensentscheidung auf mehreren Kettenabzweigungen (chain branches).
 
