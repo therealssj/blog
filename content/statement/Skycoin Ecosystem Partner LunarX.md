@@ -5,7 +5,7 @@ bounty = 0
 date = "2018-07-19"
 categories = [ "Statement", ]
 [image]
-    url = "/img/skycoin-ecosystem-partner-lunarx.jpg"
+    url = "img/skycoin-ecosystem-partner-lunarx.jpg"
     type = "image/jpg"
     length = 188512
 +++
