@@ -11,7 +11,7 @@ categories = [
 ]
 description = "Release notes highlighting the current development behind Skycoin."
 [image]
-    url = "/img/skycoin-wallet-update-1.png"
+    url = "img/skycoin-wallet-update-1.png"
     type = "image/png"
     length = 266098
 +++
