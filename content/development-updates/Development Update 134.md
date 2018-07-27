@@ -10,10 +10,6 @@ categories = [
     "Statement"
 ]
 description = "Release notes highlighting the current development behind Skycoin."
-[image]
-    url = "img/skycoin-wallet-update-1.png"
-    type = "image/png"
-    length = 266098
 +++
 
 We have an update for the Skycoin wallet! [Version 0.24 has been released and is downloadable here.](https://www.skycoin.net/downloads/) Version 0.24 comes loaded with multiple new features which will assist the Skycoin community to store and transact with SKY & Coin Hours. Among the new features is an advanced spending user interface (UI) consisting of the following features:
@@ -26,7 +22,7 @@ We have an update for the Skycoin wallet! [Version 0.24 has been released and is
 
 Multi-Spend allows the user to simultaneously send Skycoin to multiple addresses and specify the amount per address.
 
-Coin Hours Sharing allows user to have more control over how Coin Hours are spent. You can choose between a factor of 0.1 and 1. This dictates the amount of Coin Hours that are sent in a transaction. Users can choose between 'Automatic Coin Hours allocation' and a manual mode.
+Coin Hours Share Factor: This feature allows the sender to control how many of the remaining unburned Coin Hours are to be received by the recipient address. The higher the factor chosen, the more Coin Hours will be sent along with the transaction, up to a maximum of 100% of the remaining Coin Hours. Note that this setting has no effect on the standard Coin Hour burn rate which is always 50% of the output.
 
 Previewing Transactions: Allows you to preview transactions before sending.
 
