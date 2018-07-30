@@ -24,8 +24,6 @@ We have an update for the Skycoin wallet! [Version 0.24 has been released and is
 
 Multi-Spend allows the user to simultaneously send Skycoin to multiple addresses and specify the amount per address.
 
-Coin Hours Share Factor: This feature allows the sender to control how many of the remaining unburned Coin Hours are to be received by the recipient address. The higher the factor chosen, the more Coin Hours will be sent along with the transaction, up to a maximum of 100% of the remaining Coin Hours. Note that this setting has no effect on the standard Coin Hour burn rate which is always 50% of the output.
-
 Previewing Transactions: Allows you to preview transactions before sending.
 
 Navigating the new wallet features:\
@@ -36,7 +34,7 @@ Destination Feature: Allows the input of multiple addresses - users can select t
 
 Automatic Coin Hours Allocation: This feature automatically allocates Coin Hours in a transaction.
 
-Coin Hours Share Factor: This feature allows the user to dictate how many Coin Hours are spent, and the factor can be adjusted from 0.1 to 1. The higher the factor chosen, the more Coin Hours will be allocated to facilitate the transaction.
+Coin Hours Share Factor: This feature allows the sender to control how many of the remaining unburned Coin Hours are to be received by the recipient address. The higher the factor chosen, the more Coin Hours will be sent along with the transaction, up to a maximum of 100% of the remaining Coin Hours. Note that this setting has no effect on the standard Coin Hour burn rate which is always 50% of the output.
 
 Preview: Allows the user to preview transactions before they are sent. This shows how many Coin Hours will go to each address, and how much SKY will be sent. The preview feature  creates a level of redundancy so Coin Hour allocation is established prior to being sent.
 
