@@ -15,8 +15,8 @@ It is our pleasure to announce that the Skycoin Team will be present and a spons
 Skycoin will be represented by:\
 Daken Freeborn - Director of Events\
 Ed Vilderman - Videographer and Marketing Coordinator\
-Mark Berajawala - Marketing and Accounting\
-Lauren Berajawala - Planning, Support and Online Sales
+Mark Smith - Marketing and Accounting\
+Lauren Smith - Planning, Support and Online Sales
 
 Make sure you look us up if you are attending!  Here are details for the event:
 
@@ -33,4 +33,4 @@ ChainXChange is a Blockchain and Artificial Intelligence Technology Conference d
 
 ### Speakers:
 
-10+ Diverse Keynote Speakers, Including Apple co-founder Steve Wozniak, Social Media's Gary Vaynerchuk, three-time Grammy Winner and Microsoft AI Spokesperson, Common, and Nobel Prize Winner Paul Krugman, to name a few.
+10+ Diverse Keynote Speakers, including Apple co-founder Steve Wozniak, Social Media's Gary Vaynerchuk, three-time Grammy Winner and Microsoft AI Spokesperson, Common, and Nobel Prize Winner Paul Krugman, to name a few.
