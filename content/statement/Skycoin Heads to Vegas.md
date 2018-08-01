@@ -10,15 +10,13 @@ categories = [ "Statement", ]
     length = 4033348
 +++
 
-It is our pleasure to announce that the Skycoin Team will be present at ChainXChange, a blockchain and experiential conference. Attending along with prolific speakers such as Steve Wozniak, co-founder of Apple, and entrepreneurs like Gary Vaynerchuck, our team will be spreading the news about Skycoin and its reputation as one of the most innovative projects in blockchain. Come say hi, we will have plenty of swag for Skyfleet fans.
+It is our pleasure to announce that the Skycoin Team will be present and a sponsor at CoinXchange, a blockchain and experiential conference. Attending along with prolific speakers such as Steve Wozniak, co-founder of Apple, and entrepreneurs like Gary Vaynerchuck, our team will be spreading the news about Skycoin and its reputation as one of the most innovative projects in blockchain. Come say hi, we will have plenty of swag for Skyfleet fans.
 
 Skycoin will be represented by:\
 Daken Freeborn - Director of Events\
 Ed Vilderman - Videographer and Marketing Coordinator\
 Mark Berajawala - Marketing and Accounting\
-Matt Oksa - European Marketing\
-Drew Macgibbon - Southeast Asia Marketing\
-Luren Berajawala - Planning, Support and Online Sales
+Lauren Berajawala - Planning, Support and Online Sales
 
 Make sure you look us up if you are attending!  Here are details for the event:
 
