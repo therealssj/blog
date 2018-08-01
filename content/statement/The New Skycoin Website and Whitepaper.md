@@ -22,7 +22,7 @@ We hope you're as excited as we are about this monumental update!
 
 *New Whitepaper*
 
--   You've been asking for it, and we've listened! We are pleased to announce that our new [business whitepaper is here](https://www.skycoin.net/skycoin_whitepaper.pdf) for your reading enjoyment! We invite you to explore all of the great features of the Skycoin ecosystem, and see why we are so excited about the future of Skycoin!
+-   You've been asking for it, and we've listened! We are pleased to announce that our new [business whitepaper is here]( https://downloads.skycoin.net/whitepapers/Skycoin-Whitepaper-v1.0.pdf) for your reading enjoyment! We invite you to explore all of the great features of the Skycoin ecosystem, and see why we are so excited about the future of Skycoin!
 
 *Buy Skycoin direct!*
 
@@ -38,7 +38,7 @@ We hope you're as excited as we are about this monumental update!
 
 **New Whitepaper:**
 
-*Business [Whitepaper](https://www.skycoin.net/skycoin_whitepaper.pdf) (Edition 1.0) has been released!*
+*Business [Whitepaper](https://downloads.skycoin.net/whitepapers/Skycoin-Whitepaper-v1.0.pdf) (Edition 1.0) has been released!*
 
 -   A comprehensive description of all aspects of the Skycoin ecosystem can be found in the business whitepaper, including but not limited to:
 
