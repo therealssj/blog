@@ -120,7 +120,7 @@ It is simple!  All you have to do is keep the node online so that other Skywire 
 
 Chinese community:
 
--   Follow Skycoin China official Wechat Account - "SkycoinCN", and join our Wechat discussion group
+-   Follow Skycoin China official Wechat Account - "SkycoinFans", and join our Wechat discussion group
 
 -   Join Skywire Chinese Telegram community: <https://t.me/SkywireCN>
 
