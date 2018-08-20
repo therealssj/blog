@@ -31,10 +31,11 @@ After listing the files, you should see one or multiple .wlt files. To delete th
 
 rm InsertWalletNameHere.wlt
 
-After you have done this for each of the wallet files, they will no longer be stored on your computer, so even if your computer is compromised by a virus or a hacker, nobody will be able to steal your funds. Now, if you ever want to access your Skycoin wallet again, you will have to load the wallet using the seed that you have written down. To do this, you can follow the instructions listed on the Skycoin github here: https://github.com/skycoin/skycoin/blob/develop/src/gui/README.md
+After you have done this for each of the wallet files, they will no longer be stored on your computer, so even if your computer is compromised by a virus or a hacker, nobody will be able to steal your funds.
+Now, if you ever want to access your Skycoin wallet again, you will have to load the wallet using the seed that you have written down.
 
-For windows and linux users, you can follow these same instructions, but you will need to replace these commands with the specific commands for your operating systems. These are very accessible on Google. 
+For windows and linux users, you can follow these same instructions, but you will need to replace these commands with the specific commands for your operating systems. These are very accessible on Google.
 
 If you do not want to delete your wallet files completely from your computer, the other option is to manually encrypt your wallet. One of our community members has provided a great guide on how to do this here: https://skywug.net/forum/Thread-Encrypt-Skycoin-Wallet
 
-Please contact us at in our telegram at t.me/Skycoin or at contact@Skycoin.net if you have any questions!
+Please contact us at in our telegram at https://t.me/Skycoin or at contact@skycoin.net if you have any questions!

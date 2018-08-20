@@ -62,7 +62,7 @@ Abbiamo anche BBS e la nostra piattaforma di social media.
 > Anche Telegram è stato impostato in modo errato. Alcune persone possono accedere alle notizie, ma
 sono bloccati dal BB e dallo Slack principale.
 
-Telegram vieta i numeri/utenti di paesi non di lingua inglese 
+Telegram vieta i numeri/utenti di paesi non di lingua inglese
 nei super-canali parlanti Inglese a causa dello spam. Ottieni un numero di Google voice e utilizzalo,
 dovrebbe funzionare.
 
@@ -208,9 +208,9 @@ budget:
 - Per aumentare i loro volumi e rimanere in cima alla classifica,
   gli exchange stanno facendo sconti segreti di commissioni di negoziazione e altre truffe a
   gonfia il loro volume, mentre il volume effettivo è molto più basso
-- Gli exchange più aggressivi sul gonfiare il loro volume e meno morali 
+- Gli exchange più aggressivi sul gonfiare il loro volume e meno morali
   sono i più alti classificati
-- C'è un enorme incentivo per gli exchange di mentire e gonfiare il loro volume 
+- C'è un enorme incentivo per gli exchange di mentire e gonfiare il loro volume
   (Ecco perché stanno elencando solo le monete truffaldine, che possono garantire alti volumi e
   tasse)
 
@@ -287,7 +287,7 @@ Quello che sta accadendo ora è:
   effettuare la firma delle transazioni offline per loro stessi.
 - Non hanno nemmeno i portafogli installati per QUALSIASI delle monete. Quindi tutti
   stanno seduti in attesa che gli exchange vengano saccheggiati.
-- Ho fatto un sondaggio agli utenti di Ethereum e ho posto loro domande come "Quale è 
+- Ho fatto un sondaggio agli utenti di Ethereum e ho posto loro domande come "Quale è
    portafoglio migliore per Ethereum? C'è qualcosa come Electrum per Ethereum? Quali sono
   i migliori portafogli di Ethereum? "e la maggior parte degli" utenti di Ethereum "non ha mai
   effettivamente utilizzato un portafoglio Ethereum o non può rispondere, non lo sanno. Questo significa
@@ -464,7 +464,7 @@ garanzia matematica della privacy delle transazioni Skycoin spendendo output da
 più exchange nella stessa transazione. Questo impedisce il più comune degli
 attacchi deanonymizing in Bitcoin. Quando sarà pienamente implementato, questo darà a
 Skycoin una garanzia matematica a livello ZeroCoin della privacy delle transazioni, con
-ordini di grandezza meno complesse e costi di calcolo minori rispetto alla implementazione 
+ordini di grandezza meno complesse e costi di calcolo minori rispetto alla implementazione
 ZeroCoin, eliminando il requisito del molto complicato sistema a prova di conoscenza zero.
 
 ## Skycoin (DEX) Supporto alla distibuzione Exchange
@@ -475,7 +475,7 @@ abiliterà il supporto per DEX e atomic swap su Skycoin e monete Skyledger.
 
 Stiamo anche valutando le proposte per l'introduzione di un terzo tipo di transazione per
 scambi atomici tra blockchains. Tuttavia, crediamo che gli scambi atomici
-tra blockchains non siano ancora maturi e che il multi-signature con firma a 2 
+tra blockchains non siano ancora maturi e che il multi-signature con firma a 2
 blocchi temporali relativo sia il modo più semplice/efficace per implementarlo.
 
 ## Proiezioni future di Skycoin sugli Smart Contract Fad
@@ -505,7 +505,7 @@ Attualmente stiamo prototipando il supporto OpenGL per CX.
 
 CX ha anche un nuovo sito Web e una sandbox di programmazione.
 
-https://cx.skycoin.net
+http://cx.skycoin.net
 
 Vogliamo vedere persone che scrivono videogiochi o un'app di poker o qualcosa su CX al più
 presto. Mi è piaciuto "GameCoin" e abbiamo bisogno di più esperimenti per incorporare video
@@ -528,7 +528,7 @@ applicazioni in CXO (che è come blockchain-lite) prima della pubblicazione su a
 vera blockchain, dove fare aggiornamenti / correggere bug diventa molto di più
 complicato.
 
-Skycoin è anche la prima piattaforma che sarà in grado di distribuire 
+Skycoin è anche la prima piattaforma che sarà in grado di distribuire
 aggiornamenti blockchain globali in meno di 300 ms (anziché 15 minuti o 30
 secondi) e questa è la soglia minima per l'interazione "in tempo reale"
 richiesto per diverse applicazioni come il poker decentralizzato.
