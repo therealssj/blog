@@ -512,7 +512,7 @@ We are currently prototyping OpenGL support for CX.
 
 CX also has a new website and programming sandbox.
 
-https://cx.skycoin.net
+http://cx.skycoin.net
 
 I want to see people writing video games or a poker app or something on CX
 soon. I enjoyed "GameCoin" and we need more experiments in embedding video

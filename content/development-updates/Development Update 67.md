@@ -61,9 +61,9 @@ This is the highest block you know about. If you are not connected to anyone it 
 
 ## Documentation:
 
-https://github.com/skycoin/skycoin/blob/master/src/gui/wallet.go
+https://github.com/skycoin/skycoin/blob/master/src/api/wallet.go
 
-In /src/gui/wallet.go there is a URL handler that returns the JSON serialization of the unspent output set. Let us look at how that is implemented.
+In /src/api/wallet.go there is a URL handler that returns the JSON serialization of the unspent output set. Let us look at how that is implemented.
 
 We define a function, that handles the URL request. Grabs the outputs from Visor and then returns the JSON or 404 error.
 ```
