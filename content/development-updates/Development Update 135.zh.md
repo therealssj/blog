@@ -10,38 +10,40 @@ categories = [ "Development", "Statement" ]
     length = 413417
 +++
 
-Skyfleet, we are thrilled to announce that the first official Android version of our mobile wallet is now fully ready to be released!
+Skycoin社区成员，我们很高兴地宣布，我们的移动钱包首个官方Android版本已经完全准备好发布了！
 
-Download the wallet here: <https://www.skycoin.net/downloads/>
+点击下载手机钱包： <https://www.skycoin.net/downloads/>
 
-(Android v6.0 "Marshmallow" and above)
+（仅适用于Android 6.0 及以上版本）
 
-A functional and secure mobile wallet is essential in the democratization of any peer-to-peer monetary system. This initial version of our mobile wallet includes all the basic and some advanced features as well.
+在任何点对点货币系统的民主化过程中，功能齐备且安全的移动钱包都是至关重要的。我们手机钱包的初始版本同样涵盖了所有的基础功能，以及一些高级特性。
 
 ![](/img/skycoin_screen_wallet_list.png)![](/img/skycoin_screen_wallet_details.png)
 
-Basic features such as:
+基础功能包括：
 
--   Creating a new wallet and loading an existing wallet
+-   创建新钱包，并加载现有的钱包 
 
--   Quick view of your transaction history
+-   快速查询交易记录
 
--   QR-code scanner and generator
+-   扫描和生成钱包二维码
 
--   New address generator
+-   生成钱包的新地址
 
 ![](/img/skycoin_screen_qr-code.png)![](/img/skycoin_screen_transactions.png)![](/img/skycoin_screen_basic_send.png)![](/img/skycoin_screen_tx-detail.png)
 
-We also included a more advanced feature where you can select the specific UTXO (unspent outputs) for sending Skycoin. This allows a more flexible customization of Coin Hours usage for your needs.
+移动钱包还有y一些更高级的特性。您可以选择特定的UTXO（花费余额）来进行Skycoin转账，同时也允许您根据需求，灵活设置币时转账毕利。
 
-Pro tip: For best cryptography hygiene practices, only use each address once and never recycle them!
+专家提示：钱包地址请一次性使用，用过即弃，养成良好的加密货币使用习惯！
 
-For the more secure-minded Skyfleet members, you may even select your own node to make sure you are not reading from an adversarial or a hijacked node! To make your wallet even more secure, your wallet seeds are hardware encrypted and never leave your device.
+安全意识更强的Skycoin社区成员可以选择自己的节点，确保您没有从恶意的或被劫持的节点读取数据！为确保钱包更安全，你的钱包种子通过硬件加密，永远不会与你的设备分开。
 
 ![](/img/skycoin_screen_advanced_2.png)
 
-We are not stopping there - developments are trucking along regardless of the market noise. Stay tuned for more exciting developments in the near future!
+我们不会止步于此。何妨市场喧嚣，我们将一直前行。请继续关注我们，留意更多令人兴奋的进展！
 
-Website: <https://www.skycoin.net/>
+网站: <https://www.skycoin.net/>
+
+微信公众号：SkycoinFans
 
 Telegram: <https://t.me/Skycoin>
