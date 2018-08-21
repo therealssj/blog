@@ -32,7 +32,7 @@ Skycoin社区成员，我们很高兴地宣布，我们的移动钱包首个官�
 
 ![](/img/skycoin_screen_qr-code.png)![](/img/skycoin_screen_transactions.png)![](/img/skycoin_screen_basic_send.png)![](/img/skycoin_screen_tx-detail.png)
 
-移动钱包还有y一些更高级的特性。您可以选择特定的UTXO（花费余额）来进行Skycoin转账，同时也允许您根据需求，灵活设置币时转账毕利。
+移动钱包还有一些更高级的特性。您可以选择特定的UTXO（花费余额）来进行Skycoin转账，同时也允许您根据需求，灵活设置币时转账毕利。
 
 专家提示：钱包地址请一次性使用，用过即弃，养成良好的加密货币使用习惯！
 
