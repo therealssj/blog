@@ -31,10 +31,10 @@ Skycoin社区成员，我们很高兴地宣布，我们的移动钱包首个官�
 -   生成钱包的新地址
 
 <p align="center">
-  <img width="400" src="/img/skycoin_screen_qr-code.png">
-  <img width="400" src="/img/skycoin_screen_transactions.png">
-  <img width="400" src="/img/skycoin_screen_basic_send.png">
-  <img width="400" src="/img/skycoin_screen_tx-detail.png">
+  <img width="400" src="https://www.skycoin.net/blog/img/skycoin_screen_qr-code.png">
+  <img width="400" src="https://www.skycoin.net/blog/img/skycoin_screen_transactions.png">
+  <img width="400" src="https://www.skycoin.net/blog/img/skycoin_screen_basic_send.png">
+  <img width="400" src="https://www.skycoin.net/blog/img/skycoin_screen_tx-detail.png">
 </p>
 
 移动钱包还有一些更高级的特性。您可以选择特定的UTXO（花费余额）来进行Skycoin转账，同时也允许您根据需求，灵活设置币时转账毕利。
