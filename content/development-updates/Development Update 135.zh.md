@@ -1,5 +1,5 @@
 +++
-title = "Skycoin Development Update #135"
+title = "Skycoin研发快讯 #135"
 tags = [ "Announcements", ]
 bounty = 0
 date = "2018-08-17"
