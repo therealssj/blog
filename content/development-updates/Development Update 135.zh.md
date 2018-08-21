@@ -21,7 +21,7 @@ Skycoin社区成员，我们很高兴地宣布，我们的移动钱包首个官�
 <p align="center">
   <img width="300" src="https://www.skycoin.net/blog/img/skycoin_screen_wallet_list.png">
   <img width="300" src="https://www.skycoin.net/blog/img/skycoin_screen_wallet_details.png">
-<\p>
+</p>
 
 基础功能包括：
 
