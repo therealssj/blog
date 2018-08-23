@@ -1,7 +1,7 @@
 {{ range .Site.Menus.main }}
 <a
   class="nav-link {{if eq .Identifier "blog" }}active{{end}}" 
-  href="{{ if hasPrefix .URL "//"}} {{ .URL }} {{ else }} //www.skycoin.net{{ .URL | relLangURL }} {{ end }}">
-    {{ .Name }}
+  href="{{ if hasPrefix .URL "//"}} {{ .URL }} {{ else }} //www.skycoin.net{{ if not (hasPrefix (.URL | relLangURL) "/zh") }}{{ .URL }} {{ else }}{{ .URL | relLangURL }} {{ end }} {{ end }}">
+     {{ .Name }}
 </a>
 {{ end }}
