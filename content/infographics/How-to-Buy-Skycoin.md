@@ -5,12 +5,15 @@ tags = [
     "Infographics",
 ]
 bounty = 4
-date = "2018-08-14"
+date = "2018-08-26"
 categories = [
     "Infographics",
 ]
+[image]
+    url = "/img/How-to-Buy-Skycoin.jpg"
+    type = "image/jpg"
+    length = 276287
 +++
-![Skycoin Infographic](/img/How-to-Buy-Skycoin.jpg)
 ## There are severel places to purchase Skycoin. Here are a few...
 
 * Binance
