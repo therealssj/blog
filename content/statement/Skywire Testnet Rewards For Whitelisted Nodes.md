@@ -20,17 +20,7 @@ DIY Skyminers are rewarded with a portion of the 10K Skycoin rewards pool
 Official Skyminers are rewarded with a portion of the 15K Skycoin rewards pool
 All whitelisted nodes will receive rewards that are divided equally amongst the Skycoin pool. 
 
-| July 2018 Official Skyminer Rewards|Amount| 
-|---------------------|----------|
-|Whitelisted Nodes    |	     2,174|
-|Official Skycoin Pool|	15,000 Sky|
-|Rewards Per Node	  |   6.9 Sky|
-
-| July 2018 DIY Skyminer Rewards|Amount| 
-|---------------------|----------|
-|Whitelisted Nodes    |	     2,222|
-|Official Skycoin Pool|	10,000 Sky|
-|Rewards Per Node	  |   4.5 Sky|
+![](https://lh4.googleusercontent.com/m-vm-n3tRT-J8u7b59ZQcQPUNhus04T_WNWrA8YBoXE_5G0QP6mdLxCBmbM8qxoZycU5JjfVSrhdsKPT6NrRRvxMta_WSqcXF5pZb_aLSVcVfsRZyHrSfMQ9IQtivcvGpYQh32Zu)
 
 Skyminer nodes, whether Official or DIY, must achieve a minimum duration of 75% uptime for a given month to be eligible to receive reward payment for that month. As long as this threshold is met, the full reward amount for that qualified month is earned.
 
