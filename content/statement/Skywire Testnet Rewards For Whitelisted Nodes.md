@@ -11,10 +11,26 @@ categories = [ "Statement", ]
 +++
 
 
-After much anticipation, we are happy to announce that the reward structure for Skyminers during the Skywire testnet is finally ready. During the initial phase of testnet, whitelisted miners will be compensated for their services as follows:
+After much anticipation, we are happy to announce that the reward structure for Skyminers during the Skywire testnet is finally ready. During the initial phases of testnet, whitelisted miners will be compensated for their services.
 
--   DIY Skyminers earn 6 SKY per node with a maximum of 8 nodes per unit, meaning that custom-built miners can earn from 6 to 48 SKY per month.
--   Official Skyminers are rewarded at a flat rate of 96 SKY per month.
+#### How Are Rewards Distributed?
+The determined reward pool size for both Official and DIY miners is 25,000 Skycoin. This figure is subject to change, but will not decrease. Official Skyminer rewards are distributed from 15,000 Skycoin and DIY Skyminer rewards total 10,000 of the 25,000 Skycoin allocated monthly for testnet.
+
+DIY Skyminers are rewarded with a portion of the 10K Skycoin rewards pool
+Official Skyminers are rewarded with a portion of the 15K Skycoin rewards pool
+All whitelisted nodes will receive rewards that are divided equally amongst the Skycoin pool. 
+
+| July 2018 Official Skyminer Rewards|Amount| 
+|---------------------|----------|
+|Whitelisted Nodes    |	     2,174|
+|Official Skycoin Pool|	15,000 Sky|
+|Rewards Per Node	  |   6.9 Sky|
+
+| July 2018 DIY Skyminer Rewards|Amount| 
+|---------------------|----------|
+|Whitelisted Nodes    |	     2,222|
+|Official Skycoin Pool|	10,000 Sky|
+|Rewards Per Node	  |   4.5 Sky|
 
 Skyminer nodes, whether Official or DIY, must achieve a minimum duration of 75% uptime for a given month to be eligible to receive reward payment for that month. As long as this threshold is met, the full reward amount for that qualified month is earned.
 
