@@ -10,7 +10,7 @@ categories = [
     "Infographics",
 ]
 [image]
-    url = "/img/How-to-Buy-Skycoin.jpg"
+    url = "img/How-to-Buy-Skycoin.jpg"
     type = "image/jpg"
     length = 276287
 +++
