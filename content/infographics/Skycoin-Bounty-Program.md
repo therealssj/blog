@@ -5,12 +5,15 @@ tags = [
     "Infographics",
 ]
 bounty = 4
-date = "2018-08-14"
+date = "2018-09-30"
 categories = [
     "Infographics",
 ]
+[image]
+    url = "img/Skycoin-Bounty-Program.jpg"
+    type = "image/jpg"
+    length = 308828
 +++
-![Skycoin Infographic](/img/Skycoin-Bounty-Program.jpg)
 
 ## Below you can find out, how to join to the Bounty Program and contribute to the platform growth.
 
