@@ -1,5 +1,5 @@
 +++
-title = "Skycoin Bounty Program"
+title = "Skycoin Bounty Program [INFOGRAPHIC]"
 tags = [
     "Bounties",
     "Infographics",
