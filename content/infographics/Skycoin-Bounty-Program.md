@@ -5,7 +5,7 @@ tags = [
     "Infographics",
 ]
 bounty = 4
-date = "2018-09-30"
+date = "2018-09-26"
 categories = [
     "Infographics",
 ]
