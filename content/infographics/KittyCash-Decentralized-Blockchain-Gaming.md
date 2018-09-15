@@ -12,7 +12,7 @@ categories = [
 [image]
     url = "img/KittyCash-Decentralized-Blockchain-Gaming.jpg"
     type = "image/jpg"
-    length = 242534
+    length = 430989
 +++
 
 ## Next generation of blockchain gaming with cute collectables, breeding and more.
