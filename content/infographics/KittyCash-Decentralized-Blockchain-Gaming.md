@@ -5,7 +5,7 @@ tags = [
     "Infographics",
 ]
 bounty = 4
-date = "2018-09-20"
+date = "2018-09-14"
 categories = [
     "Infographics",
 ]
@@ -21,4 +21,4 @@ categories = [
 
 > It thereby makes use of the technological potential that the Fiber ecosystem offers and transcends the limitations of traditional collectables. With expanded game applications and an improved blockchain technology, KittyCash represents the future of blockchain gaming.
 
-Find out more at https://www.kittycash.com
+Find out more at https://www.kittycash.io
