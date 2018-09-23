@@ -1,5 +1,5 @@
 +++
-title = "Bau eines DIY Skyminer [INFOGRAPHIC]"
+title = "Bau eines DIY-Skyminers [INFOGRAPHIC]"
 tags = [
     "DIY Skyminer",
     "Infographics",
@@ -15,7 +15,7 @@ categories = [
     length = 294100
 +++
 
-## Um Teil von Skywire zu werden, kannst du deinen eigenen Skyminer bauen. Alles was du brauchst sind einige Fähigkeiten und die folgenden Hardware:
+## Um Teil von Skywire zu werden, kannst du deinen eigenen Skyminer bauen. Alles was du brauchst, sind einige Fähigkeiten und die folgenden Hardware:
 
 * x1 Mainboard (~ $ 100)
 * x7 Speicher (~ $ 12 pro Stück)
@@ -27,6 +27,6 @@ categories = [
 
 Gesamtsumme: ~ $ 450
 
-> Lese mehr über die DIY Skyminers hier: https://christianott.co/skycoin_pine64miner_de/
+> Mehr über die DIY-Skyminer findest du hier: https://christianott.co/skycoin_pine64miner_de/
 
 > Video-Tutorial zum offiziellen Zusammenbau: https://youtu.be/22ytucw2A4k
