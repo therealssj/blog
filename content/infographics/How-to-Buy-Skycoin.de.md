@@ -19,9 +19,9 @@ categories = [
 ## Es gibt viele Handelsplätze, an denen du Skycoin kaufen kannst. Hier sind ein paar...
 
 * Binance
-> Kaufe Skycoin von eine der besten Exchanges!
+> Kaufe Skycoin von einem der besten Exchanges!
 
-* Über den Ladentisch (Over the Counter)
+* Über den Ladentisch (over the counter)
 > Direkter Kauf über unserer Website
 
 * Cryptopia
