@@ -1,11 +1,11 @@
 +++
-title = "Kaufe Skycoin direkt (Over the counter) [INFOGRAPHIC]"
+title = "Kaufe Skycoin direkt (over the counter) [INFOGRAPHIC]"
 tags = [
     "OTC",
     "Buy Skycoin",
     "Infographics",
     "Infografik",
-    "Skycoin kaufen",
+    "Skycoins kaufen",
 ]
 bounty = 4
 date = "2018-09-14"
