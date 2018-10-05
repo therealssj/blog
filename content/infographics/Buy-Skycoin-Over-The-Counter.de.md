@@ -22,8 +22,8 @@ categories = [
 
 * Besuche https://exchange.skycoin.net
 * Wähle eine der verfügbaren Währungen
-* Gebe die Anzahl an Coins ein & klicke auf weiter
+* Gebe die Anzahl ein & klicke auf weiter
 * Gebe die Adresse ein
 * Klicke auf Exchange
 
-> Wenn du Skycoins direkt über unsere Webseite kauft, werden die Coins automatisch über den Exchange zum günstigsten Preis gekauft. Die Transaktionen werden von Coinswitch durchgeführt. Unsere Partner umgehen die Probleme mit den Exchanges. Nie wieder Auszahlungsgebühren!
+> Wenn du Skycoins direkt über unsere Webseite kauft, werden die Coins automatisch über den Exchange zum günstigsten Preis gekauft. Die Transaktionen werden von Coinswitch durchgeführt. Unsere Partner umgehen den Ärger mit den Exchanges. Nie wieder Auszahlungsgebühren!
