@@ -17,13 +17,13 @@ categories = [
 
 ## Um Teil von Skywire zu werden, kannst du deinen eigenen Skyminer bauen. Alles was du brauchst, sind einige Fähigkeiten und die folgenden Hardware:
 
-* x1 Mainboard (~ $ 100)
-* x7 Speicher (~ $ 12 pro Stück)
-* x1 Ethernet-LAN-Kabel (~ $ 10)
-* x1 OS (KOSTENLOS)
-* x7 Computermodule (je $ 29)
-* x1 Gehäuse (~ $ 40)
-* x1 Netzteil (~ $ 16)
+* 1x Mainboard (~ $ 100)
+* 7x Speicher (~ $ 12 pro Stück)
+* 1x Ethernet-LAN-Kabel (~ $ 10)
+* 1x OS (KOSTENLOS)
+* 7x Computermodule (je $ 29)
+* 1x Gehäuse (~ $ 40)
+* 1x Netzteil (~ $ 16)
 
 Gesamtsumme: ~ $ 450
 
