@@ -107,7 +107,11 @@ pygmentsStyle = "murphy"
 [[params.social]]
   name = "Telegram"
   url = "https://t.me/Skycoin"
-  image = "images/telegram.svg"    
+  image = "images/telegram.svg"
+[[params.social]]
+  name = "Linkedin"
+  url = "https://www.linkedin.com/company/skycoin/"
+  image = "images/linkedin.svg"
 
 [Languages]
 [Languages.en]
