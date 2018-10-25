@@ -21,6 +21,6 @@ categories = [
 
 > Die einzelnen Blockchains von Bitcoin können 6 Transaktionen pro Sekunde (TPS) und die einzelnen Blockchains von Ethereum 30 TPS verarbeiten. Mit Fiber kann jeder Blockchain-Strang derzeit 300 TPS und in zukünftigen Implementierungen 3000 TPS durchführen.
 
-> Fiber erreicht dieses Leistungsniveau durch sein schlankes Design. Fiber enthält weniger als 5000 Codezeilen, Bitcoins dagegen mehr als 100 Codezeilen. Große und gewundene Codebasen verdecken Bugs, während Fiber in seiner Einfachheit gleichermaßen elegant und brillant ist.
+> Fiber erreicht dieses Leistungsniveau durch sein schlankes Design. Fiber enthält weniger als 5000 Codezeilen, Bitcoins dagegen mehr als 100. Große und gewundene Codebasen verdecken Bugs, während Fiber in seiner Einfachheit gleichermaßen elegant und brillant ist.
 
 > Fiber ist die Grundlage von Blockchain 3.0. Jeder Strang, der zu Fiber hinzugefügt wird, stärkt das gesamte Netzwerk und konstruiert das Gerüst des gesamten Ökosystems. Jedes Unternehmen und jedes Projekt, das auf Fiber gehostet wird, erhält seine eigene, vollständig anpassbare, private Blockchain, die für Visa-ähnliche Geschwindigkeiten geeignet ist.
