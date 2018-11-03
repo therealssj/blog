@@ -1,4 +1,3 @@
-
 +++
 title = "Skycoin生态系统2018发布会"
 tags = [ "Announcements", ]
