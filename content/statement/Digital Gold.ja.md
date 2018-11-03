@@ -1,4 +1,15 @@
-+++title = "Digital Gold"tags = [    "Statement",]bounty = 5date = "2017-08-14"categories = [    "Statement",]+++
++++
+title = "Digital Gold"
+tags = [
+	"Statement",
+]
+bounty = 5
+date = "2017-08-14"
+categories = [
+	"Statement",
+]
++++
+
 Bitcoinに対するSatoshiの独自のビジョンは画期的でした。
 国家を超えて存在し、信託とインフレの範疇にないグローバル通貨であるBitcoinは、金融界をその中心に揺さぶったはずです。
 しかし、そのビジョンは失敗しました。非中央集権の新しい時代を迎える代わりに、Bitcoinそれ自体が中央集権化しました。

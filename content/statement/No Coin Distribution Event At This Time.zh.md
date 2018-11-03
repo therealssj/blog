@@ -1,4 +1,15 @@
-+++ title = "目前没有币分发活动（ICO）" tags = [ "Statement", "Distribution", ] bounty = 1 date = "2017-09-23" categories = [ "Statement", ] +++
++++
+title = "目前没有币分发活动（ICO）"
+tags = [
+	"Statement",
+	"Distribution",
+]
+bounty = 1
+date = "2017-09-23"
+categories = [
+	"Statement",
+]
++++
 
 
 

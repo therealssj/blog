@@ -1,4 +1,3 @@
-
 +++
 title = "Solar Bankers es un ejemplo de una compañía que adopta la revolucionaria cadena de bloques de Skycoin"
 tags = [
