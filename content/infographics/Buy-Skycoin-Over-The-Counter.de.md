@@ -1,5 +1,5 @@
 +++
-title = "Kaufe Skycoin direkt (over the counter) [INFOGRAPHIC]"
+title = "Kaufe Skycoin direkt [INFOGRAPHIC]"
 tags = [
     "OTC",
     "Buy Skycoin",
