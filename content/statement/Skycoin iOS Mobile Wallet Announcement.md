@@ -40,3 +40,5 @@ The Skycoin team is not stopping here - continuous developments are coming along
 Website: <https://www.skycoin.net/>
 
 Telegram: <https://t.me/Skycoin>
+
+https://www.youtube.com/watch?v=iC7xpbNauI4
