@@ -2,7 +2,7 @@
 title = "Skycoin Listed As Gold Label Binance Project"
 tags = [ "Announcements", ]
 bounty = 0
-date = "2018-12-1"
+date = "2018-12-01"
 categories = [ "Statement", ]
 +++
 
