@@ -5,7 +5,7 @@ bounty = 0
 date = "2018-12-04"
 categories = [ "Statement", ]
 [image]
-    url = "https://cdn-images-1.medium.com/max/2000/0*7WCULRcsaMfu7wVN"
+    url = "img/Skycoin-Wallet.jpg"
     type = "image/jpeg"
     length = 49143
 +++
