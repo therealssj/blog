@@ -42,6 +42,26 @@ PySkycoin is not a reimplemntation of the core components of Skycoin. In order t
 
 [PySkycoin releases hosted by PyPI](https://pypi.org/project/pyskycoin/) can be installed using standard tools like `pip`. This will trigger the download and configuration of all other package dependencies required. In order to make things easier for developers the library transforms the go coding styles into more Pythonic, yet equivalent, versions. For instance, go slices returned by core Skycoin functions become `list` objects containing instances of the corresponding type in Python-land.
 
+**4. Python is part of the big programming languages**
+
+Offering the Skycoin API to Python developers opens up an unlimited number of oportunities:
+
+[![Python is TIOBE #1 language in 2019](img/python.tiobe.2019.png)](https://www.tiobe.com/tiobe-index/)
+
+- Python is TIOBE's programming language of the year 2018, and ramks among top 10 languages in all other language rankings.
+- It is is everywhere.
+- It is the most frequently taught first language at universities nowadays.
+- It is number one in
+  * the statistical domain
+  * AI programming
+  * scripting
+  * writing system tests
+- Python is leading in
+  * web programming
+  * scientific computing
+  * big data
+  * quantitive economy and financial analysis
+
 **Is PySkycoin an alternative to CX?**
 
 Quick and simple, the answer is no. CX is Skycoin’s feature-rich programming language. It is unique of its kind and there is no way all the power and expressiveness of CX can be matched by any other language known to date, even Python. So why bother supporting yet another programming language?
