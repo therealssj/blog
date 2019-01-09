@@ -10,9 +10,9 @@ categories = [ "Development", "Statement" ]
     length = 18243
 +++
 
-Skyfleet, we are thrilled to announce the most recent version `0.25.0` of `PySkycoin`, the official Python client library for the Skycoin ecosystem. The library has been under development and testing for about a year. During that time it's been the key to implement non-trivial numbers of tools and integrations. This article will cover how to get started with it.
+Skyfleet, we are thrilled to announce the most recent version `0.25.0` of `PySkycoin`, the official Python client library for the Skycoin ecosystem. The library has been under development and testing for about a year. During that time it’s been the key to implement non-trivial numbers of tools and integrations. This article will try to help readers answer some simple questions: *What is PySkycoin? Why should I use it?*.
 
-In short PySkycoin adds a scripting layer on top of the core Skycoin API's. Now it is possible to use the Python tools we all love to build all sorts of applications powered by the Skycoin blockchain. This is yet another alternative for empowering the many enthusiasts keen to continue expanding the Skycoin ecosystem. The team is committed to ensuring the continued development of this library as well as its related suite of open-source development tools, and will be hosting each stable release of these code-bases on the official [Skycoin github](https://github.com/skycoin) account. Welcome into the future of cryptocurrencies powered by blockchain!
+In short PySkycoin adds a scripting layer on top of the core Skycoin API’s. Now it is possible to use the Python tools we all love to build all sorts of applications powered by the Skycoin blockchain. This is yet another alternative for empowering the many enthusiasts engaged in the unstoppable expansion of the Skycoin ecosystem. The team is committed to ensuring the continued development of this library as well as its companion suite of open-source development tools, and will be hosting each stable release of these code-bases on the official [Skycoin github](https://github.com/skycoin) account. Welcome into the future of cryptocurrencies powered by blockchain!
 
 **What makes PySkycoin great:**
 
@@ -24,23 +24,23 @@ In short PySkycoin adds a scripting layer on top of the core Skycoin API's. Now 
 - The Skycoin cryptographic `cipher` functions are mainly aimed at generating pairs of public and private keys from a seed value. This is of paramount importance to generate SKY addresses, to sign hashes, and to perform more advanced operations like generation of shared secrets using [Elliptic-Curve Diffie-Hellman](https://en.wikipedia.org/wiki/Elliptic-curve_Diffie%E2%80%93Hellman) algorithm. All cryptographic verifications can be found here.
 - Operations to invoke funcionalities offered by the Skycoin command line interface without spawning a separate operating system process.
 - Transaction and block operations in the core Skycoin `coin` package.
-- `util`,
-- `wallet`,
-- `wallet_option`
-- Unlike most of the generic operations mentioned above, the `params` package is fiber-specific. It facilitates the parameters defining an specific SkyFiber coin. This includes, for instance, distribution addresses, droplet 
+- Helper functions to deal with currency droplet precision, fees, and logging.
+- Configuration and operations on local Skycoin wallets.
+- Unlike most of the generic operations mentioned above, the `params` package is fiber-specific. It facilitates the parameters defining an specific SkyFiber coin. This includes, for instance, distribution addresses, and droplet precision.
 
+**2. PySkycoin behaves exactly the same as the Skycoin core API’s**
 
-**2. PySkycoin behaves exactly the same as the Skycoin core API's**
-
-PySkycoin is not a reimplemntation of the core components of Skycoin. In order to make this clear it is necessary to describe how it is built . The very first step consists in using the very same Skycoin node source code to generate a [CPython extension module](https://docs.microsoft.com/en-us/visualstudio/python/working-with-c-cpp-python-in-visual-studio). As a result PySkycoin:
+PySkycoin is not a reimplemntation of the core components of Skycoin. In order to make this clear it is necessary to describe how it is built . The first step consists in using the very same Skycoin node source code to generate a [CPython extension module](https://docs.microsoft.com/en-us/visualstudio/python/working-with-c-cpp-python-in-visual-studio) exporting aforementioned functions. As a result PySkycoin:
 
 - behaves exactly the same as Skycoin nodes do
 - is as bullet-proof as Skycoin itself
 - is highly efficient in terms of memory and CPU usage
+- is easy to maintain
+- is always in sync with the latest version of the Skycoin node
 
 **3. Intuitive and easy to use**
 
-[PySkycoin releases hosted by PyPI](https://pypi.org/project/pyskycoin/) can be installed by using `pip`. This will trigger the download of all other package dependencies required. In order to make things easier for developers the library transform the go-way coding styles into more Pythonic, yet equivalent, versions. For instance, go slices returned by core Skycoin functions end up beeing Python lists of the corresponding type in Python-land.
+[PySkycoin releases hosted by PyPI](https://pypi.org/project/pyskycoin/) can be installed using standard tools like `pip`. This will trigger the download and configuration of all other package dependencies required. In order to make things easier for developers the library transforms the go coding styles into more Pythonic, yet equivalent, versions. For instance, go slices returned by core Skycoin functions become `list` objects containing instances of the corresponding type in Python-land.
 
 **Is PySkycoin an alternative to CX?**
 
