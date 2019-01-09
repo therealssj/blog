@@ -48,7 +48,7 @@ Offering the Skycoin API to Python developers opens up an unlimited number of op
 
 [![Python is TIOBE #1 language in 2019](img/python.tiobe.2019.png)](https://www.tiobe.com/tiobe-index/)
 
-- Python is TIOBE's programming language of the year 2018, and ramks among top 10 languages in all other language rankings.
+- Python is TIOBE's programming language of the year 2018, and ranks among top 10 languages in all other language rankings.
 - It is is everywhere.
 - It is the most frequently taught first language at universities nowadays.
 - It is number one in
