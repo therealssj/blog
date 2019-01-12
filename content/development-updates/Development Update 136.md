@@ -2,10 +2,10 @@
 title = "Skycoin Development Update #136"
 tags = [ "Announcements", ]
 bounty = 0
-date = "2019-01-09"
+date = "2019-01-14"
 categories = [ "Development", "Statement" ]
 [image]
-    url = "img/pyskycoin.png"
+    url = "img/pyskycoin.jpg"
     type = "image/png"
     length = 18243
 +++
@@ -46,7 +46,7 @@ PySkycoin is not a reimplemntation of the core components of Skycoin. In order t
 
 Offering the Skycoin API to Python developers opens up an unlimited number of oportunities:
 
-[![Python is TIOBE #1 language in 2019](img/python.tiobe.2019.png)](https://www.tiobe.com/tiobe-index/)
+[![Python is TIOBE #1 language in 2018](../../img/python.tiobe.2018.jpg)](https://www.tiobe.com/tiobe-index/)
 
 - Python is TIOBE's programming language of the year 2018, and ranks among top 10 languages in all other language rankings.
 - It is everywhere.
