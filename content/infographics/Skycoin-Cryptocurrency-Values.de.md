@@ -14,7 +14,7 @@
 	
 	## Dafür stehen wir...
 	
-* Förderung der Dezentralisierung durch lösen von Problemen, die Bitcoin nicht lösen kann. 
+* Förderung der Dezentralisierung durch Lösen von Problemen, die Bitcoin nicht lösen kann. 
 * Unsere Kernelement sind: Geschwindigkeit, Privatssphäre, Sicherheit und ein Ökosystem.
 * Sicherheit (vor 51%-Attacken). 
 * Dezentralisierung - Keine Miner, die das Netzwerk erpressen können und keine Inflation. 
