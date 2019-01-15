@@ -1,18 +1,21 @@
 +++
-	title = "Skycoin Übersicht: Wofür wir stehen [INFOGRAPHIC]"
-	tags = [
-	    "Skycoin Digest",
-	    "Infographics",
-	]
-	bounty = 4
-	date = "2018-02-03"
-	categories = [
-	    "Infographics",
-	]
-	image = "img/Skycoin-Cryptocurrency-Values.jpg"
-	+++
+title = "Skycoin Übersicht: Wofür wir stehen [INFOGRAPHIC]"
+tags = [
+"Skycoin Digest",
+"Infographics",
+]
+bounty = 4
+date = "2018-02-03"
+categories = [
+"Infographics",
+]
+[image]
+url = "img/Skycoin-Cryptocurrency-Values.jpg"
+type = "image/jpg"
+length = 436215
++++
 	
-	## Dafür stehen wir...
+## Dafür stehen wir...
 	
 * Förderung der Dezentralisierung durch Lösen von Problemen, die Bitcoin nicht lösen kann. 
 * Unsere Kernelement sind: Geschwindigkeit, Privatssphäre, Sicherheit und ein Ökosystem.
