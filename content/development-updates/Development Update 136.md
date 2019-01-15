@@ -1,5 +1,5 @@
 +++
-title = "Skycoin Development Update #136"
+title = "Announcing PySkycoin, scripting for SkyFiber blockchains"
 tags = [ "Announcements", ]
 bounty = 0
 date = "2019-01-14"
