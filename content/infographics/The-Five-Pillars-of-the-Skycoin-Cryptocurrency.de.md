@@ -1,17 +1,19 @@
 +++
 title = "Skycoin Übersicht: Die 5 Grundpfeiler von Skycoin [INFOGRAPHIC]"
 tags = [
-"Skycoin Digest",
-"Infographics",
+    "Skycoin Digest",
+    "Infographics",
 ]
 bounty = 4
 date = "2018-02-08"
 categories = [
-"Infographics",
+    "Infographics",
 ]
-image = "img/The-Five-Pillars-of-the-Skycoin-Cryptocurrency.jpg"
+[image]
+    url = "img/The-Five-Pillars-of-the-Skycoin-Cryptocurrency.jpg"
+    type = "image/jpg"
+    length = 778103
 +++
-
  
 Die 5 Grundpfeiler von Skycoin
 
