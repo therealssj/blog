@@ -19,11 +19,11 @@ Die 5 Grundpfeiler von Skycoin
 
 ## __1. SKYCOIN__
 
-Eine vollständig dezentralisierte blitzschnelle Kryptowährung, die sicher vor 51%-Attacken und entwickelt wurde, um Satoshis ursprüngliche Vision zu verwirklichen. 
+Eine vollständig dezentralisierte blitzschnelle Kryptowährung, die sicher vor 51%-Attacken ist und entwickelt wurde, um Satoshis ursprüngliche Vision zu verwirklichen. 
 
 ## __2. SKYWIRE__
 
-Ein Mesh-Netzwerk das dir ermöglicht, Skycoins zu verdienen, indem du Traffic weiterleitest und Bandbreite zur Verfügung stellst. Ähnlich wie Tor oder BitTorrent, nur dass du hierfür bezahlt wirst. 
+Ein Mesh-Netzwerk, das dir ermöglicht, Skycoins zu verdienen, indem du Traffic weiterleitest und Bandbreite zur Verfügung stellst. Ähnlich wie Tor oder BitTorrent, nur dass du hierfür bezahlt wirst. 
 
 ## __3. SKYLEDGER__
 
