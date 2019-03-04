@@ -6,7 +6,7 @@ date = "2019-01-14"
 categories = [ "Development", "Statement" ]
 [image]
     url = "img/pyskycoin.jpg"
-    type = "image/png"
+    type = "image/jpeg"
     length = 18243
 +++
 
