@@ -1,9 +1,11 @@
 +++
-title = "Skycoin Development Update #136"
+title = "CXFX V0.1"
 tags = [ "Announcements", ]
 bounty = 0
 date = "2019-03-11"
 categories = [ "Development", "Statement" ]
+aliases = [ "/development-updates/skycoin-development-update-136/" ]
+description = "Release notes highlighting the current development behind Skycoin."
 +++
 
 CXFX's objective is to facilitate the development of games and applications using CX, allowing developers to focus on building their apps instead of having to write everything from scratch! This is a way to share and factorize knowledge.
