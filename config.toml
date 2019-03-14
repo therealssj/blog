@@ -144,6 +144,7 @@ pygmentsStyle = "murphy"
   email = ""
   github = "skycoin"
   twitter = "skycoinproject"
+  twitterUrl = "https://twitter.com/skycoinproject"
   twitterAnalytics = "ny03t"
 
 [[params.social]]
