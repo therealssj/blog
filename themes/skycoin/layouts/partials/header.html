@@ -11,6 +11,7 @@
     <link rel="stylesheet" href="{{ "/css/main.css" | relURL }}" />
   {{ end }}
   <!-- Start of Open Graph -->
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
     <meta property="og:title" content="{{ .Title }}">
     {{ if .IsPage }}
     <meta property="og:type" content="article">
@@ -63,9 +64,9 @@
                     <img src="{{ "images/telegram.svg" | relURL }}" alt="Telegram">
                     Telegram
                   </a>
-                  <a href="{{ .Site.Params.discord }}" target="_blank" class="nav-link">
-                    <img src="{{ "images/discord.svg" | relURL }}" alt="Discord">
-                    Discord
+                  <a href="{{ .Site.Params.twitterUrl }}" target="_blank" class="nav-link">
+                    <img src="{{ "images/twitter.svg" | relURL }}" alt="Twitter">
+                    Twitter
                   </a>
                 </div>
                 <div class="nav-group">
