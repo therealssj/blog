@@ -1,4 +1,4 @@
-﻿+++
++++
 title = "Development Update #40"
 tags = [
     "Development",
