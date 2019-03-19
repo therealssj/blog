@@ -1,5 +1,5 @@
 ---
-label: Post With Image
+label: Post
 hide_body: false
 fields:
 - name: title
@@ -7,21 +7,33 @@ fields:
   type: textarea
   hidden: false
   default: ''
+  config:
+    required: true
+  description: Page title
 - name: date
   label: Date
   type: datetime
   hidden: false
   default: ''
+  config:
+    required: true
+  description: Publication date (dates in the future will still be published)
 - name: categories
   label: Categories
   type: tag_list
   hidden: false
   default: ''
+  description: Categories appear below the header
 - name: tags
   label: Tags
   type: tag_list
   hidden: false
   default: ''
+  description: Tags appear in the sidebar
+- type: text
+  name: description
+  label: Description
+  description: Brief description of the post, will appear in Google search results
 - name: image
   label: Image
   type: file
