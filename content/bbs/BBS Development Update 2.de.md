@@ -23,7 +23,7 @@ Die Änderungen sind wie folgt:
 
 ## CXO-Änderungen
 
-CXO wurde graviend refaktorisiert, um schneller und stabiler zu sein. 
+CXO wurde graviend refaktorisiert, um schneller und stabiler zu sein.
 
 Die API funktioniert nun besser mit Hash-Arrays - Zugriff in konstanter Zeit, schnellerer Replikation und der Möglichkeit, Elemente mit gegebenem Hash direkt abzurufen.
 
@@ -38,9 +38,9 @@ Diese Änderungen haben dazu veranleitet, die Mehrheit der Codestruktur des BBS 
 2. Leichtes Bestimmen von "diffs" zwischen Root-Sequenzen (auch genannt Änderungen). Das wird dem Kompilieren der Views nützlich sein und Echtzeitupdates für den Endnutzer bereitstellen.
 3. Leichtes Bestimmen des Typs eines Root-Objektes für verschiedene Root-Typen.
 
-![Skycoin BBS v0.2 CXO-Datenstrukturen](/bbs/img/bbs_cxo_datastructure_v0.2.png)
+![Skycoin BBS v0.2 CXO-Datenstrukturen](/img/bbs_cxo_datastructure_v0.2.png)
 
-Die `Wurzelseite`-Objekt (`RootPage`) bestimmt den Typ der Wurzel. Vorerst werden alle Daten unter einer Wurzel pro Board angehäuft. 
+Die `Wurzelseite`-Objekt (`RootPage`) bestimmt den Typ der Wurzel. Vorerst werden alle Daten unter einer Wurzel pro Board angehäuft.
 In der Zukunft werden User und Threads ihre individuellen Wurzeln haben.
 
 Zukünftig wird die `Brettseite`(`BoardPage`) eine Liste der öffentlichen Schlüssel haben, anstatt die href für die Threads, da diese ihre eigenen Wurzeln haben werden. Dies wird das Umziehen von Threads zwischen Boards einfach machen.

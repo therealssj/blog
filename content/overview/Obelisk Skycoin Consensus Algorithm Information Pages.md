@@ -11,22 +11,19 @@ categories = [
     "Overview",
 ]
 author = "johnstuartmill"
-[image]
-    url = "img/obelisk-the-skycoin-consensus-algorithm.png"
-    type = "image/png"
-    length = 920655    
+image = "img/obelisk-the-skycoin-consensus-algorithm.png"
 +++
 
 <!-- MarkdownTOC autolink="true" bracket="round" -->
 
 - [Consensus highlights](#consensus-highlights)
-    - [Why consensus](#why-consensus)
-    - [High scalability and low-energy consumption](#high-scalability-and-low-energy-consumption)
-    - [Robust to coordinated attacks](#robust-to-coordinated-attacks)
-    - [The “51-percent Attack”](#the-%E2%80%9C51-percent-attack%E2%80%9D)
-    - [Hidden IP addresses](#hidden-ip-addresses)
-    - [Independence of clock synchronization](#independence-of-clock-synchronization)
-    - [Two type of nodes: Consensus and Block-making](#two-type-of-nodes-consensus-and-block-making)
+	- [Why consensus](#why-consensus)
+	- [High scalability and low-energy consumption](#high-scalability-and-low-energy-consumption)
+	- [Robust to coordinated attacks](#robust-to-coordinated-attacks)
+	- [The “51-percent Attack”](#the-%E2%80%9C51-percent-attack%E2%80%9D)
+	- [Hidden IP addresses](#hidden-ip-addresses)
+	- [Independence of clock synchronization](#independence-of-clock-synchronization)
+	- [Two type of nodes: Consensus and Block-making](#two-type-of-nodes-consensus-and-block-making)
 - [How Skycoin Consensus Algorithm works](#how-skycoin-consensus-algorithm-works)
 - [References](#references)
 

@@ -39,7 +39,7 @@ CXO的这些变化促使BBS跟着改变了大部分的代码库。
 3.轻松确定不同根类型的根对象类型。
 
 
-![Skycoin BBS v0.2 CXO Datastructure](/bbs/img/bbs_cxo_datastructure_v0.2.png)
+![Skycoin BBS v0.2 CXO Datastructure](/img/bbs_cxo_datastructure_v0.2.png)
 
 
 `RootPage`对象决定了root的类型。 目前，所有数据都在每个板块上的一根根树下累积。 在未来，主题(线索)和用户将有自己的根。

@@ -9,10 +9,7 @@ date = "2018-09-24"
 categories = [
     "Infographics",
 ]
-[image]
-    url = "img/Build-A-DIY-Skycoin-Miner.jpg"
-    type = "image/jpg"
-    length = 294100
+image = "img/Build-A-DIY-Skycoin-Miner.jpg"
 +++
 
 ## To be part of Skywire you can build your own Skyminer. All you need are some skills and the following items:

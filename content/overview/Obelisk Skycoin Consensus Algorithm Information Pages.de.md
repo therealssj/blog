@@ -10,24 +10,21 @@ categories = [
     "Overview",
 ]
 author = "johnstuartmill"
-[image]
-    url = "img/obelisk-the-skycoin-consensus-algorithm.png"
-    type = "image/png"
-    length = 920655
+image = "img/obelisk-the-skycoin-consensus-algorithm.png"
 +++
 
 <!-- MarkdownTOC autolink="true" bracket="round" -->
 
-- [Konsens-Highlights](#consensus-highlights)
-    - [Warum Konsens](#why-consensus)
-    - [Hohe Skalierbarkeit und niedriger Energieverbrauch](#high-scalability-and-low-energy-consumption)
-    - [Robust gegenüber koordinierten Attacken](#robust-to-coordinated-attacks)
-    - [Die "51%-Attacke"](#the-%E2%80%9C51-percent-attack%E2%80%9D)
-    - [Versteckte IP-Adressen](#hidden-ip-addresses)
-    - [Unabhängigkeit von der Taktsynchronisation](#independence-of-clock-synchronization)
-    - [Zwei Knotentypen: Konsens und Blockerschaffend](#two-type-of-nodes-consensus-and-block-making)
-- [Wie der Skycoin Konsens-Algorithmus funktioniert](#how-skycoin-consensus-algorithm-works)
-- [Referenzen](#references)
+- [Konsens-Highlights](#konsens-highlights)
+	- [Warum Konsensus](#warum-konsensus)
+	- [Hohe Skalierbarkeit und niedriger Energieverbrauch](#hohe-skalierbarkeit-und-niedriger-energieverbrauch)
+	- [Robust gegenüber koordinierten Attacken](#robust-gegen%C3%BCber-koordinierten-attacken)
+	- [Die "51%-Attacke"](#die-51%25-attacke)
+	- [Versteckte IP-Adressen](#versteckte-ip-adressen)
+	- [Unabhängigkeit von der Taktsynchronisation](#unabh%C3%A4ngigkeit-von-der-taktsynchronisation)
+	- [Zwei Knotentypen: Konsens und Blockerschaffend](#zwei-knotentypen-konsens-und-blockerschaffend)
+- [Wie der Skycoin Konsens-Algorithmus funktioniert](#wie-der-skycoin-konsens-algorithmus-funktioniert)
+- [Referenzen](#referenzen)
 
 <!-- /MarkdownTOC -->
 
@@ -72,42 +69,42 @@ Beide Knotentypen führen stets eine Verifikation des Autors und eine Betrugserk
 
 Aus darstellerischen Gründen setzt die folgende Beschreibung voraus, dass (i) jeder Knoten zugleich Konsens, als auch Blockerschaffend ist, (ii) konsens-relatierte Nachrichten von nicht-vertrauenswürdigen Knoten akzeptiert werden, sprich kein filtern, basiert nach dem Netz-des-Vertrauens durchgeführt wird. Die volle Implementation (sprich ohne diese vereinfachenden Annahmen) wird auf Skycoins Github-Repository verfügbar sein. Für die Simulationsergebnisse und die detaillierten schematischen Beispiele des Konsensprozesses, siehe [\[1\]](#references). Eine Simulation, welche die Vertrauenswürdigkeit beachtet, kann hier, jedoch für einen Anderen als den Skycoin-Algorithmus, gefunden werden [\[2\]](#references). Die Beschreibung des Skycoin Konsens-Algorithmus folgt.
 
-1. *Blockerschaffen*. Jeder blockerschaffende Knoten sammelt neue Transaktionen 
-    und verifiziert diese mit den UTXO der gewünschten Sequenznummer, 
-    bündelt die konformen Transaktionen in einen neuen Block zusammen 
+1. *Blockerschaffen*. Jeder blockerschaffende Knoten sammelt neue Transaktionen
+    und verifiziert diese mit den UTXO der gewünschten Sequenznummer,
+    bündelt die konformen Transaktionen in einen neuen Block zusammen
     und verbreitet diesen Block im Netzwerk.
-    
-2. *Sammeln von Blöcken*. Jeder Konsens-Knoten sammelt die Blöcke, 
-    welche von den Blockerschaffern generiert wurden und packt diese 
+
+2. *Sammeln von Blöcken*. Jeder Konsens-Knoten sammelt die Blöcke,
+    welche von den Blockerschaffern generiert wurden und packt diese
     in einen Container (abgesondert von der Blockchain) kodiert mit der Blocksequenznummer.
 
-3. *Auswählen des gewinnenden Blocks*. Jeder Konsens-Knoten findet, 
-    nachdem eine ausreichend große Menge [^1] von Blockkandidaten erhalten wurden 
-    oder nachdem andere Kriterien erfüllt wurden, den Block, der von 
-    der Mehrheit der Blockerschaffer generiert wurde. 
-    Gleichstände werden deterministisch gelöst. Derartige Blöcke werden 
-    als "lokale Gewinner"[^2] markiert und in die lokale Blockchain eingefügt. 
-    Der zugehörige Schlüsselwert zur Blocksequenznummer des lokalen Gewinners wird gelöscht, 
-    damit der Speicherplatz wieder freigegeben wird. 
-    Der Hashwert des lokalen Gewinners wird verbeitet/verkündet. 
+3. *Auswählen des gewinnenden Blocks*. Jeder Konsens-Knoten findet,
+    nachdem eine ausreichend große Menge [^1] von Blockkandidaten erhalten wurden
+    oder nachdem andere Kriterien erfüllt wurden, den Block, der von
+    der Mehrheit der Blockerschaffer generiert wurde.
+    Gleichstände werden deterministisch gelöst. Derartige Blöcke werden
+    als "lokale Gewinner"[^2] markiert und in die lokale Blockchain eingefügt.
+    Der zugehörige Schlüsselwert zur Blocksequenznummer des lokalen Gewinners wird gelöscht,
+    damit der Speicherplatz wieder freigegeben wird.
+    Der Hashwert des lokalen Gewinners wird verbeitet/verkündet.
 
-4. *Verifikationsschritt*. Jeder Knoten behält Statistiken über die, 
+4. *Verifikationsschritt*. Jeder Knoten behält Statistiken über die,
     von anderen Knoten gemeldeten, lokalen Gewinner. Wenn lokale Gewinner von
-    allen oder den meisten Knoten gemeldet wurden [^3], bestimmt der Knoten den 
+    allen oder den meisten Knoten gemeldet wurden [^3], bestimmt der Knoten den
     globalen Gewinner für die spezifische Sequenznummer. Wenn der globale Gewinner der
     lokale Gewinner ist, dann fährt der Knoten wie oben beschrieben fort.
-    Anderenfalls entscheidet der Knoten, basierend auf externen Daten und 
-    lokalen Protokollen, zwischen (a) Resynchronisation mit dem Netzwerk, 
-    oder (b) Ausscheiden aus dem Konsensprozess und/oder Blockerschaffen, 
+    Anderenfalls entscheidet der Knoten, basierend auf externen Daten und
+    lokalen Protokollen, zwischen (a) Resynchronisation mit dem Netzwerk,
+    oder (b) Ausscheiden aus dem Konsensprozess und/oder Blockerschaffen,
     oder (c) behalten seiner Blockchain und Anfordern eines Notstopps.
-    
+
 [^1]: Dies ist ein konfigurierbarer Parameter des Algorithmus.
-[^2]: Unter bestimmten idealen Bedingungen sind lokale Gewinner (für eine 
-    gegebene Blocksequenznummer) alle identisch, sprich enthalten 
-    eine identische Menge an Transaktionen. Der Unterschied entsteht durch die 
-    Netzwerklatenz, hohe Frequenz von Transaktionen, Nachrichtenzustellung außerhalb der Reihe, 
+[^2]: Unter bestimmten idealen Bedingungen sind lokale Gewinner (für eine
+    gegebene Blocksequenznummer) alle identisch, sprich enthalten
+    eine identische Menge an Transaktionen. Der Unterschied entsteht durch die
+    Netzwerklatenz, hohe Frequenz von Transaktionen, Nachrichtenzustellung außerhalb der Reihe,
     Nachrichtenverlust, Störungen durch bösartige Knoten etc.
-[^3]: Diese Nummer kann festgelegt werden, zum Beispiel, indem man auf rekursive Weise seine 
+[^3]: Diese Nummer kann festgelegt werden, zum Beispiel, indem man auf rekursive Weise seine
     vertrauenswürdigen Knoten fragt, die öffentlichen Schlüssel ihrer vertrauenswürdigen Knoten anzugeben.
 
 ## Referenzen

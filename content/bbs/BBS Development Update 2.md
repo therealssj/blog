@@ -38,7 +38,7 @@ Changes to the data structure is to address the following problems:
 2. Easily determine "diffs" between root sequences (a.k.a changes). This will be useful in compiling views and providing real-time updates to the end user.
 3. Easily determine the type of root object for different root types.
 
-![Skycoin BBS v0.2 CXO Datastructure](/bbs/img/bbs_cxo_datastructure_v0.2.png)
+![Skycoin BBS v0.2 CXO Datastructure](/img/bbs_cxo_datastructure_v0.2.png)
 
 The `RootPage` object determines the type of root. For the time being, all data is accumulated under one root tree per board. In the future, threads and users will have their own individual roots.
 

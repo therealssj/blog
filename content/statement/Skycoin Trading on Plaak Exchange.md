@@ -4,10 +4,7 @@ tags = [ "Announcements", ]
 bounty = 0
 date = "2018-06-22"
 categories = [ "Statement", ]
-[image]
-    url = "img/Skycoin-Trading-on-Plaak-Exchange.png"
-    type = "image/png"
-    length = 573253
+image = "img/Skycoin-Trading-on-Plaak-Exchange.png"
 +++
 
 

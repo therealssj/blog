@@ -10,23 +10,24 @@ date = "2017-08-15"
 categories = [
     "Skywire",
 ]
+image = "img/old-messenger.png"
 +++
 ## Introducción
 
 ### Viscript
 
-[Viscript](https://github.com/skycoin/viscript) es una interfaz de 
-línea de comandos multiplataforma, y un iniciador de aplicaciones 
-y eventualmente será un administrador de clúster. Está basado en la biblioteca 
-"signal" como un servidor "signal", por lo que puede gestionar 
-los clientes de "signal", como el nodo y los componentes en Skywire. 
-Se puede ejecutar con interfaz grafica o sin ella. 
+[Viscript](https://github.com/skycoin/viscript) es una interfaz de
+línea de comandos multiplataforma, y un iniciador de aplicaciones
+y eventualmente será un administrador de clúster. Está basado en la biblioteca
+"signal" como un servidor "signal", por lo que puede gestionar
+los clientes de "signal", como el nodo y los componentes en Skywire.
+Se puede ejecutar con interfaz grafica o sin ella.
 
 #### Captura de pantalla de la interfaz gráfica de Viscript:
 
-![screenshot](viscript.jpeg)
+![screenshot](/img/viscript.jpg)
 
-Podemos agregar configuraciones de aplicaciones en el archivo config.yaml, como el meshnet-socks-server:  
+Podemos agregar configuraciones de aplicaciones en el archivo config.yaml, como el meshnet-socks-server:
 
 ```
   meshnet-socks-server:
@@ -47,21 +48,21 @@ Después de reiniciar Viscript, podemos verificar las aplicaciones que pueden se
 
 Como se puede ver en la captura de pantalla, podemos iniciar la aplicación usando el comando `s` (`s apptracker 127.0.0.1:20000`).
 
-Luego, Viscript lo inicia con un id único de secuencia, 
+Luego, Viscript lo inicia con un id único de secuencia,
 podemos hacer ping(`ping`), verificar el uso de recursos(`ru`)
 y apagarlo(`sd`) a través de este id.
 
 ### Skywire
 
-[Skywire](https://github.com/skycoin/skywire) es una red 
-alternativa de pares que toma el control de los ISP y se 
-lo devuelve a los usuarios. Hay varios componentes dentro 
-de él. El administrador de nodos, el nodo y las aplicaciones 
-se ejecutan en la red en malla, como el cliente vpn, el 
+[Skywire](https://github.com/skycoin/skywire) es una red
+alternativa de pares que toma el control de los ISP y se
+lo devuelve a los usuarios. Hay varios componentes dentro
+de él. El administrador de nodos, el nodo y las aplicaciones
+se ejecutan en la red en malla, como el cliente vpn, el
 servidor vpn, el cliente de socks, el servidor de socks, etc.
 
-Todos los componentes dentro de Skywire se basan en la 
-biblioteca de "signal" como un cliente de "signal". Entonces, 
+Todos los componentes dentro de Skywire se basan en la
+biblioteca de "signal" como un cliente de "signal". Entonces,
 pueden ser ejecutados, administrados y apagados por medio de Viscript.
 
 ## Arquitectura
@@ -95,7 +96,3 @@ El nodo, El administrador de nodos y el Messenger son los componentes clave de l
 ## Resumen
 
 Viscript y Skywire todavía están bajo intenso desarrollo. Pero hemos logrado muchos cosas emocionantes en todo el ecosistema de Skycoin. ¡Lo estamos disfrutando y vamos a desbloquear todo el potencial de una Internet libre en el futuro!
-
-#### Captura de pantalla del Sky-Messenger:
-
-![screenshot](messenger.png)

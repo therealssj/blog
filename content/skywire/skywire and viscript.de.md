@@ -9,6 +9,7 @@ date = "2017-08-15"
 categories = [
     "Skywire",
 ]
+image = "img/old-messenger.png"
 +++
 ## Einleitung
 
@@ -18,7 +19,7 @@ categories = [
 
 #### Viscript GUI Screenshot:
 
-![Screenshot](viscript.jpeg)
+![Screenshot](/img/viscript.jpg)
 
 Wir können App-Konfigurationen im config.yaml file hinzufügen, wie z.B. den meshnet-socks-server:
 
@@ -79,7 +80,3 @@ Knoten, Knotenmanager und der Messenger sind zentrale Komponenten des Skywire-Me
 ## Zusammenfassung
 
 Viscript und Skywire sind immernoch unter heftiger Entwicklung. Wir haben jedoch viele spannende Meilensteine rund um das Skycoin-Ökosystem erreicht. Wir genießen es, das volle Potential eines freien Internets der Zukunft freizuschalten!
-
-#### Sky-Messenger Screenshot:
-
-![Screenshot](messenger.png)

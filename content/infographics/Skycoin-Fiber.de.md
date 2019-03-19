@@ -9,10 +9,7 @@ date = "2018-09-14"
 categories = [
     "Infographics",
 ]
-[image]
-    url = "img/Skycoin-Fiber.jpg"
-    type = "image/jpg"
-    length = 489618
+image = "img/Skycoin-Fiber.jpg"
 +++
 
 ## Skycoin ist in einer eigenen Liga!

@@ -29,7 +29,7 @@ Ces modifications ont également incité BBS à modifier la majorité de son cod
 
 [Regarder le dépot du CXO ici.](https://github.com/skycoin/cxo)
 
-## Changements de la structure de données du CXO 
+## Changements de la structure de données du CXO
 
 Les changements de la structure de données s'adressent aux problèmes suivants :
 
@@ -37,7 +37,7 @@ Les changements de la structure de données s'adressent aux problèmes suivants 
 2. Déterminer facilement les "diffs" entre les séquences racines (modifications). Cela sera utile pour compiler des vues et fournir des mises à jour en temps réel à l'utilisateur final.
 3. Déterminer facilement le type d'objet racine pour les différents types de racine
 
-![Structure de données du CXO de Skycoin BBS v0.2](/bbs/img/bbs_cxo_datastructure_v0.2.png)
+![Structure de données du CXO de Skycoin BBS v0.2](/img/bbs_cxo_datastructure_v0.2.png)
 
 L'objet `RootPage` détermine le type de racine. Pour l'instant, toutes les données sont accumulées sous un arbre racine par groupe. À l'avenir, les sujets et les utilisateurs auront leurs racines individuelles.
 
@@ -47,7 +47,7 @@ L'objet `RootPage` détermine le type de racine. Pour l'instant, toutes les donn
 
 `UsersPage` deviendra une liste de clés publiques (elles seront comme des «participants» au sein d'un groupe). Chaque utilisateur aura sa propre racine.
 
-## Impémentation du module de Vues 
+## Impémentation du module de Vues
 
 Une vue est principalement juste une interface :
 
@@ -69,7 +69,7 @@ Actuellement, toutes les vues compilées sont stockées en mémoire. Mais cela d
 
 Pour la version 0.2, il existe deux implémentations `View`; un pour le contenu (groupes / sujets / messages / votes) et un pour la compilation d'une liste de suivi/blocage par utilisateur.
 
-## Une nouvelle expérience utilisateur 
+## Une nouvelle expérience utilisateur
 
 Au moment de cette publication, ceci est presque terminé. Voici une vidéo sur youtube de ce travail en cours:
 

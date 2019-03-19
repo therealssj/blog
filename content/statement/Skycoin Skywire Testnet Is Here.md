@@ -4,10 +4,7 @@ tags = [ "Announcements", ]
 bounty = 0
 date = "2018-05-15"
 categories = [ "Statement", ]
-[image]
-    url = "img/skywire-testnet-launching-may-22.jpg"
-    type = "image/jpg"
-    length = 1454080
+image = "img/skywire-testnet-launching-may-22.jpg"
 +++
 
 Skywire Testnet Going Live May 22nd, 2018

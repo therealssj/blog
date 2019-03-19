@@ -4,10 +4,7 @@ tags = [ "Announcements", ]
 bounty = 0
 date = "2018-06-24"
 categories = [ "Statement", ]
-[image]
-    url = "img/skycoin-binance-partnership.jpg"
-    type = "image/jpg"
-    length = 41782
+image = "img/skycoin-binance-partnership.jpg"
 +++
 
 

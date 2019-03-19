@@ -4,10 +4,7 @@ tags = [ "Announcements", "Skyminer", ]
 bounty = 0
 date = "2018-04-05"
 categories = [ "Statement", "Skyminer", ]
-[image]
-    url = "img/Skyminer-unboxing.jpg"
-    type = "image/jpg"
-    length = 181090
+image = "img/Skyminer-unboxing.jpg"
 +++
 
 # Foreword to the first chapter of a new internet

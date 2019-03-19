@@ -8,13 +8,10 @@ tags = [
 bounty = 4
 date = "2018-04-02"
 categories = [
-    "Infographics", 
+    "Infographics",
     "Skyminer",
 ]
-[image]
-    url = "img/What-is-the-difference-skycoin-vs-skywire.jpg"
-    type = "image/jpg"
-    length = 382390
+image = "img/What-is-the-difference-skycoin-vs-skywire.jpg"
 +++
 
 ## 1. 스카이와이어 목표:

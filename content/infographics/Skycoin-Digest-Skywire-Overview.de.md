@@ -12,10 +12,7 @@ categories = [
     "Infographics",
     "Skyminer",
 ]
-[image]
-    url = "img/Skycoin-Digest-Skywire-Overview.jpg"
-    type = "image/jpg"
-    length = 427061
+image = "img/Skycoin-Digest-Skywire-Overview.jpg"
 +++
 
 ## Skywire - Das Internet neu erfinden

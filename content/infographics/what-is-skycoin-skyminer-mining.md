@@ -9,10 +9,7 @@ date = "2018-04-07"
 categories = [
     "Infographics",
 ]
-[image]
-    url = "img/what-is-skycoin-skyminer-mining.jpg"
-    type = "image/jpg"
-    length = 514918
+image = "img/what-is-skycoin-skyminer-mining.jpg"
 +++
 
 ## A Skyminer? Are you kidding me?

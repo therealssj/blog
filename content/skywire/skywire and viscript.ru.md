@@ -10,6 +10,7 @@ date = "2017-08-15"
 categories = [
     "Skywire",
 ]
+image = "img/old-messenger.png"
 +++
 ## Введение
 
@@ -19,7 +20,7 @@ categories = [
 
 #### Скриншот Viscript GUI:
 
-![screenshot](viscript.jpeg)
+![screenshot](/img/viscript.jpg)
 
 Мы можем добавить конфигурацию приложения в файл config.yaml, как meshnet-socks-server:
 
@@ -83,7 +84,3 @@ categories = [
 ## Итог
 
 Viscript и Skywire всё ещё находятся в интенсивной разработке. Но мы достигли прекрасных результатов в экосистеме Skycoin. Мы получаем удовольствие от разработки и собираемся раскрыть весь потенциал бесплатного интернета в будущем!
-
-#### Скриншот Sky-Messenger:
-
-![screenshot](messenger.png)

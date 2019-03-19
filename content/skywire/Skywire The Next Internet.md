@@ -10,10 +10,7 @@ categories = [
     "Skywire",
     "Skyminer",
 ]
-[image]
-    url = "img/skywire-the-next-internet.png"
-    type = "image/png"
-    length = 194882
+image = "img/skywire-the-next-internet.png"
 +++
 
 In spring 2017, the FCC made a proposal in which internet service providers can

@@ -11,10 +11,7 @@ categories = [
     "Infographics",
     "Skyminer",
 ]
-[image]
-    url = "img/Why-do-we-need-a-free-internet.jpg"
-    type = "image/jpg"
-    length = 1115628
+image = "img/Why-do-we-need-a-free-internet.jpg"
 +++
 
 ## Perché stiamo costruendo una connessione internet gratuita?

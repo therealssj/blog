@@ -4,10 +4,7 @@ tags = [ "Announcements", ]
 bounty = 0
 date = "2018-04-12"
 categories = [ "Statement", ]
-[image]
-    url = "img/skycoin-chaoex.jpg"
-    type = "image/jpg"
-    length = 188984
+image = "img/skycoin-chaoex.jpg"
 +++
 
 Skyfleet, we have some great news for you today! We are making good on our promise to the community of offering more exchange options and are back with a new one today!

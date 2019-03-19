@@ -5,12 +5,8 @@ bounty = 0
 date = "2019-03-19"
 categories = [ "Development", "Statement" ]
 description = "Skycoin Development Update: Introducing CX v0.6.1: CX is Skycoin’s programming language, packed full of features. CX provides numerous advancements within the Skycoin project."
-[image]
-    url = "img/Skycoin-cxv061.jpg"
-    type = "image/jpeg"
-    length = 18639
+image = "img/Skycoin-cxv061.jpg"
 +++
-
 
 #### About CX
 

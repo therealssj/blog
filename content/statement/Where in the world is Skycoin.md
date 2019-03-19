@@ -4,10 +4,7 @@ tags = [ "Announcements", ]
 bounty = 0
 date = "2018-03-26"
 categories = [ "Statement", ]
-[image]
-    url = "img/where-in-the-world-is-skycoin.png"
-    type = "image/png"
-    length = 446616
+image = "img/where-in-the-world-is-skycoin.png"
 +++
 
 ## **Skycoin Events April Update**

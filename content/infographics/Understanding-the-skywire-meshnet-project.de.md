@@ -11,10 +11,7 @@ categories = [
     "Infographics",
     "Skyminer",
 ]
-[image]
-    url = "img/What-is-the-difference-skycoin-vs-skywire.jpg"
-    type = "image/jpg"
-    length = 382390
+image = "img/What-is-the-difference-skycoin-vs-skywire.jpg"
 +++
 
 ## 1. Skywire Ziele:

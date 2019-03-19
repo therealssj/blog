@@ -9,6 +9,7 @@ date = "2017-08-15"
 categories = [
     "Skywire",
 ]
+image = "img/old-messenger.png"
 +++
 ## 介绍Viscript
 
@@ -19,7 +20,7 @@ categories = [
 
 #### Viscript GUI Screenshot:
 
-![screenshot](/skywire/skywire-and-viscript/viscript.jpeg)
+![screenshot](/img/viscript.jpg)
 
 我们可以在config.yaml文件中添加应用程序配置，比如meshnet-socks-server：
 
@@ -82,8 +83,3 @@ Skywire内的所有组件均基于信号库开发有信号客户端。 所以�
 ## 总结
 
 Viscript和Skywire仍处于密集开发阶段。 但是，我们已经在Skycoin生态系统中取得了许多令人兴奋的里程碑成果， 而且我们正在享受，并将在未来充分发挥自由互联网的潜力！
-
-
-#### Sky-Messenger screenshot:
-
-![screenshot](/skywire/skywire-and-viscript/messenger.png)

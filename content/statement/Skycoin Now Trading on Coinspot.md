@@ -4,10 +4,7 @@ tags = [ "Announcements", ]
 bounty = 0
 date = "2018-08-22"
 categories = [ "Statement", ]
-[image]
-    url = "img/Coinspotlisting.gif"
-    type = "image/gif"
-    length = 636421
+image = "img/Coinspotlisting.gif"
 +++
 
 

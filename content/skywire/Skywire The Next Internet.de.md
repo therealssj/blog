@@ -10,14 +10,11 @@ categories = [
     "Skywire",
     "Skyminer",
 ]
-[image]
-    url = "img/skywire-the-next-internet.png"
-    type = "image/png"
-    length = 194882
+image = "img/skywire-the-next-internet.png"
 +++
 
 Im Frühling 2017 hat die FCC einen Antrag gestellt, in welchem es den Internetdienstanbietern (ISP)
-erlaubt ist Informationen über Browser-Gewohnheiten zu sammeln, zu nutzen und zu verkaufen. 
+erlaubt ist Informationen über Browser-Gewohnheiten zu sammeln, zu nutzen und zu verkaufen.
 ISPs können das ohne die Erlaubnis des Users machen. Kunden können sich nicht dagegen entscheiden.
 Ein Kunde dieser Firmen zu sein, bedeutet schlicht und ergreifend, dass man dafür bezahlt ausgespäht zu werden.
 
@@ -25,12 +22,12 @@ Mit Kundenüberwachung, unverlässlicher Abdeckung, hohen Gebühren, langen Wart
 sind die ISPs die meist gehassten Firmen in Amerika geworden. Warum also bezahlen Kunden diesen Firmen eine Rechnung
 nach der anderen für das Privileg ausgespäht zu werden?
 
-Die Antwort ist traurig aber nicht überraschend: Die User fühlen sich in die Enge getrieben. 
+Die Antwort ist traurig aber nicht überraschend: Die User fühlen sich in die Enge getrieben.
 Es scheint keine andere Wahl zu geben. ISPs haben die monopolistische Macht, eingeschlossen der Fähigkeit
-den Kunden exorbitante Preise für mangelhaften Service abzuverlangen. Durch den (bevorstehenden) Angriff auf die 
+den Kunden exorbitante Preise für mangelhaften Service abzuverlangen. Durch den (bevorstehenden) Angriff auf die
 Netzneutralität im Jahr 2018 wird sich die Situation nur noch verschlimmern.
 
-Deshalb haben wir Skywire erschaffen: Das nächste Internet. Skywire nimmt die Kontrolle der ISPs und 
+Deshalb haben wir Skywire erschaffen: Das nächste Internet. Skywire nimmt die Kontrolle der ISPs und
 legt sie zurück wohin sie gehört, in die Hände der User. Mit Skywire gibt es keine riesigen Rechnungen und
 unfaire Businesspraktiken. Es ist ein autarkes Netzwerk, 100% besessen und erhalten von der Usercommunity.
 
@@ -45,9 +42,9 @@ selbsterhaltend und unabhängig: je mehr Menschen es nutzen, desto robuster wird
 Anreize gefördertes, gemaschtes Netz (mesh network).
 
 Skywire ist von Usern, für User gebaut. Anders als Netzwerke unter der Kontrolle der ISPs,
-werden die Entscheidungen über Skywire von der Community getroffen. Knoten funktionieren basierend auf 
+werden die Entscheidungen über Skywire von der Community getroffen. Knoten funktionieren basierend auf
 einem Netz des Vertrauens (web of trust). Bösartige Knoten können durch kollektives Übereinkommen abgeschnitten
-werden und vertrauenswürdige Knoten gestärkt werden. Der web-of-trust-Konsens macht Skywire immun gegen 
+werden und vertrauenswürdige Knoten gestärkt werden. Der web-of-trust-Konsens macht Skywire immun gegen
 Attacken, Ausbeutung und Manipulation. Es erschafft ein System, in dem jeder etwas zu sagen hat.
 
 Skywire ist schneller und sicherer als andere Internet-Alternativen. Es ist verschlüsselt und privat,
@@ -56,14 +53,14 @@ und anderen Ausfällen, unter welchen man als Kunde großer ISPS leidet. Anstatt
 Telefongesellschaft ausgespäht zu werden, bekommen Skywire-User einen Internetservice, welcher ihre Privatsphäre
 schützt.
 
-Wir brauchen Skywire jetzt mehr als je zuvor. Das Versagen der FCC die Netzneutralität voranzutreiben, 
+Wir brauchen Skywire jetzt mehr als je zuvor. Das Versagen der FCC die Netzneutralität voranzutreiben,
 bedeutet, dass große ISPs damit weitermachen werden ihren Griff zu festigen, bis sie die gesamte
 Internet-Erfahrung im Würgegriff haben. Gebühren werden steigen. Drosselung, Zensierung und Manipulation
-werden zum Standard. User werden weniger Macht als jemals zuvor über ihre Browsing-Daten haben, Privatsphäre 
+werden zum Standard. User werden weniger Macht als jemals zuvor über ihre Browsing-Daten haben, Privatsphäre
 und Individualität, wird auf der Suche nach Profit, von Unternehmen gekauft und verkauft.
 
 Es liegt an uns die Kontrolle zurück zu gewinnen. Skywire wird die Netzneutralität auf Hardwareebene
 beschützen, indem die Kontrolle der Netzwerk-Hardware von den ISPs genommen wird und in die Hände der
-Community übertragen wird. Peer-zu-Peer-Netzwerke beweisen, dass wir nicht auf die kommerziellen ISPs 
-angewiesen sind. Zusammen können wir das Internet mit Skywire neu erfinden: 
+Community übertragen wird. Peer-zu-Peer-Netzwerke beweisen, dass wir nicht auf die kommerziellen ISPs
+angewiesen sind. Zusammen können wir das Internet mit Skywire neu erfinden:
 Ein von Usern betriebenes Netzwerk, welches frei und offen für alle ist.

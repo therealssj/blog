@@ -9,12 +9,8 @@ date = "2018-02-03"
 categories = [
     "Infographics",
 ]
-[image]
-    url = "img/What-is-the-difference-skycoin-vs-skywire.jpg"
-    type = "image/jpg"
-    length = 638378
+image = "img/What-is-the-difference-skycoin-vs-skywire.jpg"
 +++
-
 
 ## Quale è la differenza tra Skycoin e Skywire?
 

@@ -4,10 +4,7 @@ tags = [ "Announcements", ]
 bounty = 0
 date = "2019-01-26"
 categories = [ "Statement", ]
-[image]
-    url = "img/Skycoin-Now-Trading-On-Lbank.gif"
-    type = "image/gif"
-    length = 397984
+image = "img/Skycoin-Now-Trading-On-Lbank.gif"
 +++
 
 

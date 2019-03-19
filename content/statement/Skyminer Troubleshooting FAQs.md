@@ -4,10 +4,7 @@ tags = [ "Announcements", ]
 bounty = 0
 date = "2018-04-08"
 categories = [ "Statement", ]
-[image]
-    url = "img/skyminer-the-new-internet-is-here.jpg"
-    type = "image/jpg"
-    length = 53815
+image = "img/skyminer-the-new-internet-is-here.jpg"
 +++
 
 #### 1\. Why won't my Orange Pis turn on or light up when I turn on my Skyminer?

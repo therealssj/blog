@@ -4,10 +4,7 @@ tags = [ "Announcements", ]
 bounty = 0
 date = "2018-04-04"
 categories = [ "Statement", ]
-[image]
-    url = "img/9coin-listing.gif"
-    type = "image/gif"
-    length = 2467396
+image = "img/9coin-listing.gif"
 +++
 
 Here at Skycoin, one of our top priorities is supporting and expanding our amazing community.

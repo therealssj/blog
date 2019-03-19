@@ -10,10 +10,7 @@ date = "2019-03-04"
 categories = [
     "Skywire",
 ]
-[image]
-    url = "img/mainnet.jpg"
-    type = "image/jpeg"
-    length = 117352
+image = "img/mainnet.jpg"
 +++
 
 Work on Skycoin began in 2011 with the merging of three separate projects that aimed to improve upon the design and implementation of Bitcoin. The Skycoin developers identified several major philosophical design issues that they saw as obstacles to global use of cryptocurrency as a censorship-resistant payment system.

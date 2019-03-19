@@ -4,10 +4,7 @@ tags = [ "Announcements", ]
 bounty = 0
 date = "2018-07-18"
 categories = [ "Statement", ]
-[image]
-    url = "img/blockchance.jpg"
-    type = "image/jpg"
-    length = 195125
+image = "img/blockchance.jpg"
 +++
 
 
