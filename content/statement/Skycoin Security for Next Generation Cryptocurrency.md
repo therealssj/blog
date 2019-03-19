@@ -1,5 +1,5 @@
 +++
-title = "Skycoin: Security for Next-Generation Cryptocurrency "
+title = "Skycoin: Security for Next-Generation Cryptocurrency"
 tags = [
     "Statement",
     "Security",
@@ -22,15 +22,15 @@ Skycoin’s design philosophy is built on the idea that a simple, usable system 
 -	Optional quantum computer resistant TwoStep protocol transactions
 -	Standardized remote signature HMAC API for hardware wallet devices
 
-By fundamentally rethinking cryptocurrency with the user in mind, Skycoin delivers a level of security far beyond what Bitcoin and other cryptocurrencies can offer today. 
+By fundamentally rethinking cryptocurrency with the user in mind, Skycoin delivers a level of security far beyond what Bitcoin and other cryptocurrencies can offer today.
 
 ## Bitcoin’s Security Flaws
 
-Skycoin takes a modular, layered approach to security. It addresses both the mathematical, technical attacks that compromised Bitcoin and the design and usability issues that create problems for the user. 
+Skycoin takes a modular, layered approach to security. It addresses both the mathematical, technical attacks that compromised Bitcoin and the design and usability issues that create problems for the user.
 
 Bitcoin’s security flaws include:
 -	Individuals or groups that can purchase enough hashing power can revert transactions.
--	Individual nodes are vulnerable to adversaries that can influence a node’s consensus decisions. 
+-	Individual nodes are vulnerable to adversaries that can influence a node’s consensus decisions.
 -	Bitcoin exchanges are vulnerable to 51% attack.
 -	Attacks and buying of options against Bitcoin are becoming more profitable.
 -	States and corporations may attack the Bitcoin network to protect their financial interests.
@@ -52,7 +52,7 @@ Because there is a public record of everything a node does, the community can au
 -	Timestamps increase with block count. A node cannot backdate the timestamp on the receipt of a block.
 -	A block in the middle of the chain cannot be changed without invalidating every block that comes after it.
 
-Nodes in the Skycoin network function based on a “web of trust.” Each node has other nodes it subscribes to. Nodes with more subscribers – more “trust” – have more influence on the network. This network of relationships empowers the community to shift power away from untrusted nodes. If an attack occurs, the network severs connection with untrusted nodes, protecting the core. Since each node has a public record, the community can identify which nodes were involved and take the necessary action. 
+Nodes in the Skycoin network function based on a “web of trust.” Each node has other nodes it subscribes to. Nodes with more subscribers – more “trust” – have more influence on the network. This network of relationships empowers the community to shift power away from untrusted nodes. If an attack occurs, the network severs connection with untrusted nodes, protecting the core. Since each node has a public record, the community can identify which nodes were involved and take the necessary action.
 
 Obelisk and public broadcast channels create a democratic network of nodes run by the community. Node consensus is public and consensus is achieved based on a simple binary voting algorithm. Each node is accountable both to the community and to third-party audits. This solves the security and influence issues seen in Bitcoin, where hashing power can be purchased and adversaries can influence nodes. Skycoin’s system protects the security and transparency of the network and benefits all users.
 
