@@ -11,7 +11,7 @@ categories = [
 ]
 description = "Ивент по распространению Skycoin назначен на 8 августа, 2017"
 aliases = [
-	"/ru/statement/skycoin-distribution-event"
+	"/ru/statement/skycoin-distribution-event/"
 ]
 +++
 

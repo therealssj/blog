@@ -24,7 +24,7 @@ and 25 million coins are currently unlocked.
 
 The remaining supply of immediately distributable Skycoin in this moment comes down to 17.721.960 million coins (~17,7%).
 These coins will be used to further the growth of the skycoin project as well as to incentivize
-the [Skywire meshnet](https://www.skycoin.net/blog/overview/skywire---skycoin-meshnet-project/).
+the [Skywire meshnet](https://www.skycoin.net/blog/overview/skywire-skycoin-meshnet-project/).
 
 The 75 million (75%) undistributable Skycoin **cannot be distributed until the first 25 million** (25%) have been distributed.
 After that is done, for each subsequent year thereafter, 5 million coins (5%) are unlocked via an unanimous consent (1 vote against distribution

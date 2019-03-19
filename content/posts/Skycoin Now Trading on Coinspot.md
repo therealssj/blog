@@ -6,7 +6,7 @@ date = "2018-08-22"
 categories = [ "Statement", ]
 image = "img/Coinspotlisting.gif"
 aliases = [
-	"/statement/skycoin-now-trading-on-coinspot"
+	"/statement/skycoin-now-trading-on-coinspot/"
 ]
 +++
 

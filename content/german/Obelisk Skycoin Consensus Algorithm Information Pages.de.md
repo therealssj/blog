@@ -12,7 +12,7 @@ categories = [
 author = "johnstuartmill"
 image = "img/obelisk-the-skycoin-consensus-algorithm.png"
 aliases = [
-	"/de/overview/obelisk-skycoin-consensus-algorithm-information-pages"
+	"/de/overview/obelisk-skycoin-consensus-algorithm-information-pages/"
 ]
 +++
 

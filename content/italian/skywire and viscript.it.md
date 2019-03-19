@@ -12,7 +12,7 @@ categories = [
 ]
 image = "image/old-messenger.png"
 aliases = [
-	"/it/skywire/skywire-and-viscript"
+	"/it/skywire/skywire-and-viscript/"
 ]
 +++
 ## Introduzione
@@ -46,13 +46,13 @@ Possiamo aggiungere configurazioni di app nel file config.yaml, come il meshnet-
 
 Dopo il riavvio di viscript, possiamo controllare le applicazioni che possono essere avviate da viscript, tramite app di comando.
 
-Come puoi vedere nello screenshot, possiamo avviare l'app usando il comando breve `s` (` s apptracker 127.0.0.1: 20000`).
+Come puoi vedere nello screenshot, possiamo avviare l'app usando il comando breve `s` (`s apptracker 127.0.0.1: 20000`).
 
-Quindi viscript inizia con un id di sequenza univoco, possiamo eseguire il ping (`ping`), controllare l'utilizzo delle risorse (` ru`) e shutdown (`sd`) attraverso questo id.
+Quindi viscript inizia con un id di sequenza univoco, possiamo eseguire il ping (`ping`), controllare l'utilizzo delle risorse (`ru`) e shutdown (`sd`) attraverso questo id.
 
 ### Skywire
 
-[Skywire] (https://github.com/skycoin/skywire) è una rete alternativa peer-to-peer che prende il controllo dagli ISP e la restituisce agli utenti. Ci sono diversi componenti al suo interno, il gestore nodo, il nodo e le applicazioni eseguite su meshnet come client vpn, server vpn, client di calze, server di calze e così via.
+[Skywire](https://github.com/skycoin/skywire) è una rete alternativa peer-to-peer che prende il controllo dagli ISP e la restituisce agli utenti. Ci sono diversi componenti al suo interno, il gestore nodo, il nodo e le applicazioni eseguite su meshnet come client vpn, server vpn, client di calze, server di calze e così via.
 
 Tutti i componenti all'interno di Skywire sono basati sulla libreria di segnali come client di segnale. Così possono essere lanciati, gestiti e chiusi da viscript.
 

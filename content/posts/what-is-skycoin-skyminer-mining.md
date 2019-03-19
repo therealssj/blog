@@ -11,7 +11,7 @@ categories = [
 ]
 image = "img/what-is-skycoin-skyminer-mining.jpg"
 aliases = [
-	"/infographics/what-is-skycoin-skyminer-mining"
+	"/infographics/what-is-skycoin-skyminer-mining/"
 ]
 +++
 

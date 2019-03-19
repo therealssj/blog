@@ -11,7 +11,7 @@ categories = [
 ]
 image = "img/What-is-the-difference-skycoin-vs-skywire.jpg"
 aliases = [
-	"/it/infographics/what-is-the-difference-skycoin-vs-skywire"
+	"/it/infographics/what-is-the-difference-skycoin-vs-skywire/"
 ]
 +++
 

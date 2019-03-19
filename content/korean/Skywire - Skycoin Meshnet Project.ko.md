@@ -10,7 +10,7 @@ categories = [
     "Overview",
 ]
 aliases = [
-	"/ko/overview/skywire-skycoin-meshnet-project"
+	"/ko/overview/skywire-skycoin-meshnet-project/"
 ]
 +++
 

@@ -11,7 +11,7 @@ categories = [
 ]
 description = "Une distribution évenementielle de Skycoin a lieu le 8 Août 2017"
 aliases = [
-	"/fr/statement/skycoin-distribution-event"
+	"/fr/statement/skycoin-distribution-event/"
 ]
 +++
 

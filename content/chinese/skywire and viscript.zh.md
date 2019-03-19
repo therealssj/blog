@@ -11,7 +11,7 @@ categories = [
 ]
 image = "img/old-messenger.png"
 aliases = [
-	"/zh/skywire/skywire-and-viscript"
+	"/zh/skywire/skywire-and-viscript/"
 ]
 +++
 ## 介绍Viscript

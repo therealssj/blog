@@ -39,6 +39,6 @@ Die Skycoin-Blockchain und das Skywire-Netzwerk können jeder für sich, alleine
 
 *Lest mehr:*
 
-* *[Skywire Posts](/categories/skywire/)*
+* *[Skywire Posts](/tags/skywire/)*
 * *[Skycoin Overview](/overview/skycoin-overview/)*
-* *[Skywire - Skycoin Meshnet Project](/overview/skywire---skycoin-meshnet-project/)*
+* *[Skywire - Skycoin Meshnet Project](/overview/skywire-skycoin-meshnet-project/)*

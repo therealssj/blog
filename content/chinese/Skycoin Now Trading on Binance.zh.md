@@ -6,7 +6,7 @@ date = "2018-05-24"
 categories = [ "Statement", ]
 image = "img/Skycoin-now-trading-on-binance.gif"
 aliases = [
-	"/zh/statement/skycoin-now-trading-on-binance"
+	"/zh/statement/skycoin-now-trading-on-binance/"
 ]
 +++
 

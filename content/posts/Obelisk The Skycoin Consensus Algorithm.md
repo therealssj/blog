@@ -10,7 +10,7 @@ categories = [
 ]
 image = "img/obelisk-the-skycoin-consensus-algorithm.png"
 aliases = [
-	"/statement/obelisk-the-skycoin-consensus-algorithm"
+	"/statement/obelisk-the-skycoin-consensus-algorithm/"
 ]
 +++
 

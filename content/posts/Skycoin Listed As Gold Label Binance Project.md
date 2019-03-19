@@ -5,7 +5,7 @@ bounty = 0
 date = "2018-12-01"
 categories = [ "Statement", ]
 aliases = [
-	"/statement/skycoin-listed-as-gold-label-binance-project"
+	"/statement/skycoin-listed-as-gold-label-binance-project/"
 ]
 +++
 

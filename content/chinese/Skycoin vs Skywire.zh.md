@@ -29,6 +29,6 @@ Skycoin区块链和Skywire网络能够独自运转，但是可以互利共赢。
 
 阅读更多:
 
-* [Skywire Posts](https://www.skycoin.net/blog/categories/skywire/)
+* [Skywire Posts](https://www.skycoin.net/blog/tags/skywire/)
 * [Skycoin Overview](https://www.skycoin.net/blog/overview/skycoin-overview/)
-* [Skywire - Skycoin Meshnet Project](https://www.skycoin.net/blog/overview/skywire---skycoin-meshnet-project/)
+* [Skywire - Skycoin Meshnet Project](https://www.skycoin.net/blog/overview/skywire-skycoin-meshnet-project/)

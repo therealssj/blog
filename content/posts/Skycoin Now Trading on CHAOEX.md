@@ -6,7 +6,7 @@ date = "2018-04-12"
 categories = [ "Statement", ]
 image = "img/skycoin-chaoex.jpg"
 aliases = [
-	"/statement/skycoin-now-trading-on-chaoex"
+	"/statement/skycoin-now-trading-on-chaoex/"
 ]
 +++
 

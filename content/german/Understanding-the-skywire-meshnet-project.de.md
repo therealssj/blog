@@ -13,7 +13,7 @@ categories = [
 ]
 image = "img/What-is-the-difference-skycoin-vs-skywire.jpg"
 aliases = [
-	"/de/infographics/understanding-the-skywire-meshnet-project"
+	"/de/infographics/understanding-the-skywire-meshnet-project/"
 ]
 +++
 

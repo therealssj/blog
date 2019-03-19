@@ -11,7 +11,7 @@ categories = [
 ]
 image = "img/Skycoin-a-global-revolution.jpg"
 aliases = [
-	"/infographics/skycoin-a-global-revolution"
+	"/infographics/skycoin-a-global-revolution/"
 ]
 +++
 

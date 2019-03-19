@@ -9,7 +9,7 @@ categories = [
     "Statement",
 ]
 aliases = [
-	"/statement/skycoin-community-links"
+	"/statement/skycoin-community-links/"
 ]
 +++
 

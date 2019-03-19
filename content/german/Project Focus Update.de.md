@@ -11,7 +11,7 @@ categories = [
     "Statement",
 ]
 aliases = [
-	"/de/statement/project-focus-update"
+	"/de/statement/project-focus-update/"
 ]
 +++
 

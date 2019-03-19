@@ -58,6 +58,6 @@ Skywire는 스카이코인의 유틸리티 목적으로 제공하며,
 
 *더 읽기:*
 
-* *[Skywire 게시물](/categories/skywire/)*
+* *[Skywire 게시물](/tags/skywire/)*
 * *[스카이코인 개요](/overview/skycoin-overview/)*
-* *[Skywire - 스카이코인 Meshnet 프로젝트](/overview/skywire---skycoin-meshnet-project/)*
+* *[Skywire - 스카이코인 Meshnet 프로젝트](/overview/skywire-skycoin-meshnet-project/)*

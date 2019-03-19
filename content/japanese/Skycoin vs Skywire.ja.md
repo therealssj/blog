@@ -56,6 +56,6 @@ SkycoinのブロックチェーンとSkywireネットワークは、相互に独
 SkywireはSkycoinの様々に使える目的を提供し、SkycoinはSkywireネットワークを拡張するための財政的な動機を提供します。
 
 *Read more:*
-* *[Skywire Posts](/categories/skywire/)*
+* *[Skywire Posts](/tags/skywire/)*
 * *[Skycoin Overview](/overview/skycoin-overview/)*
-* *[Skywire - Skycoin Meshnet Project](/overview/skywire---skycoin-meshnet-project/)*
+* *[Skywire - Skycoin Meshnet Project](/overview/skywire-skycoin-meshnet-project/)*

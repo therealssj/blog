@@ -15,27 +15,27 @@ aliases = [
 +++
 
 Skycoin e Skywire sono due componenti separate del progetto Skycoin.
-Skycoin è la blockchain. Skywire è la [rete a maglie] (https://en.wikipedia.org/wiki/Mesh_networking).
+Skycoin è la blockchain. Skywire è la [rete a maglie](https://en.wikipedia.org/wiki/Mesh_networking).
 
 Skycoin è stato costruito per primo. Può esistere da solo. È stato creato per affrontare
 i problemi che ha Bitcoin. Il più grande problema che ha Bitcoin è il mining,
 che porta alla centralizzazione di Bitcoin. Gli altri problemi che affliggevano Bitcoin
 erano per lo più legati alla crittografia o ai bug del software, causando problemi simili
-come [malleabilità delle transazioni] (https://en.bitcoin.it/wiki/Transaction_Malleability).
+come [malleabilità delle transazioni](https://en.bitcoin.it/wiki/Transaction_Malleability).
 
-Skycoin ha sviluppato un nuovo algoritmo di consenso chiamato [Obelisk] (https://www.skycoin.net/whitepapers)
+Skycoin ha sviluppato un nuovo algoritmo di consenso chiamato [Obelisk](https://www.skycoin.net/whitepapers)
 che elimina il mining (o altre alternative come
-[Proof-of-Stake] (https://en.wikipedia.org/wiki/Proof-of-stake)).
-Questo è ciò di cui parlano gli [articoli] (https://www.skycoin.net/whitepapers).
+[Proof-of-Stake](https://en.wikipedia.org/wiki/Proof-of-stake)).
+Questo è ciò di cui parlano gli [articoli](https://www.skycoin.net/whitepapers).
 L'algoritmo di consenso utilizza un meccanismo Web-of-trust per proteggere la rete.
 Ogni nodo della rete ha una piccola lista di *peers* fidati.
 Si condividono blocchi l'uno con l'altro. Se ci sono blocchi errati, come un blocco
-contenente una [doppia spesa] (https://en.wikipedia.org/wiki/Double-spending),
+contenente una [doppia spesa](https://en.wikipedia.org/wiki/Double-spending),
 lo rifiuti e così fanno i tuoi peers di fiducia. Possono esserci molti nodi malintenzionati
 nella rete, ma non avrà alcun impatto se non ti fidi di loro.
 
 Skywire è stato sviluppato per risolvere i problemi attraverso Internet stesso. Ci sono
-molti [punti di attacco] (https://en.wikipedia.org/wiki/BGP_hijacking) in particolare
+molti [punti di attacco](https://en.wikipedia.org/wiki/BGP_hijacking) in particolare
 per i governi poiché hanno un grande controllo sull'infrastruttura.
 Ma anche i grandi ISP esercitano molto potere sui loro clienti.
 Tutti questi problemi sono dovuti alla centralizzazione di Internet.
@@ -64,6 +64,6 @@ Rete Skywire.
 
 *Leggi altro:*
 
-* *[Skywire Posts](/categories/skywire/)*
+* *[Skywire Posts](/tags/skywire/)*
 * *[Skycoin Overview](/overview/skycoin-overview/)*
-* *[Skywire - Skycoin Meshnet Project](/overview/skywire---skycoin-meshnet-project/)*
+* *[Skywire - Skycoin Meshnet Project](/overview/skywire-skycoin-meshnet-project/)*

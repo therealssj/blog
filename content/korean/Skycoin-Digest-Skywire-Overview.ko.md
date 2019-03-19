@@ -14,7 +14,7 @@ categories = [
 ]
 image = "img/Skycoin-Digest-Skywire-Overview.jpg"
 aliases = [
-	"/ko/infographics/skycoin-digest-skywire-overview"
+	"/ko/infographics/skycoin-digest-skywire-overview/"
 ]
 +++
 

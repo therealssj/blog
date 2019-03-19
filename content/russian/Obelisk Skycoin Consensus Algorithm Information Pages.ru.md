@@ -11,7 +11,7 @@ categories = [
 ]
 author = "johnstuartmill"
 aliases = [
-	"/ru/overview/obelisk-skycoin-consensus-algorithm-information-pages"
+	"/ru/overview/obelisk-skycoin-consensus-algorithm-information-pages/"
 ]
 +++
 

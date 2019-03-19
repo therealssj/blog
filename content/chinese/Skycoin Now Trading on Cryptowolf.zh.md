@@ -5,7 +5,7 @@ bounty = 0
 date = "2018-03-05"
 categories = [ "Statement", ]
 aliases = [
-	"/zh/statement/skycoin-now-trading-on-cryptowolf"
+	"/zh/statement/skycoin-now-trading-on-cryptowolf/"
 ]
 +++
 

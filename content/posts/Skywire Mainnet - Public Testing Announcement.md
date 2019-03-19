@@ -12,7 +12,7 @@ categories = [
 ]
 image = "img/mainnet.jpg"
 aliases = [
-	"/skywire/skywire-mainnet-public-testing-announcement"
+	"/skywire/skywire-mainnet-public-testing-announcement/"
 ]
 +++
 

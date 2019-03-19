@@ -5,7 +5,7 @@ bounty = 0
 date = "2018-03-07"
 categories = [ "Statement", ]
 aliases = [
-	"/statement/skycoin-heads-to-puerto-rico"
+	"/statement/skycoin-heads-to-puerto-rico/"
 ]
 +++
 

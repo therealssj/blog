@@ -21,7 +21,7 @@ aliases = [
 7500万枚 (75%) 是锁定的（访问 skycoin.go(https://github.com/skycoin/skycoin/blob/develop/cmd/skycoin/skycoin.go) 可查看硬编码 ），目前2500万枚已经解锁。
 
 当下其余可分配的Skycoin有1772 1960亿枚 (约17.7%) 。
-这些skycoin将来会用于skycoin项目的推进以及激励[Skywire meshnet](https://www.skycoin.net/blog/overview/skywire---skycoin-meshnet-project/)。
+这些skycoin将来会用于skycoin项目的推进以及激励[Skywire meshnet](https://www.skycoin.net/blog/overview/skywire-skycoin-meshnet-project/)。
 
 **前面2500万枚(25%)完毕后**才轮到剩下的7500万枚(75%) 未分配的Skycoin。
 此后，后面的75%通过不具开发者团体匿名投票统一共识每年解锁500万枚（5%）（有一票反对可能会终止这个过程）。**但这并不意味着每年必须有5%必须被立刻分配，只是解锁链后允许被分配而已。**这个过程要依照Skywire的发展情况。

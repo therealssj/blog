@@ -64,6 +64,6 @@ Skywire network.
 
 *Read more:*
 
-* *[Skywire Posts](/categories/skywire/)*
+* *[Skywire Posts](/tags/skywire/)*
 * *[Skycoin Overview](/overview/skycoin-overview/)*
-* *[Skywire - Skycoin Meshnet Project](/overview/skywire---skycoin-meshnet-project/)*
+* *[Skywire - Skycoin Meshnet Project](/overview/skywire-skycoin-meshnet-project/)*

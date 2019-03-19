@@ -9,7 +9,7 @@ categories = [
 ]
 description = "Skycoin lance une vision du Nouvel Internet"
 aliases = [
-	"/fr/statement/skycoin-launches-a-vision-for-the-new-internet"
+	"/fr/statement/skycoin-launches-a-vision-for-the-new-internet/"
 ]
 +++
 

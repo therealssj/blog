@@ -11,7 +11,7 @@ categories = [
 ]
 image = "img/The-Five-Pillars-of-the-Skycoin-Cryptocurrency.jpg"
 aliases = [
-	"/infographics/the-five-pillars-of-the-skycoin-cryptocurrency"
+	"/infographics/the-five-pillars-of-the-skycoin-cryptocurrency/"
 ]
 +++
 

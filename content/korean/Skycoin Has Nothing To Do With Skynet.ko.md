@@ -8,7 +8,7 @@ categories = [
     "Statement",
 ]
 aliases = [
-	"/ko/statement/skycoin-has-nothing-to-do-with-skynet"
+	"/ko/statement/skycoin-has-nothing-to-do-with-skynet/"
 ]
 +++
 

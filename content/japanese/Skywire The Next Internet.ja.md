@@ -12,7 +12,7 @@
  ]
 image = "img/skywire-the-next-internet.png"
 aliases = [
-	"/ja/skywire/skywire-the-next-internet"
+	"/ja/skywire/skywire-the-next-internet/"
 ]
 +++
 

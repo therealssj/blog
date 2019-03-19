@@ -12,7 +12,7 @@ categories = [
 ]
 image = "img/skywire-the-next-internet.png"
 aliases = [
-	"/de/skywire/skywire-the-next-internet"
+	"/de/skywire/skywire-the-next-internet/"
 ]
 +++
 

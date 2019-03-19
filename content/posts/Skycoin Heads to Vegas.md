@@ -6,7 +6,7 @@ date = "2018-08-01"
 categories = [ "Statement", ]
 image = "img/Skycoin-goes-to-ChainXChange-Vegas.png"
 aliases = [
-	"/statement/skycoin-heads-to-vegas"
+	"/statement/skycoin-heads-to-vegas/"
 ]
 +++
 

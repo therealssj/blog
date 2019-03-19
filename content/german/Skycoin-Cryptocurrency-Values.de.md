@@ -11,7 +11,7 @@ categories = [
 ]
 image = "img/Skycoin-Cryptocurrency-Values.jpg"
 aliases = [
-	"/de/infographics/skycoin-cryptocurrency-values"
+	"/de/infographics/skycoin-cryptocurrency-values/"
 ]
 +++
 

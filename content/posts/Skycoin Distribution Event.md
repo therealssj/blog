@@ -11,7 +11,7 @@ categories = [
 ]
 description = "A Skycoin Distribution Event will be held August 8, 2017"
 aliases = [
-	"/statement/skycoin-distribution-event"
+	"/statement/skycoin-distribution-event/"
 ]
 +++
 

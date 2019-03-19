@@ -11,7 +11,7 @@ categories = [
 ]
 description = "스카이코인 배포 이벤트가 2017년 8월 8일 개최됩니다."
 aliases = [
-	"/ko/statement/skycoin-distribution-event"
+	"/ko/statement/skycoin-distribution-event/"
 ]
 +++
 

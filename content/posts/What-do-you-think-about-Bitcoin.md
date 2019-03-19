@@ -11,7 +11,7 @@ categories = [
 ]
 image = "img/What-do-you-think-about-Bitcoin.jpg"
 aliases = [
-	"/infographics/what-do-you-think-about-bitcoin"
+	"/infographics/what-do-you-think-about-bitcoin/"
 ]
 +++
 

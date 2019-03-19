@@ -8,7 +8,7 @@ categories = [
     "Statement",
 ]
 aliases = [
-	"/de/statement/skycoin-launches-a-vision-for-the-new-internet"
+	"/de/statement/skycoin-launches-a-vision-for-the-new-internet/"
 ]
 +++
 

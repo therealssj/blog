@@ -13,7 +13,7 @@ categories = [
 ]
 image = "img/Why-do-we-need-a-free-internet.jpg"
 aliases = [
-	"/ko/infographics/why-do-we-need-a-free-internet"
+	"/ko/infographics/why-do-we-need-a-free-internet/"
 ]
 +++
 
