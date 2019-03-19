@@ -4,14 +4,11 @@ tags = [ "Announcements", "CX", "CXFX" ]
 bounty = 0
 date = "2019-03-11"
 categories = [ "Development", "Statement" ]
-aliases = [
-	"/development-updates/skycoin-development-update-136/",
-	"/development-updates/cxfx-v0.1/",
-]
 description = "Introducing CXFX, a graphics library for the CX programming"
 image = "img/Skycoin-CXFXv01.jpg"
 aliases = [
-	"/development-updates/cxfx-v0.1/"
+	"/development-updates/skycoin-development-update-136/",
+	"/development-updates/cxfx-v0.1/",
 ]
 +++
 
