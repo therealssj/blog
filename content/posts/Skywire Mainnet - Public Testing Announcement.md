@@ -2,14 +2,10 @@
 title = "Skywire Mainnet - Public Testing Announcement"
 tags = [
     "Skywire",
-    "Mainnet",
     "Statement",
     "Announcement",
 ]
 date = "2019-03-04"
-categories = [
-    "Skywire",
-]
 image = "img/mainnet.jpg"
 aliases = [
 	"/skywire/skywire-mainnet-public-testing-announcement/"

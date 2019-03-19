@@ -1,9 +1,11 @@
 +++
 title = "Skywire测试网常见问题"
-tags = [ "Announcements", "Skyminer", ]
+tags = [
+	"Announcements",
+	"Skyminer",
+]
 bounty = 0
 date = "2018-04-05"
-categories = [ "Statement", "Skyminer", ]
 aliases = [
 	"/zh/statement/skywire-testnet-faq/"
 ]

@@ -1,14 +1,10 @@
 +++
 title = "Skycoin Übersicht: Die 5 Grundpfeiler von Skycoin [INFOGRAPHIC]"
 tags = [
-    "Skycoin Digest",
     "Infographics",
 ]
 bounty = 4
 date = "2018-02-08"
-categories = [
-    "Infographics",
-]
 image = "img/The-Five-Pillars-of-the-Skycoin-Cryptocurrency.jpg"
 aliases = [
 	"/de/infographics/the-five-pillars-of-the-skycoin-cryptocurrency/"
@@ -25,7 +21,7 @@ Eine vollständig dezentralisierte blitzschnelle Kryptowährung, die sicher vor 
 
 Ein Mesh-Netzwerk, das dir ermöglicht, Skycoins zu verdienen, indem du Traffic weiterleitest und Bandbreite zur Verfügung stellst. Ähnlich wie Tor oder BitTorrent, nur dass du hierfür bezahlt wirst.
 
-## __3. SKYLEDGER__
+## __3. FIBER__
 
 Eine Plattform, die Ethereums ERC20-Plattform in einer Weise ähnelt wie ein 2018er Bugatti Chiron einem 1992er Geo Metro ähnlich ist. Beides sind Autos.
 

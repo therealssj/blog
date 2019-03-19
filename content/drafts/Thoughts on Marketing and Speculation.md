@@ -2,16 +2,9 @@
 draft = true
 title = "Thoughts on Marketing and Speculation"
 tags = [
-    "Marketing",
-    "Speculation",
-    "Price",
-    "Bitcoin",
+    "Skycoin",
 ]
 date = "2014-02-14"
-categories = [
-    "Marketing",
-    "Information",
-]
 description = "Skycoin marketing is highly targeted at influence groups and communities who need to know about Skycoin. The objective of Skycoin marketing is to build out the community and build awareness."
 +++
 # Thoughts on Marketing and Speculation:

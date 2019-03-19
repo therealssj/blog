@@ -1,10 +1,10 @@
 +++
 title = "Skycoin Team Status Update"
-tags = [ "Announcements", ]
-date = "2018-06-18"
-categories = [
-     "Statement",
+tags = [
+	"Announcements",
+	"Community",
 ]
+date = "2018-06-18"
 description = "Skycoin Team Status Update"
 aliases = [
 	"/statement/skycoin-team-status-update/"

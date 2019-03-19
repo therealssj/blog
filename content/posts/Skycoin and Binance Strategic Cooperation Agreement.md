@@ -1,9 +1,10 @@
 +++
 title = "Skycoin and Binance: A Strategic Cooperation Agreement"
-tags = [ "Announcements", ]
+tags = [
+	"Announcements",
+]
 bounty = 0
 date = "2018-06-24"
-categories = [ "Statement", ]
 image = "img/skycoin-binance-partnership.jpg"
 aliases = [
 	"/statement/skycoin-and-binance-strategic-cooperation-agreement/"

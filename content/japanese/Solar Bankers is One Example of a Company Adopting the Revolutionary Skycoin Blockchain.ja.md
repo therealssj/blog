@@ -2,14 +2,10 @@
 title = "革新的なSkycoin Blockchainを採用した企業の一例　SolarBankers（太陽銀行）"
 tags = [
     "Statement",
-    "Skyledger",
+    "Fiber",
 ]
 bounty = 6
 date = "2017-12-18"
-categories = [
-    "Statement",
-    "Skyledger",
-]
 aliases = [
 	"/ja/statement/solar-bankers-is-one-example-of-a-company-adopting-the-revolutionary-skycoin-blockchain/"
 ]

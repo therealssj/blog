@@ -1,13 +1,10 @@
 +++
 title = "Skycoin Wallet v0.20.2 Описание релиза"
 tags = [
-    "Statement",
+	"Development",
 ]
 bounty = 2
 date = "2017-10-13"
-categories = [
-    "Statement",
-]
 aliases = [
 	"/ru/statement/skycoin-wallet-v0.20.2-released/"
 ]

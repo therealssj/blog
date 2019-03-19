@@ -1,14 +1,9 @@
 +++
 title = "Skywire - Проект Ячеистой Сети Skycoin"
 tags = [
- "Skywire",
- "Meshnet",
+	"Skywire",
 ]
 date = "2017-08-29"
-categories = [
- "Skywire",
- "Overview",
-]
 aliases = [
 	"/ru/overview/skywire-skycoin-meshnet-project/"
 ]

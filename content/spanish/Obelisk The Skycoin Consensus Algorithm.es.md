@@ -2,12 +2,11 @@
 title = "Obelisk: El Algoritmo de Consenso de Skycoin"
 tags = [
     "Statement",
+    "Obelisk",
+    "Consensus",
 ]
 bounty = 8
 date = "2017-09-08"
-categories = [
-    "Statement",
-]
 image = "img/obelisk-the-skycoin-consensus-algorithm.png"
 aliases = [
 	"/es/statement/obelisk-the-skycoin-consensus-algorithm/"

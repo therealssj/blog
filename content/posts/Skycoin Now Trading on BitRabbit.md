@@ -1,9 +1,10 @@
 +++
 title = "Skycoin Now Trading on BitRabbit!"
-tags = [ "Announcements", ]
+tags = [
+	"Announcements",
+]
 bounty = 0
 date = "2018-05-21"
-categories = [ "Statement", ]
 image = "img/Bitrabbit-skycoin.gif"
 aliases = [
 	"/statement/skycoin-now-trading-on-bitrabbit/"

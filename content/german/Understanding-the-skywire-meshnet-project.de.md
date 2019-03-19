@@ -1,16 +1,11 @@
 +++
 title = "Skycoin Kurzfassung: Skywire Meshnet-Projekt [INFOGRAPHIC]"
 tags = [
-    "Skycoin Digest",
     "Infographics",
     "Skyminer",
 ]
 bounty = 4
 date = "2018-04-02"
-categories = [
-    "Infographics",
-    "Skyminer",
-]
 image = "img/What-is-the-difference-skycoin-vs-skywire.jpg"
 aliases = [
 	"/de/infographics/understanding-the-skywire-meshnet-project/"
@@ -22,7 +17,7 @@ aliases = [
 * Breitband-Wettbewerb erhöhen.
 * Eine Alternative zu ISPs anbieten.
 * Communities in die Lage versetzen ISPs in einer benutzergesteuerten Infrastruktur aufzubauen.
-* Ein globales Open-Access-Mesh-Netzwerk oder "Meshnet" zu schaffen.
+* Ein globales Open-Access-Mesh-Netzwerk oder "Skywire" zu schaffen.
 
 ## 2. Skywire ist ein neues Datenschutzprotokoll.
 

@@ -2,15 +2,10 @@
 title = "Development Update #20"
 tags = [
     "Development",
-    "Whitepaper",
     "Cryptography",
     "Security",
 ]
 date = "2014-05-01"
-categories = [
-    "Development Updates",
-]
-description = "Release notes highlighting the current development behind Skycoin  "
 aliases = [
 	"/development-updates/development-update-20/"
 ]

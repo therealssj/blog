@@ -3,12 +3,8 @@ title = "스카이와이어와 vi스크립트"
 tags = [
     "Development",
     "Skywire",
-    "Viscript",
 ]
 date = "2017-08-15"
-categories = [
-    "Skywire",
-]
 image = "img/old-messenger.png"
 aliases = [
 	"/ko/skywire/skywire-and-viscript/"

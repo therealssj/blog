@@ -3,12 +3,11 @@ title = "Skycoin就是下一代密码货币"
 tags = [
     "Decentralization",
     "Ideology",
+    "Statement",
+    "Skycoin",
 ]
 bounty = 8
 date = "2017-09-24"
-categories = [
-    "Statement",
-]
 aliases = [
 	"/zh/statement/skycoin-next-generation/"
 ]

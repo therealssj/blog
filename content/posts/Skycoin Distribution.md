@@ -5,10 +5,6 @@ tags = [
     "Statement",
 ]
 date = "2017-07-25"
-categories = [
-    "Distribution",
-    "Statement",
-]
 aliases = [
 	"/statement/skycoin-distribution/"
 ]

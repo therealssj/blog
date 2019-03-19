@@ -1,14 +1,10 @@
 +++
 title = "Skycoin文摘：Skycoin的价值所在[信息图]"
 tags = [
-    "Skycoin Digest",
     "Infographics",
 ]
 bounty = 4
 date = "2018-02-03"
-categories = [
-    "Infographics",
-]
 image = "img/Skycoin-Cryptocurrency-Values.jpg"
 aliases = [
 	"/zh/infographics/skycoin-cryptocurrency-values/"

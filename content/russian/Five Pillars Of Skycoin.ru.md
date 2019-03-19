@@ -5,9 +5,6 @@ tags = [
 ]
 bounty = 5
 date = "2017-09-27"
-categories = [
-    "Statement",
-]
 aliases = [
 	"/ru/statement/five-pillars-of-skycoin/"
 ]
@@ -34,7 +31,7 @@ aliases = [
 монеты за передачу трафика/предоставление пропускной способности. Это напоминает
 Тор или BitTorrent, только вам платят за работу узла.
 
-(3) [Skyledger](https://www.skyledger.net), платформа, представляющая
+(3) [Fiber](https://www.skycoin.net/fiber/), платформа, представляющая
 собой нашу версию стандарта ERC20 от Ethereum, но лучше:
 
 - Мы даем отдельный блокчейн каждой монете и платформа работает поверх

@@ -4,10 +4,6 @@ tags = [
     "Skywire",
 ]
 date = "2017-08-30"
-categories = [
-    "Skywire",
-    "Statement",
-]
 aliases = [
 	"/ko/statement/skycoin-vs-skywire/"
 ]

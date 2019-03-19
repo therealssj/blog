@@ -2,15 +2,10 @@
 title = "비트코인이 있다고 생각하는 곳으로 나아가기"
 tags = [
     "Decentralization",
-    "Bitcoin",
-    "Transaction Malleability",
     "Consensus",
 ]
 bounty = 4
 date = "2017-10-03"
-categories = [
-    "Statement",
-]
 aliases = [
 	"/ko/statement/getting-to-where-we-think-bitcoin-should-be/"
 ]

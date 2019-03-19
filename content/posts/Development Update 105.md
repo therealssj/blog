@@ -4,10 +4,6 @@ tags = [
     "Development",
 ]
 date = "2016-09-01"
-categories = [
-    "Development Updates",
-]
-description = "Release notes highlighting the current development behind Skycoin."
 aliases = [
 	"/development-updates/development-update-105/"
 ]
@@ -63,7 +59,7 @@ I am having trouble explaining what we are doing or why we are doing it.
 
 ##### The coin is only a small portion of the project.
 
-- Next generation networking (new networking protocol to enable mesh networking, new address space, source routing, basicly a new internet from scratch). Default link level encryption and end-to-end encryption. IP addresses replaced by public keys. Source routed. Codress messaging (the destination and source of communications are not revealed). Payments to nodes from bandwidth consumers, to bandwidth producers. I call this "meshnet" because that is what it is used for, but it is actually a completely new type of networking.
+- Next generation networking (new networking protocol to enable mesh networking, new address space, source routing, basicly a new internet from scratch). Default link level encryption and end-to-end encryption. IP addresses replaced by public keys. Source routed. Codress messaging (the destination and source of communications are not revealed). Payments to nodes from bandwidth consumers, to bandwidth producers. I call this "Skywire" because that is what it is used for, but it is actually a completely new type of networking.
 - A solid crypto library https://godoc.org/github.com/skycoin/skycoin/src/cipher
 - Prototypes of content addressable storage and peer-to-peer object replication protocols for social media, blockchain, file sharing and next generation internet
 - A new scripting language for blockchain applications. That is flexible enough to replace SQL for ERP systems and which has applications in IoT.

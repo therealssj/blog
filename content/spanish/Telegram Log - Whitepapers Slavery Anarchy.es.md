@@ -2,13 +2,9 @@
 title = "Registro de Telegram - Documentos Técnicos, Esclavitud y Anarquía"
 tags = [
     "Ask the Developers",
-
 ]
 bounty = 10
 date = "2017-09-18"
-categories = [
-    "Ask the Developers",
-]
 aliases = [
 	"/es/ask-the-developers/telegram-log-whitepapers-slavery-anarchy/"
 ]

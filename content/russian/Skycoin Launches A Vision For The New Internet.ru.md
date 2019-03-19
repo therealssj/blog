@@ -4,9 +4,6 @@ tags = [
     "Statement",
 ]
 date = "2017-07-24"
-categories = [
-    "Statement",
-]
 aliases = [
 	"/ru/statement/skycoin-launches-a-vision-for-the-new-internet/"
 ]

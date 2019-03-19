@@ -7,9 +7,6 @@ tags = [
 ]
 bounty = 8
 date = "2017-10-07"
-categories = [
-    "Statement",
-]
 aliases = [
 	"/statement/can-skycoin-be-51-attacked/"
 ]

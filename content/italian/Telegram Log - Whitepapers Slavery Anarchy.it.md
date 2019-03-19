@@ -5,9 +5,6 @@ tags = [
 ]
 bounty = 10
 date = "2017-09-18"
-categories = [
-    "Ask the Developers",
-]
 aliases = [
 	"/it/ask-the-developers/telegram-log-whitepapers-slavery-anarchy/"
 ]

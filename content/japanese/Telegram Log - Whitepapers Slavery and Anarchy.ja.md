@@ -2,13 +2,9 @@
 title = "Telegramログ - ホワイトペーパー、隷属、無政府主義"
 tags = [
     "Ask the Developers",
-
 ]
 bounty = 20
 date = "2017-09-18"
-categories = [
-    "Ask the Developers",
-]
 aliases = [
 	"/ja/ask-the-developers/telegram-log-whitepapers-slavery-anarchy/"
 ]
@@ -383,7 +379,7 @@ Skycoinプロジェクトに私はとても期待しています。
 
 だからこそ、デベロッパーがどういう人たちなのか、どういう価値観を持っているのか知りたいのです。
 
-私がただSkycoinを所有するのか、それともSkyledgerのノードにも参加するのか。デベロッパーへの信頼が決め手になります。
+私がただSkycoinを所有するのか、それともFiberのノードにも参加するのか。デベロッパーへの信頼が決め手になります。
 
 ただ、開発記録を調べればプロジェクトが信頼できるかどうかの判断は可能であるという立場も、理解しています。
 

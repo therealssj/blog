@@ -2,15 +2,10 @@
 title = "Arrivare a dove pensiamo che Bitcoin dovrebbe essere"
 tags = [
     "Decentralization",
-    "Bitcoin",
-    "Transaction Malleability",
     "Consensus",
 ]
 bounty = 4
 date = "2017-10-03"
-categories = [
-    "Statement",
-]
 aliases = [
 	"/it/statement/getting-to-where-we-think-bitcoin-should-be/"
 ]

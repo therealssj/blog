@@ -2,14 +2,9 @@
 title = "Tutorial de CX: Uso de Affordances para construir una pequeña aventura basada en texto"
 tags = [
     "CX",
-    "CX Tutorials",
-    "Affordances"
 ]
 bounty = 5
 date = "2017-09-20"
-categories = [
-    "Tutorials",
-]
 aliases = [
 	"/es/cx/cx-tutorial-using-affordances-to-build-an-evolutionary-algorithm/"
 ]

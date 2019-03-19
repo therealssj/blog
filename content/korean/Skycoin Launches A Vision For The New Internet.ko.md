@@ -5,9 +5,6 @@ tags = [
 ]
 bounty = 4
 date = "2017-07-24"
-categories = [
-    "Statement",
-]
 aliases = [
 	"/ko/statement/skycoin-launches-a-vision-for-the-new-internet/"
 ]

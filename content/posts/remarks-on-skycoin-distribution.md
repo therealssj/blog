@@ -6,9 +6,6 @@ tags = [
 ]
 bounty = 2
 date = "2017-08-09"
-categories = [
-    "Ask the Developers",
-]
 aliases = [
 	"/ask-the-developers/remarks-on-skycoin-distribution/"
 ]

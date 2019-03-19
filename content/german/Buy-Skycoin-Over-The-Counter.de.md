@@ -1,17 +1,11 @@
 +++
 title = "Kaufe Skycoin direkt [INFOGRAPHIC]"
 tags = [
-    "OTC",
     "Buy Skycoin",
     "Infographics",
-    "Infografik",
-    "Skycoins kaufen",
 ]
 bounty = 4
 date = "2018-09-14"
-categories = [
-    "Infographics",
-]
 image = "img/Buy-Skycoin-Over-The-Counter.jpg"
 aliases = [
 	"/de/infographics/buy-skycoin-over-the-counter/"

@@ -1,15 +1,11 @@
 +++
 title = "Obelisk: 스카이코인 합의 알고리즘 | 정보 페이지"
 tags = [
-    "Overview",
     "Consensus",
     "Obelisk",
 ]
 bounty = 10
 date = "2017-09-09"
-categories = [
-    "Overview",
-]
 author = "johnstuartmill"
 image = "img/obelisk-the-skycoin-consensus-algorithm.png"
 aliases = [

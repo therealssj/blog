@@ -4,9 +4,6 @@ tags = [
     "Statement",
 ]
 date = "2018-01-03"
-categories = [
-    "Statement",
-]
 aliases = [
 	"/statement/how-to-secure-your-skycoin-wallet/"
 ]

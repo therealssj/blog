@@ -1,9 +1,10 @@
 +++
 title = "The New Skycoin Website and Whitepaper"
-tags = [ "Announcements", ]
+tags = [
+	"Announcements",
+]
 bounty = 0
 date = "2018-04-06"
-categories = [ "Statement", ]
 image = "img/skycoin-new-website-whitepaper.png"
 aliases = [
 	"/statement/the-new-skycoin-website-and-whitepaper/"

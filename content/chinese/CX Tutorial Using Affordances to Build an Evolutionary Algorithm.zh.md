@@ -2,14 +2,10 @@
 title = "CX教程：使用可供性建立一个小型文字冒险游戏"
 tags = [
     "CX",
-    "CX Tutorials",
-    "Affordances"
+    "Tutorials",
 ]
 bounty = 5
 date = "2017-09-20"
-categories = [
-    "Tutorials",
-]
 aliases = [
 	"/zh/cx/cx-tutorial-using-affordances-to-build-an-evolutionary-algorithm/"
 ]

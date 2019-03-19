@@ -1,15 +1,11 @@
 +++
 title = "Buy Skycoin Over The Counter [INFOGRAPHIC]"
 tags = [
-    "OTC",
     "Buy Skycoin",
     "Infographics",
 ]
 bounty = 4
 date = "2018-09-14"
-categories = [
-    "Infographics",
-]
 image = "img/Buy-Skycoin-Over-The-Counter.jpg"
 aliases = [
 	"/infographics/buy-skycoin-over-the-counter/"

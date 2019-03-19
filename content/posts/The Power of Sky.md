@@ -6,9 +6,6 @@ tags = [
 ]
 bounty = 0
 date = "2018-01-08"
-categories = [
-    "Guest Post",
-]
 aliases = [
 	"/guest-post/the-power-of-sky/"
 ]

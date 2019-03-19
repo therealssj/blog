@@ -5,9 +5,6 @@ tags = [
 ]
 bounty = 5
 date = "2017-09-27"
-categories = [
-    "Statement",
-]
 aliases = [
 	"/fr/statement/five-pillars-of-skycoin/"
 ]
@@ -30,7 +27,7 @@ Les cinq piliers du projet Skycoin sont :
 (2) [Skywire](/tags/skywire/), un réseau de maille où vous pouvez être rémunéré en crypto-monnaie pour transmettre le trafic / bande passante.
 Ce principe est similaire à Tor ou à BitTorrent sauf que vous serez payé pour faire fonctionner un nœud.
 
-(3) [Skyledger](https://www.skyledger.net), une plateforme qui représente notre vision de l'ERC20 d'Ethereum mais bien meilleure :
+(3) [Fiber](https://www.skycoin.net/fiber/), une plateforme qui représente notre vision de l'ERC20 d'Ethereum mais bien meilleure :
 
  - Nous donnons à chaque crypto-monnaie leur propre chaîne de blocs ainsi que la plateforme fonctionnant au-dessus de l'infrastructure de Skywire et nous recevons simplement une commission en contrepartie.
  - Nous avons un language de programmation ([CX](/overview/cx-overview/)),

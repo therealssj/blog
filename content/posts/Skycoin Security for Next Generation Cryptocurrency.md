@@ -6,9 +6,6 @@ tags = [
 ]
 bounty = 8
 date = "2017-12-13"
-categories = [
-    "Statement",
-]
 aliases = [
 	"/statement/skycoin-security-for-next-generation-cryptocurrency/"
 ]

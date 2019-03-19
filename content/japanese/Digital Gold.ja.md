@@ -5,9 +5,6 @@ tags = [
 ]
 bounty = 5
 date = "2017-08-14"
-categories = [
-	"Statement",
-]
 aliases = [
 	"/ja/statement/digital-gold/"
 ]

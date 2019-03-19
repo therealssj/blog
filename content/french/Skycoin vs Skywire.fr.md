@@ -1,13 +1,10 @@
 +++
 title = "Skycoin vs Skywire"
 tags = [
-  "Skywire",
+	"Skywire",
+	"Skycoin",
 ]
 date = "2017-08-30"
-categories = [
-  "Skywire",
-  "Statement",
-]
 aliases = [
 	"/fr/statement/skycoin-vs-skywire/"
 ]

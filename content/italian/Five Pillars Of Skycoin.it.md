@@ -5,9 +5,6 @@ tags = [
 ]
 bounty = 5
 date = "2017-09-27"
-categories = [
-    "Statement",
-]
 aliases = [
 	"/it/statement/five-pillars-of-skycoin/"
 ]
@@ -33,7 +30,7 @@ I cinque pilastri del progetto Skycoin sono:
    traffico/larghezza di banda. Questo è simile a Tor o BitTorrent,
    a differenza del fatto che verrai pagato per eseguire un nodo.
 
-(3) [Skyledger](https://www.skyledger.net), una piattaforma che è la nostra versione del
+(3) [Fiber](https://www.skycoin.net/fiber/), una piattaforma che è la nostra versione del
    ERC20 di Ethereum, ma migliore:
 
  - Diamo ad ogni valuta la propria catena di blocchi, la piattaforma gira sull'infrastruttura

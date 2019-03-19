@@ -2,14 +2,10 @@
 title = "Solar Bankers - пример компании, использующей революционный блокчейн Skycoin"
 tags = [
     "Statement",
-    "Skyledger",
+    "Fiber",
 ]
 bounty = 3
 date = "2017-12-20"
-categories = [
-    "Statement",
-    "Skyledger",
-]
 aliases = [
 	"/ru/statement/solar-bankers-is-one-example-of-a-company-adopting-the-revolutionary-skycoin-blockchain/"
 ]

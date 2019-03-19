@@ -2,19 +2,11 @@
 title = "Stato attuale del mercato Crypto e Aggiornamenti sullo Sviluppo"
 tags = [
     "Development",
-    "Wallet Development",
-    "CoinHours",
     "CX",
-    "Roadmap",
     "Statement",
-    "Bitcoin",
 ]
 bounty = 15
 date = "2017-10-14"
-categories = [
-    "Statement",
-    "Development Updates",
-]
 aliases = [
 	"/it/statement/state-of-the-crypto-market-development-updates/"
 ]
@@ -451,7 +443,7 @@ Le monete sono utilizzate per le spese di transazione in Skycoin e saranno utili
 risorse di rete su Skywire.
 
 Le monete possono essere utilizzate anche per l'assegnazione di distribuzioni
-risorse di calcolo, spazio di archiviazione o larghezza di banda su SkyLedger e qualsiasi lato Skycoin
+risorse di calcolo, spazio di archiviazione o larghezza di banda su Fiber e qualsiasi lato Skycoin
 cambia con il linguaggio di scripting CX incorporato.
 
 Le future versioni del wallet aggiungeranno un'API e un'interfaccia utente per specificare o
@@ -474,7 +466,7 @@ ZeroCoin, eliminando il requisito del molto complicato sistema a prova di conosc
 
 Attualmente stiamo progettando una transazione multi-firme a 2 fattori con hard-coding
 digitale con blocchi di tempo relativi per i Skycoin. Questo nuovo tipo di transazione
-abiliterà il supporto per DEX e atomic swap su Skycoin e monete Skyledger.
+abiliterà il supporto per DEX e atomic swap su Skycoin e monete Fiber.
 
 Stiamo anche valutando le proposte per l'introduzione di un terzo tipo di transazione per
 scambi atomici tra blockchains. Tuttavia, crediamo che gli scambi atomici

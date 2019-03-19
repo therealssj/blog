@@ -6,9 +6,6 @@ tags = [
     "Skywire",
 ]
 date = "2017-10-26"
-categories = [
-    "Statement",
-]
 bounty = 20
 aliases = [
 	"/ru/statement/obelisk-consensus-algorithm-design-motivations/"

@@ -4,9 +4,6 @@ tags = [
     "Ask the Developers",
 ]
 date = "2017-09-05"
-categories = [
-    "Ask the Developers",
-]
 aliases = [
 	"/ko/ask-the-developers/people-want-shitcoins/"
 ]

@@ -4,9 +4,6 @@ tags = [
     "Ask the Developers",
 ]
 date = "2017-09-05"
-categories = [
-    "Ask the Developers",
-]
 bounty = 3
 aliases = [
 	"/it/ask-the-developers/people-want-shitcoins/"
@@ -49,7 +46,7 @@ E così Skycoin sta facendo un buon lavoro sulla meshnet, sull'hardware e le app
 
 Ma anche la nostra piattaforma si sta sviluppando molto bene. Le aziende ci
 stanno dicendo "perché dovremmo usare Ethereum e mettere i nostri dati su una
-catena condivisa con 500.000 shitcoin, quando Skyledger darà alla nostra azienda
+catena condivisa con 500.000 shitcoin, quando Fiber darà alla nostra azienda
 la NOSTRA blockchain". Che è chiaramente una cosa superiore.
 
 Nessuno sulla Terra cercherebbe di mettere ogni dato della propria azienda sullo

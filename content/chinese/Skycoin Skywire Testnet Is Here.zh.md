@@ -1,9 +1,10 @@
 +++
 title = "【重要发布】Skywire测试网上线倒计时，白名单竞选即将开始"
-tags = [ "Announcements", ]
+tags = [
+	"Announcements",
+]
 bounty = 0
 date = "2018-05-15"
-categories = [ "Statement", ]
 image = "img/skywire-testnet-launching-may-22.jpg"
 aliases = [
 	"/zh/statement/skycoin-skywire-testnet-is-here/"

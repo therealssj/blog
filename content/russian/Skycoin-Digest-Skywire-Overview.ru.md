@@ -1,15 +1,11 @@
 +++
 title = "Skycoin дайджест: Обзор Skywire [ИНФОГРАФИКА]"
 tags = [
-    "Skycoin Digest",
     "Infographics",
 ]
 bounty = 4
 date = "2018-03-12"
 
-categories = [
-    "Infographics",
-]
 image = "img/Skycoin-Digest-Skywire-Overview.jpg"
 aliases = [
 	"/ru/infographics/skycoin-digest-skywire-overview/"

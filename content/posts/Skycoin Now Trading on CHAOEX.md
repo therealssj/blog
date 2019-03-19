@@ -1,9 +1,10 @@
 +++
 title = "Skycoin Now Trading on CHAOEX!"
-tags = [ "Announcements", ]
+tags = [
+	"Announcements",
+]
 bounty = 0
 date = "2018-04-12"
-categories = [ "Statement", ]
 image = "img/skycoin-chaoex.jpg"
 aliases = [
 	"/statement/skycoin-now-trading-on-chaoex/"

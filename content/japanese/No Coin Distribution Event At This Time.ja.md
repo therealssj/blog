@@ -6,9 +6,6 @@ tags = [
 ]
 bounty = 2
 date = "2017-09-23"
-categories = [
-    "Statement",
-]
 aliases = [
 	"/ja/statement/no-coin-distribution-event-at-this-time/"
 ]

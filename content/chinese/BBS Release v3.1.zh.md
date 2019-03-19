@@ -1,14 +1,11 @@
 +++
 title = "Skycoin BBS v3.1终于发布了"
 tags = [
-    "Development",
+    "Development Updates",
     "BBS",
     "CXO",
 ]
 date = "2017-09-06"
-categories = [
-    "Development Updates",
-]
 aliases = [
 	"/zh/bbs/bbs-release-v3.1/"
 ]

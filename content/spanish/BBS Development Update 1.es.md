@@ -7,9 +7,6 @@ tags = [
 ]
 bounty = 3
 date = "2017-08-05"
-categories = [
-    "Development Updates",
-]
 description = "La primera actualización de desarrollo de Skycoin BBS."
 aliases = [
 	"/es/bbs/bbs-development-update-1/"

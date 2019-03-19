@@ -1,9 +1,10 @@
 +++
 title = "Skycoin Now Trading on Coinspot!"
-tags = [ "Announcements", ]
+tags = [
+	"Announcements",
+]
 bounty = 0
 date = "2018-08-22"
-categories = [ "Statement", ]
 image = "img/Coinspotlisting.gif"
 aliases = [
 	"/statement/skycoin-now-trading-on-coinspot/"

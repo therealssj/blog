@@ -3,14 +3,9 @@ draft = true
 title = "Quorum Proof of Stake"
 tags = [
     "Decentralization",
+    "Consensus",
 ]
 date = "2014-05-23"
-categories = [
-    "Ideology",
-    "Information",
-    "Quorum Proof of Stake",
-]
-description = "We actually have two layers of proof-of-stake. There is the blockchain consensus, then within the blockchain we have coinhours, which are burned as fees. That is a form of proof-of-stake.  A forked blockchain with transactions reverted will have a lower total coinhour burn."
 +++
 
 # Comment:

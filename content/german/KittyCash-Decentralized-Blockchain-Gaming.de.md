@@ -6,9 +6,6 @@ tags = [
 ]
 bounty = 4
 date = "2018-09-14"
-categories = [
-    "Infographics",
-]
 image = "img/KittyCash-Decentralized-Blockchain-Gaming.jpg"
 aliases = [
 	"/de/infographics/kittycash-decentralized-blockchain-gaming/"

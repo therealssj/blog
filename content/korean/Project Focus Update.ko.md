@@ -3,13 +3,9 @@ title = "프로젝트 주요 업데이트"
 tags = [
     "Development",
     "Statement",
-    "Roadmap",
 ]
 bounty = 12
 date = "2017-10-04"
-categories = [
-    "Statement",
-]
 aliases = [
 	"/ko/statement/project-focus-update"
 ]

@@ -2,13 +2,9 @@
 title = "It's Time for a New Internet"
 tags = [
     "Skywire",
-    "Net Neutrality",
 ]
 bounty = 0
 date = "2018-05-21"
-categories = [
-    "Guest Post",
-]
 aliases = [
 	"/guest-post/its-time-for-a-new-internet/"
 ]

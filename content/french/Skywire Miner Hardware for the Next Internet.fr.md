@@ -2,14 +2,9 @@
 title = "Mineur Skywire: Matériel pour l'internet de demain"
 tags = [
     "Skywire",
-    "Skycoin Mining",
-    "Meshnet",
+    "Skyminer",
 ]
 date = "2017-08-11"
-categories = [
-    "Skywire",
-    "Statement",
-]
 aliases = [
 	"/fr/statement/skywire-miner-hardware-for-the-next-internet/"
 ]

@@ -1,15 +1,10 @@
 +++
 title = "Skycoin/CXO vs FileCoin/IPFS"
 tags = [
-    "Спроси разработчиков",
     "CXO",
     "Skywire",
-    "IPFS",
 ]
 date = "2017-08-09"
-categories = [
-    "Спроси разработчиков",
-]
 aliases = [
 	"/ru/ask-the-developers/skycoin-vs-ipfs/"
 ]

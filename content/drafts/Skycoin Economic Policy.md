@@ -3,14 +3,9 @@ draft = true
 title = "Skycoin Economic Policy"
 tags = [
     "Decentralization",
+    "Distribution",
 ]
 date = "2014-05-15"
-categories = [
-    "Ideology",
-    "Information",
-    "Economic Policy",
-]
-description = "We have been talking to a large Bitcoin market marker about how we can prevent a repeat of the Auroacoin crash and deter speculators."
 +++
 
 We have been talking to a large Bitcoin market marker about how we can prevent a repeat of the Auroacoin crash and deter speculators.

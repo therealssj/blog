@@ -1,9 +1,11 @@
 +++
 title = "Skyminer Troubleshooting FAQs"
-tags = [ "Announcements", ]
+tags = [
+	"Skywire",
+	"Skyminer",
+]
 bounty = 0
 date = "2018-04-08"
-categories = [ "Statement", ]
 image = "img/skyminer-the-new-internet-is-here.jpg"
 aliases = [
 	"/statement/skyminer-troubleshooting-faqs/"

@@ -2,13 +2,10 @@
 title = "How to Buy Skycoin [INFOGRAPHIC]"
 tags = [
     "Buy Skycoin",
-    "Infographics",
+	"Infographics",
 ]
 bounty = 4
 date = "2018-08-26"
-categories = [
-    "Infographics",
-]
 image = "img/How-to-Buy-Skycoin.jpg"
 aliases = [
 	"/infographics/how-to-buy-skycoin/"
@@ -17,17 +14,13 @@ aliases = [
 
 ## There are severel places to purchase Skycoin. Here are a few...
 
-* Binance
+* [Binance](https://www.binance.com)
 > Buy Skycoin from one the best exchanges around!
 
-* Over the Counter
+* [Over the Counter](https://exchange.skycoin.net)
 > Instant purchase from our website
 
-* Cryptopia
-> Major exchange and trading platform
+* [LBank](https://www.lbank.info)
 
 * 9Coin
 > Digital Asset Exchange
-
-* C2CX
-> Support trading in mainstream and unique, innovative cryptos

@@ -7,9 +7,6 @@ tags = [
 ]
 bounty = 12
 date = "2017-10-04"
-categories = [
-    "Statement",
-]
 aliases = [
 	"/zh/statement/project-focus-update/"
 ]

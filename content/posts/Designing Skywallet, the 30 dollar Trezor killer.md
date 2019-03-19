@@ -1,9 +1,11 @@
 +++
 title = "Designing Skywallet, the $30 Trezor killer"
-tags = [ "Announcements", ]
+tags = [
+	"Announcements",
+	"Skywallet",
+]
 bounty = 0
 date = "2018-12-04"
-categories = [ "Statement", ]
 image = "img/Skycoin-Wallet.jpg"
 aliases = [
 	"/statement/designing-skywallet-the-30-dollar-trezor-killer/"

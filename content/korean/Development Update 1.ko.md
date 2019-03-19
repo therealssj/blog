@@ -2,12 +2,8 @@
 title = "개발 업데이트 #1"
 tags = [
     "Development",
-    "Wallet Development",
 ]
 date = "2014-01-01"
-categories = [
-    "Development Updates",
-]
 description = "스카이코인 관련 최신 개발동향 소개"
 aliases = [
 	"/ko/development-updates/development-update-1/"

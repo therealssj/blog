@@ -2,14 +2,10 @@
 title = "Solar Bankers è un esempio di Azienda che adotta la rivoluzionaria Skycoin Blockchain"
 tags = [
     "Statement",
-    "Skyledger",
+    "Fiber",
 ]
 bounty = 3
 date = "2017-12-18"
-categories = [
-    "Statement",
-    "Skyledger",
-]
 aliases = [
 	"/it/statement/solar-bankers-is-one-example-of-a-company-adopting-the-revolutionary-skycoin-blockchain/"
 ]
@@ -17,7 +13,7 @@ aliases = [
 
 Migliore velocità, migliore sicurezza, migliore privacy: Skycoin offre tutti questi vantaggi attraverso la sua piattaforma open source. La tecnologia innovativa che alimenta Skycoin è a disposizione di tutti. Oggi, sempre più aziende stanno notando i vantaggi di Skycoin e lo utilizzano per costruire le proprie attività.
 
-Un esempio è [Solar Bankers] (https://solarbankers.com/), una nuova società energetica rivoluzionaria. Solar Bankers sta usando il potere della blockchain per decentralizzare il settore energetico. Con Solar Bankers, gli utenti possono generare elettricità solare nelle loro case tramite dispositivi solari brevettati ad alta tecnologia. Una volta raccolta l'energia, gli utenti possono scambiarla direttamente con i propri vicini utilizzando SunChain e la sua valuta, SunCoin.
+Un esempio è [Solar Bankers](https://solarbankers.com/), una nuova società energetica rivoluzionaria. Solar Bankers sta usando il potere della blockchain per decentralizzare il settore energetico. Con Solar Bankers, gli utenti possono generare elettricità solare nelle loro case tramite dispositivi solari brevettati ad alta tecnologia. Una volta raccolta l'energia, gli utenti possono scambiarla direttamente con i propri vicini utilizzando SunChain e la sua valuta, SunCoin.
 
 I prezzi SunCoin sono stabiliti tra domanda e offerta del mercato. Con il trading energetico peer-to-peer decentralizzato non è necessario affidarsi ad un'azienda di servizi pubblici. È un modello di business unico nel suo genere, rispettoso dell'ambiente, redditizio e potenziabile, ed è tutto basato sulla piattaforma Skycoin.
 

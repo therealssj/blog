@@ -1,12 +1,7 @@
 +++
 title = "天空币奖励机制1"
-tags = [
-    "Bounty Program",
-]
+tags = []
 date = "2017-08-27"
-categories = [
-    "Statement",
-]
 aliases = [
 	"/zh/statement/skycoin-bounty-program-1/"
 ]

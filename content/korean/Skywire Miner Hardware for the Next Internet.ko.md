@@ -2,14 +2,9 @@
 title = "스카이와이어 채굴기 : 차세대 인터넷을 위한 하드웨어"
 tags = [
     "Skywire",
-    "Skycoin Mining",
-    "Meshnet",
+    "Skyminer",
 ]
 date = "2017-08-11"
-categories = [
-    "Skywire",
-    "Statement",
-]
 aliases = [
 	"/ko/statement/skywire-miner-hardware-for-the-next-internet/"
 ]

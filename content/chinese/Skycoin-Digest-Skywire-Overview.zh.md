@@ -1,17 +1,12 @@
 +++
 title = "Skycoin文摘：Skywire概述（信息图）"
 tags = [
-    "Skycoin Digest",
     "Infographics",
     "Skyminer",
+    "Skywire",
 ]
 bounty = 4
 date = "2018-03-12"
-
-categories = [
-    "Infographics",
-    "Skyminer",
-]
 image = "img/Skycoin-Digest-Skywire-Overview.jpg"
 aliases = [
 	"/zh/infographics/skycoin-digest-skywire-overview/"

@@ -2,15 +2,10 @@
 title = "Dahin kommen, wo Bitcoin längst sein sollte"
 tags = [
     "Decentralization",
-    "Bitcoin",
-    "Transaction Malleability",
     "Consensus",
 ]
 bounty = 4
 date = "2017-10-03"
-categories = [
-    "Statement",
-]
 aliases = [
 	"/de/statement/getting-to-where-we-think-bitcoin-should-be/"
 ]

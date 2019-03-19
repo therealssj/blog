@@ -3,13 +3,9 @@ title = "Wie man Skycoin kauft [INFOGRAPHIC]"
 tags = [
     "Buy Skycoin",
     "Infographics",
-    "Skycoin kaufen",
 ]
 bounty = 4
 date = "2018-08-26"
-categories = [
-    "Infographics",
-]
 image = "img/How-to-Buy-Skycoin.jpg"
 aliases = [
 	"/de/infographics/how-to-buy-skycoin/"

@@ -1,9 +1,11 @@
 +++
 title = "April Ecosystem Development Update"
-tags = [ "Announcements", ]
+tags = [
+	"Announcements",
+	"Development",
+]
 bounty = 0
 date = "2018-05-16"
-categories = [ "Statement", ]
 image = "img/skycoin-hardware-wallet-prototype.jpg"
 aliases = [
 	"/statement/april-ecosystem-development-update/"

@@ -2,14 +2,9 @@
 title = "Skywire Miner: Hardware for the Next Internet"
 tags = [
     "Skywire",
-    "Skycoin Mining",
-    "Meshnet",
+    "Skyminer",
 ]
 date = "2017-08-11"
-categories = [
-    "Skywire",
-    "Statement",
-]
 bounty = 4
 aliases = [
 	"/statement/skywire-miner-hardware-for-the-next-internet/"

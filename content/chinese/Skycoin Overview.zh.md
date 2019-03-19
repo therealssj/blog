@@ -4,9 +4,6 @@ tags = [
     "Skycoin",
 ]
 date = "2017-08-26"
-categories = [
-    "Overview",
-]
 aliases = [
 	"/zh/overview/skycoin-overview/"
 ]

@@ -2,14 +2,10 @@
 title = "Skywire: una connessione Internet gratuita e aperta"
 tags = [
     "Skywire",
-    "Skycoin Mining",
+    "Skyminer",
     "Statement",
 ]
 date = "2017-07-27"
-categories = [
-    "Skywire",
-    "Statement",
-]
 bounty = 5
 aliases = [
 	"/it/statement/skywire-a-free-and-open-internet/"

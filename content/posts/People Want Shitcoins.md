@@ -4,9 +4,6 @@ tags = [
     "Ask the Developers",
 ]
 date = "2017-09-05"
-categories = [
-    "Ask the Developers",
-]
 bounty = 3
 aliases = [
 	"/ask-the-developers/people-want-shitcoins/"
@@ -48,7 +45,7 @@ And so Skycoin is doing well on the meshnet and hardware and applications.
 
 But our platform is also developing very well. Companies are telling us
 "why would we use Ethereum and put our data on a chain shared with
-500,000 shitcoins, when Skyledger gives our company OUR OWN blockchain".
+500,000 shitcoins, when Fiber gives our company OUR OWN blockchain".
 Which is clearly superior.
 
 No ones tries to put every single company on Earths data into the same

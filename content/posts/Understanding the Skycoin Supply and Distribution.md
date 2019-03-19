@@ -6,9 +6,6 @@ tags = [
 ]
 bounty = 0
 date = "2018-01-25"
-categories = [
-    "Statement",
-]
 aliases = [
 	"/statement/understanding-the-skycoin-supply-and-distribution/",
 	"/statement/understanding-the-skycoin-supply-distribution/"

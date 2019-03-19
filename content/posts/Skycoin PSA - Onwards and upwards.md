@@ -1,9 +1,10 @@
 +++
 title = "Skycoin PSA: Onwards and upwards Skyfleet!"
-tags = [ "Announcements", ]
+tags = [
+	"Announcements",
+]
 bounty = 0
 date = "2018-03-02"
-categories = [ "Statement", ]
 aliases = [
 	"/statement/skycoin-psa-onwards-and-upwards/"
 ]
@@ -53,7 +54,7 @@ Of course, none of this can be achieved without you, the Skyfleet community. We 
 
 
 
-We strongly believe that digital currency should empower all users to trade in a peer-to-peer fashion without centralized powers or mining consortiums. We believe the internet should be controlled by the people, and provide equal access and net-neutral protections to all users. We believe the real future of blockchain is SkyLedger with our revolutionary obelisk consensus algorithm that eliminates fees, centralization, and waste.
+We strongly believe that digital currency should empower all users to trade in a peer-to-peer fashion without centralized powers or mining consortiums. We believe the internet should be controlled by the people, and provide equal access and net-neutral protections to all users. We believe the real future of blockchain is Fiber with our revolutionary obelisk consensus algorithm that eliminates fees, centralization, and waste.
 
 
 

@@ -6,9 +6,6 @@ tags = [
     "CXO",
 ]
 date = "2017-09-06"
-categories = [
-    "Development Updates",
-]
 aliases = [
 	"/de/bbs/bbs-release-v3.1/"
 ]

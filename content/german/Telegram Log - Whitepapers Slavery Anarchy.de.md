@@ -4,9 +4,6 @@ tags = [
     "Ask the Developers",
 ]
 date = "2017-09-18"
-categories = [
-    "Ask the Developers",
-]
 aliases = [
 	"/de/ask-the-developers/telegram-log-whitepapers-slavery-anarchy/"
 ]

@@ -1,14 +1,10 @@
 +++
 title = "스카이코인 다이제스트 : 스카이코인의 5가지 주요 프로젝트 [인포그래픽스]"
 tags = [
-    "Skycoin Digest",
     "Infographics",
 ]
 bounty = 4
 date = "2018-02-08"
-categories = [
-    "Infographics",
-]
 image = "img/The-Five-Pillars-of-the-Skycoin-Cryptocurrency.jpg"
 aliases = [
 	"/ko/infographics/the-five-pillars-of-the-skycoin-cryptocurrency/"

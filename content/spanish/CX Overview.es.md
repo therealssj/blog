@@ -5,9 +5,6 @@ tags = [
 ]
 bounty = 20
 date = "2017-09-06"
-categories = [
-    "Overview",
-]
 aliases = [
 	"/es/overview/cx-overview/"
 ]

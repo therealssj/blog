@@ -2,19 +2,11 @@
 title = "암호화 시장 및 개발 업데이트 동향"
 tags = [
     "Development",
-    "Wallet Development",
-    "CoinHours",
     "CX",
-    "Roadmap",
     "Statement",
-    "Bitcoin",
 ]
 bounty = 15
 date = "2017-10-14"
-categories = [
-    "Statement",
-    "Development Updates",
-]
 aliases = [
 	"/ko/statement/state-of-the-crypto-market-development-updates/"
 ]

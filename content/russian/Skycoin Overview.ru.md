@@ -2,11 +2,9 @@
 title = "Обзор Skycoin"
 tags = [
     "Skycoin",
+    "Statement",
 ]
 date = "2017-08-26"
-categories = [
-    "Обзор",
-]
 aliases = [
 	"/ru/overview/skycoin-overview/"
 ]

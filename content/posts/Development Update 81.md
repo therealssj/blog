@@ -2,14 +2,9 @@
 title = "Development Update #81"
 tags = [
     "Development",
-    "Skycoin Exchange",
-    "Meshnet",
+    "Skywire",
 ]
 date = "2015-09-10"
-categories = [
-    "Development Updates",
-]
-description = "Release notes highlighting the current development behind Skycoin."
 aliases = [
 	"/development-updates/development-update-81/"
 ]

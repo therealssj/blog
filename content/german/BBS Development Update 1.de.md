@@ -6,9 +6,6 @@ tags = [
     "CXO",
 ]
 date = "2017-08-05"
-categories = [
-    "Development Updates",
-]
 description = "Das erste Entwicklungsupdate für Skycoin BBS."
 aliases = [
 	"/de/bbs/bbs-development-update-1/"

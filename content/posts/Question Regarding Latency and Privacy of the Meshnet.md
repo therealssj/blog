@@ -3,15 +3,10 @@ title = "Question Regarding Latency and Privacy of the Meshnet"
 tags = [
     "Ask the Developers",
     "Skywire",
-    "Meshnet",
     "Privacy",
 ]
 bounty = 4
 date = "2017-08-18"
-categories = [
-    "Skywire",
-    "Ask the Developers",
-]
 aliases = [
 	"/ask-the-developers/question-regarding-latency-and-privacy-of-the-meshnet/"
 ]

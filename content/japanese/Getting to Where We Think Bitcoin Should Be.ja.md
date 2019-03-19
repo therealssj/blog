@@ -2,15 +2,10 @@
 title = "Bitcoinの構想を実現する"
 tags = [
     "Decentralization",
-    "Bitcoin",
-    "Transaction Malleability",
     "Consensus",
 ]
 bounty = 8
 date = "2017-10-03"
-categories = [
-    "Statement",
-]
 aliases = [
 	"/ja/statement/getting-to-where-we-think-bitcoin-should-be/"
 ]

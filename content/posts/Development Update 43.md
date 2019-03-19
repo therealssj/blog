@@ -3,14 +3,9 @@ title = "Development Update #43"
 tags = [
     "Development",
     "Consensus",
-    "Meshnet",
-    "Future Proofing",
+    "Skywire",
 ]
 date = "2014-12-09"
-categories = [
-    "Development Updates",
-]
-description = "Release notes highlighting the current development behind Skycoin."
 aliases = [
 	"/development-updates/development-update-43/"
 ]

@@ -3,13 +3,9 @@ title = "Aggiornamenti sul Project Focus"
 tags = [
     "Development",
     "Statement",
-    "Roadmap",
 ]
 bounty = 12
 date = "2017-10-04"
-categories = [
-    "Statement",
-]
 aliases = [
 	"/it/statement/project-focus-update/"
 ]

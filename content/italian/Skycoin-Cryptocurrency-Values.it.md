@@ -1,14 +1,10 @@
 +++
 title = "Riassunto Skycoin: Cosa stiamo cercando [INFOGRAFICA]"
 tags = [
-    "Skycoin Digest",
     "Infographics",
 ]
 bounty = 4
 date = "2018-02-03"
-categories = [
-    "Infographics",
-]
 image = "img/Skycoin-Cryptocurrency-Values.jpg"
 aliases = [
 	"/it/infographics/skycoin-cryptocurrency-values/"

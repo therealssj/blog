@@ -2,12 +2,8 @@
 title = "Ask the Developers #7"
 tags = [
     "Ask the Developers",
-    "P2P",
 ]
 date = "2014-05-07"
-categories = [
-    "Ask the Developers",
-]
 description = "A weekly session where users can comment or ask questions to the Skycoin Developers in order to gain a better insight and understanding into the Skycoin Project "
 aliases = [
 	"/ask-the-developers/ask-the-developers-7/"
@@ -61,7 +57,7 @@ Q: "How is it different from Bitcoin?" A: "No duplicate coinbase outputs", "No m
 The coin is more a series of mathematical properties and constraints that the implementation must obey.
 - The properties the consensus algorithm needed to have (constraints), imposed the consensus algorithm we developed
 - The requirement for bounded memory usage, imposed the transaction graph structure and way things were done differently than Bitcoin
-- The properties that the networking and communications between nodes (source independence, immunity to various attacks), imposed the "meshnet" (really an overlay network, that can be used to build meshnets, but has nothing to do with meshnets)
+- The properties that the networking and communications between nodes (source independence, immunity to various attacks), imposed the "Skywire" (really an overlay network, that can be used to build meshnets, but has nothing to do with meshnets)
 - The properties for minimizing damage during blockchain forks imposed the constraints of no signature malleability, no transaction malleability, no duplicate coinbase outputs and a functional/stateless UXTO state that did not depend on previous blocks or which block a transaction was included in. It is actually possible to do consensus over a partial ordering of transactions (directed bipartite graph). Technically do not even need a total ordering over the transactions (application to distributed database systems, because allows distributed writes without a central master or needing to lock).
 
 It is like having to invent calculus, so that you can solve a physics problem, then complaining it took so long. Some of the things are Urbit level and they do not even have names.

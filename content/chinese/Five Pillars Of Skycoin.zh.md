@@ -5,9 +5,6 @@ tags = [
 ]
 bounty = 5
 date = "2017-09-27"
-categories = [
-    "Statement",
-]
 aliases = [
 	"/zh/statement/five-pillars-of-skycoin/"
 ]
@@ -28,7 +25,7 @@ Skycoin项目的5大支柱：
 
 （2）[Skywire](/tags/skywire/)，网状网络，可以通过转发流量/带宽获得天空币. 这类似于 Tor 或者 BitTorrent网络，除了你需要为运行节点付费以外。
 
-（3）[Skyledger](https://www.skyledger.net),是一个我们自己版本的以太坊的ERC20 但是它是一个更好的平台：
+（3）[Fiber](https://www.skycoin.net/fiber/)是一个我们自己版本的以太坊的ERC20 但是它是一个更好的平台：
 
 - 我们给每个币自己的区块链，这个平台运行在Skywire基础设施之上，并从中收取费用
 - 我们有自己的编程语言([CX](/overview/cx-overview/)),不是“智能合约”(我们认为这东西这纯属扯淡).

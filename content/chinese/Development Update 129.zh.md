@@ -1,13 +1,9 @@
 +++
 title = "开发更新 #129"
 tags = [
-    "Development",
-]
-date = "2017-04-26"
-categories = [
     "Development Updates",
 ]
-description = "Release notes highlighting the current development behind Skycoin."
+date = "2017-04-26"
 aliases = [
 	"/zh/development-updates/development-update-129/"
 ]

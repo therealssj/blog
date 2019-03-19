@@ -4,9 +4,6 @@ tags = [
     "Statement",
 ]
 date = "2017-08-28"
-categories = [
-    "Statement",
-]
 aliases = [
 	"/zh/statement/skycoin-has-nothing-to-do-with-skynet/"
 ]

@@ -4,10 +4,6 @@ tags = [
     "Ask the Developers",
 ]
 date = "2017-08-01"
-categories = [
-    "Ask the Developers",
-    "Statement",
-]
 description = "스카이코인 AMA기록은 ark.io/slack/에서 확인할 수 있습니다.(2017-07-02일 부터)"
 aliases = [
 	"/ko/ask-the-developers/skycoin-ama-log-ark/"

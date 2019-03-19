@@ -3,12 +3,10 @@ title = " SKY的强大及对自由的捍卫 (V1.0.3) (Author: Mao 驴占坑) "
 tags = [
     "CXO",
     "Obelisk",
+    "Statement",
 ]
 bounty = 0
 date = "2018-01-08"
-categories = [
-    "Guest Post",
-]
 aliases = [
 	"/zh/guest-post/the-power-of-sky/"
 ]

@@ -3,13 +3,9 @@ title = "El Significado de Aether"
 tags = [
     "Decentralization",
     "CXO",
-    "Ideology",
 ]
 bounty = 5
 date = "2017-09-25"
-categories = [
-    "Statement",
-]
 aliases = [
 	"/es/statement/the-meaning-of-aether/"
 ]

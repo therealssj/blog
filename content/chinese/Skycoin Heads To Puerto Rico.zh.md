@@ -1,9 +1,10 @@
 +++
 title = "Skycoin下一站：波多黎各"
-tags = [ "Announcements", ]
+tags = [
+	"Announcements",
+]
 bounty = 0
 date = "2018-03-07"
-categories = [ "Statement", ]
 aliases = [
 	"/zh/statement/skycoin-heads-to-puerto-rico/"
 ]

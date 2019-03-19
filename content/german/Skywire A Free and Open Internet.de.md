@@ -2,14 +2,10 @@
 title = "Skywire: Ein freies und unzensiertes Internet"
 tags = [
     "Skywire",
-    "Skycoin Mining",
+    "Skyminer",
     "Statement",
 ]
 date = "2017-07-27"
-categories = [
-    "Skywire",
-    "Statement",
-]
 aliases = [
 	"/de/statement/skywire-a-free-and-open-internet/"
 ]

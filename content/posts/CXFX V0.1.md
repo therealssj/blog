@@ -1,9 +1,13 @@
 +++
 title = "Introducing CXFX: The CX Graphics Library"
-tags = [ "Announcements", "CX", "CXFX" ]
+tags = [
+	"Announcements",
+	"CX",
+	"CXFX",
+	"Development",
+]
 bounty = 0
 date = "2019-03-11"
-categories = [ "Development", "Statement" ]
 description = "Introducing CXFX, a graphics library for the CX programming"
 image = "img/Skycoin-CXFXv01.jpg"
 aliases = [

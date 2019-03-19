@@ -2,14 +2,10 @@
 title = "솔라 뱅커스는 스카이코인 블록체인의 혁신적인 기술을 채택한 회사의 한 예입니다."
 tags = [
     "Statement",
-    "Skyledger",
+    "Fiber",
 ]
 bounty = 3
 date = "2017-12-20"
-categories = [
-    "Statement",
-    "Skyledger",
-]
 aliases = [
 	"/ko/statement/solar-bankers-is-one-example-of-a-company-adopting-the-revolutionary-skycoin-blockchain/"
 ]

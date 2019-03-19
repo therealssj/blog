@@ -1,14 +1,10 @@
 +++
 title = "Skycoin文摘：Skycoin的五大支柱[信息图]"
 tags = [
-    "Skycoin Digest",
     "Infographics",
 ]
 bounty = 4
 date = "2018-02-08"
-categories = [
-    "Infographics",
-]
 image = "img/The-Five-Pillars-of-the-Skycoin-Cryptocurrency.jpg"
 aliases = [
 	"/zh/infographics/the-five-pillars-of-the-skycoin-cryptocurrency/"
@@ -26,9 +22,9 @@ Skycoin的五大支柱
 
 Skywire是一个网状网络，用户通过Skywire转发流量或分享频宽，可以赚取Skycoin。Skywire类似Tor或BitTorrent，但不同在于，如果你参与Skywire，你就可以获得报酬。
 
-## __3. SKYLEDGER__
+## __3. FIBER__
 
-类似以太坊ERC20平台，但SKYLEDGER对比以太坊ERC20平台就如2018 年的布加迪跑车对比1992年的铃木中古一样，虽然它们都是车。
+类似以太坊ERC20平台，但FIBER对比以太坊ERC20平台就如2018 年的布加迪跑车对比1992年的铃木中古一样，虽然它们都是车。
 
 
 ## __4. 去中心化的APP__

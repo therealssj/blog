@@ -2,21 +2,11 @@
 title = "Stand des Krypto-Markts und Entwicklungs-Updates"
 tags = [
     "Development",
-    "Wallet Development",
-    "CoinHours",
     "CX",
-    "Roadmap",
     "Statement",
-    "Bitcoin",
-    "Entwicklung",
-    "Wallet Entwicklung"
 ]
 bounty = 15
 date = "2017-10-14"
-categories = [
-    "Statement",
-    "Development Updates",
-]
 aliases = [
 	"/de/statement/state-of-the-crypto-market-development-updates/"
 ]
@@ -258,7 +248,7 @@ Wir arbeiten an einer Börse, die einen Marktpreis für den Austausch von Coin H
 
 Coin Hours werden als Transactionsgebühren in Skycoin verwendet und werden auch für die Netzwerk-Resourcen on Skywire verwendet.
 
-Coin Hours werden letztlich auch für die Zuweisung verteilter Rechenresourcen, Speicher oder Bandbreite auf SkyLedger und jede Skycoin-Anwendung mit eingebetteter CX Scripting Language verwendet werden.
+Coin Hours werden letztlich auch für die Zuweisung verteilter Rechenresourcen, Speicher oder Bandbreite auf Fiber und jede Skycoin-Anwendung mit eingebetteter CX Scripting Language verwendet werden.
 
 Die zukünftige Wallet Version wird eine API und ein UI umfassen, um die CoinHours in Transactionen zu spezifizieren und aufzuteilen.
 
@@ -268,7 +258,7 @@ Skycoin Coin Hours sind auch ein sehr wichtiger Teil für die Skycoin CoinJoin I
 
 ## Skycoin (DEX) Distributed Exchange Support
 
-Wir entwerfen gerade einen hartkodierten 2-Faktor-Mehrfach-Signatur-Transaktionstyp mit relativen Zeitschlössern für Skycoin. Dieser neue Transaktionstyp wird DEX ermöglichen und atomare Swaps zwischen Skycoin und allen Skyledger Coins unterstützen.
+Wir entwerfen gerade einen hartkodierten 2-Faktor-Mehrfach-Signatur-Transaktionstyp mit relativen Zeitschlössern für Skycoin. Dieser neue Transaktionstyp wird DEX ermöglichen und atomare Swaps zwischen Skycoin und allen Fiber Coins unterstützen.
 
 Wir evaluieren gerade auch Vorschläge, um einen dritten Transaktionstyp für atomare Swaps zwischen Blockchains einzuführen. Wie auch immer, wir glauben, dass atomare Swaps zwischen Blockchains noch nicht ausgereift sind und dass die 2-fach Signatur mit relativen Zeitschlössern der einfachste Weg ist, um dies zu implementieren.
 

@@ -5,10 +5,6 @@ tags = [
     "Statement",
 ]
 date = "2017-07-23"
-categories = [
-    "Distribution",
-    "Statement",
-]
 description = "Ивент по распространению Skycoin назначен на 8 августа, 2017"
 aliases = [
 	"/ru/statement/skycoin-distribution-event/"

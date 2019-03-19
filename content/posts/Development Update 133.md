@@ -2,13 +2,9 @@
 title = "Development Update #133"
 tags = [
     "Development",
-    "Skycoin Mining",
+    "Skyminer",
 ]
 date = "2017-06-13"
-categories = [
-    "Development Updates",
-]
-description = "Release notes highlighting the current development behind Skycoin."
 aliases = [
 	"/development-updates/development-update-133/"
 ]
@@ -89,7 +85,7 @@ Then building six 4 card (16 core, 8 GB of RAM) units for a test net for Skycoin
 
 Then we want to start shipping units (probably through third party) and have several hundred units distributed globally to act as the backbone of the network.
 
-## "Skycoin Mining"
+## "Skyminer"
 
 Skycoin does not have "mining" for block creation and there are no "miners" as far as the blockchain goes. However, Skycoin has a surrogate and substitute for mining, where people can get coins and this is Skywire.
 

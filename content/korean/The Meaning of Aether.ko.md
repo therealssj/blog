@@ -3,13 +3,9 @@ title = "아이테르(Aether)의 의미"
 tags = [
     "Decentralization",
     "CXO",
-    "Ideology",
 ]
 bounty = 5
 date = "2017-09-25"
-categories = [
-    "Statement",
-]
 aliases = [
 	"/ko/statement/the-meaning-of-aether/"
 ]

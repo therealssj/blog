@@ -1,14 +1,11 @@
 +++
 title = "天空币BBS开发更新#2"
 tags = [
-    "Development",
+    "Development Updates",
     "BBS",
     "CXO",
 ]
 date = "2017-08-31"
-categories = [
-    "Development Updates",
-]
 aliases = [
 	"/zh/bbs/bbs-development-update-2/"
 ]

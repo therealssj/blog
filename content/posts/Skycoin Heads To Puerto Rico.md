@@ -1,9 +1,10 @@
 +++
 title = "Skycoin Heads To Puerto Rico"
-tags = [ "Announcements", ]
+tags = [
+	"Announcements",
+]
 bounty = 0
 date = "2018-03-07"
-categories = [ "Statement", ]
 aliases = [
 	"/statement/skycoin-heads-to-puerto-rico/"
 ]

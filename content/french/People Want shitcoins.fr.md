@@ -4,9 +4,6 @@ tags = [
   "Ask the Developers",
 ]
 date = "2017-09-08"
-categories = [
-  "Ask the Developers",
-]
 aliases = [
 	"/fr/ask-the-developers/people-want-shitcoins/"
 ]
@@ -36,7 +33,7 @@ Donc Skycoin est au même point que BITCOIN et ETHEREUM à leurs débuts, où il
 
 Skycoin se porte bien en ce qui concerne le meshnet, les applications, et le hardware.
 
-Mais notre plateforme se developpe également très bien. Des sociétés nous disent 'pourquoi devrions nous utiliser ETHEREUM et mettre nos données sur une chaine de bloc partagée avec plus de 500000 'jetons de merde', quand le Skyledger donne à notre société sa PROPRE chaine de bloc. Ce qui est clairement meilleur.
+Mais notre plateforme se developpe également très bien. Des sociétés nous disent 'pourquoi devrions nous utiliser ETHEREUM et mettre nos données sur une chaine de bloc partagée avec plus de 500000 'jetons de merde', quand le Fiber donne à notre société sa PROPRE chaine de bloc. Ce qui est clairement meilleur.
 
 Personne n'imaginerais mettre toutes les données de toutes les sociétés du monde dans la même base de donnée SQL, alors pourquoi le faire avec les chaînes de bloc?
 

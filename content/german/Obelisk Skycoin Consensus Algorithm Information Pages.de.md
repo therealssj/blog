@@ -1,14 +1,10 @@
 +++
 title = "Obelisk: Skycoin Konsens-Algorithmus| Informationsseiten"
 tags = [
-    "Overview",
     "Consensus",
     "Obelisk",
 ]
 date = "2017-09-09"
-categories = [
-    "Overview",
-]
 author = "johnstuartmill"
 image = "img/obelisk-the-skycoin-consensus-algorithm.png"
 aliases = [

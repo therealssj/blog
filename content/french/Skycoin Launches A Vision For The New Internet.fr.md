@@ -1,12 +1,9 @@
 +++
 title = "Skycoin lance une vision du Nouvel Internet"
 tags = [
-  "Statement",
+	"Statement",
 ]
 date = "2017-07-24"
-categories = [
-  "Statement",
-]
 description = "Skycoin lance une vision du Nouvel Internet"
 aliases = [
 	"/fr/statement/skycoin-launches-a-vision-for-the-new-internet/"

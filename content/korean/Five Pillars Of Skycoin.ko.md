@@ -5,9 +5,6 @@ tags = [
 ]
 bounty = 5
 date = "2017-09-27"
-categories = [
-    "Statement",
-]
 aliases = [
 	"/ko/statement/five-pillars-of-skycoin/"
 ]
@@ -34,7 +31,7 @@ aliases = [
 이것은 Tor 또는 비트토렌트와 유사하지만,
 당신이 노드를 실행하는 것에 대해 보상을 받을 것이라는 것만 다릅니다.
 
-(3) [스카이레저](https://www.skyledger.net), 이더리움의 ERC20 버전이지만,
+(3) [스카이레저](https://www.skycoin.net/fiber/), 이더리움의 ERC20 버전이지만,
 더 나은 플랫폼입니다.:
 
  - 우리는 모든 코인에 대해 그들이 소유한 블록체인을 제공하며,

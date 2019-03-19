@@ -1,14 +1,10 @@
 +++
 title = "Skycoinダイジェスト: Bitcoinについてどう考えますか？ [インフォグラフィック]"
 tags = [
-    "Skycoin Digest",
     "Infographics",
 ]
 bounty = 4
 date = "2018-01-29"
-categories = [
-    "Infographics",
-]
 image = "img/What-do-you-think-about-Bitcoin.jpg"
 aliases = [
 	"/ja/infographics/what-do-you-think-about-bitcoin/"

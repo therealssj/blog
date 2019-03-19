@@ -1,14 +1,11 @@
 +++
 title = "Bau eines DIY-Skyminers [INFOGRAPHIC]"
 tags = [
-    "DIY Skyminer",
+    "Skyminer",
     "Infographics",
 ]
 bounty = 4
 date = "2018-09-24"
-categories = [
-    "Infographics",
-]
 image = "img/Build-A-DIY-Skycoin-Miner.jpg"
 aliases = [
 	"/de/infographics/build-a-diy-skycoin-miner/"

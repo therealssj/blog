@@ -4,10 +4,6 @@ tags = [
     "Ask the Developers",
 ]
 date = "2017-08-01"
-categories = [
-    "Ask the Developers",
-    "Statement",
-]
 description = "Лог AMA сессии Skycoin в слаке ark.io/slack/ (от 2017-07-02)"
 aliases = [
 	"/ru/ask-the-developers/skycoin-ama-log-ark/"

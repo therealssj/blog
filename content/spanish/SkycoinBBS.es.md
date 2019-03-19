@@ -1,14 +1,10 @@
 +++
 title = "Skycoin BBS: Una Red Social para Ti"
 tags = [
-    "Statement",
     "BBS",
 ]
 bounty = 8
 date = "2017-11-15"
-categories = [
-    "Statement",
-]
 aliases = [
 	"/es/statement/skycoinbbs/"
 ]

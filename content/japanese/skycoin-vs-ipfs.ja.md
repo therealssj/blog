@@ -4,13 +4,9 @@ tags = [
     "Ask the Developers",
     "CXO",
     "Skywire",
-    "IPFS",
 ]
 bounty = 8
 date = "2017-08-09"
-categories = [
-    "Ask the Developers",
-]
 aliases = [
 	"/ja/ask-the-developers/skycoin-vs-ipfs/"
 ]

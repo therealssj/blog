@@ -1,16 +1,10 @@
 +++
 title = "Skycoinが新しい取引所に上場：COIN918"
 tags = [
-    "Statement",
-    "Exchange Listing",
-    "COIN918",
+    "Announcement",
 ]
 bounty = 4
 date = "2018-01-08"
-categories = [
-    "Statement",
-    "Exchange Listing",
-]
 aliases = [
 	"/ja/statement/skycoin-launches-trading-on-coin918/"
 ]

@@ -3,13 +3,9 @@ draft = true
 title = "Clarification on the Personal Blockchain"
 tags = [
     "Decentralization",
+    "Ideology",
 ]
 date = "2014-05-06"
-categories = [
-    "Ideology",
-    "Information",
-    "Personal Blockchain",
-]
 +++
 
 *This is an archived post from the bitcointalks thread on May 06 2014*

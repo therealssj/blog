@@ -1,9 +1,10 @@
 +++
 title = "Skycoin Listed As Gold Label Binance Project"
-tags = [ "Announcements", ]
+tags = [
+	"Announcements",
+]
 bounty = 0
 date = "2018-12-01"
-categories = [ "Statement", ]
 aliases = [
 	"/statement/skycoin-listed-as-gold-label-binance-project/"
 ]

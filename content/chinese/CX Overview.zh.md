@@ -4,9 +4,6 @@ tags = [
     "CX",
 ]
 date = "2017-09-06"
-categories = [
-    "Overview",
-]
 aliases = [
 	"/zh/overview/cx-overview/"
 ]

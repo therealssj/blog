@@ -5,9 +5,6 @@ tags = [
 ]
 bounty = 10
 date = "2017-09-27"
-categories = [
-    "Statement",
-]
 aliases = [
 	"/ja/statement/five-pillars-of-skycoin/"
 ]
@@ -29,7 +26,7 @@ Skycoinプロジェクトの５本の柱は次の通りです：
 (2) [Skywire](/tags/skywire/)は、メッシュネットワークで、通信量/帯域幅を転送することでコインを取得できます。
 これはTorまたはBitTorrentと似ていますが、ノードを運用するのと引き換えに支払われるという点が異なります。
 
-(3) [Skyledger](https://www.skyledger.net)は、EthereumのERC20に倣って開発しましたが、それより優れたプラットフォームです：
+(3) [Fiber](https://www.skycoin.net/fiber/)は、EthereumのERC20に倣って開発しましたが、それより優れたプラットフォームです：
 
  - 私たちはすべてのコインに独自のブロックチェーンを与え、プラットフォームはSkywire下部構造の上で動作し、それから手数料を得ます。
  - プログラミング言語([CX](/overview/cx-overview/))を備えていますが、 "スマートコントラクト" はありません。

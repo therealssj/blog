@@ -3,14 +3,9 @@ title = "Question à propos de la Latence et la confidentialité du Meshnet "
 tags = [
     "Ask the Developers",
     "Skywire",
-    "Meshnet",
     "Privacy",
 ]
 date = "2017-09-15"
-categories = [
-    "Skywire",
-    "Ask the Developers",
-]
 aliases = [
 	"/fr/ask-the-developers/question-regarding-latency-and-privacy-of-the-meshnet/"
 ]

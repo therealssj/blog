@@ -2,13 +2,9 @@
 title = "Skycoin ist die nächste Generation Cryptowährung"
 tags = [
     "Decentralization",
-    "Ideology",
 ]
 bounty = 8
 date = "2017-09-24"
-categories = [
-    "Statement",
-]
 aliases = [
 	"/de/statement/skycoin-next-generation/"
 ]

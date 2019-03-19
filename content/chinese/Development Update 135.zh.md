@@ -1,9 +1,10 @@
 +++
 title = "Skycoin研发快讯 #135"
-tags = [ "Announcements", ]
+tags = [
+	"Development",
+]
 bounty = 0
 date = "2018-08-17"
-categories = [ "Development", "Statement" ]
 image = "img/skycoin-mobile-wallet-is-here.png"
 aliases = [
 	"/zh/development-updates/development-update-135/"

@@ -1,14 +1,10 @@
 +++
 title = "Skycoin Bounty Program [INFOGRAPHIC]"
 tags = [
-    "Bounties",
     "Infographics",
 ]
 bounty = 4
 date = "2018-09-14"
-categories = [
-    "Infographics",
-]
 image = "img/Skycoin-Bounty-Program.jpg"
 aliases = [
 	"/de/infographics/skycoin-bounty-program/"

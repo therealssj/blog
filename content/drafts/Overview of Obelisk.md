@@ -5,13 +5,8 @@ tags = [
     "Development",
     "Obelisk",
     "Consensus",
-    "Bitcoin",
 ]
 date = "2013-12-27"
-categories = [
-    "Development",
-    "Information",
-]
 description = "A brief overview of the distributed consesus behind Skycoin "
 +++
 # Overview of Obelisk: Distributed Consensus

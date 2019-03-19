@@ -1,9 +1,12 @@
 +++
 title = "Announcing PySkycoin, scripting for SkyFiber blockchains"
-tags = [ "Announcements", ]
+tags = [
+	"Announcements",
+	"Development",
+	"Fiber",
+]
 bounty = 0
 date = "2019-01-14"
-categories = [ "Development", "Statement" ]
 image = "img/pyskycoin.jpg"
 aliases = [
 	"/development-updates/announcing-pyskycoin/"

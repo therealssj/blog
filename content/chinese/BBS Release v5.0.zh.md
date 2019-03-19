@@ -1,15 +1,12 @@
 +++
 title = "天空币BBS v5.0发布公告"
 tags = [
-    "Development",
+    "Development Updates",
     "BBS",
     "CXO",
 ]
 bounty = 1
 date = "2017-12-18"
-categories = [
-    "Development Updates",
-]
 aliases = [
 	"/zh/bbs/bbs-release-v5.0/"
 ]

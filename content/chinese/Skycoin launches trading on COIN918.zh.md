@@ -1,16 +1,10 @@
 +++
 title = "Skycoin上线coin918交易所"
 tags = [
-    "Statement",
-    "Exchange Listing",
-    "COIN918",
+    "Announcement",
 ]
 bounty = 4
 date = "2018-01-08"
-categories = [
-    "Statement",
-    "Exchange Listing",
-]
 aliases = [
 	"/zh/statement/skycoin-launches-trading-on-coin918/"
 ]

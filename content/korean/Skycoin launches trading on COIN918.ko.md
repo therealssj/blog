@@ -1,16 +1,10 @@
 +++
 title = "스카이코인이 COIN918에 상장되었습니다."
 tags = [
-    "Statement",
-    "Exchange Listing",
-    "COIN918",
+    "Announcement",
 ]
 bounty = 4
 date = "2018-01-08"
-categories = [
-    "Statement",
-    "Exchange Listing",
-]
 aliases = [
 	"/ko/statement/skycoin-launches-trading-on-coin918/"
 ]

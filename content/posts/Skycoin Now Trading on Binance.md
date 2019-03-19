@@ -1,9 +1,10 @@
 +++
 title = "Skycoin Now Trading on Binance!"
-tags = [ "Announcements", ]
+tags = [
+	"Announcements",
+]
 bounty = 0
 date = "2018-05-24"
-categories = [ "Statement", ]
 image = "img/Skycoin-now-trading-on-binance.gif"
 aliases = [
 	"/statement/skycoin-now-trading-on-binance/"

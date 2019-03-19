@@ -1,14 +1,10 @@
 +++
-title = "Skycoinダイジェスト: SKycoinの5本の柱[インフォグラフィク]"
+title = "Skycoinダイジェスト: Skycoinの5本の柱[インフォグラフィク]"
 tags = [
-    "Skycoin Digest",
     "Infographics",
 ]
 bounty = 4
 date = "2018-02-08"
-categories = [
-    "Infographics",
-]
 image = "img/The-Five-Pillars-of-the-Skycoin-Cryptocurrency.jpg"
 aliases = [
 	"/ja/infographics/the-five-pillars-of-the-skycoin-cryptocurrency/"
@@ -26,9 +22,9 @@ Skycoinはサトシ・ナカモトの原案を達成した、本当に非中央�
 Skywireはメッシュネットワークです。通信量/帯域幅を上げることでSkycoinを獲得できます。
 参加してSkycoinを得ることを除くと、Tor、BitTorrentに似ています。
 
-## __3. SKYLEDGER__
+## __3. FIBER__
 
-Skyledgerは、EthereumのERC-20プラットフォームに似たプラットフォームです。
+Fiberは、EthereumのERC-20プラットフォームに似たプラットフォームです。
 例えるなら、2018年のブガッティ・シロンは1992年製のジオメトロに似ています。
 どちらも結局は車なのです。（勿論前者のほうが優れている）
 

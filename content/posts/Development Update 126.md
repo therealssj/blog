@@ -3,14 +3,8 @@ title = "Development Update #126"
 tags = [
     "Development",
     "Distribution",
-    "Blockchain Explorer",
-    "Marketing",
 ]
 date = "2017-03-09"
-categories = [
-    "Development Updates",
-]
-description = "Release notes highlighting the current development behind Skycoin."
 aliases = [
 	"/development-updates/development-update-126/"
 ]
@@ -69,7 +63,7 @@ After almost a year of development, our cross platform terminal/app store/applic
 
 Those will be the first applications.
 
-The meshnet, we may rename "SDN" for "Software defined Networking" or just call it "Skywire". "Meshnet" will just be a specific transport module or configuration. This type of networking is more general than "Meshnet" and is something new completely. This is a new type of networking, mathematically and it is its own namespace and independent from the current internet.
+The meshnet, we may rename "SDN" for "Software defined Networking" or just call it "Skywire". "Skywire" will just be a specific transport module or configuration. This type of networking is more general than "Skywire" and is something new completely. This is a new type of networking, mathematically and it is its own namespace and independent from the current internet.
 
 The meshnet or this new type of network, requires a centralized coordinator (Which can be decentralized, using a decentralized, shared state machine, like a blockchain). Eventually we will federalize the network into "Domains" or server groups and are trying to figure out what the best way to federate the network is.
 

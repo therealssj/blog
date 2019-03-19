@@ -4,9 +4,6 @@ tags = [
     "Community",
 ]
 date = "2017-08-24"
-categories = [
-    "Statement",
-]
 aliases = [
 	"/de/statement/skycoin-community-links/"
 ]

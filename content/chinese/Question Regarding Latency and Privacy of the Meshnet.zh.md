@@ -3,14 +3,8 @@ title = "讨论Meshnet的时间延迟和隐私安全相关的问题"
 tags = [
     "Ask the Developers",
     "Skywire",
-    "Meshnet",
-    "Privacy",
 ]
 date = "2017-08-18"
-categories = [
-    "Skywire",
-    "Ask the Developers",
-]
 aliases = [
 	"/zh/ask-the-developers/question-regarding-latency-and-privacy-of-the-meshnet/"
 ]

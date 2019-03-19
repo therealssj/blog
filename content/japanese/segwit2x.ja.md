@@ -5,9 +5,6 @@ tags = [
 ]
 bounty = 10
 date = "2017-11-12"
-categories = [
-    "Statement",
-]
 aliases = [
 	"/ja/statement/segwit2x/"
 ]

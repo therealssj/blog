@@ -3,13 +3,9 @@ title = "Skywire and Viscript"
 tags = [
     "Development",
     "Skywire",
-    "Viscript",
 ]
 bounty = 3
 date = "2017-08-15"
-categories = [
-    "Skywire",
-]
 image = "img/old-messenger.png"
 aliases = [
 	"/ru/skywire/skywire-and-viscript/"

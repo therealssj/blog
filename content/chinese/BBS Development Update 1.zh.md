@@ -1,15 +1,12 @@
 +++
 title = "Skycoin BBS开发 更新＃1"
 tags = [
-    "Development",
+    "Development Update",
     "BBS",
     "CXO",
 ]
 bounty = 3
 date = "2017-08-05"
-categories = [
-    "Development Updates",
-]
 description = "Skycoin BBS 的第一个开发更新。"
 aliases = [
 	"/zh/bbs/bbs-development-update-1/"

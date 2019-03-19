@@ -5,9 +5,6 @@ tags = [
 ]
 bounty = 2
 date = "2017-10-13"
-categories = [
-    "Statement",
-]
 aliases = [
 	"/de/statement/skycoin-wallet-v0.20.2-released/"
 ]

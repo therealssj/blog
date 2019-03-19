@@ -2,13 +2,10 @@
 title = "스카이레저 : 블록체인의 진정한 미래"
 tags = [
     "Statement",
-    "Skyledger",
+    "Fiber",
 ]
 bounty = 8
 date = "2017-12-14"
-categories = [
-    "Skyledger",
-]
 aliases = [
 	"/ko/statement/skyledger-blockchains-real-future/"
 ]

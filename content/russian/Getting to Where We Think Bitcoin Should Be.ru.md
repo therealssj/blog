@@ -2,15 +2,10 @@
 title = "Давайте разберемся, каким, по нашему мнению, должен был быть биткойн"
 tags = [
     "Decentralization",
-    "Bitcoin",
-    "Transaction Malleability",
     "Consensus",
 ]
 bounty = 4
 date = "2017-10-03"
-categories = [
-    "Statement",
-]
 aliases = [
 	"/ru/statement/getting-to-where-we-think-bitcoin-should-be/"
 ]

@@ -6,10 +6,6 @@ tags = [
 ]
 bounty = 5
 date = "2017-11-07"
-categories = [
-    "Skywire",
-    "Skyminer",
-]
 image = "img/skywire-the-next-internet.png"
 aliases = [
 	"/ko/skywire/skywire-the-next-internet/"

@@ -2,15 +2,9 @@
 title = "Skywire - Skycoin Meshnet-Projekt"
 tags = [
     "Skywire",
-    "Meshnet",
 ]
 bounty = 15
 date = "2017-08-29"
-categories = [
-    "Skywire",
-    "Overview",
-    "Übersicht"
-]
 aliases = [
 	"/de/overview/skywire-skycoin-meshnet-project/"
 ]

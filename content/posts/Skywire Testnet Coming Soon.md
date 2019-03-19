@@ -1,9 +1,12 @@
 +++
 title = "Skywire Testnet Coming Soon"
-tags = [ "Announcements", "Skyminer", ]
+tags = [
+	"Announcements",
+	"Skyminer",
+	"Skywire",
+]
 bounty = 0
 date = "2018-03-17"
-categories = [ "Statement", "Skyminer", ]
 image = "img/Skyminer-Launch-Announcement.jpg"
 aliases = [
 	"/statement/skywire-testnet-coming-soon/"

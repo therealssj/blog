@@ -1,14 +1,10 @@
 +++
 title = "Rissunto Skycoin: Skycoin vs Skywire [INFOGRAFICA]"
 tags = [
-    "Skycoin Digest",
     "Infographics",
 ]
 bounty = 4
 date = "2018-02-03"
-categories = [
-    "Infographics",
-]
 image = "img/What-is-the-difference-skycoin-vs-skywire.jpg"
 aliases = [
 	"/it/infographics/what-is-the-difference-skycoin-vs-skywire/"

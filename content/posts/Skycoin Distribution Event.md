@@ -5,10 +5,6 @@ tags = [
     "Statement",
 ]
 date = "2017-07-23"
-categories = [
-    "Distribution",
-    "Statement",
-]
 description = "A Skycoin Distribution Event will be held August 8, 2017"
 aliases = [
 	"/statement/skycoin-distribution-event/"

@@ -7,9 +7,6 @@ tags = [
 ]
 bounty = 4
 date = "2017-08-31"
-categories = [
-    "Development Updates",
-]
 aliases = [
 	"/es/bbs/bbs-development-update-2/"
 ]

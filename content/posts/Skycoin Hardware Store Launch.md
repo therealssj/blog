@@ -1,9 +1,12 @@
 +++
 title = "Skycoin Hardware Store Launch"
-tags = [ "Announcements", ]
+tags = [
+	"Announcements",
+	"Skyminer",
+	"Skywire",
+]
 bounty = 0
 date = "2019-01-14"
-categories = [ "Statement", ]
 image = "img/hardware-store-01.png"
 aliases = [
 	"/statement/skycoin-hardware-store-launch/"

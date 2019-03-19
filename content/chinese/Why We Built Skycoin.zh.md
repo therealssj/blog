@@ -3,12 +3,10 @@ title = "Skycoin：不忘初心"
 tags = [
     "Statement",
     "Obelisk",
+    "Skycoin",
 ]
 bounty = 8
 date = "2017-11-29"
-categories = [
-    "Statement",
-]
 aliases = [
 	"/zh/statement/why-we-built-skycoin/"
 ]

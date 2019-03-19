@@ -1,9 +1,10 @@
 +++
 title = "Skycoin Trading on Plaak Exchange!"
-tags = [ "Announcements", ]
+tags = [
+	"Announcements",
+]
 bounty = 0
 date = "2018-06-22"
-categories = [ "Statement", ]
 image = "img/Skycoin-Trading-on-Plaak-Exchange.png"
 aliases = [
 	"/statement/skycoin-trading-on-plaak-exchange/"

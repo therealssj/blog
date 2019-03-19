@@ -1,14 +1,10 @@
 +++
 title = "스카이코인 다이제스트 : 비트코인에 대해 어떻게 생각하세요? [인포그래픽스]"
 tags = [
-    "Skycoin Digest",
     "Infographics",
 ]
 bounty = 4
 date = "2018-01-29"
-categories = [
-    "Infographics",
-]
 image = "img/What-do-you-think-about-Bitcoin.jpg"
 aliases = [
 	"/ko/infographics/what-do-you-think-about-bitcoin/"

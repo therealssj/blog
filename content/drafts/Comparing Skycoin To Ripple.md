@@ -2,15 +2,9 @@
 draft = true
 title = "Comparing Skycoin to Ripple"
 tags = [
-    "Decentralization",
-    "Ripple",
+	"Skycoin",
 ]
 date = "2014-04-23"
-categories = [
-    "Ideology",
-    "Information",
-]
-description = "In Ripple you have a bunch of node. If a peer rejects a transaction, then to achieve consensus, the connection's peers will drop the transaction and the rejection of the transaction propagates through the network. That means that a single bad node can freeze the assets in a particular address."
 +++
 In Ripple you have a bunch of node. If a peer rejects a transaction, then to achieve consensus, the connection's peers will drop the transaction and the rejection of the transaction propagates through the network. That means that a single bad node can freeze the assets in a particular address.
 

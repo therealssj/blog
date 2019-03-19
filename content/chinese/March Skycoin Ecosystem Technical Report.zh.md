@@ -1,9 +1,10 @@
 +++
 title = "3月份Skycoin生态系统技术报告  "
-tags = [ "Announcements", ]
+tags = [
+	"Statement",
+]
 bounty = 0
 date = "2018-04-05"
-categories = [ "Statement", ]
 aliases = [
 	"/zh/statement/march-skycoin-ecosystem-technical-report/"
 ]

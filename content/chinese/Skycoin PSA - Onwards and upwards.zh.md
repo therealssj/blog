@@ -1,9 +1,10 @@
 +++
 title = "Skycoin PSA：SkyNation发展势如破竹!"
-tags = [ "Announcements", ]
+tags = [
+	"Announcements",
+]
 bounty = 0
 date = "2018-03-02"
-categories = [ "Statement", ]
 aliases = [
 	"/zh/statement/skycoin-psa-onwards-and-upwards/"
 ]
@@ -51,6 +52,6 @@ Skycoin将在2018年获得更好的发展机会，因此现在我们就要将Sky
 我们坚信，数字货币应该能够让所有用户以点对点的方式进行交易，避免中心化或大型挖矿团体的出现。我们相信互联网应该由用户控制，所有用户可以获得平等的访问机会，且受网络中立性保护。
 
 
-我们相信区块链真正的未来是SkyLedger，其革命性的Obelisk共识算法，可消除交易费，实现去中心化且避免资源浪费。
+我们相信区块链真正的未来是Fiber，其革命性的Obelisk共识算法，可消除交易费，实现去中心化且避免资源浪费。
 
 因此，我们搭建Skycoin生态系统，解决其他人无法解决的问题。请加入我们，加入革命的浪潮，让我们一起改变世界。

@@ -1,9 +1,10 @@
 +++
 title = "Skycoin Heads to Vegas"
-tags = [ "Announcements", ]
+tags = [
+	"Announcements",
+]
 bounty = 0
 date = "2018-08-01"
-categories = [ "Statement", ]
 image = "img/Skycoin-goes-to-ChainXChange-Vegas.png"
 aliases = [
 	"/statement/skycoin-heads-to-vegas/"

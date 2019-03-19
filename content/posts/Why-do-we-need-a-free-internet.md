@@ -1,16 +1,12 @@
 +++
 title = "Skycoin Digest: Why do we need a FREE Internet? [INFOGRAPHIC]"
 tags = [
-    "Skycoin Digest",
     "Infographics",
     "Skyminer",
+    "Skywire",
 ]
 bounty = 4
 date = "2018-02-03"
-categories = [
-    "Infographics",
-    "Skyminer",
-]
 image = "img/Why-do-we-need-a-free-internet.jpg"
 aliases = [
 	"/infographics/why-do-we-need-a-free-internet/"

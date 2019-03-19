@@ -2,13 +2,9 @@
 title = "스카이코인은 차세대 암호화 화폐입니다."
 tags = [
     "Decentralization",
-    "Ideology",
 ]
 bounty = 8
 date = "2017-09-24"
-categories = [
-    "Statement",
-]
 aliases = [
 	"/ko/statement/skycoin-next-generation/"
 ]

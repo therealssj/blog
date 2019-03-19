@@ -1,15 +1,11 @@
 +++
- title = "Skywire: 次のインターネット"
- tags = [
-     "Skywire",
-    "Skyminer",
- ]
- bounty = 10
- date = "2017-11-07"
- categories = [
-     "Skywire",
-    "Skyminer",
- ]
+title = "Skywire: 次のインターネット"
+tags = [
+	"Skywire",
+	"Skyminer",
+]
+bounty = 10
+date = "2017-11-07"
 image = "img/skywire-the-next-internet.png"
 aliases = [
 	"/ja/skywire/skywire-the-next-internet/"

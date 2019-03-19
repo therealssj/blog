@@ -1,12 +1,7 @@
 +++
 title = "Skycoin Bounty Program 1"
-tags = [
-    "Bounty Program",
-]
+tags = []
 date = "2017-09-01"
-categories = [
-    "Statement",
-]
 aliases = [
 	"/el/statement/skycoin-bounty-program-1/"
 ]

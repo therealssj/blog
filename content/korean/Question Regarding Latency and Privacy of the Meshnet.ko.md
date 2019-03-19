@@ -3,15 +3,10 @@ title = "메쉬넷의 대기시간과 개인정보보호에 관한 질문"
 tags = [
     "Ask the Developers",
     "Skywire",
-    "Meshnet",
     "Privacy",
 ]
 bounty = 4
 date = "2017-08-18"
-categories = [
-    "Skywire",
-    "Ask the Developers",
-]
 aliases = [
 	"/ko/ask-the-developers/question-regarding-latency-and-privacy-of-the-meshnet/"
 ]

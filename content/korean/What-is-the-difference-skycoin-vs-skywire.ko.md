@@ -1,14 +1,10 @@
 +++
 title = "스카이코인 다이제스트 : 스카이코인 vs 스카이와이어 [인포그래픽]"
 tags = [
-    "Skycoin Digest",
     "Infographics",
 ]
 bounty = 4
 date = "2018-02-03"
-categories = [
-    "Infographics",
-]
 image = "img/What-is-the-difference-skycoin-vs-skywire.jpg"
 aliases = [
 	"/ko/infographics/what-is-the-difference-skycoin-vs-skywire/"

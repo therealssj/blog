@@ -2,19 +2,11 @@
 title = "State of the Crypto Market and Development Updates"
 tags = [
     "Development",
-    "Wallet Development",
-    "CoinHours",
     "CX",
-    "Roadmap",
     "Statement",
-    "Bitcoin",
 ]
 bounty = 15
 date = "2017-10-14"
-categories = [
-    "Statement",
-    "Development Updates",
-]
 aliases = [
 	"/statement/state-of-the-crypto-market-development-updates/"
 ]
@@ -455,7 +447,7 @@ Coin Hours are used for transaction fees in Skycoin and will also be used for
 network resources on Skywire.
 
 Coin Hours may eventually also be used for allocation of distributed
-computation resources, storage or bandwidth on SkyLedger and any Skycoin side
+computation resources, storage or bandwidth on Fiber and any Skycoin side
 changes with embedded CX scripting language.
 
 The future wallet versions will add an API and UI to specify or
@@ -480,7 +472,7 @@ zero-knowledge proof system.
 
 We are currently designing a hardcoded, 2-factor multi-signature transaction
 type with relative time locks for Skycoin. This new transaction type
-will enable DEX and atomic swap support across Skycoin and all Skyledger
+will enable DEX and atomic swap support across Skycoin and all Fiber
 coins.
 
 We are also evaluating proposals for introducing a third transaction type for

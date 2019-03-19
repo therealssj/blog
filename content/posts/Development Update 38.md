@@ -4,10 +4,6 @@ tags = [
     "Development",
 ]
 date = "2014-09-23"
-categories = [
-    "Development Updates",
-]
-description = "Release notes highlighting the current development behind Skycoin."
 aliases = [
 	"/development-updates/development-update-38/"
 ]

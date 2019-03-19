@@ -1,9 +1,10 @@
 +++
 title = "Skycoin宣布:2018年5月24日正式上线币安"
-tags = [ "Announcements", ]
+tags = [
+	"Announcements",
+]
 bounty = 0
 date = "2018-05-24"
-categories = [ "Statement", ]
 image = "img/Skycoin-now-trading-on-binance.gif"
 aliases = [
 	"/zh/statement/skycoin-now-trading-on-binance/"

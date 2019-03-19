@@ -1,15 +1,12 @@
 +++
 title = "Skycoin BBS v4.1 发布公告"
 tags = [
-    "Development",
+    "Development Updates",
     "BBS",
     "CXO",
 ]
 bounty = 1
 date = "2017-09-26"
-categories = [
-    "Development Updates",
-]
 aliases = [
 	"/zh/bbs/bbs-release-v4.1/"
 ]

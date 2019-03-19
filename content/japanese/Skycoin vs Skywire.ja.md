@@ -5,10 +5,6 @@ tags = [
 ]
 bounty = 4
 date = "2017-08-30"
-categories = [
-    "Skywire",
-    "Statement",
-]
 aliases = [
 	"/ja/statement/skycoin-vs-skywire/"
 ]

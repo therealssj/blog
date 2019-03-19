@@ -2,12 +2,8 @@
 title = "Ask the Developers #9"
 tags = [
     "Ask the Developers",
-
 ]
 date = "2017-04-13"
-categories = [
-    "Ask the Developers",
-]
 aliases = [
 	"/ask-the-developers/ask-the-developers-9/"
 ]

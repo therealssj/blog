@@ -2,13 +2,9 @@
 title = "电报日志 - 白皮书，奴隶制和无政府状态"
 tags = [
     "Ask the Developers",
-
 ]
 bounty = 10
 date = "2017-09-18"
-categories = [
-    "Ask the Developers",
-]
 aliases = [
 	"/zh/ask-the-developers/telegram-log-whitepapers-slavery-anarchy/"
 ]

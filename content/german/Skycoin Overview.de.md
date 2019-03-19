@@ -2,12 +2,10 @@
 title = "Skycoin Übersicht"
 tags = [
     "Skycoin",
+    "Statement",
 ]
 bounty = 15
 date = "2017-08-26"
-categories = [
-    "Overview",
-]
 aliases = [
 	"/de/overview/skycoin-overview/"
 ]

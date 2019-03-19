@@ -1,10 +1,9 @@
 +++
 title = "关于Skycoin 原中国社区运营团队的处理公告"
-tags = [ "Announcements", ]
-date = "2018-06-18"
-categories = [
-    "Statement",
+tags = [
+	"Announcements",
 ]
+date = "2018-06-18"
 description = "关于Skycoin 原中国社区运营团队的处理公告"
 aliases = [
 	"/zh/statement/skycoin-team-status-update/"

@@ -2,12 +2,8 @@
 title = "Логи Telegram канала - Whitepaper, Рабство и Анархия"
 tags = [
     "Ask the Developers",
-
 ]
 date = "2017-09-18"
-categories = [
-    "Ask the Developers",
-]
 aliases = [
 	"/ru/ask-the-developers/telegram-log-whitepapers-slavery-anarchy/"
 ]

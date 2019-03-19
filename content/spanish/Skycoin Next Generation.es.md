@@ -2,13 +2,9 @@
 title = "Skycoin es una criptomoneda de ultima generación"
 tags = [
 	"Decentralization",
-	"Ideology",
 ]
 bounty = 8
 date = "2017-09-24"
-categories = [
-	"Statement",
-]
 aliases = [
 	"/es/statement/skycoin-next-generation/"
 ]

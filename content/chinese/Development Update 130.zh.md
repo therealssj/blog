@@ -3,12 +3,8 @@ title = "开发更新 #130"
 tags = [
     "Development",
     "Infographics",
-    "Wallet Development",
 ]
 date = "2017-05-15"
-categories = [
-    "Development Updates",
-]
 description = "Release notes highlighting the current development behind 天空币."
 aliases = [
 	"/zh/development-updates/development-update-130/"

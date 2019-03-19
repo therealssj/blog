@@ -2,12 +2,10 @@
 title = "El Problema de Consenso de Segwit2x y Bitcoin – Por qué Skycoin es Superior"
 tags = [
     "Statement",
+    "Skycoin",
 ]
 bounty = 5
 date = "2017-11-12"
-categories = [
-    "Statement",
-]
 aliases = [
 	"/es/statement/segwit2x/"
 ]

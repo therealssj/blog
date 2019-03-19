@@ -2,12 +2,10 @@
 draft = true
 title = "Concerns about Default Wallet Security"
 tags = [
-    "Wallet Security",
+    "Security",
+    "Development",
 ]
 date = "2015-02-25"
-categories = [
-    "Technical Discussion",
-]
 description = "Discussion regarding Default Wallet Security."
 +++
 We are also concerned about "**Default Security**" for average user.

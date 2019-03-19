@@ -3,14 +3,11 @@ title = "追赶比特币的理想旅途上"
 tags = [
     "Decentralization",
     "Bitcoin",
-    "Transaction Malleability",
     "Consensus",
+    "Statement",
 ]
 bounty = 4
 date = "2017-10-03"
-categories = [
-    "Statement",
-]
 aliases = [
 	"/zh/statement/getting-to-where-we-think-bitcoin-should-be/"
 ]

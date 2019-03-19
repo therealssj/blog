@@ -1,14 +1,10 @@
 +++
 title = "Skycoin Дайджест: Что вы думаете о биткоине? [ИНФОГРАФИКА]"
 tags = [
-    "Skycoin Digest",
     "Infographics",
 ]
 bounty = 4
 date = "2018-01-29"
-categories = [
-    "Infographics",
-]
 image = "img/What-do-you-think-about-Bitcoin.jpg"
 aliases = [
 	"/ru/infographics/what-do-you-think-about-bitcoin/"

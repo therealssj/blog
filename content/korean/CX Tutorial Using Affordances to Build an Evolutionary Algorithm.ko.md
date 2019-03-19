@@ -2,14 +2,9 @@
 title = "CX 튜토리얼 : 어포던스를 이용한 소규모 텍스트 기반 어드벤처 구축"
 tags = [
     "CX",
-    "CX Tutorials",
-    "Affordances"
 ]
 bounty = 5
 date = "2017-09-20"
-categories = [
-    "Tutorials",
-]
 aliases = [
 	"/ko/cx/cx-tutorial-using-affordances-to-build-an-evolutionary-algorithm/"
 ]

@@ -4,12 +4,8 @@ tags = [
     "Ask the Developers",
     "CXO",
     "Skywire",
-    "IPFS",
 ]
 date = "2017-08-09"
-categories = [
-    "Ask the Developers",
-]
 aliases = [
 	"/de/ask-the-developers/skycoin-vs-ipfs/"
 ]

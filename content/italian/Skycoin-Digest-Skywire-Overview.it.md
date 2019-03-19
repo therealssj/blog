@@ -1,15 +1,10 @@
 +++
 title = "Riassunto Skycoin: Panoramica di Skywire [INFOGRAFICA]"
 tags = [
-    "Skycoin Digest",
     "Infographics",
 ]
 bounty = 4
 date = "2018-03-12"
-
-categories = [
-    "Infographics",
-]
 image = "img/Skycoin-Digest-Skywire-Overview.jpg"
 aliases = [
 	"/it/infographics/skycoin-digest-skywire-overview/"

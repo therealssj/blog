@@ -7,9 +7,6 @@ tags = [
 ]
 bounty = 5
 date = "2017-09-25"
-categories = [
-    "Statement",
-]
 aliases = [
 	"/zh/statement/the-meaning-of-aether/"
 ]

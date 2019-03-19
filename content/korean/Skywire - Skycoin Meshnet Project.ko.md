@@ -2,13 +2,8 @@
 title = "스카이와이어 - 스카이코인 메쉬넷(Meshnet) 프로젝트"
 tags = [
     "Skywire",
-    "Meshnet",
 ]
 date = "2017-08-29"
-categories = [
-    "Skywire",
-    "Overview",
-]
 aliases = [
 	"/ko/overview/skywire-skycoin-meshnet-project/"
 ]

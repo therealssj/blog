@@ -2,19 +2,11 @@
 title = "暗号通貨市場の状況と開発のアップデート"
 tags = [
     "Development",
-    "Wallet Development",
-    "CoinHours",
     "CX",
-    "Roadmap",
     "Statement",
-    "Bitcoin",
 ]
 bounty = 15
 date = "2017-10-14"
-categories = [
-    "Statement",
-    "Development Updates",
-]
 aliases = [
 	"/ja/statement/state-of-the-crypto-market-development-updates/"
 ]
@@ -328,7 +320,7 @@ CoinHoursは、Ethereumの「ガス」やBitcoinのコイン・エージング�
 
 Coin HoursはSkycoinの取引手数料として使用され、Skywireのネットワークリソースにも使用されます。
 
-Coin Hoursは最終的にSkyLedgerの分散コンピューティングリソース、ストレージまたは帯域幅の割り当てや、CXスクリプト言語が組み込まれたSkycoinサイドの変更にも使用される可能性があります。
+Coin Hoursは最終的にFiberの分散コンピューティングリソース、ストレージまたは帯域幅の割り当てや、CXスクリプト言語が組み込まれたSkycoinサイドの変更にも使用される可能性があります。
 
 将来のウォレットバージョンでは、トランザクションでのCoinHourの残高を指定または分割するためのAPIとUIが追加されます。
 
@@ -343,7 +335,7 @@ Skycoin CoinJoin取引は、同じ取引において複数のウォレットか�
 ## Skycoin 分散取引サポート(DEX)
 
 私たちは現在、Skycoinの相対時間ロックを持つ、ハードコーディングされた、2要素のマルチ署名トランザクション型を設計しています。
-この新しいトランザクションタイプは、SkycoinとSkyledgerのすべてのコインでDEXとアトミックスワップのサポートを有効にします。
+この新しいトランザクションタイプは、SkycoinとFiberのすべてのコインでDEXとアトミックスワップのサポートを有効にします。
 
 ブロックチェーン間のアトミックスワップに第3のトランザクションタイプを導入する提案も評価しています。
 しかし、ブロックチェーン間のアトミックスワップはまだ成熟しておらず、相対的な時間ロックを持つ2署名の複数署名はこれを実装するための最もシンプルで最も簡単な方法だと考えています。

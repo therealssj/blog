@@ -1,12 +1,7 @@
 +++
 title = "스카이코인 바운티 캠페인 1"
-tags = [
-    "Bounty Program",
-]
+tags = []
 date = "2017-08-27"
-categories = [
-    "Statement",
-]
 aliases = [
 	"/ko/statement/skycoin-bounty-program-1/"
 ]

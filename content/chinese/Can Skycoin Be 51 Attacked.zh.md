@@ -1,15 +1,11 @@
 +++
 title = "Skycoin 会被51%攻击吗？"
 tags = [
-    "Statement",
     "Obelisk",
     "Consensus",
 ]
 bounty = 8
 date = "2017-10-07"
-categories = [
-    "Statement",
-]
 aliases = [
 	"/zh/statement/can-skycoin-be-51-attacked/"
 ]

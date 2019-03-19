@@ -2,14 +2,9 @@
 title = "Skywire矿机：下一代互联网的硬件"
 tags = [
     "Skywire",
-    "Skycoin Mining",
-    "Meshnet",
+    "Skyminer",
 ]
 date = "2017-08-11"
-categories = [
-    "Skywire",
-    "Statement",
-]
 aliases = [
 	"/zh/statement/skywire-miner-hardware-for-the-next-internet/"
 ]

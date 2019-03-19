@@ -2,14 +2,9 @@
 title = "Skywire: 一个免费和开放的互联网"
 tags = [
     "Skywire",
-    "Skycoin Mining",
     "Statement",
 ]
 date = "2017-07-27"
-categories = [
-    "Skywire",
-    "Statement",
-]
 bounty = 5
 aliases = [
 	"/zh/statement/skywire-a-free-and-open-internet/"

@@ -1,12 +1,7 @@
 +++
 title = "Программа вознаграждений Skycoin  №1"
-tags = [
-    "Bounty Program",
-]
+tags = []
 date = "2017-08-27"
-categories = [
-    "Statement",
-]
 aliases = [
 	"/ru/statement/skycoin-bounty-program-1/"
 ]

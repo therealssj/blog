@@ -1,12 +1,9 @@
 +++
 title = "Skycoin n'a rien à voir avec Skynet"
 tags = [
-  "Statement",
+	"Statement",
 ]
 date = "2017-08-28"
-categories = [
-  "Statement",
-]
 aliases = [
 	"/fr/statement/skycoin-has-nothing-to-do-with-skynet/"
 ]

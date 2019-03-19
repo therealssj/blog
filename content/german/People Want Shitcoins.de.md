@@ -4,9 +4,6 @@ tags = [
     "Ask the Developers",
 ]
 date = "2017-09-05"
-categories = [
-    "Ask the Developers",
-]
 aliases = [
 	"/de/ask-the-developers/people-want-shitcoins/"
 ]
@@ -32,7 +29,7 @@ Skycoin ist also auf der gleichen frühzeitigen Stufe, durch die Bitcoin und Eth
 
 Skycoin macht gute Fortschritte mit der Hardware, den Anwendungen und bezüglich des vermaschten Netzes (Meshnet).
 
-Unsere Plattform entwickelt sich ebenfalls sehr gut. Unternehmen sagen zu uns "Warum sollten wir Ethereum verwenden und all unsere Daten auf eine gemeinschaftliche Blockchain mit 500,000 Shitcoins packen, wenn Skyledger uns UNSERE EIGENE Blockchain gibt". Letztere Möglichkeit ist offensichtlich die Bessere.
+Unsere Plattform entwickelt sich ebenfalls sehr gut. Unternehmen sagen zu uns "Warum sollten wir Ethereum verwenden und all unsere Daten auf eine gemeinschaftliche Blockchain mit 500,000 Shitcoins packen, wenn Fiber uns UNSERE EIGENE Blockchain gibt". Letztere Möglichkeit ist offensichtlich die Bessere.
 
 Niemand versucht jedes einzelnes Unternehmen der Erde in dieselbe SQL-Datenbank zu packen, warum sollte man dies also mit der Blockchain-Technologie machen?
 

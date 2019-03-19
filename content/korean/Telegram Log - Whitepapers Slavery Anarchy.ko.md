@@ -2,12 +2,8 @@
 title = "텔레그램 로그 - 백서, 노예제도와 무정부주의"
 tags = [
     "Ask the Developers",
-
 ]
 date = "2017-09-18"
-categories = [
-    "Ask the Developers",
-]
 aliases = [
 	"/ko/ask-the-developers/telegram-log-whitepapers-slavery-anarchy/"
 ]

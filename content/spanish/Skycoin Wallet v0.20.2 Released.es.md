@@ -1,13 +1,10 @@
 +++
 title = "Ha sido lanzada la v0.20.2 de la Cartera Skycoin"
 tags = [
-    "Statement",
+    "Development",
 ]
 bounty = 2
 date = "2017-10-13"
-categories = [
-    "Statement",
-]
 aliases = [
 	"/es/statement/skycoin-wallet-v0.20.2-released/"
 ]

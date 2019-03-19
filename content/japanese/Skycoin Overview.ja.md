@@ -2,12 +2,10 @@
 title = "Skycoinの概要"
 tags = [
     "Skycoin",
+    "Statement",
 ]
 bounty = 30
 date = "2017-08-26"
-categories = [
-    "Overview",
-]
 aliases = [
 	"/ja/overview/skycoin-overview/"
 ]

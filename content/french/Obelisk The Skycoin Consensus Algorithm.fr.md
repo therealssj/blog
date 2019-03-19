@@ -4,9 +4,6 @@ tags = [
     "Statement",
 ]
 date = "2017-09-08"
-categories = [
-    "Statement",
-]
 image = "img/obelisk-the-skycoin-consensus-algorithm.png"
 aliases = [
 	"/fr/statement/obelisk-the-skycoin-consensus-algorithm/"

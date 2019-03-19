@@ -7,9 +7,6 @@ tags = [
 ]
 bounty = 1
 date = "2017-12-18"
-categories = [
-    "Development Updates",
-]
 aliases = [
 	"/ru/bbs/bbs-release-v5.0/"
 ]

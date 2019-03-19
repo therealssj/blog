@@ -5,9 +5,6 @@ tags = [
 ]
 bounty = 6
 date = "2017-10-09"
-categories = [
-    "Statement",
-]
 aliases = [
 	"/ru/statement/skycoin-distribution-plan/"
 ]

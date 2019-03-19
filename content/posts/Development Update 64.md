@@ -2,14 +2,10 @@
 title = "Development Update #64"
 tags = [
     "Development",
-    "IPFS",
-    "Skycoin Merkle-DAG System",
+    "CXO",
+    "Skywire",
 ]
 date = "2015-04-02"
-categories = [
-    "Development Updates",
-]
-description = "Release notes highlighting the current development behind Skycoin."
 aliases = [
 	"/development-updates/development-update-64/"
 ]
@@ -33,4 +29,4 @@ Users can update the files after they upload them. If you have a javascript file
 
 This will speed up blockchain downloads, but has other applications. The Skycoin version is:
 - A stripped down version of IPFS using skycoin cryptography primitives
-- Tuns over Skywire
+- Runs over Skywire

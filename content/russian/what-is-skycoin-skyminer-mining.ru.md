@@ -1,14 +1,11 @@
 +++
 title = "Skycoin дайджест: Skyminer… Вы шутите? [ИНФОГРАФИКА]"
 tags = [
-    "Skycoin Digest",
     "Infographics",
+    "Skyminer",
 ]
 bounty = 4
 date = "2018-04-07"
-categories = [
-    "Infographics",
-]
 image = "img/what-is-skycoin-skyminer-mining.jpg"
 aliases = [
 	"/ru/infographics/what-is-skycoin-skyminer-mining/"

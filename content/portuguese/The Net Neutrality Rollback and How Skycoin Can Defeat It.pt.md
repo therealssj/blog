@@ -2,16 +2,10 @@
 title = "O retrocesso da Neutralidade da Rede e como a Skycoin pode derrotá-lo."
 tags = [
     "Statement",
-    "Net Neutrality",
+    "Skywire",
 ]
 bounty = 3
 date = "2017-12-12"
-categories = [
-    "Net Neutrality",
-    "Skywire",
-    "Neutralidade da Rede",
-    "Neutralidade da Internet",
-]
 aliases = [
 	"/pt/statement/the-net-neutrality-rollback-and-how-skycoin-can-defeat-it/"
 ]

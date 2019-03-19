@@ -2,16 +2,10 @@
 title = "El desmantelamiento de la neutralidad de la red y cómo Skycoin puede derrotarlo"
 tags = [
     "Statement",
-    "Net Neutrality",
     "Skyminer",
 ]
 bounty = 3
 date = "2017-12-12"
-categories = [
-    "Net Neutrality",
-    "Skywire",
-    "Skyminer",
-]
 aliases = [
 	"/es/statement/the-net-neutrality-rollback-and-how-skycoin-can-defeat-it/"
 ]

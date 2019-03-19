@@ -4,9 +4,6 @@ tags = [
     "Statement",
 ]
 date = "2017-08-14"
-categories = [
-    "Statement",
-]
 aliases = [
 	"/fr/statement/digital-gold/"
 ]

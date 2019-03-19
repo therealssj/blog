@@ -2,12 +2,8 @@
 title = "开发人员问答#8"
 tags = [
     "Ask the Developers",
-
 ]
 date = "2016-12-25"
-categories = [
-    "Ask the Developers",
-]
 description = "每周一次的会议，用户可以向天空币开发人员发表评论或提出问题，以便更好地了解天空币项目"
 aliases = [
 	"/zh/ask-the-developers/ask-the-developers-8/"

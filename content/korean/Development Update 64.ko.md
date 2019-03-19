@@ -2,13 +2,8 @@
 title = "개발 업데이트 #64"
 tags = [
     "Development",
-    "IPFS",
-    "Skycoin Merkle-DAG System",
 ]
 date = "2015-04-02"
-categories = [
-    "Development Updates",
-]
 description = "스카이코인 관련 최신 개발동향 소개"
 aliases = [
 	"/ko/development-updates/development-update-64/"
