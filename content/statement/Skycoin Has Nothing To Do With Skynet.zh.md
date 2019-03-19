@@ -17,5 +17,3 @@ Skycoin从来不曾使用 "Skynet"，我们认为这名字已经泛滥被使用�
 通过少数的机器人来征服人类。
 
 Skycoin项目和Skynet，之间没有任何关系。
-
-![screenshot](/statement/skycoin-has-nothing-to-do-with-skynet/skycoin.png)
