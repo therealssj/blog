@@ -4,10 +4,7 @@ tags = [ "Announcements", ]
 bounty = 0
 date = "2018-12-04"
 categories = [ "Statement", ]
-[image]
-    url = "img/Skycoin-Wallet.jpg"
-    type = "image/jpeg"
-    length = 49143
+image = "img/Skycoin-Wallet.jpg"
 +++
 
 After months in the making, we're excited to announce that prototypes for Skywallet, our new hardware wallet, are finalized and ready for mass production. When you store or access your cryptocurrency, you are your own bank, so the process should be simple and intuitive. Your hardware wallet is your bank vault and it should feel like a premium and secure device. We've spent months iterating over designs and incorporating user feedback in order to make Skywallet the best hardware wallet experience on the market. How did we get here?

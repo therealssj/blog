@@ -8,18 +8,18 @@
       </a>
       {{ end }}
       <h1 class="list__title">{{ .Title }}</h1>
-    {{ end }}  
+    {{ end }}
     <div class="list__container">
       <section class="list__posts">
         {{ $paginator := .Paginate (where .Data.Pages  "Section" "!=" "") 6 }}
         <ul class="list__list">
-          {{ range $paginator.Pages }}      
+          {{ range $paginator.Pages }}
             <li class="list__item">
               <a class="list__link" href="{{ .URL | relLangURL }}">
                 <div class="list__item-inner">
                   {{ if .Params.image }}
                     <div class="list__item-image">
-                        <div style="background-image: url({{ .Params.image.url | absURL }})" class="list__image"></div>
+                        <div style="background-image: url({{ .Params.image | absURL }})" class="list__image"></div>
                     </div>
                   {{ else }}
                     <div class="list__item-image">

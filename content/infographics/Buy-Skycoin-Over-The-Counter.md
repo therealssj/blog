@@ -10,10 +10,7 @@ date = "2018-09-14"
 categories = [
     "Infographics",
 ]
-[image]
-    url = "img/Buy-Skycoin-Over-The-Counter.jpg"
-    type = "image/jpg"
-    length = 302249
+image = "img/Buy-Skycoin-Over-The-Counter.jpg"
 +++
 
 ## It is now possible to purchase skycoin directly from skycoin.net over the counter.

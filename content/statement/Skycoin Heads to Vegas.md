@@ -4,10 +4,7 @@ tags = [ "Announcements", ]
 bounty = 0
 date = "2018-08-01"
 categories = [ "Statement", ]
-[image]
-    url = "img/Skycoin-goes-to-ChainXChange-Vegas.png"
-    type = "image/jpg"
-    length = 4033348
+image = "img/Skycoin-goes-to-ChainXChange-Vegas.png"
 +++
 
 It is our pleasure to announce that the Skycoin Team will be present and a sponsor at CoinXchange, a blockchain and experiential conference. Attending along with prolific speakers such as Steve Wozniak, co-founder of Apple, and entrepreneurs like Gary Vaynerchuck, our team will be spreading the news about Skycoin and its reputation as one of the most innovative projects in blockchain. Come say hi, we will have plenty of swag for Skyfleet fans.

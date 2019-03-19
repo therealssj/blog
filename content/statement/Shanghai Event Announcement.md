@@ -4,10 +4,7 @@ tags = [ "Announcements", ]
 bounty = 0
 date = "2018-04-08"
 categories = [ "Statement", ]
-[image]
-    url = "img/Skycoin-Launch-Announcement-English-large.jpg"
-    type = "image/jpg"
-    length = 1365554
+image = "img/Skycoin-Launch-Announcement-English-large.jpg"
 +++
 
 ## Skycoin Ecosystem Launch Conference 2018

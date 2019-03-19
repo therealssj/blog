@@ -9,10 +9,7 @@ date = "2018-01-29"
 categories = [
     "Infographics",
 ]
-[image] 
-    url = "img/What-do-you-think-about-Bitcoin.jpg"
-    type = "image/jpg"
-    length = 397078
+image = "img/What-do-you-think-about-Bitcoin.jpg"
 +++
 
 ## Bitcoinは素晴らしかった

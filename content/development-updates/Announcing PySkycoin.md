@@ -4,10 +4,7 @@ tags = [ "Announcements", ]
 bounty = 0
 date = "2019-01-14"
 categories = [ "Development", "Statement" ]
-[image]
-    url = "img/pyskycoin.jpg"
-    type = "image/jpeg"
-    length = 18243
+image = "img/pyskycoin.jpg"
 +++
 
 Skyfleet, we are thrilled to announce the most recent version `0.25.0` of `PySkycoin`, the official Python client library for the Skycoin ecosystem. The library has been under development and testing for about a year. During that time it’s been the key to implement non-trivial numbers of tools and integrations. This article will try to help readers answer some simple questions: *What is PySkycoin? Why should I use it?*.

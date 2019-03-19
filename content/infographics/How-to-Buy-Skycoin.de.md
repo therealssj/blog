@@ -10,10 +10,7 @@ date = "2018-08-26"
 categories = [
     "Infographics",
 ]
-[image]
-    url = "img/How-to-Buy-Skycoin.jpg"
-    type = "image/jpg"
-    length = 276287
+image = "img/How-to-Buy-Skycoin.jpg"
 +++
 
 ## Es gibt viele Handelsplätze, an denen du Skycoin kaufen kannst. Hier sind ein paar...

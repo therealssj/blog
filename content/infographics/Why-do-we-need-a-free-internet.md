@@ -11,17 +11,14 @@ categories = [
     "Infographics",
     "Skyminer",
 ]
-[image]
-    url = "img/Why-do-we-need-a-free-internet.jpg"
-    type = "image/jpg"
-    length = 1115628
+image = "img/Why-do-we-need-a-free-internet.jpg"
 +++
 
 ## Why are we building a free internet?
 
 **_It’s a long list so we’ll give you our top 3._**
 
-### 1.) Freedom 
+### 1.) Freedom
 
  All over the world governments both deny and restrict their citizenries access to the internet as well as censor opposing voices. They have forgotten who they serve.
 

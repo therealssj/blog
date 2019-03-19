@@ -4,10 +4,7 @@ tags = [ "Announcements", "Skyminer", ]
 bounty = 0
 date = "2018-03-17"
 categories = [ "Statement", "Skyminer", ]
-[image]
-    url = "img/Skyminer-Launch-Announcement.jpg"
-    type = "image/jpg"
-    length = 58734
+image = "img/Skyminer-Launch-Announcement.jpg"
 +++
 
 {{< youtube id="yl6FtLUKVZw" autoplay="true" >}}

@@ -4,10 +4,7 @@ tags = [ "Announcements", ]
 bounty = 0
 date = "2018-11-15"
 categories = [ "Statement", ]
-[image]
-    url = "img/skycoin-mobile-wallet-now-on-ios.png"
-    type = "image/png"
-    length = 417443
+image = "img/skycoin-mobile-wallet-now-on-ios.png"
 +++
 
 

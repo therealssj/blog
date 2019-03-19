@@ -9,10 +9,7 @@ date = "2018-09-14"
 categories = [
     "Infographics",
 ]
-[image]
-    url = "img/KittyCash-Decentralized-Blockchain-Gaming.jpg"
-    type = "image/jpg"
-    length = 430989
+image = "img/KittyCash-Decentralized-Blockchain-Gaming.jpg"
 +++
 
 ## Next generation of blockchain gaming with cute collectables, breeding and more.

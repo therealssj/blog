@@ -9,10 +9,7 @@ date = "2018-09-14"
 categories = [
     "Infographics",
 ]
-[image]
-    url = "img/Skycoin-a-global-revolution.jpg"
-    type = "image/jpg"
-    length = 339905
+image = "img/Skycoin-a-global-revolution.jpg"
 +++
 
 * 170+ Skyminers

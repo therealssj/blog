@@ -9,10 +9,7 @@ date = "2018-09-14"
 categories = [
     "Infographics",
 ]
-[image]
-    url = "img/Skycoin-Bounty-Program.jpg"
-    type = "image/jpg"
-    length = 308828
+image = "img/Skycoin-Bounty-Program.jpg"
 +++
 
 ## Unten kannst du herausfinden, wie man am Bounty Program teilnimmst und das Wachstum der Plattform unterstützt.

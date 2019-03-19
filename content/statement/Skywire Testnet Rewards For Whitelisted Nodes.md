@@ -4,10 +4,7 @@ tags = [ "Announcements", ]
 bounty = 0
 date = "2018-06-26"
 categories = [ "Statement", ]
-[image]
-    url = "img/skywire-testnet-rewards.jpg"
-    type = "image/jpg"
-    length = 320623
+image = "img/skywire-testnet-rewards.jpg"
 +++
 
 
@@ -18,7 +15,7 @@ The determined reward pool size for both Official and DIY miners is 25,000 Skyco
 
 DIY Skyminers are rewarded with a portion of the 10K Skycoin rewards pool
 Official Skyminers are rewarded with a portion of the 15K Skycoin rewards pool
-All whitelisted nodes will receive rewards that are divided equally amongst the Skycoin pool. 
+All whitelisted nodes will receive rewards that are divided equally amongst the Skycoin pool.
 
 ![](https://lh4.googleusercontent.com/m-vm-n3tRT-J8u7b59ZQcQPUNhus04T_WNWrA8YBoXE_5G0QP6mdLxCBmbM8qxoZycU5JjfVSrhdsKPT6NrRRvxMta_WSqcXF5pZb_aLSVcVfsRZyHrSfMQ9IQtivcvGpYQh32Zu)
 

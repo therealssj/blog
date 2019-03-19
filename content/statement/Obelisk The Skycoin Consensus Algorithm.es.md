@@ -8,10 +8,7 @@ date = "2017-09-08"
 categories = [
     "Statement",
 ]
-[image]
-    url = "img/obelisk-the-skycoin-consensus-algorithm.png"
-    type = "image/png"
-    length = 920655
+image = "img/obelisk-the-skycoin-consensus-algorithm.png"
 +++
 
 La cadena de bloques (blockchain) de Skycoin hace uso de un nuevo tipo de

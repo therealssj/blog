@@ -10,10 +10,7 @@ categories = [
     "Skywire",
     "Skyminer",
 ]
-[image]
-    url = "img/skywire-the-next-internet.png"
-    type = "image/png"
-    length = 194882
+image = "img/skywire-the-next-internet.png"
 +++
 
 Au printemps 2017, la FCC [^1] a déposé une proposition de loi selon laquelle les fournisseurs de service internet peuvent collecter, utiliser et vendre les informations concernant les habitudes de navigation de leurs clients. Ils peuvent le faire sans autorisation spécifique. Les clients ne peuvent refuser. Etre client de l'une de ces sociétés signifie que vous payez pour être surveillé, tout simplement.
@@ -26,7 +23,7 @@ C'est pourquoi nous avons construit Skywire : le nouvel Internet. Skywire repren
 
 Comment ça fonctionne ? Il faut imaginer un fournisseur de service Internet décentralisé. Skywire utilise la Blockchain pour créer un marché communautaire pair à pair de service Internet. C'est rapide, privé et sécurisé. Mais le principal avantage, c'est que l'utilisateur est placé au coeur du système.
 
-Avec Skywire, vous bénéficiez directement de votre contribution au réseau. Les utilisateurs gagnent des skycoins pour maintenir des noeuds et fournir de la bande passante ainsi que de l'espace de stockage. On peut dépenser ses skycoins en consommant de l'information ou d'autres ressources du réseau. Ce système rend SkyWire autonome et indépendant : plus on l'utilise, plus le réseau devient robuste. Skywire est un réseau pair à pair rémunéré. 
+Avec Skywire, vous bénéficiez directement de votre contribution au réseau. Les utilisateurs gagnent des skycoins pour maintenir des noeuds et fournir de la bande passante ainsi que de l'espace de stockage. On peut dépenser ses skycoins en consommant de l'information ou d'autres ressources du réseau. Ce système rend SkyWire autonome et indépendant : plus on l'utilise, plus le réseau devient robuste. Skywire est un réseau pair à pair rémunéré.
 
 Skywire est conçu pour les utilisateurs, par les utilisateurs. Contrairement aux services des fournisseurs classiques, les décisions sont prises par la communauté. Les noeuds fonctionnent selon un système de réseau de confiance[^2] . Les noeuds malhonnêtes peuvent être retirés par une décision collective, et les noeuds de confiance en sortent renforcés. Le réseau de confiance rend Skywire difficile à attaquer, à manipuler et à exploiter. Il crée un système dans lequel chacun a son mot à dire.
 

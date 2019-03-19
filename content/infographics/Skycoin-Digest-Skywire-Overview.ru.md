@@ -10,10 +10,7 @@ date = "2018-03-12"
 categories = [
     "Infographics",
 ]
-[image]
-    url = "img/Skycoin-Digest-Skywire-Overview.jpg"
-    type = "image/jpg"
-    length = 427061
+image = "img/Skycoin-Digest-Skywire-Overview.jpg"
 +++
 
 ## Skywire – Интернет Заново

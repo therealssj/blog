@@ -11,18 +11,14 @@ categories = [
     "Infographics",
     "Skyminer",
 ]
-[image]
-    url = "img/Why-do-we-need-a-free-internet.jpg"
-    type = "image/jpg"
-    length = 1115628
+image = "img/Why-do-we-need-a-free-internet.jpg"
 +++
-
 
 ## なぜ我々は自由なインターネットを作っているのだろうか？
 
 **_挙げればきりがないので、重要な3つを挙げます。_**
 
-### 1.) 自由 
+### 1.) 自由
 
 世界各国の政府は、インターネットへのアクセスを拒否し、制限するとともに、反対の声を検閲します。
 彼らは誰が奉仕しているのかを忘れてしまったのです。

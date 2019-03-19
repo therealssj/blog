@@ -4,10 +4,7 @@ tags = [ "Announcements", ]
 bounty = 0
 date = "2018-08-17"
 categories = [ "Development", "Statement" ]
-[image]
-    url = "img/skycoin-mobile-wallet-is-here.png"
-    type = "image/png"
-    length = 413417
+image = "img/skycoin-mobile-wallet-is-here.png"
 +++
 
 Skyfleet, we are thrilled to announce that the first official Android version of our mobile wallet is now fully ready to be released!
