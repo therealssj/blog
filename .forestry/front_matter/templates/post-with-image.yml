@@ -39,5 +39,3 @@ fields:
   type: file
   hidden: false
   default: ''
-pages:
-- content/drafts/forestry-test.md
