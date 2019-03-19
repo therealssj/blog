@@ -10,6 +10,9 @@ categories = [
     "Development Updates",
 ]
 description = "Release notes highlighting the current development behind Skycoin."
+aliases = [
+	"/development-updates/development-update-107/"
+]
 +++
 
 The Skycoin Mobile wallet API is done. For Bitcoin and Skycoin. Will add Litecoin, Dogecoin and Ethereum later.

@@ -8,6 +8,9 @@ date = "2017-10-13"
 categories = [
     "Statement",
 ]
+aliases = [
+	"/it/statement/skycoin-wallet-v0.20.2-released/"
+]
 +++
 
 [Scarica Wallet Skycoin v0.20.2](https://www.skycoin.net/downloads/)

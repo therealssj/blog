@@ -10,6 +10,9 @@ categories = [
     "Infographics",
 ]
 image = "img/What-do-you-think-about-Bitcoin.jpg"
+aliases = [
+	"/ko/infographics/what-do-you-think-about-bitcoin"
+]
 +++
 
 ## 비트코인은 놀라웠습니다.

@@ -9,6 +9,9 @@ categories = [
     "Development Updates",
 ]
 description = "Release notes highlighting the current development behind Skycoin."
+aliases = [
+	"/development-updates/development-update-71/"
+]
 +++
 
 The network has been operating for a few weeks now. It is working pretty well, but there are reliability issues over open internet that did not occur in the VPN testing environment.

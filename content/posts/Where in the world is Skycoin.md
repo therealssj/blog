@@ -5,6 +5,9 @@ bounty = 0
 date = "2018-03-26"
 categories = [ "Statement", ]
 image = "img/where-in-the-world-is-skycoin.png"
+aliases = [
+	"/statement/where-in-the-world-is-skycoin/"
+]
 +++
 
 ## **Skycoin Events April Update**

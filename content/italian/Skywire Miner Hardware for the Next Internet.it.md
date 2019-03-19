@@ -11,6 +11,9 @@ categories = [
     "Statement",
 ]
 bounty = 4
+aliases = [
+	"/it/statement/skywire-miner-hardware-for-the-next-internet/"
+]
 +++
 
 *Iscriviti all anostra mailing list per aggiornamenti su Skywire Miner: http://eepurl.com/c4DyAv*
@@ -23,7 +26,7 @@ e la condivisione di contenuti senza blocco, rallentamenti o censura. Skywire  h
 la rete ad accesso aperto preservndo la privacy e incoraggindo la libertà di parola. La nostra missione nel
 creare Skywire è dare forma al futuro di Internet al meglio.
 
-[Skywire] (https://github.com/skycoin/skywire) 
+[Skywire] (https://github.com/skycoin/skywire)
 Il nuovo rivoluzionario protocollo di rete sta già cambiando Internet
 come lo conosciamo. Il protocollo è basato su Multi-Protocol Label Switching (MPLS).
 I vantaggi di MPLS includono velocità, qualità del servizio, affidabilità e sicurezza.

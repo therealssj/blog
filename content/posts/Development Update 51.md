@@ -10,6 +10,9 @@ categories = [
     "Development Updates",
 ]
 description = "Release notes highlighting the current development behind Skycoin."
+aliases = [
+	"/development-updates/development-update-51/"
+]
 +++
 
 We had a productive day yesterday. Some people were able to get builds working immediately. Other people had problems with golang and path issues we are working through.

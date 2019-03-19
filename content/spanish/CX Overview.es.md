@@ -8,6 +8,9 @@ date = "2017-09-06"
 categories = [
     "Overview",
 ]
+aliases = [
+	"/es/overview/cx-overview/"
+]
 +++
 
 <!-- MarkdownTOC autolink="true" bracket="round" depth="2" -->
@@ -21,7 +24,7 @@ categories = [
     - [Restricciones Existenciales](#restricciones-existenciales)
     - [Restricciones de Identificador](#restricciones-de-identificador)
     - [Restricciones de Límites](#restricciones-de-límites)
-    - [Restricciones Definidas por el Usuario](#restricciones-definidas-por-el-usuario) 
+    - [Restricciones Definidas por el Usuario](#restricciones-definidas-por-el-usuario)
 - [Sistema de Tipado Estricto](#sistema-de-tipado-estricto)
 - [Compilado e Interpretado](#compilado-e-interpretado)
     - ['Loop' de Read-Eval-Print](#loop-de-read-eval-print)

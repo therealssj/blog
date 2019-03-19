@@ -8,6 +8,9 @@ categories = [
     "Development Updates",
 ]
 description = "Release notes highlighting the current development behind Skycoin."
+aliases = [
+	"/development-updates/development-update-100/"
+]
 +++
 
 Some of the developers had problem with management style and were confused about what needed to be done. Now I am trying

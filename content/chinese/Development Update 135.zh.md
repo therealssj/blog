@@ -5,6 +5,9 @@ bounty = 0
 date = "2018-08-17"
 categories = [ "Development", "Statement" ]
 image = "img/skycoin-mobile-wallet-is-here.png"
+aliases = [
+	"/zh/development-updates/development-update-135/"
+]
 +++
 
 Skycoin社区成员，我们很高兴地宣布，我们的移动钱包首个官方Android版本已经完全准备好发布了！

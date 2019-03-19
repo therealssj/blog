@@ -10,7 +10,11 @@ categories = [
     "Development Updates",
 ]
 description = "Release notes highlighting the current development behind Skycoin."
+aliases = [
+	"/development-updates/development-update-130/"
+]
 +++
+
 ## Skycoin Market Making Bot:
 
 We have a market making bot, that will sit on the bid/ask for skycoin for the following exchanges

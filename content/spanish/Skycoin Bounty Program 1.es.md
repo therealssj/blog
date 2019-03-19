@@ -8,6 +8,9 @@ date = "2017-08-27"
 categories = [
     "Statement",
 ]
+aliases = [
+	"/es/statement/skycoin-bounty-program-1"
+]
 +++
 
 *Actualizado el 29 de Agosto, 2017. Se ha añadido la bonificación por

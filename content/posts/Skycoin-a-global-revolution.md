@@ -10,6 +10,9 @@ categories = [
     "Infographics",
 ]
 image = "img/Skycoin-a-global-revolution.jpg"
+aliases = [
+	"/infographics/skycoin-a-global-revolution"
+]
 +++
 
 * 170+ Skyminers

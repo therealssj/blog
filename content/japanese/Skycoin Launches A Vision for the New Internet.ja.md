@@ -8,6 +8,9 @@ date = "2017-07-24"
 categories = [
     "Statement",
 ]
+aliases = [
+	"/ja/statement/skycoin-launches-a-vision-for-the-new-internet"
+]
 +++
 
 Skycoinは、4年間の開発歴を持つ次世代の暗号通貨であり、7月から一般に公開しています。
@@ -19,7 +22,7 @@ Bitcoinを改良する、再設計された合意形成アルゴリズムを使�
 
 Skycoinの主な機能は、スピード、プライバシー、セキュリティ、エコシステムです。
 スピードの面では、SkycoinはクレジットカードやApple Payに匹敵します。
-トランザクションは数秒で発生します。 
+トランザクションは数秒で発生します。
 これにより、POS（Point of Sale）およびIOTトランザクションに適したコインになります。
 
 Skycoinは、複数のウォレットのトランザクションを混在させるためにCoinJoinプロトコルを使用するおかげで、100％プライベートで匿名なトランザクションを要求することができます。

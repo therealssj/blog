@@ -10,6 +10,9 @@ date = "2017-08-31"
 categories = [
     "Development Updates",
 ]
+aliases = [
+	"/ko/bbs/bbs-development-update-2/"
+]
 +++
 
 0.1 버전이 출시된 지 한 달이 지났으며, 0.2 버전이 곧 출시될 예정입니다!

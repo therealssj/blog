@@ -10,6 +10,9 @@ categories = [
 ]
 bounty = 12
 description = "Log of AMA with Skycoin held at ark.io/slack/ (from 2017-07-02)"
+aliases = [
+	"/ask-the-developers/skycoin-ama-log-ark/"
+]
 +++
 
 *originally held July 2, 2017 in the [ark.io slack](https://ark.io/slack/)*
@@ -20,7 +23,7 @@ description = "Log of AMA with Skycoin held at ark.io/slack/ (from 2017-07-02)"
 Let's all give a warm welcome to @synth from SkyCoin.net and for taking the time to do this AMA
 
 **synth**
-*hello
+*hello*
 
 **mike**
 Hi Synth

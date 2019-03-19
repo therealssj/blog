@@ -9,6 +9,9 @@ categories = [
     "Development Updates",
 ]
 description = "Release notes highlighting the current development behind Skycoin."
+aliases = [
+	"/development-updates/development-update-121/"
+]
 +++
 
 Our technicals are done. I think we have fixed the last bugs. The wallet is getting polished up very nicely.

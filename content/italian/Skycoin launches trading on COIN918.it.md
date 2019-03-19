@@ -11,6 +11,9 @@ categories = [
     "Statement",
     "Exchange Listing",
 ]
+aliases = [
+	"/it/statement/skycoin-launches-trading-on-coin918/"
+]
 +++
 
 Skycoin ha recentemente annunciato di venir elencata su COIN918, una piattaforma di trading di valute digitali globale. Con la nuova quotazione, Skycoin porta la sua visione di una criptovaluta migliore per un numero ancora maggiore di utenti in tutto il mondo. È un ulteriore passo verso una rete libera e aperta.

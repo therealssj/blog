@@ -4,6 +4,9 @@ tags = [ "Announcements", "Skyminer", ]
 bounty = 0
 date = "2018-04-05"
 categories = [ "Statement", "Skyminer", ]
+aliases = [
+	"/zh/statement/skywire-testnet-faq/"
+]
 +++
 
 ---
@@ -32,7 +35,7 @@ categories = [ "Statement", "Skyminer", ]
 
 一旦用户成为节点，他们将能够搜索任何节点并与世界各地的用户相连接，进而打破全球信息访问的所有边界和障碍。
 
- 
+
 
 请注意，任何电脑都可以成为网络中的一个节点，但是只有加入白名单的Skyminer（所有官方和入选的DIY矿机）才能参与数学模型测试计划，并有资格获得奖励。
 
@@ -50,7 +53,7 @@ categories = [ "Statement", "Skyminer", ]
 
 最初的白名单将包括我们发往全球的官方Skyminer矿机。这些将成为早期DIY矿机的基准。由于我们正在探索未知的领域，我们希望在一开始减少任何可能的变量，并以可控的方式测试网络。
 
- 
+
 
 当我们梳理并稳定网络时，我们会将白名单扩展，加入具有同等规格的高品质DIY矿机，并最终扩展至能加入符合测试网络最低规格要求的矿机。
 
@@ -58,11 +61,11 @@ categories = [ "Statement", "Skyminer", ]
 
 首先，Skywire核心团队将收集每个正式矿机的每个节点的公钥，由于Skyminer中有8个节点，每个矿机将有8个公钥。一旦将公钥提供给Skywire核心团队，这些官方Skyminer将被列入白名单。
 
- 
+
 
 敬请关注官方Skywire矿机的公钥提交通知。
 
- 
+
 
 在官方Skywire矿机加入白名单后，团队将手动审核DIY矿机并每周批准50台矿机。 DIY矿机的提交日期将于近期发布。
 
@@ -99,7 +102,7 @@ categories = [ "Statement", "Skyminer", ]
 
 我们会谨慎制定奖励比率，首先需要一组严谨的数据作为参考，并不断调整比率。
 
- 
+
 
 ***重要提示：币时和Skycoin的奖励将不会在这个阶段发放。一旦建立了模型，奖励将会根据追溯的数据发放。***
 
@@ -110,7 +113,7 @@ categories = [ "Statement", "Skyminer", ]
 
 任何计算机都可以添加到Skywire公共测试网，成为节点并使用Skywire的功能。然而，只有一定数量的机器可列入白名单（包括官方Skyminer和一些DIY矿机），并在测试阶段获得奖励。
 
- 
+
 
 不在白名单上的机器将能够参与网络并访问网络的全部服务。
 
@@ -127,7 +130,7 @@ categories = [ "Statement", "Skyminer", ]
 
 我们的Skyfleet社区成员制作了香橙派Skyminer软件安装手册，许多成员已经成功安装软件了。
 
- 
+
 
 我们大幅简化了Skywire矿机的设置过程，并为用户创建图像，以便将需要的所有内容直接闪存到SD卡上。敬请关注官方Skywire管理器安装/操作手册。
 

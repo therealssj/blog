@@ -13,6 +13,9 @@ categories = [
     "Infographics",
 ]
 image = "img/Buy-Skycoin-Over-The-Counter.jpg"
+aliases = [
+	"/de/infographics/buy-skycoin-over-the-counter/"
+]
 +++
 
 ## Es ist jetzt möglich, Skycoin direkt von skycoin.net zu kaufen.

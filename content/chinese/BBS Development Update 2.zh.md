@@ -9,6 +9,9 @@ date = "2017-08-31"
 categories = [
     "Development Updates",
 ]
+aliases = [
+	"/zh/bbs/bbs-development-update-2/"
+]
 +++
 
 

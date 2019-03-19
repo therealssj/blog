@@ -8,6 +8,9 @@ date = "2017-10-09"
 categories = [
     "Statement",
 ]
+aliases = [
+	"/statement/skycoin-distribution-plan"
+]
 +++
 
 **This is an official announcement regarding how the SKY distribution will be

@@ -10,13 +10,16 @@ date = "2017-12-18"
 categories = [
     "Development Updates",
 ]
+aliases = [
+	"/ja/bbs/bbs-release-v5.0/"
+]
 +++
 
 ついにSkycoin BBS v5.0が多くの変更を加えてリリースされました！
 
 ## シンクライアント
 
-最も大きな変化は、シンクライアントの導入です。 
+最も大きな変化は、シンクライアントの導入です。
 ノードを設定せずにSkycoin BBSにアクセスできるようになりました！
 [bbs.skycoin.net](http://bbs.skycoin.net)へぜひ。
 

@@ -8,6 +8,9 @@ categories = [
     "Development Updates",
 ]
 description = "Release notes highlighting the current development behind Skycoin."
+aliases = [
+	"/development-updates/development-update-65/"
+]
 +++
 
 Unit tests work for networking. It works locally. It works with multiple clients on the internal virtual private network for testing. It is 100% working. However, on public internet cannot connect to anything and there are strange errors. The peers/connection list is empty.

@@ -10,6 +10,9 @@ date = "2017-09-26"
 categories = [
     "Development Updates",
 ]
+aliases = [
+	"/es/bbs/bbs-release-v4.1/"
+]
 +++
 
 ¡Skycoin BBS v4.1 ha sido lanzado!

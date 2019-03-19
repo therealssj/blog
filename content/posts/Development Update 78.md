@@ -8,6 +8,9 @@ categories = [
     "Development Updates",
 ]
 description = "Release notes highlighting the current development behind Skycoin."
+aliases = [
+	"/development-updates/development-update-78/"
+]
 +++
 
 Golang 1.5 has support for android and iPhone now.

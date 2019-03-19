@@ -9,6 +9,9 @@ date = "2017-08-31"
 categories = [
     "Development Updates",
 ]
+aliases = [
+	"/de/bbs/bbs-development-update-2/"
+]
 +++
 
 Es ist mehr als ein Monat vergangen, seitdem die Version 0.1 veröffentlicht wurde und Version 0.2 wird schon bald fertig sein!

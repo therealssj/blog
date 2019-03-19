@@ -7,6 +7,9 @@ date = "2017-09-01"
 categories = [
     "Statement",
 ]
+aliases = [
+	"/el/statement/skycoin-bounty-program-1"
+]
 +++
 
 *Ενημερώθηκε στις 20 Αυγούστου 2017. Αφαιρέθηκε το πρόγραμμα ανταμοιβών για GIF.*

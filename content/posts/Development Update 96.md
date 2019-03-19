@@ -9,6 +9,9 @@ categories = [
     "Development Updates",
 ]
 description = "Release notes highlighting the current development behind Skycoin."
+aliases = [
+	"/development-updates/development-update-96/"
+]
 +++
 
 Finished some small things, but mostly design work

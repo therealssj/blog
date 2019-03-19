@@ -13,6 +13,9 @@ categories = [
     "Skyminer",
 ]
 image = "img/Skycoin-Digest-Skywire-Overview.jpg"
+aliases = [
+	"/ko/infographics/skycoin-digest-skywire-overview"
+]
 +++
 
 ## 스카이와이어-인터넷 재창조

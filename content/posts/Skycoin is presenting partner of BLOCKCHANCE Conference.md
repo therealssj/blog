@@ -5,6 +5,9 @@ bounty = 0
 date = "2018-07-18"
 categories = [ "Statement", ]
 image = "img/blockchance.jpg"
+aliases = [
+	"/statement/skycoin-is-presenting-partner-of-blockchance-conference/"
+]
 +++
 
 

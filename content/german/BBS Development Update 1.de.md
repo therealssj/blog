@@ -10,6 +10,9 @@ categories = [
     "Development Updates",
 ]
 description = "Das erste Entwicklungsupdate für Skycoin BBS."
+aliases = [
+	"/de/bbs/bbs-development-update-1/"
+]
 +++
 
 ## Eine Einführung
@@ -19,7 +22,7 @@ BBS steht für schwarzes Brett-System (bulletin board system). Obwohl traditione
 Skycoin BBS ist eine der ersten Webapplikationen, welche unter Verwendung des Skycoin-Ökosystems implementiert werden.
 Skycoin versucht das Internet zu revolutionieren; Dezentralisierung und Verschlüsselung der Protokolle sind Standard.
 
-Skycoin BBS liegt eine selbstreplizierende Peer-to-Peer Datenbank mit dem Namen CXO (ein Teil des Skycoin-Ökosystems) zugrunde. Es nutzt unveränderbare Baumstrukturen von Golang-Objekten. Alle Objekte werden mittels deren Hashes nach einem definierten Schema referenziert. Jeder Baum hat ein Wurzelobjekt und wird mittels eines öffentlichen/privaten Schlüssels signiert. Um den Baum zu aktualisieren besitzen die Wurzeln inkrementelle Versionen namens "Sequenzen". Dieses Design ermöglicht schnelle und effiziente Datenreplikation. 
+Skycoin BBS liegt eine selbstreplizierende Peer-to-Peer Datenbank mit dem Namen CXO (ein Teil des Skycoin-Ökosystems) zugrunde. Es nutzt unveränderbare Baumstrukturen von Golang-Objekten. Alle Objekte werden mittels deren Hashes nach einem definierten Schema referenziert. Jeder Baum hat ein Wurzelobjekt und wird mittels eines öffentlichen/privaten Schlüssels signiert. Um den Baum zu aktualisieren besitzen die Wurzeln inkrementelle Versionen namens "Sequenzen". Dieses Design ermöglicht schnelle und effiziente Datenreplikation.
 
 ## Datenstrukturen
 
@@ -40,7 +43,7 @@ Dies ermöglicht einfachere Datenmanipulation durch den Compiler des Abstimmers.
 
 ## Veröffentlichungen (Releases)
 
-Zurzeit ist nur eine stabile, aktuelle Version des Skycoin BBS veröffentlicht. Die Eigenschaften sind aufs Wesentliche begrenzt, aber die CXO-Datenstruktur ist komplizierter, als die oben beschriebene. Das Hinzufügen von Inhalten und Abstimmungen resultieren darin, dass sich die Wurzel-Sequenz mehrmals pro Aktion vergrößert. 
+Zurzeit ist nur eine stabile, aktuelle Version des Skycoin BBS veröffentlicht. Die Eigenschaften sind aufs Wesentliche begrenzt, aber die CXO-Datenstruktur ist komplizierter, als die oben beschriebene. Das Hinzufügen von Inhalten und Abstimmungen resultieren darin, dass sich die Wurzel-Sequenz mehrmals pro Aktion vergrößert.
 
 Version 0.2 des BBS (aktuell in der Entwicklung), erhöht nicht nur die Performance und die Codelesbarkeit, sondern wird auch die folgenden Funktionen Implementieren.
 

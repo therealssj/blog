@@ -10,7 +10,9 @@ categories = [
     "Skywire",
     "Statement",
 ]
-description = ""
+aliases = [
+	"/de/statement/skywire-a-free-and-open-internet/"
+]
 +++
 
 Das Internet gibt uns die Illusion von Kontrolle. Wir können Kontakte knüpfen, konsumieren und Geschäfte in einem Augenblick tätigen - alles durch bereitgestellte Dienste von Google, Facebook, Apple und Amazon. Scheint sehr komfortabel zu sein, richtig ? Ist es - bis man bedenkt was man dafür aufgibt.
@@ -23,13 +25,13 @@ Internetdienstanbieter (ISP) werden die Möglichkeit besitzen Inhalte zu blockie
 Weltweit ist die Bedrohung der Freiheit des Internets noch ernster. Einige Regierungen zensieren aktiv Webseiten, blockieren bestimmte Apllikationen und Dienste. Andere Länder haben Zugangsprobleme welche auf ökonomische Ursachen zurückzuführen sind. Die meisten der Dritte-Welt-Staaten haben überhaupt keinen Internetzugang, wohingegen andere bedingten Zugang besitzen.
 Dieser ist jedoch aufgrund der Kontrolle von Unternehmen und den Betrugsmaschen von Drittparteien vorallem für weniger erfahrene Nutzer mit hohen Kosten verbunden.
 
-Überall wo man hinsieht schließen Regierungen und große Unternehmen benachteiligte Personen aus. Zensur und Profitgier hindern die Öffentlichkeit das volle Potential des Internets zu entdecken. 10% der US-Bevölkerung - in etwa 34 Millionen Menschen - haben keinen zuverlässigen Internetzugang. Die Zahl ist in ländlichen Gegenden höher. Diese Leute sind Netzausfällen schutzlos ausgesetzt. Es mangelt ihnen an sozialen, erzieherischen und ökonomischen Vorteilen, welche gleichberechtiger Internetzugang mit sich bringen würde. 
+Überall wo man hinsieht schließen Regierungen und große Unternehmen benachteiligte Personen aus. Zensur und Profitgier hindern die Öffentlichkeit das volle Potential des Internets zu entdecken. 10% der US-Bevölkerung - in etwa 34 Millionen Menschen - haben keinen zuverlässigen Internetzugang. Die Zahl ist in ländlichen Gegenden höher. Diese Leute sind Netzausfällen schutzlos ausgesetzt. Es mangelt ihnen an sozialen, erzieherischen und ökonomischen Vorteilen, welche gleichberechtiger Internetzugang mit sich bringen würde.
 
 Es ist an der Zeit die Kontrolle zurückzugewinnen. Das Internet sollte eine öffentliche Ressource sein, kein Werkzeug für unternehmerische Profite und staatliche Überwachung. Zusammen mit Entwicklern und Aktivisten wird Skywire diesen Kampf anführen.
 
-[Skywire](https://github.com/skycoin/skywire) ist ein alternatives Peer-to-Peer Netzwerk, welches die Kontrolle weg von den Internetdienstanbieter (ISP) nimmt und den Nutzern selbst zurückgibt. Peer-to-Peer Technologie benötigt nicht die Preisgabe deiner Identität und deiner persönlichen Daten um Zugang zu Inhalten zu erlangen. Skywire stellt ein blockchain-basiertes dezentrales Netzwerk bereit, in dem man sicher und anonym Surfen kann. 
+[Skywire](https://github.com/skycoin/skywire) ist ein alternatives Peer-to-Peer Netzwerk, welches die Kontrolle weg von den Internetdienstanbieter (ISP) nimmt und den Nutzern selbst zurückgibt. Peer-to-Peer Technologie benötigt nicht die Preisgabe deiner Identität und deiner persönlichen Daten um Zugang zu Inhalten zu erlangen. Skywire stellt ein blockchain-basiertes dezentrales Netzwerk bereit, in dem man sicher und anonym Surfen kann.
 
-Ein freies Internet hat Vorteile, welche weit über das Nutzungserlebnis herausgehen. Es bietet eine Plattform für Innovationen. Entwickler können unbeeinflusst Ideen umsetzen ohne von mächtigen Unternehmen zurückgehalten zu werden. Wenn alle Parteien gleich behandelt werden, dann profitiert die Öffentlichkeit von erhöhter Transparenz sowie unverfälschten Informationen über unterschiedlichste Themenfelder - von der Politik bis hin zur Gesundheit. Kreativität kann aufblühen. Kunst wird einem breiteren Publikum zugänglich. Verschiedene Ansichten können sich verbreiten und gehört werden. Die Redefreiheit gedeiht. User können ihre eigene Inhalte und das daraus resultierene Erlebnis selbst gestalten, anstatt von kommerziellen Produkten limitiert zu werden.   
+Ein freies Internet hat Vorteile, welche weit über das Nutzungserlebnis herausgehen. Es bietet eine Plattform für Innovationen. Entwickler können unbeeinflusst Ideen umsetzen ohne von mächtigen Unternehmen zurückgehalten zu werden. Wenn alle Parteien gleich behandelt werden, dann profitiert die Öffentlichkeit von erhöhter Transparenz sowie unverfälschten Informationen über unterschiedlichste Themenfelder - von der Politik bis hin zur Gesundheit. Kreativität kann aufblühen. Kunst wird einem breiteren Publikum zugänglich. Verschiedene Ansichten können sich verbreiten und gehört werden. Die Redefreiheit gedeiht. User können ihre eigene Inhalte und das daraus resultierene Erlebnis selbst gestalten, anstatt von kommerziellen Produkten limitiert zu werden.
 
 Peer-to-Peer Technologie bietet zudem Sicherheitsvorteile. Es nimmt den Usern die Angst überwacht zu werden. Dies ist eine fundamentale Wendung, welche das Onlineerlebnis tiefgreifend verändert. Mittels anonymem und sicherem privaten Browsen, sowie dazugehörigen Transaktionen schafft Skywire faire Bedingungen, welche alle Nutzer gleichermaßen bevollmächtigt.
 

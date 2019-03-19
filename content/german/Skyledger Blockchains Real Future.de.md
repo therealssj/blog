@@ -9,6 +9,9 @@ date = "2017-12-14"
 categories = [
     "Skyledger",
 ]
+aliases = [
+	"/de/statement/skyledger-blockchains-real-future/"
+]
 +++
 
 Bitcoin sollte eine neue Ökonomie, basierend auf dezentralisierter Blockchaintechnologie, einführen - hat und wird er aber nicht. Bitcoin hat elementare technische Mängel die ihn davon abhalten jemals seine ursprünglichen Ziele zu erreichen. Gebaut auf fehlerhaften Konzepten und manipuliert in einem Maße, das schon an Korruption grenzt, ist diese Währung nicht fähig die neue Welt zu erschaffen, auf welche die Nutzer gehofft haben.
@@ -20,9 +23,9 @@ Die Entwickler von Skycoin haben verstanden, dass Bitcoin dazu verdammt war zu s
 
 Der Kernpunkt der Probleme von Bitcoin ist sein Mining System. Miner kämpfen um die Kontrolle des Netzwerks mithilfe von Transaktionsgebühren. Durch das Fluten des Netzwerks durch Transaktionen, halten sie es als Geisel gefangen und forcieren steigende Transaktionskosten. Währendessen vereinigen sich die Miner um eine kleine Anzahl zentralisierter Mining Pools zu bilden, welche das gesamte Netzwerk kontrollieren. Dadurch fördert Bitcoin eine zentralisierte Mining Struktur, welche sich feindselig gegenüber der Community als Ganzes verhält.
 
-Bei Skycoin wollten wir das beseitigen. Wir haben die Belohnung für Mining und die Transaktionskosten abgeschafft. Anstelle dessen basiert der Skyledger Konsensalgorithmus auf dem Willen des Netzwerk – ein „Netz des Vertrauens“. 
+Bei Skycoin wollten wir das beseitigen. Wir haben die Belohnung für Mining und die Transaktionskosten abgeschafft. Anstelle dessen basiert der Skyledger Konsensalgorithmus auf dem Willen des Netzwerk – ein „Netz des Vertrauens“.
 
-Der Konsensalgorithmus von Skyledger heißt Obelisk. Er erschafft ein Netz des Vertrauens in welchem jeder Knoten (node) einen öffentlichen Schlüssel hat und jeder Knoten andere Knoten abonniert. Wenn du jemanden beispielsweise persönlich kennst, dann kannst du seinen öffentlichen Schlüssel zu deiner Vertrauensliste hinzufügen. Die Knoten welche dir folgen können sich dann untereinander vernetzen und Nachrichten veröffentlichen. Durch diesen Prozess können Knoten einen globalen Konsens erreichen. 
+Der Konsensalgorithmus von Skyledger heißt Obelisk. Er erschafft ein Netz des Vertrauens in welchem jeder Knoten (node) einen öffentlichen Schlüssel hat und jeder Knoten andere Knoten abonniert. Wenn du jemanden beispielsweise persönlich kennst, dann kannst du seinen öffentlichen Schlüssel zu deiner Vertrauensliste hinzufügen. Die Knoten welche dir folgen können sich dann untereinander vernetzen und Nachrichten veröffentlichen. Durch diesen Prozess können Knoten einen globalen Konsens erreichen.
 
 Ein großer Vorteil des Netz des Vertrauens von Skyledger ist, dass es umweltfreundlich ist. Es könnte auf dem Prozessor eines 30-Watt Mobiltelefons laufen. Um diesen Vorteil vollkommen würdigen zu können, bedenke den massiven Verbrauch von Ressourcen durch das Bitcoin Mining Netzwerk: über 32 Terawattstunden im Jahre 2017. Das ist ungefähr so viel, wie die Menge, die das Land Serbien verbraucht. Wie von [Digiconomist](https://digiconomist.net/bitcoin-energy-consumption) berichtet, verbraucht Bitcoin genug Energie um 3 Millionen Häuser zu versorgen. Um dies in ein noch eindrucksvolleres Licht zu rücken – selbst Kreditkartengigant Visa verbraucht nur so viel Energie wie 50.000 Eigenheime.
 
@@ -34,9 +37,9 @@ Skyledger spart nicht nur Ressourcen, es stellt seinen Nutzern auch wertvolle Di
 
 Da das Projekt quelloffen (open source) ist, steht die innovative Technologie, die Skyledger darstellt, allen Menschen zur Verfügung. Als ein wahres dezentralisiertes Blockchain Netzwerk hat Skyledger unzählige Einsatzmöglichkeiten. Firmen nutzen es jetzt schon um ihre Geschäftsideen umzusetzen.
 
-Ein Beispiel dafür ist Solar Bankers, ein Energiekonzern. Solar Bankers nutzt Skyledgers Blockchain um den Energiesektor zu dezentralisieren. Mithilfe von Solar Bankers können Nutzer Solarenergie erzeugen und direkt miteinander handeln. 
+Ein Beispiel dafür ist Solar Bankers, ein Energiekonzern. Solar Bankers nutzt Skyledgers Blockchain um den Energiesektor zu dezentralisieren. Mithilfe von Solar Bankers können Nutzer Solarenergie erzeugen und direkt miteinander handeln.
 
-Solar Bankers und andere Firmen entscheiden sich dafür ihre Währungen auf Skyledger aufzubauen, da Skyledger die beste Verschlüsselung, Geschwindigkeit und Zuverlässigkeit seiner Art bietet. Außerdem ist es absolut privat. 
+Solar Bankers und andere Firmen entscheiden sich dafür ihre Währungen auf Skyledger aufzubauen, da Skyledger die beste Verschlüsselung, Geschwindigkeit und Zuverlässigkeit seiner Art bietet. Außerdem ist es absolut privat.
 
 Skyledger erlaubt es Nutzern ihre eigene Kryptowährungen auf einer gemeinsamen Plattform zu erschaffen. Im Gegensatz zu Ethereum, bietet Skyledger eine private Blockchain, die nicht mit anderen Währungen geteilt wird. Es nutzt verbesserte Verschlüsselung und eine einzigartige Methode um Transaktionen zu verifizieren, welche es unabänderlich und immun gegen 51% Attacken macht.
 

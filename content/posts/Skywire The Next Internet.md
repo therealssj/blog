@@ -11,6 +11,9 @@ categories = [
     "Skyminer",
 ]
 image = "img/skywire-the-next-internet.png"
+aliases = [
+	"/skywire/skywire-the-next-internet"
+]
 +++
 
 In spring 2017, the FCC made a proposal in which internet service providers can

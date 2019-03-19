@@ -11,6 +11,9 @@ categories = [
     "Development Updates",
 ]
 description = "The first development update for Skycoin BBS."
+aliases = [
+	"/bbs/bbs-development-update-1/"
+]
 +++
 
 ## An Introduction

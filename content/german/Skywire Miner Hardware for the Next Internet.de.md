@@ -11,6 +11,9 @@ categories = [
     "Statement",
 ]
 bounty = 4
+aliases = [
+	"/de/statement/skywire-miner-hardware-for-the-next-internet/"
+]
 +++
 
 *Trage dich in die E-Mail-Liste ein, um Neuigkeiten über den Skywire Miner zu erfahren: http://eepurl.com/c4DyAv*
@@ -61,7 +64,7 @@ Der Preis wird 1 BTC für 1 Einheit sein. Im Kauf enthalten sind:
 * Skywire Miner
 * Eine Anzahl an Skycoins, die äquivalent zu 1 BTC abzüglich der Hardwarekosten (ca. $600) sein werden und vom Marktpreis zum Zeitpunkt des Kaufs abhängen.
 
-Knoten, die auf dem Skywire Netzwerk betrieben werden, erhalten einen Netzwerkbonus, da sie mithelfen, das Netzwerk auszubauen. Diesen Bonus erhalten sie zusätzlich zur Zahlungen für die Weiterleitung des Datenverkehrs. Für die Skywire Miner werden wir die Netzwerkbonus erhöhen. Wie auch immer, wir arbeiten noch an Mechanismen, um die Skywire Miner von anderen Knoten unterscheiden zu können, da es sich um jede Maschine im Netz handeln könnte. 
+Knoten, die auf dem Skywire Netzwerk betrieben werden, erhalten einen Netzwerkbonus, da sie mithelfen, das Netzwerk auszubauen. Diesen Bonus erhalten sie zusätzlich zur Zahlungen für die Weiterleitung des Datenverkehrs. Für die Skywire Miner werden wir die Netzwerkbonus erhöhen. Wie auch immer, wir arbeiten noch an Mechanismen, um die Skywire Miner von anderen Knoten unterscheiden zu können, da es sich um jede Maschine im Netz handeln könnte.
 
 Der Wert und die Struktur des allgemeinen Netzwerkbonuses ist noch nicht spezifziert. Weitere Informationen hierüber werden noch veröffentlicht.
 

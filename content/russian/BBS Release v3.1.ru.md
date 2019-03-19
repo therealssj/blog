@@ -9,6 +9,10 @@ date = "2017-09-06"
 categories = [
     "Development Updates",
 ]
+aliases = [
+	"/ru/bbs/bbs-release-v3.1/",
+	"/ru/bbs/skycoin-bbs-v3.1/"
+]
 +++
 
 Опубликован финальный релиз Skycoin BBS v3.1!

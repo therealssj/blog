@@ -7,6 +7,9 @@ date = "2017-08-24"
 categories = [
     "Statement",
 ]
+aliases = [
+	"/ko/statement/skycoin-community-links"
+]
 +++
 
 스카이코인 개발팀과 이야기를 나눠보세요.

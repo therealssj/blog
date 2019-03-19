@@ -9,6 +9,9 @@ categories = [
     "Development Updates",
 ]
 description = "Release notes highlighting the current development behind Skycoin."
+aliases = [
+	"/development-updates/development-update-40/"
+]
 +++
 ## Consensus Simulation:
 
@@ -39,7 +42,7 @@ We need a measure of power or influence, in the Skycoin network, that allows us 
 We believe the influence of a node in the simple consensus system, can be approximated well using a page rank type algorithm. The link adjacency matrix is constructed, such that A_ij equals 1 if node i subscribes to node j and is zero otherwise. We normalize each row to 1 to get the modified link adjacency matrix. The "page rank" or power rating of the ith node is the ith entry of the dominate eigenvector of the modified adjacency matrix for the network graph.
 
 The dominant eigenvector of the modified link adjacency matrix A, can be quickly computed by choosing a random vector, applying A to it by multiplication, normalizing the result and repeating successively with the resulting vector as the new input, until convergence.
-Example x <- A*x / ||A*x||, while || x - (A*x / ||A*x||) || < ε  (multiply A*x, normalize result, feed it back in)
+Example `x <- A*x / ||A*x||, while || x - (A*x / ||A*x||) || < ε  (multiply A*x, normalize result, feed it back in)`
 
 This simple metric gives an approximate ordering of the most trusted and influential nodes in the network.
 

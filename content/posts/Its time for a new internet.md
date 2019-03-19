@@ -9,6 +9,9 @@ date = "2018-05-21"
 categories = [
     "Guest Post",
 ]
+aliases = [
+	"/guest-post/its-time-for-a-new-internet/"
+]
 +++
 
 We’ve had the current internet model available to us for 40 or more years. In that time, we’ve witnessed the rise of the search engine giant, Google and the ecommerce behemoth, Amazon. The Internet of Things relies, of course, on the convenience of being constantly connected to….well...the internet. In a perpetual positive feedback loop where the internet fuels the drive for more “smart” devices and their apps, the number of connected “things” is [predicted to rise](https://www.gartner.com/newsroom/id/3598917) to over 20 billion by 2020.

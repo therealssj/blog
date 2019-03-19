@@ -8,6 +8,9 @@ categories = [
     "Statement",
 ]
 image = "img/obelisk-the-skycoin-consensus-algorithm.png"
+aliases = [
+	"/ko/statement/obelisk-the-skycoin-consensus-algorithm"
+]
 +++
 
 스카이코인 블록체인은 채굴 기반("PoW")와 스테이크 기반("PoS")를 모두 대체하는

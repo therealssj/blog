@@ -9,6 +9,9 @@ date = "2017-09-06"
 categories = [
     "Development Updates",
 ]
+aliases = [
+	"/ko/bbs/bbs-release-v3.1/"
+]
 +++
 
 스카이코인 BBS v3.1이 드디어 출시되었습니다!

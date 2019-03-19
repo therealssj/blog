@@ -6,6 +6,9 @@ categories = [
     "Statement",
 ]
 description = "关于Skycoin 原中国社区运营团队的处理公告"
+aliases = [
+	"/zh/statement/skycoin-team-status-update/"
+]
 +++
 
 近期Skycoin在各大交易所中产生大幅波动，为避免市场谣言进一步蔓延，最大程度降低Skycoin持有者的损失，Skycoin团队决定公开事态进展，还原事件经过，以正视听。在过去两天Skycoin团队替换了问题团队，建立了新的中文社区圈子和联络群；并向各大交易所发出了协同声明，冻结了嫌疑人及相关可疑账户的数字资产充提交易权限，市场正逐步回暖。Skycoin团队承诺尽最大努力使本次事件的影响降到最低，早日拨乱返清，使谣言不攻自破，Skycoin的价值尽快回归真实。以下是此次事件的经过和处理结果。

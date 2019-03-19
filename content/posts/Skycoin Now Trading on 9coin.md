@@ -5,6 +5,9 @@ bounty = 0
 date = "2018-04-04"
 categories = [ "Statement", ]
 image = "img/9coin-listing.gif"
+aliases = [
+	"/statement/skycoin-now-trading-on-9coin"
+]
 +++
 
 Here at Skycoin, one of our top priorities is supporting and expanding our amazing community.

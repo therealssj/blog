@@ -10,6 +10,9 @@ categories = [
     "Statement",
 ]
 bounty = 20
+aliases = [
+	"/statement/obelisk-consensus-algorithm-design-motivations/"
+]
 +++
 
 *This is an archived post from the bitcointalks thread on June 19 2014*

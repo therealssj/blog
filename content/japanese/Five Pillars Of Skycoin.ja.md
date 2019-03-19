@@ -8,6 +8,9 @@ date = "2017-09-27"
 categories = [
     "Statement",
 ]
+aliases = [
+	"/ja/statement/five-pillars-of-skycoin/"
+]
 +++
 
 Skycoinプロジェクトは、既存のインターネットと並行して、既存のインターネットの上でも独立して動作する自己充足的なソフトウェア/アプリケーションプラットフォームです。

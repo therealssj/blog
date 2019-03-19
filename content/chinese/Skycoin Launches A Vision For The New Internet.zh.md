@@ -8,6 +8,9 @@ date = "2017-07-24"
 categories = [
 	"Statement",
 ]
+aliases = [
+	"/zh/statement/skycoin-launches-a-vision-for-the-new-internet"
+]
 +++
 
 经历四年发展,下一代加密货币Skycoin于七月份向公众推出。 Skycoin项目试图通过解决比特币的基础问题来推广分布式网络。

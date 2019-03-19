@@ -8,6 +8,9 @@ date = "2017-11-12"
 categories = [
     "Statement",
 ]
+aliases = [
+	"/de/statement/segwit2x/"
+]
 +++
 
 Diesen Mittwoch haben Bitcoins Entwickler die Pläne, Segwit2x einzuführen, aufgeschoben. Die 2x Aktualisierung hätte die Größe jedes Blocks von 1MB auf 2MB erhöht, und Bitcoin's Transaktionsvermögen verdoppelt. Segwit2x war schon seit mehreren Monaten geplant und hätte am 16. November in Kraft treten sollen.
@@ -16,7 +19,7 @@ Es ist offensichtlich, dass Bitcoin ein Skalierungsproblem besitzt. Segwit2x hat
 
 Allerdings hat Segwit2x auch gewisse Risiken dargestellt. Die Aktualisierung hätte einen "hard fork" in die Blockchain eingeführt, wodurch sie in zwei Stränge geteilt worden wäre. Wenn sich nicht genügend User dazu entschieden hätten, das 2x Update zu benutzen, wären aus Bitcoin womöglich zwei konkurrierende Währungen entstanden, verbunden mit dem potenziellen Verlust von Geldanlagen. Dieser Risikofaktor hat die Segwit2x Entwickler dazu getrieben, das Update abzubrechen.
 
-Die Absage wurde in einer E-Mail von BitGo CEO Mike Belshe angekündigt. Die Nachricht wurde ebenso von fünf anderen CEOs des Segwit2x Entwicklerteams unterzeichnet: Wences Casares, Jihan Wu, Peter Smith, Erik Voorhees, und Jeff Garzik. 
+Die Absage wurde in einer E-Mail von BitGo CEO Mike Belshe angekündigt. Die Nachricht wurde ebenso von fünf anderen CEOs des Segwit2x Entwicklerteams unterzeichnet: Wences Casares, Jihan Wu, Peter Smith, Erik Voorhees, und Jeff Garzik.
 
 In der E-Mail schrieb Belshe:
 

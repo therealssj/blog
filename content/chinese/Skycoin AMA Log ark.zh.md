@@ -9,6 +9,9 @@ categories = [
     "Statement",
 ]
 description = "Log of AMA with Skycoin held at ark.io/slack/ (from 2017-07-02)"
+aliases = [
+	"/zh/ask-the-developers/skycoin-ama-log-ark/"
+]
 +++
 
 *2017年7月2日，原链接 [ark.io slack](https://ark.io/slack/)*

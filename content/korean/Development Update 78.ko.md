@@ -8,6 +8,9 @@ categories = [
     "Development Updates",
 ]
 description = "스카이코인 관련 최신 개발동향 소개"
+aliases = [
+	"/ko/development-updates/development-update-78/"
+]
 +++
 
 Golang 1.5가 지금부터 안드로이드와 아이폰에서 지원됩니다.

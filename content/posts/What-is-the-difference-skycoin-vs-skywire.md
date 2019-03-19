@@ -10,6 +10,9 @@ categories = [
     "Infographics",
 ]
 image = "img/What-is-the-difference-skycoin-vs-skywire.jpg"
+aliases = [
+	"/infographics/what-is-the-difference-skycoin-vs-skywire"
+]
 +++
 
 ## What’s the difference between Skycoin and Skywire?

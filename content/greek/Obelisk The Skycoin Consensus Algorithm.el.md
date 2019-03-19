@@ -8,6 +8,9 @@ categories = [
     "Statement",
 ]
 image = "img/obelisk-the-skycoin-consensus-algorithm.png"
+aliases = [
+	"/el/statement/obelisk-the-skycoin-consensus-algorithm"
+]
 +++
 
 Το blockchain του Skycoin κάνει χρήση ενός νέου τύπου αλγόριθμου συναίνεσης

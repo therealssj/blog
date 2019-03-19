@@ -9,6 +9,9 @@ categories = [
     "Development Updates",
 ]
 description = "Release notes highlighting the current development behind Skycoin."
+aliases = [
+	"/development-updates/development-update-53/"
+]
 +++
 
 Overall, the architecture is very good. However, the details need polish. This involves removing code and simplifying, removing unnecessary things. I don't feel like the Bitcoin API has changed in five years. You still cannot check balances and get outputs for an address not in your wallet, in Bitcoin. So in some sense, the Skycoin API has evolved faster than in two days than Bitcoin did since launch.

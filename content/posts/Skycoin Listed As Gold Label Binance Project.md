@@ -4,6 +4,9 @@ tags = [ "Announcements", ]
 bounty = 0
 date = "2018-12-01"
 categories = [ "Statement", ]
+aliases = [
+	"/statement/skycoin-listed-as-gold-label-binance-project"
+]
 +++
 
 Skycoin is proud to announce the inclusion of SKY as one of the first-round projects for Binance Info's "Gold Label Project." Skycoin community and Binance users will now have the ability to receive the latest updates and information about the Skycoin project through this platform. More information can be found in the following link, the Skycoin page on Binance Info, https://info.binance.com/en/currencies/skycoin

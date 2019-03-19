@@ -9,6 +9,9 @@ categories = [
     "Development Updates",
 ]
 description = "Release notes highlighting the current development behind Skycoin."
+aliases = [
+	"/development-updates/development-update-46/"
+]
 +++
 
 The coin was done in January. The only difference if we launched today would be the coin would be trading. There are a few things missing on github, so no one can compile it and launch it before us, without knowing how to program.

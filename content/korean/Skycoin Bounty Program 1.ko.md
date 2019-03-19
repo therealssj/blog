@@ -7,6 +7,9 @@ date = "2017-08-27"
 categories = [
     "Statement",
 ]
+aliases = [
+	"/ko/statement/skycoin-bounty-program-1"
+]
 +++
 
 *Updated August 20, 2017. Remove GIF bounties.*

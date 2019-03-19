@@ -10,7 +10,9 @@ categories = [
     "Skywire",
     "Statement",
 ]
-description = ""
+aliases = [
+	"/fr/statement/skywire-a-free-and-open-internet/"
+]
 +++
 
 Internet nous donne l'illusion de contrôle. Nous pouvons socialiser, consommer et faire des affaires instantanément grâce aux services fournis par Google, Facebook, Apple et Amazon. Cela semble pratique, n'est-ce pas ? Ca l'est - jusqu'à ce que vous considériez ce que à quoi vous renoncez.
@@ -29,7 +31,7 @@ Il est temps de reprendre le contrôle. Internet devrait être une ressource pub
 
 Un Internet gratuit offre des avantages qui vont au-delà de l'expérience de l'utilisateur. Cela fournit une plateforme pour l'innovation. Les développeurs peuvent créer librement sans être étouffés par les grandes entreprises qui imposent leur loi. Lorsque tous les sites sont traités de manière égale, le public bénéficie d'une transparence accrue et d'informations sur des sujets allant de la politique à la santé. La créativité peut s'épanouir. L'art devient accessible à une population démographique plus large. Des perspectives diverses peuvent se répandre et se faire entendre. La liberté d'expression peut prospérer. Les utilisateurs peuvent choisir leur propre expérience et créer leur propre contenu, plutôt que de consommer une offre limitée de produits d'entreprise.
 
-La technologie peer-to-peer offre également des avantages de sécurité. Il libère les utilisateurs en leur permettant d'agir sans crainte de surveillance. Il s'agit d'un changement révolutionnaire qui améliorerait profondément l'expérience en ligne. Avec une navigation et des transactions privées, sécurisées et anonymes, Skywire redistribue les règles du jeux en redonnant le pouvoir aux utilisateurs. 
+La technologie peer-to-peer offre également des avantages de sécurité. Il libère les utilisateurs en leur permettant d'agir sans crainte de surveillance. Il s'agit d'un changement révolutionnaire qui améliorerait profondément l'expérience en ligne. Avec une navigation et des transactions privées, sécurisées et anonymes, Skywire redistribue les règles du jeux en redonnant le pouvoir aux utilisateurs.
 
 Dans le paysage Internet actuel, les entreprises et les organismes gouvernementaux suivent constamment les transactions en ligne. Ils collectent des données personnelles et les stockent à des fins de marketing ou à des fins peu louables. Mais la collecte de données a également un effet plus insidieux: elle supprime la personnalité en ligne, transformant les utilisateurs en nombres. En mettant notre confiance aveuglément chez des tiers, nous leur donnons la possibilité d'exploiter nos données à des fins lucratives. Nous perdons la propriété du contenu que nous créons et des actions que nous prenons. Bref, nous renonçons à notre vie privée.
 

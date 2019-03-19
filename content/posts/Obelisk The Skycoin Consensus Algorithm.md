@@ -9,6 +9,9 @@ categories = [
     "Statement",
 ]
 image = "img/obelisk-the-skycoin-consensus-algorithm.png"
+aliases = [
+	"/statement/obelisk-the-skycoin-consensus-algorithm"
+]
 +++
 
 The Skycoin blockchain makes use of a novel type of consensus algorithm

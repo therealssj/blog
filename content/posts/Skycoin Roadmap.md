@@ -9,5 +9,8 @@ categories = [
     "Infographics",
 ]
 image = "img/Skycoin%2BRoadmap-Mobile-2017-1-01.jpg"
+aliases = [
+	"/infographics/skycoin-roadmap/"
+]
 +++
 

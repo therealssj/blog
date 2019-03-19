@@ -9,6 +9,9 @@ categories = [
     "Skywire",
     "Statement",
 ]
+aliases = [
+	"/ja/statement/skycoin-vs-skywire/"
+]
 +++
 
 SkycoinとSkywireはSkycoinプロジェクトにおいて二つの別々の要素です。

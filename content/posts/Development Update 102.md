@@ -10,6 +10,9 @@ categories = [
     "Development Updates",
 ]
 description = "Release notes highlighting the current development behind Skycoin."
+aliases = [
+	"/development-updates/development-update-102/"
+]
 +++
 
 The first packet over the VPN, connected through the meshnet worked yesterday.

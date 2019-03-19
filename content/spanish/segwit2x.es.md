@@ -8,21 +8,24 @@ date = "2017-11-12"
 categories = [
     "Statement",
 ]
+aliases = [
+	"/es/statement/segwit2x/"
+]
 +++
 
-El miércoles, los desarrolladores de Bitcoin suspendieron los planes de introducir la controversial actualización de software Segwit2x. La actualización 2x habría incrementado el tamaño de cada bloque, de 1MB a 2MB, duplicando la capacidad de Bitcoin para realizar transacciones. Segwit2x ha sido planeada durante varios meses y debía entrar en vigencia alrededor del 16 de noviembre. 
+El miércoles, los desarrolladores de Bitcoin suspendieron los planes de introducir la controversial actualización de software Segwit2x. La actualización 2x habría incrementado el tamaño de cada bloque, de 1MB a 2MB, duplicando la capacidad de Bitcoin para realizar transacciones. Segwit2x ha sido planeada durante varios meses y debía entrar en vigencia alrededor del 16 de noviembre.
 
-Es evidente que Bitcoin tiene un problema de escalabilidad. Segwit2x estaba destinada a resolver ese problema mediante un incremento del tamaño de los bloques. Con bloques más grandes, las transacciones podrían fluir más rápido y la moneda podría manejar un crecimiento continuo. 
+Es evidente que Bitcoin tiene un problema de escalabilidad. Segwit2x estaba destinada a resolver ese problema mediante un incremento del tamaño de los bloques. Con bloques más grandes, las transacciones podrían fluir más rápido y la moneda podría manejar un crecimiento continuo.
 
 Sin embargo, Segwit2x también suponía ciertos riesgos. La actualización habría introducido un hard fork en el blockchain, dividiéndolo en dos. Si un número insuficiente de usuarios opta por adoptar la actualización 2x, Bitcoin podría dividirse en dos monedas competidoras, lo que podría resultar en la pérdida de fondos. Este factor de riesgo llevó a los desarrolladores de Segwit2x a cancelar la actualización.
 
-La cancelación fue anunciada en un correo electrónico del CEO de BitGo, Mike Belshe. El mensaje fue firmado por otros cinco CEOs del equipo de desarrollo de Segwit2x: Wences Casares, Jihan Wu, Peter Smith, Erik Voorhees y Jeff Garzik. 
+La cancelación fue anunciada en un correo electrónico del CEO de BitGo, Mike Belshe. El mensaje fue firmado por otros cinco CEOs del equipo de desarrollo de Segwit2x: Wences Casares, Jihan Wu, Peter Smith, Erik Voorhees y Jeff Garzik.
 
 En el correo electrónico, Belshe escribió:
 
 >“Continuar en el camino actual podría dividir a la comunidad y ser un revés para el crecimiento de Bitcoin. Este nunca fue el objetivo de Segwit2x.”
 
-Está claro por qué se canceló la actualización: demasiada controversia, falta de consenso (al menos eso es lo que dicen los desarrolladores). Pero una cosa de la que nadie parece estar hablando es de cómo se canceló la actualización, y qué dice esa decisión acerca de Bitcoin en general. 
+Está claro por qué se canceló la actualización: demasiada controversia, falta de consenso (al menos eso es lo que dicen los desarrolladores). Pero una cosa de la que nadie parece estar hablando es de cómo se canceló la actualización, y qué dice esa decisión acerca de Bitcoin en general.
 
 Bitcoin se posicionó inicialmente como una red descentralizada donde los usuarios podían realizar transacciones libremente sin interferencia de terceros o manipulación por parte de poderes centralizados. Sin embargo, la decisión de suspender Segwit2x fue tomada por tan solo seis desarrolladores. No hubo voto. La comunidad de Bitcoin no llegó a un consenso – en cambio, la decisión fue tomada para ellos.
 
@@ -34,7 +37,7 @@ Los problemas de monopolización de Bitcoin derivan de un defecto de diseño bá
 
 Skycoin está diseñada específicamente para solucionar estos problemas. Es una criptomoneda de siguiente generación que elimina los requisitos de minería y proporciona una blockchain completamente descentralizada. Las decisiones de red no son tomadas por unas pocas personas poderosas, sino por la comunidad como un todo. Con el consenso de igual a igual, Skycoin protege a los usuarios contra el tipo de manipulación que estamos viendo hoy en Bitcoin.
 
-Skycoin logra consenso mediante un novedoso algoritmo llamado Obelisk. Este algoritmo propaga la influencia a través del sistema mediante una "red de confianza". La red de confianza mantiene la honestidad del sistema al proporcionar transparencia para sus usuarios. 
+Skycoin logra consenso mediante un novedoso algoritmo llamado Obelisk. Este algoritmo propaga la influencia a través del sistema mediante una "red de confianza". La red de confianza mantiene la honestidad del sistema al proporcionar transparencia para sus usuarios.
 
 Cada nodo en la red de Skycoin se suscribe a otros nodos. A los nodos se les asignan blockchains personales que difunden públicamente sus acciones. La comunidad puede ver y auditar los nodos. Si un nodo se comporta de manera sospechosa o maliciosa, sus conexiones se pueden cortar, disminuyendo su influencia. Obelisk fortalece la toma de decisiones colectiva y crea una red que se basa en las relaciones, no en el poder de procesamiento.
 

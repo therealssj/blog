@@ -11,39 +11,41 @@ categories = [
     "Overview",
     "Übersicht"
 ]
+aliases = [
+	"/de/overview/skywire-skycoin-meshnet-project"
+]
 +++
 
 ![Skywire: The New Internet](https://i.imgur.com/9Jk0gLe.jpg)
 
 <!-- MarkdownTOC autolink="true" bracket="round" -->
 
-- [Einführung](#einführung)
-- [Routing: Überblick](#routing-überblick)
-- [Belohnungen: Bezahlprokotoll](#belohnungen-Bezahlprokotoll)
-- [Source Routing: Link Layer-Verschlüsselung](#source-routing-link-layer-verschlüsselung)
-    - [Beispielprotokoll: Knoten `A` und `B`](#beispielprotokoll-knoten-a-und-b)
-    - [Mögliche Verbesserungen:](#mögliche-verbesserungen) 
+- [Einführung](#einf%C3%BChrung)
+- [Routing: Überblick](#routing-%C3%9Cberblick)
+- [Belohnungen: Bezahlprokotoll](#belohnungen-bezahlprokotoll)
+- [Source Routing: Link Layer-Verschlüsselung](#source-routing-link-layer-verschl%C3%BCsselung)
+	- [Beispielprotokoll: Knoten `A` und `B`](#beispielprotokoll-knoten-a-und-b)
+	- [Mögliche Verbesserungen:](#m%C3%B6gliche-verbesserungen)
 - [IPv4 Gateway: Existierende ISPs umgehen](#ipv4-gateway-existierende-isps-umgehen)
-    - [Beispiel Eins](#beispiel-eins)
-    - [Beispiel Zwei](#beispiel-zwei)
+	- [Beispiel Eins](#beispiel-eins)
+	- [Beispiel Zwei](#beispiel-zwei)
 - [Skywire Daemon Services Architecture](#skywire-daemon-services-architecture)
-    - [Beispiel-Service: Blockchain-Synchronisation](#beispiel-service-blockchain-synchronisation)
-        - [Peers finden](#peers-finden)
-        - [Senden und Empfangen von Nachrichten](#senden-und-empfangen-von-nachrichten)
+	- [Beispiel-Service: Blockchain-Synchronisation](#beispiel-service-blockchain-synchronisation)
 - [Multihome Routing und Link Aggregation](#multihome-routing-und-link-aggregation)
 - [Meshnet Routing: Store-and-Forward-Verfahren](#meshnet-routing-store-and-forward-verfahren)
-- [Store-and-Forward-Verfahren: Kapazitätsnutzung](#store-and-forward-verfahren-kapazitätsnutzung)
+- [Store-and-Forward-Verfahren: Kapazitätsnutzung](#store-and-forward-verfahren-kapazit%C3%A4tsnutzung)
 - [Store-and-Forward-Verfahren: Beispiele](#store-and-forward-verfahren-beispiele)
-    - [Beispiel des üblichen Ablaufs](#beispiel-des-üblichen-ablaufs)
-    - [Beispiel mit Überlastung](#beispiel-mit-überlastung)
-    - [Beispiel mit Paketverlust](#beispiel-mit-paketverlust)
-- [Store-and-Forward-Verfahren: Verzögerungs-Bandbreiten-Produkt](#store-and-forward-verfahren-verzögerungs-bandbreiten-produkt)
-- [Store-and-Forward-Verfahren: Kapazitätsnutzung, Qualität und Service](#store-and-forward-verfahren-kapazitätsnutzung-qualität-und-service)
-- [Source Routing: Mobile Konnektivität für mehrere Routen](#source-routing-mobile-konnektivität-für-mehrere-routen)
-- [Source Routing: Guard-Knoten](#source-routing-guard—knoten)
+	- [Beispiel des üblichen Ablaufs](#beispiel-des-%C3%BCblichen-ablaufs)
+	- [Beispiel mit Überlastung](#beispiel-mit-%C3%9Cberlastung)
+	- [Beispiel mit Paketverlust](#beispiel-mit-paketverlust)
+- [Store-and-Forward-Verfahren: Verzögerungs-Bandbreiten-Produkt](#store-and-forward-verfahren-verz%C3%B6gerungs-bandbreiten-produkt)
+- [Store-and-Forward-Verfahren: Kapazitätsnutzung, Qualität und Service](#store-and-forward-verfahren-kapazit%C3%A4tsnutzung-qualit%C3%A4t-und-service)
+- [Source Routing: Mobile Konnektivität für mehrere Routen](#source-routing-mobile-konnektivit%C3%A4t-f%C3%BCr-mehrere-routen)
+- [Source Routing: Zuverlässigkeit für mehrere Route](#source-routing-zuverl%C3%A4ssigkeit-f%C3%BCr-mehrere-route)
+- [Source Routing: Guard-Knoten](#source-routing-guard-knoten)
 - [Source Routing: Grenzen von BGP](#source-routing-grenzen-von-bgp)
 - [Virtuelle Routen: Skywire Network Topology skaliert](#virtuelle-routen-skywire-network-topology-skaliert)
-- [Source Routing: Virtual Routen, SONET Topology](#source-routing-virtual-routen-sonet-topology)
+- [Source Routing: Virtuelle Routen, SONET Topology](#source-routing-virtuelle-routen-sonet-topology)
 - [Source Routing: Asymmetrische Verbindung](#source-routing-asymmetrische-verbindung)
 - [Source Routing: Routenermittlung](#source-routing-routenermittlung)
 
@@ -86,7 +88,7 @@ Der Kern eines Overlay-Netzes ist eine Menge von Knoten.
 
 * Jeder Knoten wird durch einen Public Key Hash identifiziert
 * Jeder Knoten empfängt Nachrichten und leitet Nachrichten weiter
-* Knoten erhalten Coins 
+* Knoten erhalten Coins
 
 Kommunikation von Knoten A zu C durch Knoten B:
 * Knoten `A` verbindet sich zu Knoten `B` und stellt eine Route her
@@ -129,7 +131,7 @@ Skywire präfixt ein Paket einfach mit der Route-ID.
 Hinweise:
 * Das Ziel kennt nicht die Identität des Ursprungs. Identität ist nicht länger in der Routing Layer, sondern auf der Application Layer. Identität muss durch eine Public Key Infrastructur bestätigt werden.
 * Man-in-middle-Attacken sind nicht möglich. Eine Quelle kann das Ziel durch ihren Public Key identifzieren.
-* Privatsphäre ist gegenüber IPv4 signifikant verbessert, da jeder, der mit dem Paket zu tun hatte, das Ziel, die Quelle und den Inhalt des Pakets sehen konnte. 
+* Privatsphäre ist gegenüber IPv4 signifikant verbessert, da jeder, der mit dem Paket zu tun hatte, das Ziel, die Quelle und den Inhalt des Pakets sehen konnte.
 * Die Perfomanz ist verbessert im Vergleich zu IPv4/BGP, weil ISPs Hot Potato Routing verwenden.
 * Ende-zu-Ende-Verschlüsselung eliminiert Packet Injection Attacks und Spoofing. Spoofing von Traffic erfordert die privaten Schlüssel von beiden Enden der Tunnelverbindung.
 * Verschüsselung ist schnell. Ziel sind 10 Gb/s Durchsatz auf FPGA Hardware und 200 mb/s auf ARM.
@@ -173,7 +175,7 @@ Der Session-Schlüssel, der über Public Key Cryptography (ECC) ausgetauscht wir
 - Knoten `A` generiert ein ephemeral öffentlichen Schlüssel `Q` mit dem privaten Schlüssel `q`. (Knoten `A` generiert zufällig ein 20 Byte Integer. Dies ist der öffentliche Schlüssel `q`. Knoten `A` rechnet den Basispunkt hoch `q`, um den privaten Schlüssel `Q` zu generieren, der ein Punkt der Kurve ist).
 - Knoten `A` sendet, `P`*`q` (der Punkt auf der Kurve `P`, der `B`s öffentlicher Schlüssel hoch `q` ist)
 - Knoten `A` sendet `P` zu Knoten `B`
-- Knoten `B` empfängt `P` und errechnet `P*q`, Knoten `A` kann `p*Q` berechnen. Beide sind gleich. Dies ist ein Shared Secret, welches gehasht wird, um ein Session Key zu zeugen. 
+- Knoten `B` empfängt `P` und errechnet `P*q`, Knoten `A` kann `p*Q` berechnen. Beide sind gleich. Dies ist ein Shared Secret, welches gehasht wird, um ein Session Key zu zeugen.
 - `P = b*q`, also `P*q` ist identisch zu `(b*p)*q`. `P*q = (b*p)*q = (b*q)*p = Q*p`, da `Q=b*q`. `A` kennt `q,Q` und `P` und `B` kennt `p,P` und `Q`. Daher können `A` und `B` beide `P*q` und `Q*p` berechnen und dies als Shared Secret verwenden. Eine dritte Partei kennt weder den privaten Schlüssel `q` für `A` noch den privaten Schlüssel `p` für `B`. Daher kann eine dritte Partei das Shared Secret nicht berechnen und daher auch keine mit dem Shared Secret verschlüsselten Daten lesen.
 - Knoten `B` bestätigt den Erhalt der Aktualisierung des Session Keys. Knoten `A` beginnt mit dem neuen Session Key zu senden, so bald die Bestätigung von `B` erhalten wird.
 - Knoten `A`, sendet verschlüsselte Nachrichten zu Knoten `B` und nutzt ChaCha20 als symmetrische Verschlüsselung, welches den Session Key nutzt.
@@ -190,19 +192,19 @@ Der Session-Schlüssel, der über Public Key Cryptography (ECC) ausgetauscht wir
 
 Viele Menschen haben nur eine Wahl für ihren ISPs. Dies beschreibt kurz wie Skywire den Wettbewerb erhöhen kann.
 
-Manche Anwendungen können nativ im Skywire Adressraum ausgeführt werden. Manche Anwendungen wie Bittorrent, Filesynchronisation und Kommunkationsanwendungen profitieren sehr stark von der Skywire Infrastruktur und werden so angepasst werden, dass diese nativ darauf betrieben werden. 
+Manche Anwendungen können nativ im Skywire Adressraum ausgeführt werden. Manche Anwendungen wie Bittorrent, Filesynchronisation und Kommunkationsanwendungen profitieren sehr stark von der Skywire Infrastruktur und werden so angepasst werden, dass diese nativ darauf betrieben werden.
 
 Legacy-Anwendungen, wie Netflix, Facebook und Twitter benötigen ein Netzwerk Gateway als Schnittstelle zum Skywire Netz mit IPv4 und IPv6 Netzwerken.
 
-Ein Nutzer wählt ein Skywire Gateway, welches auf einem Server in einem lokalen Zentrum betrieben wird. Der IPv4-Traffic des Nutzers wird durch das Gateway (vergleichbar mit einem VPN) getunnelt. Die Nutzer IP wird als die IP des Gateway servers erscheinen. Der Server hat eine Gigabit-Verbindung zu meheren Internet Backbones bei Providern, die die Netflix-Raten nicht beschränken. Der Nutzer hat mehrere Wahlmöglichkeiten an Providern für Skywire IPv4 Gateways. Der Gateway Provider wird mit Skycoins auf Basis einer Messgröße bezahlt. 
+Ein Nutzer wählt ein Skywire Gateway, welches auf einem Server in einem lokalen Zentrum betrieben wird. Der IPv4-Traffic des Nutzers wird durch das Gateway (vergleichbar mit einem VPN) getunnelt. Die Nutzer IP wird als die IP des Gateway servers erscheinen. Der Server hat eine Gigabit-Verbindung zu meheren Internet Backbones bei Providern, die die Netflix-Raten nicht beschränken. Der Nutzer hat mehrere Wahlmöglichkeiten an Providern für Skywire IPv4 Gateways. Der Gateway Provider wird mit Skycoins auf Basis einer Messgröße bezahlt.
 
 Der Skywire-Knoten im Haus des Nutzers verbindet sich zu dem Gateway über alle möglichen Routen. Der Skywire-Knoten tunnelt den IPv4-Traffic von einem Router zu einem Gateway im Colocation Zentrum. Die IP-Adresse des Gateway-Knotens erscheint als IP-Adresse für den Nutzer.
 
 ### Beispiel Eins
 
-Ein Nutzer hat ein 10 Mb/s Kabelmodem. Sie installieren einen Skywire Router. Der Router ist mit ihrem Computer, einem Skywire Wifi-Knoten und dem Kabelmodem verbunden. Der Router ist als Skywire IPv4-Tunnel konfiguriert. Sie stecken den Computer in den Router. 
+Ein Nutzer hat ein 10 Mb/s Kabelmodem. Sie installieren einen Skywire Router. Der Router ist mit ihrem Computer, einem Skywire Wifi-Knoten und dem Kabelmodem verbunden. Der Router ist als Skywire IPv4-Tunnel konfiguriert. Sie stecken den Computer in den Router.
 
-Der Skywire Wifi-Knoten verbindet sich zum Skywire Wifi-Knoten des Nachbars, der mit einem 10 Mb/s Kabelmodem verbunden ist. Der Nachbar hat auch eine direktionale Punkt-zu-Punkt-Verbindung mit 200 Mb/s 5 GHz Wifi, die sich mit einem Skywire Wifi-Knoten am Ende der Straße verbindet, wo ein Geschäft betrieben wird. 
+Der Skywire Wifi-Knoten verbindet sich zum Skywire Wifi-Knoten des Nachbars, der mit einem 10 Mb/s Kabelmodem verbunden ist. Der Nachbar hat auch eine direktionale Punkt-zu-Punkt-Verbindung mit 200 Mb/s 5 GHz Wifi, die sich mit einem Skywire Wifi-Knoten am Ende der Straße verbindet, wo ein Geschäft betrieben wird.
 
 Der Skywire Knoten des Nutzers führt eine rekursive Ersten-Suche für Knoten mit Klarnetzverbindung durch und stellt Routen her über
 

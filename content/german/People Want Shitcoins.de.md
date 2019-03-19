@@ -7,10 +7,13 @@ date = "2017-09-05"
 categories = [
     "Ask the Developers",
 ]
+aliases = [
+	"/de/ask-the-developers/people-want-shitcoins/"
+]
 +++
 *Auszug aus dem Telegram-Channel*
 
-> Frage: 
+> Frage:
 Wenn Skycoin wirklich so gut ist, würde ich es definitiv für mein Unternehmen verwenden, aber wo können wir die Beweise dafür sehen? Tests und das Ganze? Gibt es eine Website mit weiteren Informationen und Daten? Ist das Netzwerk bereits durch viele Knoten geschützt, also strapazierfähig?
 
 Die Leute möchten Shitcoins.
@@ -31,9 +34,9 @@ Skycoin macht gute Fortschritte mit der Hardware, den Anwendungen und bezüglich
 
 Unsere Plattform entwickelt sich ebenfalls sehr gut. Unternehmen sagen zu uns "Warum sollten wir Ethereum verwenden und all unsere Daten auf eine gemeinschaftliche Blockchain mit 500,000 Shitcoins packen, wenn Skyledger uns UNSERE EIGENE Blockchain gibt". Letztere Möglichkeit ist offensichtlich die Bessere.
 
-Niemand versucht jedes einzelnes Unternehmen der Erde in dieselbe SQL-Datenbank zu packen, warum sollte man dies also mit der Blockchain-Technologie machen? 
+Niemand versucht jedes einzelnes Unternehmen der Erde in dieselbe SQL-Datenbank zu packen, warum sollte man dies also mit der Blockchain-Technologie machen?
 
-Die andere Sache ist die, dass unsere logische Programmiersprache (application business logic language) gute Fortschritte in der Entwicklung macht. 
+Die andere Sache ist die, dass unsere logische Programmiersprache (application business logic language) gute Fortschritte in der Entwicklung macht.
 
 Ethereums Vertragssprache liest sich, als wäre sie von Kindern geschrieben worden. Endloses Geschwafel über zehn oder hunderte Millionen, die diese Woche wieder gestohlen wurden.
 

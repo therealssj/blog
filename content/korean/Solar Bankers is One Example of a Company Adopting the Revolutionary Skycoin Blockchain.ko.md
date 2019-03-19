@@ -10,6 +10,9 @@ categories = [
     "Statement",
     "Skyledger",
 ]
+aliases = [
+	"/ko/statement/solar-bankers-is-one-example-of-a-company-adopting-the-revolutionary-skycoin-blockchain/"
+]
 +++
 
 더 나은 속도, 향상된 보안, 향상된 개인정보보호 - 스카이코인은 오픈소스 플랫폼을 통해 이러한 모든 이점을 제공합니다. 스카이코인을 지원하는 혁신적인 기술은 모든 사람들이 이용할 수 있습니다. 오늘날, 점점 더 많은 회사들이 스카이코인의 혜택에 주목하고 있으며, 사업을 구축하기 위해 그것을 사용하고 있습니다.

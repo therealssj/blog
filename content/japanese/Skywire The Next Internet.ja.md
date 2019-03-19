@@ -11,6 +11,9 @@
     "Skyminer",
  ]
 image = "img/skywire-the-next-internet.png"
+aliases = [
+	"/ja/skywire/skywire-the-next-internet"
+]
 +++
 
  2017年の春、FCC（アメリカ連邦通信委員会）はインターネットサービスプロバイダ（ISP）がユーザーのブラウジングに関する情報を収集・販売・使用するという提案を受け入れました。

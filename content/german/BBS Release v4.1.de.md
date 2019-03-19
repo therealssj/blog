@@ -10,6 +10,9 @@ date = "2017-09-26"
 categories = [
     "Development Updates",
 ]
+aliases = [
+	"/de/bbs/bbs-release-v4.1/"
+]
 +++
 
 Skycoin BBS v4.1 wurde veröffentlicht!
@@ -23,7 +26,7 @@ Skycoin BBS v4.1 wurde veröffentlicht!
 - Vereinfachung der Boarderstellung (board creation) und dessen Webhosting.
 - Verbesserungen der CXO Datenstruktur.
 
-Das nächste Release wird noch mehr spannende Features mit sich bringen! Schaut hier regelmäßig rein um auf dem Stand 
+Das nächste Release wird noch mehr spannende Features mit sich bringen! Schaut hier regelmäßig rein um auf dem Stand
 Dinge zu bleiben.
 
 ## Binaries

@@ -9,6 +9,9 @@ date = "2017-08-09"
 categories = [
     "Ask the Developers",
 ]
+aliases = [
+	"/ask-the-developers/remarks-on-skycoin-distribution/"
+]
 +++
 
 *Quote from: dr blowfin on August 08, 2017, 09:43:24 PM*

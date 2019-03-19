@@ -8,6 +8,9 @@ categories = [
     "Development Updates",
 ]
 description = "Release notes highlighting the current development behind Skycoin."
+aliases = [
+	"/development-updates/development-update-127/"
+]
 +++
 
 Skycoin is finally getting an order book. This took too long.

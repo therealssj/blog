@@ -10,6 +10,9 @@ date = "2017-09-25"
 categories = [
     "Statement",
 ]
+aliases = [
+	"/es/statement/the-meaning-of-aether/"
+]
 +++
 
 *Esta es una publicación archivada del hilo bitcointalks del 05 de mayo de 2014*

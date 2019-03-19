@@ -1,13 +1,16 @@
 +++
 title = "Skycoin es una criptomoneda de ultima generación"
 tags = [
-"Decentralization",
-"Ideology",
+	"Decentralization",
+	"Ideology",
 ]
 bounty = 8
 date = "2017-09-24"
 categories = [
-"Statement",
+	"Statement",
+]
+aliases = [
+	"/es/statement/skycoin-next-generation"
 ]
 +++
 
@@ -24,9 +27,9 @@ Los contratos digitales, la comunicación y la infraestructura de identidad defi
 fundación para la tercera generación. No sabemos qué aspecto tendrá la tercera generación,
 pero creemos que involucrará plataformas y aplicaciones de terceros.
 
-Es extremadamente fácil hacerle fork a una moneda de primera generación. Solo hay que 
+Es extremadamente fácil hacerle fork a una moneda de primera generación. Solo hay que
 cambiar la función hash o el nombre más el logo y luego liberarla. La primera generación fue
-sobre marketing. Bitcoin y luego Dogecoin fueron las monedas más exitosas de la primera 
+sobre marketing. Bitcoin y luego Dogecoin fueron las monedas más exitosas de la primera
 generación. Bitcoin tiene una comunidad solida, la adopción comercial y el ecosistema más fuerte.
 Dogecoin tiene la mejor comunidad, el mejor marketing y una amplia adopción entre los usuarios
 más jóvenes.
@@ -49,8 +52,8 @@ pero no se han adaptado para ejecutar su infraestructura en sistemas tipo Bitcoi
 En la tercera generación, podríamos ver nuevos bancos y páginas de intercambio que construyan
 toda su infraestructura de transacciones a partir de primitivas criptográficas, recibos y contratos.
 Un usuario de un banco tiene un recibo y contra recibo de cada transacción y sus contrapartes. El
-banco no puede robar su dinero o cambiar su saldo. El banco no puede autorizar ni falsificar un 
-recibo para enviar dinero a un tercero sin la firma criptográfica del usuario. Todos los bancos 
+banco no puede robar su dinero o cambiar su saldo. El banco no puede autorizar ni falsificar un
+recibo para enviar dinero a un tercero sin la firma criptográfica del usuario. Todos los bancos
 exponen una interfaz de programación de aplicaciones común.
 
 Lo que lleves en la cuenta no tienen que ser necesariamente divisas, pueden ser otro tipo de activos.
@@ -59,7 +62,7 @@ tipos de fiat. El sistema maneja todas las transacciones fiat de forma consisten
 
 En la tercera generación, cualquiera puede emitir bonos y opciones. Anteriormente, existía un riesgo
 de contraparte para las opciones. Solo los grandes agentes financieros podrían emitir opciones sobre
-acciones. Es menos probable que una empresa grande abandone una posición de malas opciones. En la 
+acciones. Es menos probable que una empresa grande abandone una posición de malas opciones. En la
 tercera generación, cualquiera puede emitir opciones. Las opciones son contratos digitales y el rendimiento
 del contrato de opción está garantizado por activos en custodia de terceros. Los cripto-activos se convierten
 en mecanismos contables para los activos fijos.

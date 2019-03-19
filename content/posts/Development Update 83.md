@@ -8,6 +8,9 @@ categories = [
     "Development Updates",
 ]
 description = "Release notes highlighting the current development behind Skycoin."
+aliases = [
+	"/development-updates/development-update-83/"
+]
 +++
 
 I fixed the bug! The blockchain now downloads in under 2 seconds!

@@ -8,9 +8,12 @@ date = "2017-10-09"
 categories = [
     "Statement",
 ]
+aliases = [
+	"/de/statement/skycoin-distribution-plan"
+]
 +++
 
-**Dies ist eine offizielle Ankündigung bezüglich der Handhabung der SKY-Distribution ab jetzt".
+**Dies ist eine offizielle Ankündigung bezüglich der Handhabung der SKY-Distribution ab jetzt".**
 
 Skycoins Distribution hat eine unklare Vergangenheit und wurde auf verschiedene Weisen gehandhabt.
 

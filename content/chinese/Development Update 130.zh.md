@@ -10,14 +10,17 @@ categories = [
     "Development Updates",
 ]
 description = "Release notes highlighting the current development behind 天空币."
+aliases = [
+	"/zh/development-updates/development-update-130/"
+]
 +++
 ## 天空币造市机器人:
 
-我们有一个造市机器人，将在以下交易所对天空币出价和询价 
+我们有一个造市机器人，将在以下交易所对天空币出价和询价
 
-- Poloniex 
-- C2CX 
-- Bittrex 
+- Poloniex
+- C2CX
+- Bittrex
 - Cryptopia。
 
 机器人是用java编写的，并有三种不同的交易策略，你可以设置。 它是由第三方开发的，将被公开发布。
@@ -66,11 +69,11 @@ description = "Release notes highlighting the current development behind 天空�
 
 ## 新钱包:
 
-我们完全重写钱包 
+我们完全重写钱包
 
-- 支持多个代币 
-- 瘦客户端钱包 
-- 基于字节雪球和以太坊的新UI 
+- 支持多个代币
+- 瘦客户端钱包
+- 基于字节雪球和以太坊的新UI
 - 固定钱包大小（以像素为单位），从而可以精确地控制布局以避免杂乱
 
 #### 这个钱包会:
@@ -82,16 +85,16 @@ description = "Release notes highlighting the current development behind 天空�
 
 我们还将开始开发“共识浏览器”，允许用户订阅参与协商一致的所有节点，并查看网络状态和全局共识状态。
 
-我们还必须开始开发分布式日志记录系统，允许节点记录和可选地发布公共事件，例如 
+我们还必须开始开发分布式日志记录系统，允许节点记录和可选地发布公共事件，例如
 
-- 共识状态更新 
-- 收到块时的时间 
-- 接收到事务的时间 
+- 共识状态更新
+- 收到块时的时间
+- 接收到事务的时间
 - 节点对等连接和断开连接事件
 
 这种日志记录系统将允许我们验证网络共识的数学不变量是否满足（网络分离检测，非传播事务的早期检测，块洪泛攻击的早期检测，事务洪泛攻击的早期检测）。
 
-日志记录守护程序还将实现一个远程RPC（天空币命令和控制RPC），允许使用受控或选择的远程公钥来修改软节点设置（连接池大小，连接/断开连接，交易重播），并允许我们在运行的网络上进行做网络战争。 
+日志记录守护程序还将实现一个远程RPC（天空币命令和控制RPC），允许使用受控或选择的远程公钥来修改软节点设置（连接池大小，连接/断开连接，交易重播），并允许我们在运行的网络上进行做网络战争。
 
 - 例如，如果网络被40,000个事务积压淹没，我们可能会使用命令基础设施将每个块的事务设置为10,000并清除积压。
 - 或者可能会增加交易的最小币时费用以结束垃圾(交易)攻击
@@ -115,7 +118,7 @@ description = "Release notes highlighting the current development behind 天空�
 ## 命名：
 
 我们可能会将天空币交易标准模型UXTO重命名为UXTX。
-   
+
 我们会称之为旧的Bitcoin方式UTXO。
 
 我们会称之为Ripple和Ethereum的做法“帐户模型”。

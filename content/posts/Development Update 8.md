@@ -8,6 +8,9 @@ categories = [
     "Development Updates",
 ]
 description = "Release notes highlighting the current development behind Skycoin  "
+aliases = [
+	"/development-updates/development-update-8/"
+]
 +++
 
 We are compiling binaries for the testnet. Will release binaries and instructions for running testnet from source. You will be able to get testnet coins by posting address in github thread.

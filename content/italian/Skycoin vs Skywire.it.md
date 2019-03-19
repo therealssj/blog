@@ -9,6 +9,9 @@ categories = [
     "Skywire",
     "Statement",
 ]
+aliases = [
+	"/it/statement/skycoin-vs-skywire/"
+]
 +++
 
 Skycoin e Skywire sono due componenti separate del progetto Skycoin.
@@ -48,7 +51,7 @@ maggiore sicurezza e privacy rispetto all'attuale Internet.
 Qualsiasi tipo di applicazione che funziona su Internet, può funzionare anche su
 Skywire. Video, archiviazione di file, VPN, tutto. L'uso di Skywire sarà gratuito,
 ma gli utenti possono pagare i nodi nella rete per l'inoltro del loro traffico, per ricevere
-maggiore larghezza di banda e un servizio prioritario. Ciò fornisce una domanda di Skycoins 
+maggiore larghezza di banda e un servizio prioritario. Ciò fornisce una domanda di Skycoins
 a lungo termine. Inizialmente, il Progetto Skycoin utilizzerà alcune delle monete non distribuite
 per sovvenzionare gli operatori di nodi sulla rete Skywire e per farlo funzionare.
 Nel corso del tempo, la sovvenzione sarà sostituita dagli utenti che si collegano alla rete per le

@@ -10,6 +10,9 @@ categories = [
     "Infographics",
 ]
 image = "img/What-do-you-think-about-Bitcoin.jpg"
+aliases = [
+	"/ja/infographics/what-do-you-think-about-bitcoin"
+]
 +++
 
 ## Bitcoinは素晴らしかった

@@ -10,6 +10,9 @@ categories = [
     "Development Updates",
 ]
 description = "Release notes highlighting the current development behind Skycoin."
+aliases = [
+	"/development-updates/development-update-92/"
+]
 +++
 
 ###### There are three major goals/milestones right now:

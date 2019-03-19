@@ -10,6 +10,9 @@ categories = [
     "Infographics",
 ]
 image = "img/Skycoin-Bounty-Program.jpg"
+aliases = [
+	"/infographics/skycoin-bounty-program/"
+]
 +++
 
 ## Below you can find out, how to join to the Bounty Program and contribute to the platform growth.

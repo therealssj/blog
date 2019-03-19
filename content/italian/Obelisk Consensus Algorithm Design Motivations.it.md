@@ -10,6 +10,9 @@ categories = [
     "Statement",
 ]
 bounty = 20
+aliases = [
+	"/it/statement/obelisk-consensus-algorithm-design-motivations/"
+]
 +++
 
 *Questo è un post archiviato da una discussione sul forum BitcoinTalks del 19 giugno 2014*
@@ -24,7 +27,7 @@ bounty = 20
 
 >>>>Aggiornamento di sviluppo:
 
->>>>Abbiamo scoperto un modo per prevenire un attacco Sybil usando un sistema 
+>>>>Abbiamo scoperto un modo per prevenire un attacco Sybil usando un sistema
 >>>>Proof of Stake ibrido.
 
 >>>>Per creare un nodo, devi dimostrare di avere monete. Diciamo 10 monete. Invii 10 monete ad un indirizzo A e si inviano le 10 monete dall'indirizzo A all'indirizzo B. Poi aggiungi una firma usando la chiave pubblica nell'indirizzo A per firmare un messaggio nella blockchain di Obelisk.
@@ -58,7 +61,7 @@ bounty = 20
 Si.
 
 Skycoin ha una blockchain. La blockchain si trova qui:
-https://github.com/skycoin/skycoin/tree/develop/src/coin. 
+https://github.com/skycoin/skycoin/tree/develop/src/coin.
 Questo analizza i blocchi e tratta gli output e le transazioni non spese.
 
 Skywire è il "Daemon", e ha una "architettura di servizio". È in grado di eseguire servizi come la sincronizzazione blockchain e altro. La rete mesh è attualmente in fase di implementazione come servizio su skywire (anche se potrebbe dover cambiare).

@@ -11,6 +11,9 @@ date = "2017-10-03"
 categories = [
     "Statement",
 ]
+aliases = [
+	"/de/statement/getting-to-where-we-think-bitcoin-should-be/"
+]
 +++
 
 *Dies ist ein archivierter Post aus dem Bitcointalksthread vom 23. April 2014.*
@@ -24,7 +27,7 @@ Wenn man die anderen Top-Coins betrachtet, Peer Coin, Ripple, Bitcoin, Nxt, Lite
 - Bitcoin war der erste, der Proof of Work eingesetzt hat.
 - Litecoin war der erste, der die Hashfunktion Scrypt angewendet hat.
 - Peer Coin hat Proof of Stake in den Verkehr gebracht.
-- Ripple hat ein Model zum relationalen Konsens vorgestellt, was fehlerhaft aber innovativ ist. 
+- Ripple hat ein Model zum relationalen Konsens vorgestellt, was fehlerhaft aber innovativ ist.
   Hat ebenso eine neue Codebasis.
 - Nxt hat reines Proof of Stake in den Verkehr gebracht. Hat ebenso eine neue Codebasis.
 - Namecoin hat das schlüsselbasierte Speichern auf der Blockchain eingeführt.
@@ -46,7 +49,7 @@ Skycoin hat ein fundemental neues Konsens-Model entwickelt, dass an und für sic
 
 Das Konsens-Model alleine für sich wird sich schon gut schlagen. Vorrangige Attacken, die Bitcoin-Exchanges betreffen oder der Missbrauch von Minern, könnte die Leute weg von PoW hin zu Coins wie Skycoin führen, welche garantieren gegen Attacken, die Transaktionen umkehren, geschützt zu sein.
 
-Wir wussten von Transaktionsgestaltbarkeit schon vor drei Jahren und es wurde die Entscheidung getroffen, dass Bitcoin nicht repariert wird. Jedenfalls solange, bis sie benutzt wurde um Coins zu stehlen. Wir wissen über viele der theoretischen Attacken gegen Bitcoin Bescheid, welche nun immer wahrscheinlicher mit dem Anstieg des Werts des Coins werden. 
+Wir wussten von Transaktionsgestaltbarkeit schon vor drei Jahren und es wurde die Entscheidung getroffen, dass Bitcoin nicht repariert wird. Jedenfalls solange, bis sie benutzt wurde um Coins zu stehlen. Wir wissen über viele der theoretischen Attacken gegen Bitcoin Bescheid, welche nun immer wahrscheinlicher mit dem Anstieg des Werts des Coins werden.
 Wenn man Routerexploits nutzen kann um Router, welche den Traffic von Bitcoin-Knoten weiterleiten, zu hacken, dann kann man das Netzwerk für diesen Knoten abzweigen und die Coins von Exchanges, Banken und Wettseiten stehlen.
 
 Skycoin ist gegen all diese Schwachstellen von Bitcoin abgehärtet. Wir waren immun gegenüber Transaktionsgestaltbarkeit, bevor die Attacken gegen Bitcoin überhaupt begonnen haben. Wir haben von Beginn an Hashkollisionen überprüft und mussten es nicht zusammenflicken. Wenn jemand eine umfassende SHA256 Urbildattacke entwickelt, dann ist Bitcoin tot und Skycoin wird vermutlich noch weiter bestehen.

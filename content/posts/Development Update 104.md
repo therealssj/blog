@@ -10,6 +10,9 @@ categories = [
     "Development Updates",
 ]
 description = "Release notes highlighting the current development behind Skycoin."
+aliases = [
+	"/development-updates/development-update-104/"
+]
 +++
 
 The builds are on the website, www.skycoin.net

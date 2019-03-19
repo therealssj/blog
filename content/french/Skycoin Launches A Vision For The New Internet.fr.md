@@ -1,13 +1,16 @@
-+++ 
++++
 title = "Skycoin lance une vision du Nouvel Internet"
-tags = [ 
-  "Statement", 
-] 
-date = "2017-07-24" 
-categories = [ 
+tags = [
   "Statement",
-] 
-description = "Skycoin lance une vision du Nouvel Internet" 
+]
+date = "2017-07-24"
+categories = [
+  "Statement",
+]
+description = "Skycoin lance une vision du Nouvel Internet"
+aliases = [
+	"/fr/statement/skycoin-launches-a-vision-for-the-new-internet"
+]
 +++
 
 Skycoin, une Crypto-Monnaie nouvelle génération en développement depuis plus de 4 ans, se découvre au public en Juillet. Le projet Skycoin cherche à populariser les réseaux décentralisés en réglant les problèmes rencontrés par le Bitcoin. Plus de 80 développeurs sur Github et ailleurs ont contribué à ce projet depuis 2012.
@@ -20,9 +23,9 @@ En terme de vitesse, Skycoin est en concurrence directe avec les cartes de créd
 
 Les transactions de Skycoin sont 100% privées et anonymes grâce à l'utilisation du protocole CoinJoin qui mélange les transactions de plusieurs portefeuilles.  Skycoin fournit également un paramètre de transaction sécurisé qui utilise le cryptage pour se protéger contre l'[attaque des 51%](https://fr.wikipedia.org/wiki/Attaque_des_51%25) et d'autres menaces communes.
 
-L'écosystème entourrant Skycoin est en expansion. Les développeurs sont en train de concevoir des applications et des outils fonctionnant avec des Skycoin comme des réseaux sociaux, VPN, messagerie... 
+L'écosystème entourrant Skycoin est en expansion. Les développeurs sont en train de concevoir des applications et des outils fonctionnant avec des Skycoin comme des réseaux sociaux, VPN, messagerie...
 
-Skycoin est en marche d'établir des régles du jeu équitable et de créer un Internet décentralisé en distribuant de la valeur à travers la communauté peer-to-peer. Il fournit une ressource publique qui élimine le minage et l'inflation nuisant aux autres Crypto-Monnaies. 
+Skycoin est en marche d'établir des régles du jeu équitable et de créer un Internet décentralisé en distribuant de la valeur à travers la communauté peer-to-peer. Il fournit une ressource publique qui élimine le minage et l'inflation nuisant aux autres Crypto-Monnaies.
 
 Mais le projet Skycoin ne concerne pas uniquement la Crypto-Monnaie. C'est également la base de Skywire, un réseau peer-to-peer qui cherche à remplacer le paysage Internet actuel par quelque chose de meilleur.
 

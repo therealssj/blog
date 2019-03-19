@@ -10,6 +10,9 @@ date = "2017-10-04"
 categories = [
     "Statement",
 ]
+aliases = [
+	"/it/statement/project-focus-update"
+]
 +++
 
 ### Mobile Wallet
@@ -112,7 +115,7 @@ per i test, il prezzo di skycoin saliva se vendavamo le monete sul mercato.
 
 Normalmente, il coefficiente è negativo. Quando vendi X monete sul mercato, il
 il prezzo di mercato dovrebbe diminuire di Y. Tuttavia, il prezzo di mercato sale. Il coefficiente lineare
-della funzione di risposta all'impulso del mercato ho il segno opposto. 
+della funzione di risposta all'impulso del mercato ho il segno opposto.
 "più monete vendiamo, più il prezzo di Skycoin sale ".
 
 Quando la gente vende Skycoin la psicologia è "Qualcuno sta facendo *dumping*" e la gente prova
@@ -131,7 +134,7 @@ creando un volume elevato. Una volta che saremo in un exchange più ampio, andr�
 creando un volume più elevato, ma il buy e hold per uno stage come il nostro iniziale o per monete emergenti
 non genera molto volume.
 
-Abbiamo provato alcune volte l'uso di una tariffa "market making" e abbiamo inserito 10 BTC in entrambe 
+Abbiamo provato alcune volte l'uso di una tariffa "market making" e abbiamo inserito 10 BTC in entrambe
 domanda e offerta, ma le monete sono state tutte acquistate e esaurite molto rapidamente e
 non sai mai come impostare lo spread o il prezzo (lato exchange) perchè la domanda è troppo forte rispetto all'offerta,
 quindi il bot esaurisce le monete subito, non siamo dunque riusciti a creare un forte impulso del mercato. Questo indica
@@ -164,7 +167,7 @@ le altre monete e il prezzo è rimasto molto stabile.
   che hanno raccolto decine o centinaia di milioni di dollari non hanno applicazioni o
   stanno solo raccogliendo i soldi per assumere sviluppatori/o costruire le applicazioni che
   non esistono se non come aria fritta)
-- Skycoin ha una storia di sviluppo continuo di oltre otto anni 
+- Skycoin ha una storia di sviluppo continuo di oltre otto anni
   (mentre molte monete non hanno sviluppatori, nessuna blockchain, nessuna storia di sviluppo
   e nessuna applicazione funzionante o demo)
 - Skycoin ha tecnologia. Sappiamo cosa dobbiamo fare per risolvere i problemi a cui
@@ -260,14 +263,14 @@ Pensiamo che tutti gli exchange statunitensi saranno morti o irrilevanti entro d
 Qualsiasi giurisdizione degli Stati Uniti può essere sequestrata e le monete dei clienti rubate dal
 governo in qualsiasi momento (simile a quello che è successo a eGold quando negli Stati Uniti
 il governo ha sequestrato le garanzie dei clienti e l'ha ottenuto o a MtGox quando è andato
-in amministrazione controllata). C'è una storia estremamente lunga di governi 
+in amministrazione controllata). C'è una storia estremamente lunga di governi
 (in particolare il governo degli Stati Uniti), semplicemente sequestrando beni e garanzie appartenenti a
 clienti o rubarndo denaro e beni.
 
 Attuali azioni regolatorie negli Stati Uniti, Giappone, Corea e Cina stanno
 accelerando il programma di adattamento della tecnologia DEX (exchange decentrato).
 
-Dovremmo avere accelerato e aver dato la priorità alla tabella di marcia per il 
+Dovremmo avere accelerato e aver dato la priorità alla tabella di marcia per il
 listing negli exchange lo scorso anno. Ciò ci ha posti in ritardo di sei mesi, ma non è un problema grave.
 
 La maggior parte delle grandi scorte di monete che sono state trasferite fuori dall'exchange sono essenzialmente

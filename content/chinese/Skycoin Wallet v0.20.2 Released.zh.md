@@ -8,6 +8,9 @@ date = "2017-10-13"
 categories = [
     "Statement",
 ]
+aliases = [
+	"/zh/statement/skycoin-wallet-v0.20.2-released/"
+]
 +++
 
 [下载 Skycoin 钱包v0.20.2](https://www.skycoin.net/downloads/)

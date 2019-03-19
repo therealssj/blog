@@ -10,7 +10,11 @@ categories = [
     "Development Updates",
 ]
 description = "Release notes highlighting the current development behind Skycoin."
+aliases = [
+	"/development-updates/development-update-117/"
+]
 +++
+
 ## Summary:
 
 We are launching our own post blockchain social platform. Starting with an immutable object replication system, inspired by Urbit and IPFS. Which is designed for decentralized social networking and source independent networking.

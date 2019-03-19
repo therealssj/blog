@@ -11,6 +11,9 @@ date = "2017-10-03"
 categories = [
     "Statement",
 ]
+aliases = [
+	"/es/statement/getting-to-where-we-think-bitcoin-should-be/"
+]
 +++
 
 *Esta es una publicación archivada del hilo bitcointalks del 23 de abril de 2014*

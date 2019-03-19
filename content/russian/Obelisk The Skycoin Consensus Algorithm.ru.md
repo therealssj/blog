@@ -8,6 +8,9 @@ categories = [
     "Statement",
 ]
 image = "img/obelisk-the-skycoin-consensus-algorithm.png"
+aliases = [
+	"/ru/statement/obelisk-the-skycoin-consensus-algorithm"
+]
 +++
 
 *Алгоритм консенсуса проекта Skycoin называется "Obelisk" и детально описан в

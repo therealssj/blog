@@ -10,6 +10,9 @@ date = "2017-09-20"
 categories = [
     "Tutorials",
 ]
+aliases = [
+	"/it/cx/cx-tutorial-using-affordances-to-build-an-evolutionary-algorithm/"
+]
 +++
 
 <!-- MarkdownTOC autolink="true" bracket="round" depth="2" -->
@@ -26,10 +29,10 @@ categories = [
 
 Questo tutorial presenta un "gioco" basato sul testo (l'utente non interagisce
 con il programma, e non può influenzare le decisioni del personaggio) che utilizza una
-[Architettura reattiva] (#architettura-reattiva) a
-determinare quali sono le possibili azioni che il personaggio del gioco può fare. 
+[Architettura reattiva](#architettura-reattiva) a
+determinare quali sono le possibili azioni che il personaggio del gioco può fare.
 Il codice sorgente completo può essere trovato in
-[CX's repository] (https://github.com/skycoin/cx), nel file * examples / text-based-adventure.cx *.
+[CX's repository](https://github.com/skycoin/cx), nel file *examples/text-based-adventure.cx*.
 
 Il gioco descrive l'avventura di un viaggiatore che fugge da un
 mostro (Halloween arriverà il prossimo mese, dopotutto). Se il viaggiatore
@@ -114,11 +117,11 @@ walk(false)
 
 Nel codice sopra, * remArg () * cerca un'espressione con l'etichetta "walk"
 e rimuove il suo argomento. Questo è fatto al fine di elencare al
-sistema di convenineza gli argomenti che possono essere inviati 
+sistema di convenineza gli argomenti che possono essere inviati
 all'operatore di espressione. Successivamente, * affExpr () * sta dicendo a CX "tra tutti gli
-argomenti che possono essere inviati a * walk *, dimmi se * yes * or no * no * possa
-essere usato come argomento, e applicare l'opzione * 0th * dall'elenco di convenienza
-vhe viene restituito. "
+argomenti che possono essere inviati a *walk*, dimmi se *yes* or no *no* possa
+essere usato come argomento, e applicare l'opzione *0th* dall'elenco di convenienza
+vhe viene restituito."
 
 La procedura precedente viene applicata a tutte le azioni che possono accadere
 durante l'avventura del viaggiatore. Per ciascuna di queste azioni,
@@ -143,25 +146,25 @@ setClauses("
 ```
 
 La prima regola può essere letta come "Sarò interrogato se stai considerando
-di inviare l'argomento * yes * all'azione * walk *. Se l'oggetto
-* monster * è presente, quindi questo argomento * non * è un'opzione. "
+di inviare l'argomento *yes* all'azione *walk*. Se l'oggetto
+*monster* è presente, quindi questo argomento *non* è un'opzione."
 
 Le regole nel secondo blocco (le 4 regole dopo la prima riga vuota)
-dicono al sistema di convenienza di accettare "mai" un argomento * si *. Noi facciamo
+dicono al sistema di convenienza di accettare "mai" un argomento *si*. Noi facciamo
 questo perché vogliamo che questo sia il comportamento predefinito, ma possiamo farlo
 successivamente dichiarare regole che prevalgono su questo comportamento. Questo processo *override*
 avviene con le ultime 4 regole. Fondamentalmente, questo blocco di regole
-sta dicendo a CX di accettare * sì * come argomenti se un particolare oggetto è
+sta dicendo a CX di accettare *sì* come argomenti se un particolare oggetto è
 presente nella pila degli oggetti.
 
 # Oggetti
 
 Alcune azioni aggiungono o rimuovono oggetti dalla pila di oggetti. Per
-esempio, ogniqualvolta l'azione * noise * decida di far apparire il mostro
-* addObject ("monster") * viene eseguito. Se il viaggiatore decide di farlo
+esempio, ogniqualvolta l'azione *noise* decida di far apparire il mostro
+*addObject ("monster")* viene eseguito. Se il viaggiatore decide di farlo
 scappare dal combattimento, l'oggetto "mostro" viene rimosso dalla pila.
 
-Nel caso dell'azione * chance *, il mostro può decidere di risparmiare
+Nel caso dell'azione *chance*, il mostro può decidere di risparmiare
 il viaggiatore ancora qualche secondo per vedere cosa deciderà di fare.
 Per fare ciò, l'oggetto "fight" viene rimosso (come il mostro
 non voglio ancora iniziare un combattimento), ma l'oggetto "mostro" rimane.
@@ -172,11 +175,11 @@ Il sistema di convenienza di CX utilizza oggetti e regole per prendere complesse
 decisioni su come verranno filtrate le convenienze.
 
 Usando gli oggetti, possiamo decidere quali azioni saranno attivate o
-disattivate. Per questo esempio, una piccola quantità di azioni sono considerate 
+disattivate. Per questo esempio, una piccola quantità di azioni sono considerate
 per questo processo di attivazione ma il vantaggio di utilizzare questa
 architettura potrebbe sembrare inutile a prima vista. Tuttavia, regole
 più complesse potrebbero essere definite che coinvolgono più oggetti e una singola
 regola potrebbe essere responsabile dell'attivazione di diversi nodi in una grande rete
 di azioni. Inoltre, in questo esempio ci sono solo due possibili argomenti
-considerati: * sì * e * no *; potremmo avere più argomenti e azioni
+considerati: *sì* e *no*; potremmo avere più argomenti e azioni
 che accettani diversi tipi di argomenti diversi dai booleani.

@@ -11,6 +11,9 @@ categories = [
     "Infographics",
 ]
 image = "img/Skycoin-Digest-Skywire-Overview.jpg"
+aliases = [
+	"/ru/infographics/skycoin-digest-skywire-overview"
+]
 +++
 
 ## Skywire – Интернет Заново

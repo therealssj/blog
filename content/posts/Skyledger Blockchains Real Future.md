@@ -9,6 +9,9 @@ date = "2017-12-14"
 categories = [
     "Skyledger",
 ]
+aliases = [
+	"/statement/skyledger-blockchains-real-future/"
+]
 +++
 
 Bitcoin was supposed to usher in a new economy built on decentralized blockchain technology – but it didn’t. And it can’t. Bitcoin has major technical flaws that prevent it from ever achieving its original goals. Built on faulty concepts and manipulated to the point of corruption, this cryptocurrency is incapable of creating the new world its users hoped for.

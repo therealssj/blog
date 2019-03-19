@@ -8,6 +8,9 @@ date = "2017-08-24"
 categories = [
     "Statement",
 ]
+aliases = [
+	"/ja/statement/skycoin-community-links"
+]
 +++
 
 Skycoinチームへのお問い合わせ
@@ -45,7 +48,7 @@ SkycoinチームではTelegramが最もよく利用されています。
 ソフトウェア
 --------
 
-全てのコードはgithubで公開されています。コードの検証、また開発に協力していただける方を募集中です。  
+全てのコードはgithubで公開されています。コードの検証、また開発に協力していただける方を募集中です。
 
 * [Skycoin Github Organization](https://github.com/skycoin)
 * [Skycoin Core & Wallet](https://github.com/skycoin/skycoin)

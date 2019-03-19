@@ -7,6 +7,9 @@ date = "2017-08-28"
 categories = [
     "Statement",
 ]
+aliases = [
+	"/zh/statement/skycoin-has-nothing-to-do-with-skynet"
+]
 +++
 
 我们最近被问及一些叫做 "Skynet" 或 "Superskynet" 的其他项目。关于这个问题，我们做出正式的回应！

@@ -9,12 +9,15 @@ date = "2017-09-24"
 categories = [
     "Statement",
 ]
+aliases = [
+	"/de/statement/skycoin-next-generation"
+]
 +++
 
 *Dies ist ein archivierter Post aus dem Bitcointalksthread vom 6. Mai 2014.*
 
 > Zitat von: -Greed- am 5. May 2015 um 16:25:46
-+1 dafür, dass Skycoin tatsächlich ein Coin der zweiten Generation ist. 
++1 dafür, dass Skycoin tatsächlich ein Coin der zweiten Generation ist.
 Bitcoin und all seine Gabelungen (forks) sind alle erste Generation IMO.
 
 Wir legen die Grundlage für die dritte Generation. Eine funktionierenden, nützlichen Coin mit sauberer Codebasis und guter Sicherheit, keinem Mining, keiner 51%-Attacke sowie einem Grund den Coin zu benutzen, was an sich schon zweite Generation ist.
@@ -27,7 +30,7 @@ Zwischen der zweiten und dritten Gerenation werden wir Features wie Nachrichtenv
 
 Zur selben Zeit, zwischen der zweiten und dritten Generation, werden die neuen Plattformen die Interoperabilität der Coins der ersten Generation erhöhen. Beliebige Paare von Coins werden automatisch umwandelbar auf Grundlage ihres aktuellen Preises. Man schert sich nicht darum, ob sie Bitcoin akzeptieren oder welche Auswahl von Währungen sie akzeptieren, denn es ist für den Endnutzer egal. Sie gehen einfach in ihr Wallet und klicken auf "Bezahlen" und wählen die Währung, in der sie bezahlen möchten und das Wallet, aus dem sie bezahlen möchten.
 
-Die dritte Generation wird mehr Community-Währungen haben oder auch Firmen, welche ihre eigene Währung als Geschenkkarten herausgeben ("small tent" Währungen für spezielle Zwecke). In der zweiten Generation werden die Wallstreetexchanges und Banken Bitcoin als Handelsware integrieren, ähnlich wie Gold. Sie handeln Bitcoin zwar als Handelsware, haben ihre Infrastruktur aber noch nicht mit der Fähigkeit versehen, auf Systemen wie Bitcoin zu laufen. 
+Die dritte Generation wird mehr Community-Währungen haben oder auch Firmen, welche ihre eigene Währung als Geschenkkarten herausgeben ("small tent" Währungen für spezielle Zwecke). In der zweiten Generation werden die Wallstreetexchanges und Banken Bitcoin als Handelsware integrieren, ähnlich wie Gold. Sie handeln Bitcoin zwar als Handelsware, haben ihre Infrastruktur aber noch nicht mit der Fähigkeit versehen, auf Systemen wie Bitcoin zu laufen.
 
 In der dritten Generation könnten wir neue Banken und Exchanges sehen, welche ihre eigene Transaktionsinfrastruktur aus kryptographischen Primitiven, Belege und Verträge bilden. Ein User einer offshore Bank hat einen Beleg und erhält einen Nachweis für jede Transaktion der Gegenparteien. Die Bank kann sein Geld nicht stehlen, oder sein Kontostand ändern. Die Bank kann kein Beleg authorisieren oder erfinden um Geld an eine Drittpartei zu senden, ohne die kryptographische Signatur des Users zu erhalten. Alle Banken stellen eine gemeinsame API bereit.
 
@@ -35,7 +38,7 @@ Die Dinge im Account müssen nicht länger Währungspaare sein, sondern können 
 
 In der dritten Generation kann jeder Anleihen und Optionsscheine herausgeben. Davor gab es ein Kontrahentenausfallrisiko für Optionsscheine. Nur große finanzielle Akteure konnten Optionsscheine auf ihre Aktien eröffen. Eine großes Unternehmen wird weniger wahrscheinlich zahlungsunfähig durch einen schlechten Optionsschein. In der dritten Generation kann jeder Optionsscheine herausgeben. Optionsscheine sind digitale Verträge und die Ausübung des Vertrages wird treuhänderisch durch das Vermögen einer Drittpartei garantiert. Cryptovermögen werden Abrechnungsmechanismen für legale Vermögen.
 
-Viele Coins wie Mastercoin, Ethereum und Colorcoin versuchen auf den Zug der dritten Generation aufzuspringen. 
+Viele Coins wie Mastercoin, Ethereum und Colorcoin versuchen auf den Zug der dritten Generation aufzuspringen.
 #Wir jedoch glauben, dass die dritte Generation organisch aufbauend, auf der zugrundegelegten Infrastruktur der zweiten Generation von Coins, entstehen wird.
 
 Bitcoin ist extrem schlecht erweiterbar für neue Standards, man hat also drei Wallets und drei verschiedene Implementierungen und keine Interoperabilität, sowie keine Interoperabilität zwischen Exchange APIs und auch keine Roadmap, welche es Drittpartei-Entwicklern erlaubt, den Fortschritt des Protokolls voranzutreiben. Persönliche Blockchains in Skycoin sind generisch und erlauben es dem User individuell ihre Knoten für verschiedene neue Skriptsprachen und neue Arten von Verträgen zu aktualisieren; generell geben sie die Kontrolle des Protokolls in die Hände der User und Drittpartei-Entwicklern. Das Wire-Protokoll (Leitungsprotokoll) ist erweiterbar und erlaubt die Verbindung mit neuen Anwendungen des Skycoin-Daemon.

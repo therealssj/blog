@@ -8,6 +8,9 @@ categories = [
     "Development Updates",
 ]
 description = "Release notes highlighting the current development behind Skycoin."
+aliases = [
+	"/zh/development-updates/development-update-125/"
+]
 +++
 
 ###### 区块浏览器基本完成. 查看GitHub.

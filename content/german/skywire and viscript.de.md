@@ -10,6 +10,9 @@ categories = [
     "Skywire",
 ]
 image = "img/old-messenger.png"
+aliases = [
+	"/de/skywire/skywire-and-viscript"
+]
 +++
 ## Einleitung
 

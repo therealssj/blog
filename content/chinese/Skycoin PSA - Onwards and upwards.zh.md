@@ -4,6 +4,9 @@ tags = [ "Announcements", ]
 bounty = 0
 date = "2018-03-02"
 categories = [ "Statement", ]
+aliases = [
+	"/zh/statement/skycoin-psa-onwards-and-upwards/"
+]
 +++
 Skycoin目前正在推进大量工作，为大家带来了许多振奋人心的消息：我们正在将Reddit社区转移到[r/Skycoin](http://www.reddit.com/r/skycoin)，制定AMA（有问必答）环节，提交问题，创始人Synth为我们解答。我们的营销团队不断扩大，重申改变世界的愿景和使命。
 

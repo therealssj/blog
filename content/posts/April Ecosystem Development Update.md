@@ -5,6 +5,9 @@ bounty = 0
 date = "2018-05-16"
 categories = [ "Statement", ]
 image = "img/skycoin-hardware-wallet-prototype.jpg"
+aliases = [
+	"/statement/april-ecosystem-development-update/"
+]
 +++
 
 The inaugural Skycoin Ecosystem Conference in Shanghai marked the start of a very successful April for Skycoin as the project goes from strength to strength. The hard-working development team continues to make exciting progress on many different fronts including Skycoin itself, the blockchain collectibles game KittyCash, the CXO software and our dedicated hardware suite.

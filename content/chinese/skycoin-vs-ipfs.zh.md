@@ -10,6 +10,9 @@ date = "2017-08-09"
 categories = [
     "Ask the Developers",
 ]
+aliases = [
+	"/zh/ask-the-developers/skycoin-vs-ipfs/"
+]
 +++
 
 我们经常被问到 [CXO](https://github.com/skycoin/cxo) 和IPFS有什么区别？现统一回答如下：

@@ -5,6 +5,9 @@ bounty = 0
 date = "2018-05-15"
 categories = [ "Statement", ]
 image = "img/skywire-testnet-launching-may-22.jpg"
+aliases = [
+	"/statement/skycoin-skywire-testnet-is-here/"
+]
 +++
 
 Skywire Testnet Going Live May 22nd, 2018

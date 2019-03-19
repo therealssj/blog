@@ -10,6 +10,9 @@ categories = [
     "Infographics",
 ]
 image = "img/How-to-Buy-Skycoin.jpg"
+aliases = [
+	"/infographics/how-to-buy-skycoin/"
+]
 +++
 
 ## There are severel places to purchase Skycoin. Here are a few...

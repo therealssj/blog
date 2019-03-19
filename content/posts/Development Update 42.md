@@ -8,6 +8,9 @@ categories = [
     "Development Updates",
 ]
 description = "Release notes highlighting the current development behind Skycoin."
+aliases = [
+	"/development-updates/development-update-42/"
+]
 +++
 
 The recent attacks on Tor and incidents with Bitcoin are putting pressure on us to release.

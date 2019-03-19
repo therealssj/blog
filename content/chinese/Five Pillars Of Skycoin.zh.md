@@ -8,6 +8,9 @@ date = "2017-09-27"
 categories = [
     "Statement",
 ]
+aliases = [
+	"/zh/statement/five-pillars-of-skycoin/"
+]
 +++
 
 Skycoin 项目是一个密封的软件/应用开发平台，它可以并行操作并且可以运行在现有的互联网上，或者直接构建在其基础之上，但是又独立于现有的互联网。

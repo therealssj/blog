@@ -7,6 +7,9 @@ date = "2017-09-06"
 categories = [
     "Overview",
 ]
+aliases = [
+	"/zh/overview/cx-overview/"
+]
 +++
 
 <!-- MarkdownTOC autolink="true" bracket="round" depth="1" -->
@@ -196,7 +199,7 @@ REPL(read-eval-print) 是一个交互工具，通过这个工具程序员可以�
 CX REPL
 More information about CX is available at https://github.com/skycoin/cx
 
-* 
+*
 ```
 
 “*”告诉程序员REPL已经准备好接受一行新的代码。REPL会持续读取用户输入直到遇到分号和换行符。
@@ -208,7 +211,7 @@ More information about CX is available at https://github.com/skycoin/cx
 * :dProgram true;
 Program
 
-* 
+*
 ```
 
 REPL只打印了一个单词"Program"和随后的一个空行。作为第一步，新的模块和函数可以声明了：
@@ -226,7 +229,7 @@ Program
 	Functions
 		0.- Function: main () ()
 
-* 
+*
 ```
 
 可以看到，每次一个新的元素增加到程序中，程序结构就被打印出来了。
@@ -269,7 +272,7 @@ More information about CX is available at https://github.com/skycoin/cx
 * :step 5;
 2
 
-* 
+*
 ```
 
 *examples/looping.cx* 一次性执行了5步。我们看到为了使程序重新计算*while*的条件，打印计数器和对计数器加1，执行5步是必须的。
@@ -287,7 +290,7 @@ More information about CX is available at https://github.com/skycoin/cx
 * :step 5;
 2
 
-* 
+*
 ```
 
 CX又向前运行了5步之后，2又在终端上被打印出来。必须注意的是计数器不仅仅是被赋予了不同的值，调用栈也被回退到先前的状态。
@@ -317,7 +320,7 @@ main
 main
 :func main {...
 	* :step 0;
-fn:main ln:0, 	locals: 
+fn:main ln:0, 	locals:
 >> 1
 fn:main ln:1, 	locals: foo: 1
 
@@ -331,13 +334,13 @@ divI32() Arguments:
 0: divI32: Division by 0
 main
 :func main {...
-	* 
+	*
 ```
 
 同样的，如果程序在CX解释器中有输入参数而没有调用REPL，但是执行过程中有错误，REPL会被调用方便程序员或者系统管理员调试。
 
 ```
-$ ./cx examples/program-halt.cx 
+$ ./cx examples/program-halt.cx
 1
 
 Call's State:
@@ -352,7 +355,7 @@ divI32() Arguments:
 CX REPL
 More information about CX is available at https://github.com/skycoin/cx
 
-* 
+*
 ```
 
 # 集成的进化算法

@@ -9,9 +9,12 @@ categories = [
     "Development Updates",
 ]
 description = "Release notes highlighting the current development behind Skycoin."
+aliases = [
+	"/development-updates/development-update-62/"
+]
 +++
 
-You have to nuke the blockchain files in .skycoin again. "rm ~/.skycoin/blockchain*"
+You have to nuke the blockchain files in .skycoin again. `rm ~/.skycoin/blockchain*`
 
 ### Skycoin Transaction Format:
 

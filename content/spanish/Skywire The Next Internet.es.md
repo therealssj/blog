@@ -9,6 +9,9 @@ categories = [
     "Skywire",
 ]
 image = "img/skywire-the-next-internet.png"
+aliases = [
+	"/es/skywire/skywire-the-next-internet/"
+]
 +++
 
 En la primavera de 2017, la FCC hizo una propuesta en la que los proveedores

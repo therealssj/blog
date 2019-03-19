@@ -8,6 +8,9 @@ date = "2017-09-06"
 categories = [
     "Overview",
 ]
+aliases = [
+	"/overview/cx-overview/"
+]
 +++
 
 <!-- MarkdownTOC autolink="true" bracket="round" depth="2" -->

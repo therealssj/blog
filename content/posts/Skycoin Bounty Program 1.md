@@ -8,6 +8,9 @@ date = "2017-08-27"
 categories = [
     "Statement",
 ]
+aliases = [
+	"/statement/skycoin-bounty-program-1"
+]
 +++
 
 Apply for rewards in the [Skycoin Bounty Program Telegram Channel](https://t.me/skycoinbounty)

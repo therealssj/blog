@@ -8,6 +8,9 @@ categories = [
     "Development Updates",
 ]
 description = "Release notes highlighting the current development behind Skycoin."
+aliases = [
+	"/development-updates/development-update-79/"
+]
 +++
 
 I have switched the peer list to json instead of csv and am merging in the blacklist and peer lists.

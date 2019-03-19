@@ -9,6 +9,9 @@ date = "2017-09-18"
 categories = [
     "Ask the Developers",
 ]
+aliases = [
+	"/es/ask-the-developers/telegram-log-whitepapers-slavery-anarchy/"
+]
 +++
 
 **Artem Kotelskiy**
@@ -314,7 +317,7 @@ Todos los que trabajan en Google o una empresa de la lista Fortune 500. Tenemos 
 
 Lo único que creo que preocupa al investigador profesional es la seguridad.
 
-Sí, francamente no creo que Google/Amazon sean tan buenas compañías 
+Sí, francamente no creo que Google/Amazon sean tan buenas compañías
 
 Aunque las personas allí son competentes
 
@@ -395,7 +398,7 @@ El futuro del proyecto está completamente en manos de desarrolladores
 
 Entonces sería útil si sé quiénes son y cuáles son sus valores
 
-Para decidir, si voy a ser el nodo de sky, o simplemente un tenedor de sky 
+Para decidir, si voy a ser el nodo de sky, o simplemente un tenedor de sky
 
 Pero lo entiendo, piensas que el código y la ejecución hablan por sí mismos, es justo
 

@@ -10,6 +10,9 @@ categories = [
     "Infographics",
 ]
 image = "img/Skycoin-Cryptocurrency-Values.jpg"
+aliases = [
+	"/it/infographics/skycoin-cryptocurrency-values"
+]
 +++
 
 ## Ecco cosa cerchiamo di fare ...

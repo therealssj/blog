@@ -8,6 +8,9 @@ categories = [
     "Development Updates",
 ]
 description = "Release notes highlighting the current development behind Skycoin."
+aliases = [
+	"/zh/development-updates/development-update-129/"
+]
 +++
 
 我们现在正在进行一些琐碎的质量控制和主要的错误修复

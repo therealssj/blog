@@ -9,6 +9,9 @@ categories = [
     "Statement",
 ]
 description = "Лог AMA сессии Skycoin в слаке ark.io/slack/ (от 2017-07-02)"
+aliases = [
+	"/ru/ask-the-developers/skycoin-ama-log-ark/"
+]
 +++
 
 *Беседа происходила 2 июля 2017го года в [slack'е ark.io](https://ark.io/slack/)*
@@ -19,7 +22,7 @@ description = "Лог AMA сессии Skycoin в слаке ark.io/slack/ (от
 Давайте все тепло поприветствуем @synth'а с проекта SkyCoin.net и поблагодарим его за то, что он нашёл время на эту сессию Ask Me Anything
 
 **synth**
-*Здравствуйте
+*Здравствуйте*
 
 **mike**
 Привет Synth

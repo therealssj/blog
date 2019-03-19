@@ -10,6 +10,9 @@ date = "2017-09-26"
 categories = [
     "Development Updates",
 ]
+aliases = [
+	"/zh/bbs/bbs-release-v4.1/"
+]
 +++
 
 Skycoin BBS v4.1发布了！
@@ -36,7 +39,7 @@ Skycoin BBS v4.1发布了！
 
 ## 源代码
 
-可以在[GitHub](https://github.com/skycoin/bbs)上获取 
+可以在[GitHub](https://github.com/skycoin/bbs)上获取
 
 ## 社区
 

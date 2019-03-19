@@ -8,19 +8,22 @@ categories = [
     "Skywire",
     "Statement",
 ]
+aliases = [
+	"/de/statement/skycoin-vs-skywire/"
+]
 +++
 
 Skycoin and Skywire sínd zwei separate Komponenten des Skycoin-Projekts.
 Skycoin ist die Blockchain. Skywire ist das [mesh network](https://en.wikipedia.org/wiki/Mesh_networking) (vermaschtes Netz).
 
-Skycoin wurde zuerst geschaffen. Er kann alleine existieren. 
+Skycoin wurde zuerst geschaffen. Er kann alleine existieren.
 Er wurde wegen Bitcoins Problemen kreiert. Das größte Problem von Bitcoin ist das Mining, denn
 es führt zur Zentralisation von Bitcoin. Die anderen Probleme von Bitcoin, meist verbunden mit Softwarefehlern oder Kryptographie, führten zu Problematiken wie der [Transaktionsgestaltbarkeit](https://en.bitcoin.it/wiki/Transaction_Malleability).
 
 Skycoin entwickelte einen neuen Konsens-Algorithmus mit dem Namen [Obelisk](https://www.skycoin.net/whitepapers), der das Mining obsolet werden lässt (oder andere Alternativen wie [Proof-of-Stake](https://en.wikipedia.org/wiki/Proof-of-stake)).
 Davon handeln die [Whitepapers](https://www.skycoin.net/whitepapers).
 Der Konsens-Algorithmus nutzt ein Netz des Vertrauens (web-of-trust), um das Netzwerk zu sichern.
-Jeder Knoten des Netzwerks hat eine kleine Liste von vertrauenswürdigen Peers und mit diesen teilt man Blöcke. 
+Jeder Knoten des Netzwerks hat eine kleine Liste von vertrauenswürdigen Peers und mit diesen teilt man Blöcke.
 Wenn es einen schlechten Block gibt, z.B. einen, der eine doppelte Ausgabe [double spend](https://en.wikipedia.org/wiki/Double-spending) enthält, wird dieser von dir abgelehnt und auch von deinen vetrauenswürdigen Peers. Es kann also viele bösartige Knoten im Netzwerk geben, aber sie werden keinen Einfluss haben, sofern man ihnen nicht vertraut.
 
 Skywire wurde entwickelt, um die eigenen Probleme des Internets zu adressieren. Es gibt viele [Angriffspunkte](https://en.wikipedia.org/wiki/BGP_hijacking), besonders für Regierungen, da sie umfangreiche Kontrolle über die Hardware haben. Große Internetdienstanbieter (IDA/ISP) sind ebenfalls ziemlich missgünstig gegenüber ihren Kunden.

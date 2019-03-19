@@ -8,6 +8,9 @@ categories = [
     "Skywire",
     "Statement",
 ]
+aliases = [
+	"/zh/statement/skycoin-vs-skywire/"
+]
 +++
 
 Skycoin和Skywire是天空币项目两个不同的组成部分。Skycoin是区块链，另一个是网状网络([mesh network](https://en.wikipedia.org/wiki/Mesh_networking))。

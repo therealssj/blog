@@ -11,6 +11,9 @@ categories = [
 ]
 author = "johnstuartmill"
 image = "img/obelisk-the-skycoin-consensus-algorithm.png"
+aliases = [
+	"/de/overview/obelisk-skycoin-consensus-algorithm-information-pages"
+]
 +++
 
 <!-- MarkdownTOC autolink="true" bracket="round" -->

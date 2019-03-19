@@ -10,6 +10,9 @@ date = "2017-10-07"
 categories = [
     "Statement",
 ]
+aliases = [
+	"/ja/statement/can-skycoin-be-51-attacked/"
+]
 +++
 
 *これは2015/2/16にbitcointalkでされた投稿です。*

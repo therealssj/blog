@@ -10,6 +10,9 @@ categories = [
     "Skywire",
     "Overview",
 ]
+aliases = [
+	"/overview/skywire-skycoin-meshnet-project"
+]
 +++
 
 ![Skywire: The New Internet](https://i.imgur.com/9Jk0gLe.jpg)
@@ -20,25 +23,24 @@ categories = [
 - [Routing: Overview](#routing-overview)
 - [Incentives: Payment Protocol](#incentives-payment-protocol)
 - [Source Routing: Link Layer Encryption](#source-routing-link-layer-encryption)
-    - [Example Protocol: Nodes `A` and `B`](#example-protocol-nodes-a-and-b)
-    - [Possible Improvements:](#possible-improvements)
+	- [Example Protocol: Nodes `A` and `B`](#example-protocol-nodes-a-and-b)
+	- [Possible Improvements:](#possible-improvements)
 - [IPv4 Gateway: Bypassing Existing ISPs](#ipv4-gateway-bypassing-existing-isps)
-    - [Example One](#example-one)
-    - [Example Two](#example-two)
+	- [Example One](#example-one)
+	- [Example Two](#example-two)
 - [Skywire Daemon Services Architecture](#skywire-daemon-services-architecture)
-    - [Example Service: Blockchain Sync](#example-service-blockchain-sync)
-        - [Finding Peers](#finding-peers)
-        - [Sending and Receiving Messages](#sending-and-receiving-messages)
+	- [Example Service: Blockchain Sync](#example-service-blockchain-sync)
 - [Multi-Home Routing and Link Aggregation](#multi-home-routing-and-link-aggregation)
 - [Meshnet Routing: Store and Forward](#meshnet-routing-store-and-forward)
 - [Store and Forward: Capacity Utilization](#store-and-forward-capacity-utilization)
 - [Store and Forward: Examples](#store-and-forward-examples)
-    - [Example of normal operation](#example-of-normal-operation)
-    - [Example with congestion](#example-with-congestion)
-    - [Example with packet loss](#example-with-packet-loss)
+	- [Example of normal operation](#example-of-normal-operation)
+	- [Example with congestion](#example-with-congestion)
+	- [Example with packet loss](#example-with-packet-loss)
 - [Store and Forward: Bandwidth Latency Product](#store-and-forward-bandwidth-latency-product)
 - [Store and Forward: Capacity Utilization, Quality and Service](#store-and-forward-capacity-utilization-quality-and-service)
 - [Source Routing: Multi-Route Mobile Connectivity](#source-routing-multi-route-mobile-connectivity)
+- [Source Routing: Multi-Route Reliability](#source-routing-multi-route-reliability)
 - [Source Routing: Guard Nodes](#source-routing-guard-nodes)
 - [Source Routing: Limitations of BGP](#source-routing-limitations-of-bgp)
 - [Virtual Routes: Skywire Network Topology at Scale](#virtual-routes-skywire-network-topology-at-scale)

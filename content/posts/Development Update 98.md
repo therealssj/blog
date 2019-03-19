@@ -9,6 +9,9 @@ categories = [
     "Development Updates",
 ]
 description = "Release notes highlighting the current development behind Skycoin."
+aliases = [
+	"/development-updates/development-update-98/"
+]
 +++
 
 Meshnet adaption is growing. The hardware problems are solved.

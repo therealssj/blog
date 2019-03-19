@@ -10,6 +10,9 @@ categories = [
     "Development Updates",
 ]
 description = "Release notes highlighting the current development behind Skycoin."
+aliases = [
+	"/development-updates/development-update-118/"
+]
 +++
 
 Blockchain explorer almost working. All of the API functions are in.

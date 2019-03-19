@@ -11,6 +11,9 @@ categories = [
     "Skyminer",
 ]
 image = "img/skywire-the-next-internet.png"
+aliases = [
+	"/fr/skywire/skywire-the-next-internet"
+]
 +++
 
 Au printemps 2017, la FCC [^1] a déposé une proposition de loi selon laquelle les fournisseurs de service internet peuvent collecter, utiliser et vendre les informations concernant les habitudes de navigation de leurs clients. Ils peuvent le faire sans autorisation spécifique. Les clients ne peuvent refuser. Etre client de l'une de ces sociétés signifie que vous payez pour être surveillé, tout simplement.

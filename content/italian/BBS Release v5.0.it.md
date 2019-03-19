@@ -10,6 +10,9 @@ date = "2017-12-18"
 categories = [
     "Development Updates",
 ]
+aliases = [
+	"/it/bbs/bbs-release-v5.0/"
+]
 +++
 
 Skycoin BBS v5.0 è stato finalmente rilasciato con molti cambiamenti sotto il cofano!

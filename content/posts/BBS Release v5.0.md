@@ -10,13 +10,16 @@ date = "2017-12-18"
 categories = [
     "Development Updates",
 ]
+aliases = [
+	"/bbs/bbs-release-v5.0/"
+]
 +++
 
 Skycoin BBS v5.0 has finally been released with many changes under the hood!
 
 ## Thin Client
 
-The most apparent change of all, is the introduction of the thin client. You can now access Skycoin BBS without setting up a node! Just head to [bbs.skycoin.net](http://bbs.skycoin.net). 
+The most apparent change of all, is the introduction of the thin client. You can now access Skycoin BBS without setting up a node! Just head to [bbs.skycoin.net](http://bbs.skycoin.net).
 
 In previous versions, one can only (and should only) access/submit content via a web user interface that is served locally. As this web-interface (and the API that it calls) has direct control over the node itself, and signs content with private keys that are stored in-node (or server-side), it is not appropriate to expose it to the public.
 
@@ -28,7 +31,7 @@ Currently, the front-end loads very slowly. This is caused from the use of [Goph
 
 ## Command-line Interface
 
-After the introduction of a publicly-visible thin-client, we removed API endpoints that handled administrative control and introduced a command-line interface to deal with such interactions. 
+After the introduction of a publicly-visible thin-client, we removed API endpoints that handled administrative control and introduced a command-line interface to deal with such interactions.
 
 More information on this can be found here: [github.com/skycoin/bbs/tree/master/cmd/bbscli](https://github.com/skycoin/bbs/tree/master/cmd/bbscli).
 

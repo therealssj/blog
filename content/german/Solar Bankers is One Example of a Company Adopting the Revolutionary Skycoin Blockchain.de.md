@@ -10,6 +10,9 @@ categories = [
     "Statement",
     "Skyledger",
 ]
+aliases = [
+	"/de/statement/solar-bankers-is-one-example-of-a-company-adopting-the-revolutionary-skycoin-blockchain/"
+]
 +++
 
 Höhere Geschwindigkeit, bessere Sicherheit und Privatsphäre - Skycoin bietet all diese Vorteile mittels seiner open-source Plattform an. Die innovative Technologie die Skycoin antreibt ist für alle zugänglich. Heute werden mehr und mehr Unternehmen auf die Vorteile der Nutzung von Skycoin als Grundbaustein für ihre Firma aufmerksam.

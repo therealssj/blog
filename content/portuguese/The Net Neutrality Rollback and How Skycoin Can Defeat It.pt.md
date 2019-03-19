@@ -12,6 +12,9 @@ categories = [
     "Neutralidade da Rede",
     "Neutralidade da Internet",
 ]
+aliases = [
+	"/pt/statement/the-net-neutrality-rollback-and-how-skycoin-can-defeat-it/"
+]
 +++
 
 Em 2015, a Comissão Federal das Comunicações dos Estados Unidos (FCC, na sigla em inglês) instituiu regras de neutralidade de rede classificando a Internet como de utilidade pública. Isso impedia os provedores de Internet (ISPs) de priorizar certos sites em detrimento de outros e encorajaram uma internet gratuita e aberta, onde todas as empresas e indivíduos poderiam prosperar.

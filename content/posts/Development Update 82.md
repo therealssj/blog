@@ -8,7 +8,11 @@ categories = [
     "Development Updates",
 ]
 description = "Release notes highlighting the current development behind Skycoin."
+aliases = [
+	"/development-updates/development-update-82/"
+]
 +++
+
 There is a major and very severe bug. I am upset that no one found this or brought it up earlier.
 
 For some reason, for some clients under some networking conditions the blockchain is not downloading until it reaches the head block. On LAN and running multiple instances on the same machine, the blockchain always synchronizes between all the clients in testing. In the real world, behind VPN, with latency, and servers in multiple countries the blockchain is not always syncing. The client can require multiple restarts to get the head block.

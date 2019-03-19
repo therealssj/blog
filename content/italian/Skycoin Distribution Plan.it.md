@@ -8,6 +8,9 @@ date = "2017-10-09"
 categories = [
     "Statement",
 ]
+aliases = [
+	"/it/statement/skycoin-distribution-plan"
+]
 +++
 
 **Questo è un annuncio ufficiale su come verrà gestita la distribuzione di SKY d'ora in poi.**

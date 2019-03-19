@@ -10,6 +10,9 @@ date = "2017-10-04"
 categories = [
     "Statement",
 ]
+aliases = [
+	"/statement/project-focus-update"
+]
 +++
 
 ### Mobile Wallet

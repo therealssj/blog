@@ -11,6 +11,9 @@ categories = [
     "Statement",
 ]
 bounty = 5
+aliases = [
+	"/statement/skywire-a-free-and-open-internet/"
+]
 +++
 
 The internet gives us the illusion of control. We can socialize, consume, and

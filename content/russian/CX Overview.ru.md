@@ -7,6 +7,9 @@ date = "2017-09-06"
 categories = [
     "Overview",
 ]
+aliases = [
+	"/ru/overview/cx-overview/"
+]
 +++
 
 

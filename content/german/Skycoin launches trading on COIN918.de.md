@@ -11,6 +11,9 @@ categories = [
     "Statement",
     "Exchange Listing",
 ]
+aliases = [
+	"/de/statement/skycoin-launches-trading-on-coin918/"
+]
 +++
 
 Skycoin hat kürzlich angekündigt, dass sie auch auf COIN918, einer globalen Handelsplattform für digitale Währungen, gelistet werden. Durch das neue Listing kann Skycoins Vision einer besseren Kryptowährung noch mehr Nutzer weltweit erreichen.
@@ -23,7 +26,7 @@ COIN918 gehört zur Australia COIN918 Fintech Group Pty. Ltd in Sydney, Australi
 
 ## Die Expansion von Skycoin
 
-Das Listing auf COIN918 ist das jüngste Listing bei der globalen Markteinführung von Skycoin. Es ist nur eine Frage der Zeit, bis der Coin den Markt der Kryptowährungen maßgeblich beeinflussen wird. 
+Das Listing auf COIN918 ist das jüngste Listing bei der globalen Markteinführung von Skycoin. Es ist nur eine Frage der Zeit, bis der Coin den Markt der Kryptowährungen maßgeblich beeinflussen wird.
 
 Skycoin wird aus einem einfachen und dennoch entscheidenden Grund sehr erfolgreich sein: Es ist ein technisch überlegener Coin, der die Konsensfindung nachjustiert, um echte Dezentralisierung zu erreichen. Durch die Abschaffung von Mining stellt Skycoin wieder einen fairen Handel her. Es unterstützt ein Web of trust-System, dass Datenverfälschung und Netzwerkmissbrauch abschafft, die Bitcoin und andere Kryptowährungen sehr negativ beeinflussen.
 

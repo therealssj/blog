@@ -5,6 +5,9 @@ bounty = 0
 date = "2018-06-26"
 categories = [ "Statement", ]
 image = "img/skywire-testnet-rewards.jpg"
+aliases = [
+	"/statement/skywire-testnet-rewards-for-whitelisted-nodes/"
+]
 +++
 
 

@@ -10,6 +10,9 @@ categories = [
     "Infographics",
 ]
 image = "img/Skycoin-Cryptocurrency-Values.jpg"
+aliases = [
+	"/zh/infographics/skycoin-cryptocurrency-values"
+]
 +++
 
 ## Skycoin的价值所在...

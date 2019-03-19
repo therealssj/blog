@@ -5,6 +5,9 @@ bounty = 0
 date = "2018-05-21"
 categories = [ "Statement", ]
 image = "img/Bitrabbit-skycoin.gif"
+aliases = [
+	"/statement/skycoin-now-trading-on-bitrabbit"
+]
 +++
 
 We are happy to announce that Skycoin is now trading on the new exchange BitRabbit based in Australia today!

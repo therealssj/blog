@@ -11,11 +11,14 @@ date = "2017-08-09"
 categories = [
     "Ask the Developers",
 ]
+aliases = [
+	"/ko/ask-the-developers/skycoin-vs-ipfs/"
+]
 +++
 
 우리는 [CXO](https://github.com/skycoin/cxo) 와 IPFS의 차이점에 대해 물어볼 수 있습니다.
 
-파일 코인은 스카이코인 인프라의 일부와 동일한 목표를 가지고 있지만, 다른 접근 방식을 취하고 있습니다. 
+파일 코인은 스카이코인 인프라의 일부와 동일한 목표를 가지고 있지만, 다른 접근 방식을 취하고 있습니다.
 그들에는 3 개의 다른 프로토콜이 있습니다:
 
 - IPLD

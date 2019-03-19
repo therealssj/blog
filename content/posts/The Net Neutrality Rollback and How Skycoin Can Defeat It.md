@@ -12,6 +12,9 @@ categories = [
     "Skywire",
     "Skyminer",
 ]
+aliases = [
+	"/statement/the-net-neutrality-rollback-and-how-skycoin-can-defeat-it/"
+]
 +++
 
 In 2015, the FCC instituted net neutrality rules classifying the internet as a public utility. This prevented internet service providers (ISPs) from prioritizing certain websites over others and encouraged a free and open internet where all businesses and individuals could thrive.

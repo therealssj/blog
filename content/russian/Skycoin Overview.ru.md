@@ -7,6 +7,9 @@ date = "2017-08-26"
 categories = [
     "Обзор",
 ]
+aliases = [
+	"/ru/overview/skycoin-overview"
+]
 +++
 
 <!-- MarkdownTOC autolink="true" bracket="round" depth="1" -->

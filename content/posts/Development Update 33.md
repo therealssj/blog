@@ -10,7 +10,11 @@ categories = [
     "Development Updates",
 ]
 description = "Release notes highlighting the current development behind Skycoin."
+aliases = [
+	"/development-updates/development-update-33/"
+]
 +++
+
 ## Skywire Repo Moved:
 
 The Skywire repository has been merged into the main Skycoin repository. Still being integrated to replace visor and daemon.

@@ -12,6 +12,9 @@ categories = [
     "Skyminer",
 ]
 image = "img/Why-do-we-need-a-free-internet.jpg"
+aliases = [
+	"/ja/infographics/why-do-we-need-a-free-internet"
+]
 +++
 
 ## なぜ我々は自由なインターネットを作っているのだろうか？

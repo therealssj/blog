@@ -8,6 +8,9 @@ date = "2017-08-28"
 categories = [
     "Statement",
 ]
+aliases = [
+	"/es/statement/skycoin-has-nothing-to-do-with-skynet"
+]
 +++
 
 Recientemente nos han preguntado sobre otros proyectos llamados "Skynet" o "Superskynet".

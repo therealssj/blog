@@ -4,6 +4,9 @@ tags = [ "Announcements", ]
 bounty = 0
 date = "2018-03-07"
 categories = [ "Statement", ]
+aliases = [
+	"/zh/statement/skycoin-heads-to-puerto-rico"
+]
 +++
 
 ![Skycoin Heads To Puerto Rico](https://cdn.discordapp.com/attachments/415262336782303232/421119490399404033/twitter-puertorico.png)
@@ -44,4 +47,4 @@ Synth（联合创始人）、Jonathan Wilson（品牌传播者）和Daken Freebo
 **我们的演讲者:** Synth/Jonathan Wilson/Daken Freeborn
 
 **简介:**  超过50家参展商、60位演讲者，40家初创公司和350位与会者参加。我们将在Skycoin平台进行演讲，谈论项目未来的发展，并披露一些有关Skycoin的精彩消息！
-敬请关注，了解更多有关Skycoin和合作项目的未来发展。 
+敬请关注，了解更多有关Skycoin和合作项目的未来发展。

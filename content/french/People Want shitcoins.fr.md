@@ -1,12 +1,15 @@
 +++
- title = "Les gens veulent des jetons de merde"
- tags = [
-   "ask-the-developers",
- ]
- date = "2017-09-08"
- categories = [
-   "ask-the-developers",
- ]
+title = "Les gens veulent des jetons de merde"
+tags = [
+  "Ask the Developers",
+]
+date = "2017-09-08"
+categories = [
+  "Ask the Developers",
+]
+aliases = [
+	"/fr/ask-the-developers/people-want-shitcoins/"
+]
 +++
 
 Extrait d'un groupe Telegram

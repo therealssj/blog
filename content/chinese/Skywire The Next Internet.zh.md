@@ -11,6 +11,9 @@ categories = [
     "Skyminer",
 ]
 image = "img/skywire-the-next-internet.png"
+aliases = [
+	"/zh/skywire/skywire-the-next-internet"
+]
 +++
 
 2017年春，FCC（美国联邦通讯委员会 ）发起了一项提议：因特网服务提供商（ISP）可以收集，使用，和售卖用户浏览习惯的信息而不必征得用户许可。客户别无选择。成为这些公司里的一员意味着你花钱让自己被追踪，这简单又直白。

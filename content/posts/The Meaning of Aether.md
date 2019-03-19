@@ -10,6 +10,9 @@ date = "2017-09-25"
 categories = [
     "Statement",
 ]
+aliases = [
+	"/statement/the-meaning-of-aether/"
+]
 +++
 
 *This is an archived post from the bitcointalks thread on May 05 2014*

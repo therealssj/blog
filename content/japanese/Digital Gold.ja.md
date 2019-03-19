@@ -8,6 +8,9 @@ date = "2017-08-14"
 categories = [
 	"Statement",
 ]
+aliases = [
+	"/ja/statement/digital-gold/"
+]
 +++
 
 Bitcoinに対するSatoshiの独自のビジョンは画期的でした。

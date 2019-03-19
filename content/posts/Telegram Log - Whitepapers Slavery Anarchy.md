@@ -9,6 +9,9 @@ date = "2017-09-18"
 categories = [
     "Ask the Developers",
 ]
+aliases = [
+	"/ask-the-developers/telegram-log-whitepapers-slavery-anarchy/"
+]
 +++
 
 **Artem Kotelskiy**

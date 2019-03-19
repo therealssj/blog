@@ -8,6 +8,9 @@ categories = [
     "Development Updates",
 ]
 description = "Release notes highlighting the current development behind Skycoin."
+aliases = [
+	"/development-updates/development-update-63/"
+]
 +++
 
 If you know your wallet seed, you will be fine. You can open up the wallets with text editor and grab the seed. As long as you have this value, your wallet can never be lost. You can also just copy and paste the wallet directory.

@@ -1,4 +1,4 @@
-+++ 
++++
 title = "Skycoin vs Skywire"
 tags = [
   "Skywire",
@@ -7,6 +7,9 @@ date = "2017-08-30"
 categories = [
   "Skywire",
   "Statement",
+]
+aliases = [
+	"/fr/statement/skycoin-vs-skywire/"
 ]
 +++
 
@@ -23,7 +26,7 @@ Skywire peut fonctionner par lui même sans Skycoin. Ce n'est pas le premier log
 
 Tout type d'application fonctionnant sur Internet peut également fonctionner sur Skywire. Vidéos, stockage de fichiers, VPN... L'utilisation de Skywire sera bien entendu gratuite mais les utilisateurs pourront s'ils le désirent payer des nœuds dans le réseau pour transmettre leur trafic afin de recevoir une meilleure bande passante et un service prioritaire. Cela permet d'obtenir une demande à long terme pour les Skycoins. Pour commencer, le projet Skycoin utilisera certains des Skycoins non distribués pour subventionner les opérateurs de nœud du réseau Skywire afin de le faire fonctionner. Au fil du temps, lorsque les utilisateurs et les applications sur le réseau Skywire deviendront assez nombreuses, la subvention ne sera plus nécessaire.
 
-La blockchain Skycoin et le réseau Skywire peuvent fonctionner de manière indépendant mais bénéficient mutuellement l'un de l'autre. Skywire fournit une utilité pour les Skycoins, et Skycoin offre une incitation financière pour agrandir le réseau Skywire. 
+La blockchain Skycoin et le réseau Skywire peuvent fonctionner de manière indépendant mais bénéficient mutuellement l'un de l'autre. Skywire fournit une utilité pour les Skycoins, et Skycoin offre une incitation financière pour agrandir le réseau Skywire.
 
 
 Lire la suite :

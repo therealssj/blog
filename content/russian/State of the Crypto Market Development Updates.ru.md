@@ -15,6 +15,9 @@ categories = [
     "Statement",
     "Development Updates",
 ]
+aliases = [
+	"/ru/statement/state-of-the-crypto-market-development-updates/"
+]
 +++
 
 - [B&O](#b-o)

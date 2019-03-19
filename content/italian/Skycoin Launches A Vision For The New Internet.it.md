@@ -8,6 +8,9 @@ date = "2017-07-24"
 categories = [
     "Statement",
 ]
+aliases = [
+	"/it/statement/skycoin-launches-a-vision-for-the-new-internet"
+]
 +++
 
 Skycoin, una criptovaluta di prossima generazione con quattro anni di storia di sviluppo

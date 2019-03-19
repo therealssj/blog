@@ -10,4 +10,7 @@ categories = [
     "Infographics",
 ]
 image = "img/what-is-skycoin-skyminer-mining.zh.jpg"
+aliases = [
+	"/zh/infographics/what-is-skycoin-skyminer-mining"
+]
 +++

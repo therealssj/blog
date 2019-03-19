@@ -5,6 +5,9 @@ bounty = 0
 date = "2018-04-12"
 categories = [ "Statement", ]
 image = "img/skycoin-chaoex.jpg"
+aliases = [
+	"/statement/skycoin-now-trading-on-chaoex"
+]
 +++
 
 Skyfleet, we have some great news for you today! We are making good on our promise to the community of offering more exchange options and are back with a new one today!

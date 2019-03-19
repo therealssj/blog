@@ -11,6 +11,9 @@ categories = [
     "Skywire",
     "Ask the Developers",
 ]
+aliases = [
+	"/zh/ask-the-developers/question-regarding-latency-and-privacy-of-the-meshnet/"
+]
 +++
 
 本博客文章内容讲所的是_Skywire_形成初期，在_Skywire_这个名字被使用之前的内容。此文章是从_2014_年_8_月_9_日发表在_bitcointalk_论坛上的博客文章改编而来。

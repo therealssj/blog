@@ -8,6 +8,9 @@ date = "2017-08-24"
 categories = [
     "Statement",
 ]
+aliases = [
+	"/statement/skycoin-community-links"
+]
 +++
 
 Talk with the Skycoin Team

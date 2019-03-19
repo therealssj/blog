@@ -11,6 +11,9 @@ categories = [
     "Infographics",
 ]
 image = "img/How-to-Buy-Skycoin.jpg"
+aliases = [
+	"/de/infographics/how-to-buy-skycoin/"
+]
 +++
 
 ## Es gibt viele Handelsplätze, an denen du Skycoin kaufen kannst. Hier sind ein paar...

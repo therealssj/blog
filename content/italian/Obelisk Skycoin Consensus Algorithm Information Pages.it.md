@@ -12,6 +12,9 @@ categories = [
 ]
 author = "johnstuartmill"
 image = "img/obelisk-the-skycoin-consensus-algorithm.png"
+aliases = [
+	"/it/overview/obelisk-skycoin-consensus-algorithm-information-pages"
+]
 +++
 
 - [Punti Salienti del Consenso](#punti-salienti-del-consenso)

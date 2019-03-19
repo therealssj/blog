@@ -7,6 +7,9 @@ date = "2017-09-05"
 categories = [
     "Ask the Developers",
 ]
+aliases = [
+	"/zh/ask-the-developers/people-want-shitcoins/"
+]
 +++
 
 *Telegram天空币频道(https://t.me/Skycoin) 摘要*

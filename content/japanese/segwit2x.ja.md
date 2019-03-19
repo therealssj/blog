@@ -8,6 +8,9 @@ date = "2017-11-12"
 categories = [
     "Statement",
 ]
+aliases = [
+	"/ja/statement/segwit2x/"
+]
 +++
 
 2017年11月8日（水）、Bitcoinの開発者は議論の的であったSegwit2xへのアップデートを中止しました。Segwit2xへのアップデートでは、各ブロックのサイズを1MBから2MBに増やすことでトランザクション容量を倍増させる計画でした。

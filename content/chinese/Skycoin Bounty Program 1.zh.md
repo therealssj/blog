@@ -7,6 +7,9 @@ date = "2017-08-27"
 categories = [
     "Statement",
 ]
+aliases = [
+	"/zh/statement/skycoin-bounty-program-1"
+]
 +++
 
 *2017年8月20日更新，去除了GIF图片制作的奖励。*

@@ -13,6 +13,9 @@ categories = [
     "Skyminer",
 ]
 image = "img/Skycoin-Digest-Skywire-Overview.jpg"
+aliases = [
+	"/infographics/skycoin-digest-skywire-overview"
+]
 +++
 
 ## Skywire – Reinventing the Internet

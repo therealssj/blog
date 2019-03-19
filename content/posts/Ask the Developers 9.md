@@ -8,6 +8,9 @@ date = "2017-04-13"
 categories = [
     "Ask the Developers",
 ]
+aliases = [
+	"/ask-the-developers/ask-the-developers-9/"
+]
 +++
 
 ## Comment:

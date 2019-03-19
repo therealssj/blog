@@ -8,6 +8,9 @@ date = "2017-11-12"
 categories = [
     "Statement",
 ]
+aliases = [
+	"/it/statement/segwit2x/"
+]
 +++
 
 Mercoledì scorso, gli sviluppatori di Bitcoin hanno sospeso i piani per introdurre il controverso aggiornamento del software Segwit2x. L'aggiornamento 2x avrebbe aumentato la dimensione di ogni blocco da 1 MB a 2 MB, raddoppiando la capacità di transazione di Bitcoin. Segwit2x era stato pianificato da diversi mesi ed è stato programmato per entrare in vigore intorno al 16 novembre.

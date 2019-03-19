@@ -10,6 +10,9 @@ categories = [
     "Infographics",
 ]
 image = "img/What-do-you-think-about-Bitcoin.jpg"
+aliases = [
+	"/it/infographics/what-do-you-think-about-bitcoin"
+]
 +++
 
 ## Bitcoin era fantastico

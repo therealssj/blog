@@ -8,6 +8,9 @@ categories = [
     "Ask the Developers",
 ]
 bounty = 6
+aliases = [
+	"/ja/ask-the-developers/people-want-shitcoins/"
+]
 +++
 
 *Telegramチャンネルからの引用*

@@ -9,6 +9,9 @@ categories = [
     "Statement",
 ]
 description = "Protokoll des Fragt-mich-alles(AMA) gehalten auf ark.io/slack/ (vom 02.07.2017)"
+aliases = [
+	"/de/ask-the-developers/skycoin-ama-log-ark/"
+]
 +++
 
 *ursprünglich gehalten am 2 Juli, 2017 im [ark.io slack](https://ark.io/slack/)*
@@ -19,7 +22,7 @@ description = "Protokoll des Fragt-mich-alles(AMA) gehalten auf ark.io/slack/ (v
 Lasst uns alle @Synth von Skycoin.net herzlich willkommen heißen und uns bei ihm bedanken, dass er sich die Zeit für dieses AMA nimmt.
 
 **synth**
-*Hallo.
+*Hallo.*
 
 **mike**
 Hi Synth.
@@ -49,9 +52,9 @@ Was geht ab @synth.
 Hi Synth. Ich habe eine Frage - sind die nicht-zirkulierenden Coins in einem Offline-Wallet, denn laut Coinmarketcap (CMC) befindet sich zurzeit nur eine kleine Menge im Umlauf? Was würdest du sagen, ist die eine einzigartige Eigenschaft die Skycoin besitzt?
 
 **synth**
-Das ist schwer zu sagen, denn Skycoin ist ein großes Projekt, indem mittlerweile schon über 6 Jahre an Entwicklung stecken. Verschiedene Teile des Projektes haben verschiedene Ziele. 
-Der Crypto-Coin dreht sich darum, die vorherrschenden Probleme mit einem Konsens-Algorithmus zu beheben. Die Möglichkeit zu haben, +300 Transaktionen in der Sekunde auszuführen, Transaktionen innerhalb von Sekunden anstatt von Minuten zu vollführen (schneller als Kreditkarten), das obsolet werden der Miner, eliminieren der Block-Belohnungen (Eliminierung der Inflation), Eliminierung der 51%-Attacke und anderer Probleme, die mit dem Mining zusammenhängen. 
-Außerdem gibt es andere Repository und experimentelle Projekte unter https://github.com/skycoin, wie z.B. das vermaschte Netz und der verteilte VPN-Prototyp, wo die Leute für das Weiterleiten von Traffic in Coins bezahlt werden. Des Weiteren verteilte Social Media Sites mit Peer-to-Peer Replikation, aber auch andere, verschiedene Versuche. Forschen an unveränderbaren Datenstrukturen für die nächste Generation des Internets. Einige von ihnen sind sehr radikal. 
+Das ist schwer zu sagen, denn Skycoin ist ein großes Projekt, indem mittlerweile schon über 6 Jahre an Entwicklung stecken. Verschiedene Teile des Projektes haben verschiedene Ziele.
+Der Crypto-Coin dreht sich darum, die vorherrschenden Probleme mit einem Konsens-Algorithmus zu beheben. Die Möglichkeit zu haben, +300 Transaktionen in der Sekunde auszuführen, Transaktionen innerhalb von Sekunden anstatt von Minuten zu vollführen (schneller als Kreditkarten), das obsolet werden der Miner, eliminieren der Block-Belohnungen (Eliminierung der Inflation), Eliminierung der 51%-Attacke und anderer Probleme, die mit dem Mining zusammenhängen.
+Außerdem gibt es andere Repository und experimentelle Projekte unter https://github.com/skycoin, wie z.B. das vermaschte Netz und der verteilte VPN-Prototyp, wo die Leute für das Weiterleiten von Traffic in Coins bezahlt werden. Des Weiteren verteilte Social Media Sites mit Peer-to-Peer Replikation, aber auch andere, verschiedene Versuche. Forschen an unveränderbaren Datenstrukturen für die nächste Generation des Internets. Einige von ihnen sind sehr radikal.
 
 **dr10**
 Wie funktioniert der Konsens-Algorithmus Obelisk und wie unterscheidet er sich von bekannten Algorithmen, wie 'Proof of Work' und 'Proof of Stake'?
@@ -91,7 +94,7 @@ Ich denke NXT geht es gut..
 PoS und PoW benutzen Miner. Miner erhalten Coins für jeden neuen Block als Blockbelohnung. Die Miner verdienen also Geld und werden über die Kontrolle des Netzwerkes kämpfen. Jeder wird darunter leiden, weil die neu geschaffenen Coins Inflation bedeuten.
 Skycoin wurde designt um Mining zu eliminieren und um Inflation zu eliminieren. Keine Blockbelohnungen, keine neuen Coins. Wir waren deshalb gezwungen einen neuen Konsens-Algorithmus zu entwickeln und es gibt nur einige Methoden, welche unter diesen Einschränkungen funktionieren. Der Konsens-Algorithmus basiert auf Ben-Or's Randomisierungsprozedur um Übereinstimmung in einem verteilten System zu erreichen, mit einigen Verbesserungen, um konfliktreiche oder bösartige Knoten zu erkennen, welche versuchen den Konsens-Prozess zu verhindern.
 
-Es gibt auf skycoin.net Whitepaper über die Spezifikationen. Ich würde es "Netzwerk-Konsens" nennen und es nutzt eine Art Netz des Vertrauens (WoT), indem von der Community Leute, welche einen schlechten Job bei dem Erstellen von Blocks machen, oder das Netzwerk sogar angreifen, ausgeschlossen werden können. Gleichzeitig haben die Leute, welche das Netzwerk kontrollieren, keine wirkliche Macht um das Netzwerk anzugreifen, sie können lediglich die Transaktionsgeschwindigkeit verringern und nervtötend sein, deshalb ist das einzige Problem wenn sie bösartig werden die Frage, wie man sie los wird und wie man neue Leute auswählt. 
+Es gibt auf skycoin.net Whitepaper über die Spezifikationen. Ich würde es "Netzwerk-Konsens" nennen und es nutzt eine Art Netz des Vertrauens (WoT), indem von der Community Leute, welche einen schlechten Job bei dem Erstellen von Blocks machen, oder das Netzwerk sogar angreifen, ausgeschlossen werden können. Gleichzeitig haben die Leute, welche das Netzwerk kontrollieren, keine wirkliche Macht um das Netzwerk anzugreifen, sie können lediglich die Transaktionsgeschwindigkeit verringern und nervtötend sein, deshalb ist das einzige Problem wenn sie bösartig werden die Frage, wie man sie los wird und wie man neue Leute auswählt.
 
 **mike**
 Irgendeine Vorstellung wann Skywire veröffentlicht wird und bereit ist auf Hardware-Knoten getestet zu werden (Testnetz oder Hauptnetz)?
@@ -109,7 +112,7 @@ Hast du eine Ahnung von den Spezifikationen die Knoten benötigen würden, zu Be
 
 > Ich denke NXT geht es gut..
 
-Es gab drei Leute, welche jeweils 30% des Coins besaßen. Einer entschied sich auszusteigen und begann damit rasant Coins zu verkaufen. Ich glaube NXTs Börsenwert war damals über 150 Millionen. 
+Es gab drei Leute, welche jeweils 30% des Coins besaßen. Einer entschied sich auszusteigen und begann damit rasant Coins zu verkaufen. Ich glaube NXTs Börsenwert war damals über 150 Millionen.
 Sobald er begann zu verkaufen, hat es NXT praktisch getötet.
 Skycoins Distribution wurde so designt, dass Dumping, durch die Gründer und Frühnutzer, verhindert wird.
 Nachdem Skycoins Distribution zu 30% angestiegen ist, wird es vermutlich einen festes Zeitschloss für den Rest der Coins geben, sodass ein Maximum von 5% jährlich herausgegeben wird. Die Distribution der verbleibenden 70% wird also mindestens 14 Jahre und möglicherweise sogar länger dauern.
@@ -126,7 +129,7 @@ NXT ist eine neuere Plattform als SKY, der Börsenwert ist $220 Millionen plus $
 
 Ja. Bitcoin hat keinen Verwendungszweck. Ein Altcoin macht zwei Dinge - Prüfe deine Bilanz - Sende Geld zu anderen Leuten. Zwei Eigenschaften - Prüfe Balance - Versende.
 Damit ein Coin intrinsischen Wert besitzt, müssen Leute gezwungen sein ihn zu kaufen, um spezifische Services zu genießen. Um Nachfrage zu erzeugen muss es Sachen geben, für die Leute den Coin ausgeben können. Bitcoin ist demnach eine rein spekulative Anlage. Es wird kein Cashflow generiert und sein Wert ist bestimmt durch die Auffassung der Öffentlichkeit, oder auch der sozialen Übereinkunft.
-Im Idealfall würde Skycoin als 'besserer Bitcoin' durchstarten (schneller, sicherer, neuer Algorithmus, einfacher, etc.) und mit der Zeit würden wir ein Ökosystem aufbauen, um eine Art finanzielle Unterstützung zu haben, aber auch um den Wert des Coins an das Netzwerk und die grundlegende Nutzung zu binden. 
+Im Idealfall würde Skycoin als 'besserer Bitcoin' durchstarten (schneller, sicherer, neuer Algorithmus, einfacher, etc.) und mit der Zeit würden wir ein Ökosystem aufbauen, um eine Art finanzielle Unterstützung zu haben, aber auch um den Wert des Coins an das Netzwerk und die grundlegende Nutzung zu binden.
 Das vermaschte Netz (Skywire) ist gut, denn es stellt einen Grund dar, für den die Leute Coins kaufen können und es ermöglicht es den Menschen, diese auch wieder zu verbrauchen. Man kann seinen Internet-Traffic über einen VPN laufen lassen der über Skywire tunnelt und möglicherweise wird dies einen nominellen Kostenpunkt haben (tatsächlich einen absurd kleine Geldmenge), aber es würde reale ökonomische Aktivität bedeuten und eine echte, reale Userbase und Community welche den Coin verwendet. Nicht nur Spekulation. Der spätere Anwendungsbereich ist wesentlich umfangreicher.
 
 **arc-over-water**
@@ -147,7 +150,7 @@ Aber sie haben dasselbe erneut mit IOTA gemacht, derselbe führende Entwickler..
 
 Das VPN ist nur eine Anwendung, welche Bandbreite über Skywire verwendet. Es sind mehrere Dinge in der Entwicklung.
 Dies ist ein BBS wie 4chan, welches vollständig mittels CXO dezentralisiert ist - https://github.com/skycoin/bbs.
-Es wird ebenfalls über Skywire laufen, das ist in etwa, als wenn man ein komplett neues Internet vom Grund auf entwickelt. Die Anwendungen, die darauf laufen werden, sollen spezialisiert und fokusiert auf Privatsphäre sein etc. 
+Es wird ebenfalls über Skywire laufen, das ist in etwa, als wenn man ein komplett neues Internet vom Grund auf entwickelt. Die Anwendungen, die darauf laufen werden, sollen spezialisiert und fokusiert auf Privatsphäre sein etc.
 GitHub skycoin/bss - tragt zur Entwicklung der BBS-Entwicklung bei, indem ihr euch ein Account auf GitHub erstellt.
 
 **mike**
@@ -206,7 +209,7 @@ Es wird also zwei Währungen geben, die eine zu besitzen wird einem Einkünfte i
 
 Ja. Das ist sehr wichtig.
 Die Person, welche die Verbindung aufbaut, wählt den Pfad der Verbindung!
-Man kann den Pfad mit der geringsten Latenzzeit für Videospiele oder Skype wählen, oder Pfade mit der höchsten Durchsatzrate für Videodownloads etc. 
+Man kann den Pfad mit der geringsten Latenzzeit für Videospiele oder Skype wählen, oder Pfade mit der höchsten Durchsatzrate für Videodownloads etc.
 Man kann auch Pfade wählen, welche über spezifische Knoten, Einrichtungen oder Länder gehen, sofern man Sicherheitsbedenken hat oder um die Anzahl der potentiellen Abhörstellen zu verringern.
 
 **mike**
@@ -221,7 +224,7 @@ Wann habt ihr vor eure geplante Technologie und Service der breiten Masse vorzus
 
 Das ist vermutlich ein Fehler. LOL. Wir werden bald eine neue Website haben.
 Es gibt keine Skriptsprache auf der Skycoin-Blockchain. Jede Transaktion findet in konstanter Zeit statt (aus Effizienz und Sicherheitsgründen und um die höchste Transaktionsrate zu erreichen, sowie um den Coin einfach zu halten).
-Jedoch haben wir eine Sprache mit dem Namen CX in Entwicklung, welche eine Sprache der nächsten Generation ist und über "smart contracts" und die Spielsachen von Ethereum hinaus geht. Sie verwendet unveränderbare Datenstrukturen und ist etwas fundamental neues. Die meisten der Skycoin "smart contracts" werden vermutlich abseits der Blockchain oder in persönlichen Blockchains stattfinden, denn wir wollen nicht alle Daten in die Haupt-Chain stopfen, weil sonst jeder dazu gezwungen wird die Verträge von anderen herunterzuladen und das ist schlichtweg nur ein Zuspammen der Blockchain bis zum Tode. 
+Jedoch haben wir eine Sprache mit dem Namen CX in Entwicklung, welche eine Sprache der nächsten Generation ist und über "smart contracts" und die Spielsachen von Ethereum hinaus geht. Sie verwendet unveränderbare Datenstrukturen und ist etwas fundamental neues. Die meisten der Skycoin "smart contracts" werden vermutlich abseits der Blockchain oder in persönlichen Blockchains stattfinden, denn wir wollen nicht alle Daten in die Haupt-Chain stopfen, weil sonst jeder dazu gezwungen wird die Verträge von anderen herunterzuladen und das ist schlichtweg nur ein Zuspammen der Blockchain bis zum Tode.
 Es gibt klügere Wege um das zu tun.
 
 > Wird Skycoin den Subventionsplan für das Einrichten und Registrieren der Mesh-Knoten, wie ursprünglich geplant, beibehalten?
@@ -263,7 +266,7 @@ Kannst du einen Weg sehen, wie Ark und Skycoin aufeinander, in einer synergistis
 Im Grunde genommen sehe ich Skycoin als Ersetzung des TCP/IP, sowie der Bereitstellung von Mesh-Netzwerk-Funktionaltität auf Hardwareebene. Ark würde darüber als eine Art Top-Anwendungsschicht laufen.
 
 **arc-over-water**
-Bist auf dem Stand der Dinge bezüglich Maidsafe, sie sind fast aus der Alpha draußen und es sieht mehr so aus, als ob sie zu Beginn des nächsten Jahres releasen würden? Im gleichen Zuge sagt Maidsafe, dass es wie ein Virus oder eine Art autonome artifizielle Intelligenz, Tau Chain ebenso, sowie HunterMinerCrafter - sind wir auf dem Wege zu einer artifiziellen Intelligenz mit Maid, Sky, Tau und Autonomic?  
+Bist auf dem Stand der Dinge bezüglich Maidsafe, sie sind fast aus der Alpha draußen und es sieht mehr so aus, als ob sie zu Beginn des nächsten Jahres releasen würden? Im gleichen Zuge sagt Maidsafe, dass es wie ein Virus oder eine Art autonome artifizielle Intelligenz, Tau Chain ebenso, sowie HunterMinerCrafter - sind wir auf dem Wege zu einer artifiziellen Intelligenz mit Maid, Sky, Tau und Autonomic?
 
 **dr10**
 Smartbridge, sofort! :kappa:
@@ -276,13 +279,13 @@ Um zu kommunizieren ist es mehr so, als ob man verschlüsselte Dateien zu ausgew
 
 > Seid ihr ein Unternehmen, eine Wohltätigkeitsorganisation oder eine Stiftung? Ich bin mir nicht sicher ob ich etwas darüber gelesen habe wer ihr seid ? Wie groß ist die Entwicklerteamgröße? Hintergründe?
 
-Ich denke es gibt über ~60 Leute, welche an Skycoin mitgearbeitet haben, oder wesentliche Beiträge geleistet haben. Es ist regelrecht ein Projekt, dass aus dem Darknet stammt. 
+Ich denke es gibt über ~60 Leute, welche an Skycoin mitgearbeitet haben, oder wesentliche Beiträge geleistet haben. Es ist regelrecht ein Projekt, dass aus dem Darknet stammt.
 Viele der Mitwirkenden sind anonym. Einige von ihnen unterliegen verschiedenen Sicherheitsfreigaben und waren im industriellen, militärischen Komplex tätig, einer von ihnen hat am 'San Diego Naval Defence Research Lab' gearbeitet und viele der Ideen für die Netzwerkprotokolle stammen aus dem öffentlichen Sektor der akademischen Forschung, welche auch durch diesen finanziert worden sind.
 Wir haben also einige der sehr frühen Bitcoin-Leute, hardcore-crypto Leute, welche aus der Zeit der Bitcoinentwicklung und der Ethereum-Kern-Entwicklung stammen, etc...
-Auf der chinesischen Seite haben wir frühzeitige Investoren, einer in Alibaba und einer in Telecom. Zudem haben wir ein Pilot-Projekt mit einem chinesischen Luftfahrtkonzern, welche vier öffentlich gehandelte Fluggesellschaften besitzt und scheinbar jetzt auch Sinopec, welches das zweitgrößte, öffentlich gehandelte Unternehmen auf der Welt ist. 
+Auf der chinesischen Seite haben wir frühzeitige Investoren, einer in Alibaba und einer in Telecom. Zudem haben wir ein Pilot-Projekt mit einem chinesischen Luftfahrtkonzern, welche vier öffentlich gehandelte Fluggesellschaften besitzt und scheinbar jetzt auch Sinopec, welches das zweitgrößte, öffentlich gehandelte Unternehmen auf der Welt ist.
 Darüber hinaus sind Leute aus der 'United States Intelligence Community' an Bord, sowie aus der 'Israeli Intelligence Community', welche eine Art Geldwäsche betreiben oder eine andere Art psychologischer Untergrundoperation und aus irgendeinem Grunde aufgetaucht sind. Diese Gruppe ist sehr interessiert an den 'Anwendungen' dieser Coins und wie man Transaktionsprivatsshpäre verbessern kann, sowie der Spezifikation der CoinJoin-Protokoll-Implementierung.
 Wir haben viele Ratschläge & Anforderungen von Leuten, die im 'forensic Accounting' (forensische Buchhaltung) tätig sind, erhalten und sie haben uns mitgeteilt, inwiefern Bitcoin unzureichend ist in der Form, dass Metadaten preisgegeben werden.
-Außerdem gibt es einige Doktoranden, welche Forschung in der Richtung der verteilten Datenbankenkonsensusalgorithmen betreiben und eine andere Gruppe forscht an Programmiersprachen. 
+Außerdem gibt es einige Doktoranden, welche Forschung in der Richtung der verteilten Datenbankenkonsensusalgorithmen betreiben und eine andere Gruppe forscht an Programmiersprachen.
 Dazu kommen viele Leute aus den Tiefen des Darknet, anonyme Personen, Frog, Twitter und Cypherpunk sowie aus der Bittorrent-Community (sollte man eigentlich als zwei separate Gruppen aufgezählen). Nicht zu vergessen die Leute aus der russischen Darknet-Community. Wir haben ungefähr acht Ivans. (bearbeitet.)
 
 > Im Grunde genommen sehe ich Skycoin als Ersetzung des TCP/IP, sowie der Bereitstellung von Mesh-Netzwerk-Funktionaltität auf Hardwareebene. Ark würde darüber als eine Art Top-Anwendungsschicht laufen.
@@ -313,14 +316,14 @@ Wir haben vier ICOs mit kleineren Mengen durchgeführt um die Entwicklung zu fin
 Ich erinnere mich, dass die erste ICO bei $0.10 pro Coin war und der Preis jetzt ist in etwa $4.00 pro Coin, also ist der Kurs etwa ~35x oder 40x gestiegen, aber wenn man bedenkt, dass der Preis von Bitcoin von $100 zu $3000 gestiegen ist, ist die Zunahme nicht so groß. Lol. (bearbeitet)
 
 **arc-over-water**
-Mit dem Anstieg des Preises um das 35x in etwa einem Jahr, ist jetzt nicht die Zeit um den Anstieg abzuflachen und eine weitere ICO stattfinden zu lassen? Mit welcher Menge an releasten Coins und mit welcher Methode? 
+Mit dem Anstieg des Preises um das 35x in etwa einem Jahr, ist jetzt nicht die Zeit um den Anstieg abzuflachen und eine weitere ICO stattfinden zu lassen? Mit welcher Menge an releasten Coins und mit welcher Methode?
 
 **mike**
 Würden Intel Edison, Joule oder Samsung Artik 10 gut als Skywire Wireless-Knoten funktionieren? Sie haben 2Gb-8Gb RAM, 8-64 Gg eMMC Speicher, 802.11 Wireless, bluetooth und einige mit Zigbee?
 
 **synth**
 
-> Bist du persönlich in Skycoin von Anfang an involviert gewesen? Wieviel besitzen die Mitglieder/Entwickler? Wer alloziiert die ICO-Geldmenge etc... Ich hoffe du verstehst, dass die Dezentralisierung von Investitionen ein zweiseitiges Schwert ist, wir investieren in Leute, können diese aber nicht kennen... also... fragen wir. 
+> Bist du persönlich in Skycoin von Anfang an involviert gewesen? Wieviel besitzen die Mitglieder/Entwickler? Wer alloziiert die ICO-Geldmenge etc... Ich hoffe du verstehst, dass die Dezentralisierung von Investitionen ein zweiseitiges Schwert ist, wir investieren in Leute, können diese aber nicht kennen... also... fragen wir.
 
 Ich denke es gab drei verschiedene Gruppen, die innerhalb der ersten drei Jahre verschmolzen sind und ähnliche Zielvorstellungen hatten. Der Code war in verschiedenen Sprachen verfasst. Es gab Python, C-Code und schließlich Golang und der Golang-Code wurde die Basis für den aktuellen Code.
 Die Coin-Alloziierung funktioniert auf folgende Art und Weise: Es ist eine einstimmige Zustimmung für den Release von Coins nötig und es muss für einen spezifischen Einsatz sein, es kann also von jedem der Entwickler blockiert werden.
@@ -335,7 +338,7 @@ Das Beste, wäre ein völlig frei verfügbares System auf einem Chip für die Kn
 
 **synth**
 
-> Mit dem Anstieg des Preises um das 35x in etwa einem Jahr, ist jetzt nicht die Zeit um den Anstieg abzuflachen und eine weitere ICO stattfinden zu lassen? Mit welcher Menge an releasten Coins und mit welcher Methode? 
+> Mit dem Anstieg des Preises um das 35x in etwa einem Jahr, ist jetzt nicht die Zeit um den Anstieg abzuflachen und eine weitere ICO stattfinden zu lassen? Mit welcher Menge an releasten Coins und mit welcher Methode?
 
 Ich denke der Skycoinpreis hat sich alle 40 Tage verdoppelt, solange ich mich zurückerinnern kann. Wie auch immer, es wird trotzdem Jahre brauchen bevor er in den Top20 sein wird, es ist ein langer Aufstieg. Bitcoin hat Jahre gebraucht um von 0 zu $1 zu kommen, obwohl er mit 1% Wachstum pro Tag für sechs Jahre lang gewachsen ist.
 
@@ -373,21 +376,21 @@ Hat dieses Bild hochgeladen: 2049465686.jpg Füge Kommentar hinzu.
 **mike**
 Stark! Sieht aus wie ein ARM basiertes Serverrack. Lass mich wissen wenn du Hilfe damit brauchst. Wie ich sehe, arbeitest du mit solidworks, die habe ich auch am laufen.
 
-**synth** 
+**synth**
 Das ist der Skycoin-Cluster; er hat 8 CPU Boards; 4 Kerne pro CPU, 2 GB Arbeitsspeicher pro CPU, welche 64 Bit ARM-Prozessoren sind. Nur ein einziges Programm wird auf jedem Board laufen, es ist also Kompartimentierung und eine physische Lücke vorhanden, was dazu führt, dass das Kompromittieren eines einzelnen Systems nicht die Möglichkeit bietet, alle anderen Prozesse auf dem System zu kompromittieren.
 
 **mike**
 Schaut nach 2 Ethernet-Ports pro Board aus.
 
 **synth**
-Die Hardware hat außerdem nicht die Qualcom-Hintertüren und ist von Haus aus chinesisches Equipment; die Hintertüren sind normalerweise auf Kernelebene, weil sie noch nicht auf Hardwareebene implementiert werden. 
+Die Hardware hat außerdem nicht die Qualcom-Hintertüren und ist von Haus aus chinesisches Equipment; die Hintertüren sind normalerweise auf Kernelebene, weil sie noch nicht auf Hardwareebene implementiert werden.
 Lol.
 
 **mike**
 Haben sie SATA-Ports, vielleicht für M.2-Speicher?
 
 **synth**
-Wir werden letztendlich einen ARM OpenWrt haben. Dieses Model hat keinen SATA-Anschluss, aber wir eins mit SATA-Anschluss; man könnte bis zu 16 2 TB Platten anschließen, lol und das halbe Piratebay in sein Cluster downloaden (bearbeitet). 
+Wir werden letztendlich einen ARM OpenWrt haben. Dieses Model hat keinen SATA-Anschluss, aber wir eins mit SATA-Anschluss; man könnte bis zu 16 2 TB Platten anschließen, lol und das halbe Piratebay in sein Cluster downloaden (bearbeitet).
 Die Skycoin-Infrastruktur ist gruppenbasiert und dafür designt, auf mehr als 300 Computern zu laufen, mit einem "Knoten" vorgeschalten vor jeden Rechner. Entweder ein CXO-Speicherknoten, ein Skywire SDN/Meshnetknoten, ein VPN-Endknotenpunkt, ein Konsensnetzwerkknoten, oder ein Skycoinknoten etc. Wir haben verschiedenste Knoten/Anwendungstypen.
 Dies ist also an und für sich schon eine 'Cloud'.
 Es ist nicht wie bei StoreJ, wo man andere Leute hat, die die eigenen Sachen speichern; man wird ca. 5 Cluster haben und 300 Rechner und man kann seine eigenen Daten speichern, sein eigenes Internet, seine eigene Hardware. Man muss sich nicht außerhalb seines Netzwerks bewegen.
@@ -435,7 +438,7 @@ Wir brauchen nur RAM, CPU und einen microSD slot; das ist alles. Wi-Fi und der g
 Genau, wir verwenden sehr wenige Ports des pcDuino nano, kein Verwendungszweck für Video, Audio, IR.
 
 **synth**
-Es gibt sogar eine frei verfügbare FPGA-Toolchain und ein 1-Instruktion-Rechner(OISC) mit Substraktion oder Sprung sofern es nicht Null ist; wenn man ein RAM und Byte-Array hat kann man die Funktionalität sogar auf diese Stufe herabkompilieren; das ist zwar Trolling, aber zum Signieren von Transaktionen oder ähnlichem, könnte man auf diesem Level agieren. 
+Es gibt sogar eine frei verfügbare FPGA-Toolchain und ein 1-Instruktion-Rechner(OISC) mit Substraktion oder Sprung sofern es nicht Null ist; wenn man ein RAM und Byte-Array hat kann man die Funktionalität sogar auf diese Stufe herabkompilieren; das ist zwar Trolling, aber zum Signieren von Transaktionen oder ähnlichem, könnte man auf diesem Level agieren.
 
 **mike**
 Hast du einen Link zu dem FPGA? Mein Favorit war bisher die ZYNQ 7000 Serie, aber das hier hört sich wesentlich günstiger an.
@@ -603,7 +606,7 @@ Sie treiben ihre sozialen Agendas voran und zwingen die Firmen, denen sie Geld g
 Sogar Google ist dazu gezwungen diesen Anforderungen zu gehorchen. Fortune 500 hat 700 Millionen/Jahr in Werbeeinnahmen zurückgezogen und dann hat Google zugestimmt, die Suchergebnisse den Wünschen der Werbetreibenden anzupassen. Gleichzeitig bedrohen sie sie mit Strafgeldern, wenn sie nicht mit den Regierungen und den Unternehmen zusammenarbeiten.
 Dezentralisierte soziale Medien bedeuten, dass man selbst Herr über seine eigenen Daten ist. Es bedeutet, dass man seinen eigenen Rechner kontrolliert, die Algorithmen die den Feed sortieren und priorisieren. Anstatt zu erlauben, dass der Feed von einer Dritt-Partei kontrolliert und manipuliert wird, welche meist nur eine Geldhure ist, die versucht die Geldstrafen der EU zu umgehen, die unterwürfig zensiert, wenn die Soap-Unternehmen damit drohen ihr Werbegeld abzuziehen.
 Ja, ARK könnte das Skycoin-Netzwerk für Block und Transaktionsverteilung verwenden, ebenso wie es das Netzwerk für networking verwenden könnte, um Blockierungen zu umgehen.
-ARK könnte als Knoten im selben Framework wie Skycoin eingesetzt werden, innerhalb der Skycoin-Cluster. Es gibt https://github.com/skycoin/viscript und wir können ARK dort hinzufügen. Es gibt eine cross-plattform CLI und auf lange Sicht ein Anwendungsstarter und Clustermanagement. 
+ARK könnte als Knoten im selben Framework wie Skycoin eingesetzt werden, innerhalb der Skycoin-Cluster. Es gibt https://github.com/skycoin/viscript und wir können ARK dort hinzufügen. Es gibt eine cross-plattform CLI und auf lange Sicht ein Anwendungsstarter und Clustermanagement.
 
 **mike**
 Danke! Das werde ich unseren Entwicklern senden. Wir haben und fügen aktuell viele APIs und CLIs für verschiedenste Sprachen hinzu.
@@ -648,7 +651,7 @@ Als das Internet erschaffen wurde war das Erste, was die Leute taten, Pornos her
 ISIS benötigt Skycoin nicht, sie verwenden XBOX-Messenger und Facebook-Messenger. Sie brauchen Crypto nicht. Jeder terroristische Akt bedeutet ein Erhöhen der Budgets, deshalb liebt die Regierung ISIS. Terrorismus ist eine Wirtschaftskraft und je mehr Terror, umso mehr Geld ist dort zu holen. Die Leute machen zuviel Geld durch ISIS, als dass sie das Problem in nächster Zeit beseitigen werden.
 Die Pädophilen waren ebenso die Ersten, welche Stenografie, i2p, Tor, Tails und Bitmessage adaptiert haben. Das sind stets die Ersten, welche den neuen kryptographischen Kram ausprobieren. Man sollte auf die Logos der Stenografie-Apps schauen und man kann raten, welche Art von Leuten diese Art Anwendung geschrieben hat.
 Sogar zwei Jahre bevor Skycoin begann, hatten die Geheimdienste und Geldwäscher bereits ihre Anforderungen abgegeben, um Metadaten wegzuscheuern oder zu verstecken.
-Wenn ich die nächste Silk Road aufbauen würde, dann würde ich auf Technologie wie Skycoin setzen. Ich denke jeder hatte diese Idee bereits. 
+Wenn ich die nächste Silk Road aufbauen würde, dann würde ich auf Technologie wie Skycoin setzen. Ich denke jeder hatte diese Idee bereits.
 Wir können nicht wirklich kontrollieren was die Leute mit all den Sachen anstellen werden. Es ist ein unausweichlicher Prozess und es wird passieren, ob wir es tun oder andere, wie Maidsafe. Es wird stattfinden. (bearbeitet)
 
 **mike**
@@ -685,7 +688,7 @@ Man muss nichtmal auf dieses Level absteigen, schon allein die aktuelle Farce ü
 
 **synth**
 Terroristische Attacken sind jetzt Werbeevents für Nike; sie kämpfen darüber, wer die Produktplazierung in der nächsten ISIS-Attacke bekommt. Es hält die Leute vor ihren Fernsehern und sonst würden die Leute die Nachrichten nicht ansehen. Sogar Terroristenattacken halten die Leute vor ihren Fernsehern und die Fortune 500 streiten darüber, wer den Werbesport für diese Leute vor ihren Fernsehern bekommt.
-Die Regierungen und Unternehmen laufen ein, wie Haie mit ihrer letzten "Überwachungs"-Rechnung, um der Regierung die Möglichkeit zu geben, für Milliarden von Dollar nutzloses Equipment zu kaufen. Die Regierungsbehörden hetzen alle danach die Presse zu beeinflussen und ihr Budget aufgestockt zu bekommen. 
+Die Regierungen und Unternehmen laufen ein, wie Haie mit ihrer letzten "Überwachungs"-Rechnung, um der Regierung die Möglichkeit zu geben, für Milliarden von Dollar nutzloses Equipment zu kaufen. Die Regierungsbehörden hetzen alle danach die Presse zu beeinflussen und ihr Budget aufgestockt zu bekommen.
 Es ist einfach nur Irrsinn. Sie denken nur ans Geld.
 
 **mike**
@@ -771,7 +774,7 @@ Skycoin kann kein öffentliches "Team" oder "Ratgebergremium" auf der Website ha
 Exakt, am besten lebt man in einem Land, in der man kein Staatsbürger ist und man verdient Geld aus einem Land, in dem man nicht lebt... Mache das seit 10 Jahren und es ist viel weniger Stress. (bearbeitet)
 
 **synth**
-Viele der frühzeitigen Bitcoin-Leute, welche sich öffentlich auf Twitter identifiziert haben, können nicht nach Brasilien, oder in andere bestimmte Länder, ohne das Risiko einzugehen, für Lösegeld gekidnapped zu werden. 
+Viele der frühzeitigen Bitcoin-Leute, welche sich öffentlich auf Twitter identifiziert haben, können nicht nach Brasilien, oder in andere bestimmte Länder, ohne das Risiko einzugehen, für Lösegeld gekidnapped zu werden.
 lololol.
 
 **arc-over-water**
@@ -798,7 +801,7 @@ Ich weiß wirklich nicht was mit der nächsten ICO ist.
 Ok.
 
 **synth**
-Sie wird um den 20ten des nächsten Monats sein und es wird 1%-10% der Gesamtmenge an Skycoin sein. Ich bin nicht sicher, ob die exakte Anzahl festgelegt ist, es wird jedoch vermutlich ein fixer Preis sein. 
+Sie wird um den 20ten des nächsten Monats sein und es wird 1%-10% der Gesamtmenge an Skycoin sein. Ich bin nicht sicher, ob die exakte Anzahl festgelegt ist, es wird jedoch vermutlich ein fixer Preis sein.
 
 **dr10**
 Das ist ein AMA-Marathon :trollbounce: nice!
@@ -874,7 +877,7 @@ Jedes Mitglied eines Altcoin-Slack-Channels bekommt einen Code als Invite. Wenn 
 Es gibt Leute, welche ein großen Anteil der ETH besitzen und diesen diversifizieren möchten; sie können 20 Millionen in eine ICO werfen und das 50-fache zurückerhalten, aber wenn sie es Verlieren, ist es ein kleiner Verlust; sie haben soviel ETH, dass sie es nichtmal verkaufen oder konvertieren können, ohne den Markt abstürzen zu lassen.
 
 **arc-over-water**
-An einem Tag könnte jedes Mitglied eines Altcoin-Slack-Channels eine einmalig genutzte BTC-Addresse bekommen, in die er einen maximalen Betrag einzahlen kann etc... 
+An einem Tag könnte jedes Mitglied eines Altcoin-Slack-Channels eine einmalig genutzte BTC-Addresse bekommen, in die er einen maximalen Betrag einzahlen kann etc...
 
 **synth**
 Ja, im Idealfall könnte das funktionieren.
@@ -921,7 +924,7 @@ Dann die Distribution an Leute, die auf unsere Plattform kommen und Communities 
 
 **mike**
 Ich mag das langfristige ArkSpace-Projekt zur Weltraumerkundung und die Entwicklung muss über eine wesentlich längere Zeitspanne, als die Finanzierung eines Indexcoins überbrückt zu Ark, stattfinden.
-Ja und in beiden Fällen, das Projekt kann die Blöcke von Token an Mitwirkende verteilen, anstatt sie mit Geld zu kompensieren. 
+Ja und in beiden Fällen, das Projekt kann die Blöcke von Token an Mitwirkende verteilen, anstatt sie mit Geld zu kompensieren.
 Ich bin ein Fan der Methode, den Kuchen zu teilen.
 
 **arc-over-water**

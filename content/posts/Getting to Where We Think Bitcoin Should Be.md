@@ -11,6 +11,9 @@ date = "2017-10-03"
 categories = [
     "Statement",
 ]
+aliases = [
+	"/statement/getting-to-where-we-think-bitcoin-should-be/"
+]
 +++
 
 *This is an archived post from the bitcointalks thread on April 23 2014*

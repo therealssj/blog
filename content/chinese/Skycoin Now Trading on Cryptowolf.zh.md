@@ -4,6 +4,9 @@ tags = [ "Announcements", ]
 bounty = 0
 date = "2018-03-05"
 categories = [ "Statement", ]
+aliases = [
+	"/zh/statement/skycoin-now-trading-on-cryptowolf"
+]
 +++
 
 Skycoin的首要任务是支持和扩大发展我们的社区，其中一点是向社区提供尽可能多的交易所选择。

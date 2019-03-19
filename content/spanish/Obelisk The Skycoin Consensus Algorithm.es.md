@@ -9,6 +9,9 @@ categories = [
     "Statement",
 ]
 image = "img/obelisk-the-skycoin-consensus-algorithm.png"
+aliases = [
+	"/es/statement/obelisk-the-skycoin-consensus-algorithm"
+]
 +++
 
 La cadena de bloques (blockchain) de Skycoin hace uso de un nuevo tipo de

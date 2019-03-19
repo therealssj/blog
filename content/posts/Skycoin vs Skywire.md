@@ -9,6 +9,9 @@ categories = [
     "Skywire",
     "Statement",
 ]
+aliases = [
+	"/statement/skycoin-vs-skywire/"
+]
 +++
 
 Skycoin and Skywire are two separate components of the Skycoin Project.

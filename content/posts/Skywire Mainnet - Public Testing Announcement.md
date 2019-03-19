@@ -11,6 +11,9 @@ categories = [
     "Skywire",
 ]
 image = "img/mainnet.jpg"
+aliases = [
+	"/skywire/skywire-mainnet-public-testing-announcement"
+]
 +++
 
 Work on Skycoin began in 2011 with the merging of three separate projects that aimed to improve upon the design and implementation of Bitcoin. The Skycoin developers identified several major philosophical design issues that they saw as obstacles to global use of cryptocurrency as a censorship-resistant payment system.

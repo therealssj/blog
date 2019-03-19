@@ -10,6 +10,9 @@ date = "2017-10-07"
 categories = [
     "Statement",
 ]
+aliases = [
+	"/de/statement/can-skycoin-be-51-attacked/"
+]
 +++
 
 *Dies ist ein archivierter Post aus dem Bitcointalksthread vom 16. Februar 2015.*
@@ -51,7 +54,7 @@ https://github.com/skycoin/skycoin/blob/master/src/coin/transactions.go
 Eine Skycoin Transaktion ist:
 
 1) Eine Liste von Outputhashes, welche ausgegeben werden
-2) Eine Liste der Signaturen, welche den Output authorisieren ausgegeben werden zu dürfen (Signaturhashes des inneren Teils 
+2) Eine Liste der Signaturen, welche den Output authorisieren ausgegeben werden zu dürfen (Signaturhashes des inneren Teils
    der Transaktion)
 3) Eine Liste der Outputs die erstellt werden
 

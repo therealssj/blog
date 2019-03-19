@@ -9,7 +9,11 @@ categories = [
     "Ask the Developers",
 ]
 description = "A weekly session where users can comment or ask questions to the Skycoin Developers in order to gain a better insight and understanding into the Skycoin Project "
+aliases = [
+	"/ask-the-developers/ask-the-developers-3/"
+]
 +++
+
 # Ask the Developers - Session #3
 
 ### Comment:
@@ -30,7 +34,7 @@ Yes. You have it working! The wallet gui is running a GTK window that embeds web
 - You can run a local blockchain, but the global testnet blockchain is not running right now.
 - There is a tool in ./compile/test-coverage that generates an HTML coverage test across repo
 - ./test.sh runs the unit tests for each module
-- you can generate addresses and test out deterministic wallets with ` go run ./cmd/address_gen/address_gen.go -a -n=5 -seed="test" `. This tool needs some work. This prints 5 (pubkey, seckey, address) pairs generated from wallet seed "test"
+- you can generate addresses and test out deterministic wallets with `go run ./cmd/address_gen/address_gen.go -a -n=5 -seed="test"`. This tool needs some work. This prints 5 (pubkey, seckey, address) pairs generated from wallet seed "test"
 
 Technically, we can launch testnet right now. Everything is working.  There are a few changes I wanted to make however
 - new wire protocol

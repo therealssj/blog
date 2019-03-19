@@ -4,6 +4,9 @@ tags = [ "Announcements", ]
 bounty = 0
 date = "2018-03-07"
 categories = [ "Statement", ]
+aliases = [
+	"/statement/skycoin-heads-to-puerto-rico"
+]
 +++
 
 ![Skycoin Heads To Puerto Rico](https://cdn.discordapp.com/attachments/415262336782303232/421119490399404033/twitter-puertorico.png)

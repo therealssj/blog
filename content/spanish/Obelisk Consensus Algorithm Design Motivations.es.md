@@ -10,6 +10,9 @@ categories = [
     "Statement",
 ]
 bounty = 20
+aliases = [
+	"/es/statement/obelisk-consensus-algorithm-design-motivations/"
+]
 +++
 
 *Esta es una publicación archivada del foro BitcoinTalks el 19 de Junio del 2014*
@@ -48,7 +51,7 @@ bounty = 20
 
 >>Quizá, lo restringiremos para que los usuarios nuevos solo confíen en nodos al azar que tengan un balance de monedas. Las relaciones de confianza no serán cortadas si el nodo no tiene un balance de monedas, pero tampoco obtendrán nuevos usuarios al azar.
 
->>El gráfico de conectividad para relaciones de confianza, se supone que es un gráfico aleatorio completamente conectado. Unos cuantos nodos (miembros de la comunidad confiables, casas de cambio, sitios web, organizaciones) tendrán más relaciones de confianza y eso ayuda un poco al tiempo de convergencia para el consenso de bloques. Reduce un poco el diámetro de la red. Algunos nodos serán utilizados para verificar consenso (tu escoges un montón de casas de cambio o diferentes llaves públicas), esos nodos no afectan decisiones de consenso, pero son "oráculos de consenso" para chequear si tu nodo ha convergido con la red.       
+>>El gráfico de conectividad para relaciones de confianza, se supone que es un gráfico aleatorio completamente conectado. Unos cuantos nodos (miembros de la comunidad confiables, casas de cambio, sitios web, organizaciones) tendrán más relaciones de confianza y eso ayuda un poco al tiempo de convergencia para el consenso de bloques. Reduce un poco el diámetro de la red. Algunos nodos serán utilizados para verificar consenso (tu escoges un montón de casas de cambio o diferentes llaves públicas), esos nodos no afectan decisiones de consenso, pero son "oráculos de consenso" para chequear si tu nodo ha convergido con la red.
 
 >>Si dos casas de cambio grandes tienen diferentes consensos para un bloque en particular, es un problema. Esto podría indicar una división de red (netsplit) o un ataque a la red. Las casa de cambio deberían suspender el trueque hasta que se resuelva el problema.
 

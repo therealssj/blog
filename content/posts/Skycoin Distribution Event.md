@@ -10,6 +10,9 @@ categories = [
     "Statement",
 ]
 description = "A Skycoin Distribution Event will be held August 8, 2017"
+aliases = [
+	"/statement/skycoin-distribution-event"
+]
 +++
 
 Skycoin is holding a [distribution event](https://www.skycoin.net/distribution/) on August 8, 2017 beginning at 12:00PM GMT.

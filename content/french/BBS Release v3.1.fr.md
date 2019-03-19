@@ -1,17 +1,20 @@
 +++
 title = "Publication de la version 3.1 de Skycoin BBS"
 tags = [
-"Development",
-"BBS",
-"CXO",
+	"Development",
+	"BBS",
+	"CXO",
 ]
 date = "2017-09-06"
 categories = [
-"Development Updates",
+	"Development Updates",
+]
+aliases = [
+	"/fr/bbs/bbs-release-v3.1/"
 ]
 +++
 
-La version 3.1 de Skycoin BBS a enfin été publiée ! 
+La version 3.1 de Skycoin BBS a enfin été publiée !
 
 ## Journal des modifications
 

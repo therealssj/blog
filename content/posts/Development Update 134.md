@@ -10,6 +10,9 @@ categories = [
     "Statement"
 ]
 description = "Release notes highlighting the current development behind Skycoin."
+aliases = [
+	"/development-updates/development-update-134/"
+]
 +++
 
 {{< youtube id="1VVqfrA_vhw" autoplay="true" >}}

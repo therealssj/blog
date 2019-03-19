@@ -11,6 +11,9 @@ date = "2017-10-03"
 categories = [
     "Statement",
 ]
+aliases = [
+	"/ru/statement/getting-to-where-we-think-bitcoin-should-be/"
+]
 +++
 
 *Перед вами комментарий из архива форума bitcointalk от 23 апреля, 2014 г*
@@ -29,7 +32,7 @@ categories = [
 - Namecoin предложил хранить ключевые данные в блокчейне
 
 
-Биржевая оценка: 
+Биржевая оценка:
 
 - Bitcoin: 6 миллиардов
 - Litecoin: 300 миллионов

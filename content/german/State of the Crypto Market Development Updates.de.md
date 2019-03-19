@@ -17,6 +17,9 @@ categories = [
     "Statement",
     "Development Updates",
 ]
+aliases = [
+	"/de/statement/state-of-the-crypto-market-development-updates/"
+]
 +++
 
 - [Q&A](#q-a)
@@ -31,7 +34,7 @@ categories = [
 - [Skycoin OTC Market](#skycoin-otc-market)
 
 ## Q&A
-> Es wird nicht erwähnt, dass die Whitepapers überarbeitet werden. 
+> Es wird nicht erwähnt, dass die Whitepapers überarbeitet werden.
 Sollte dies nicht Priorität haben, so dass das Marketing Referenzmaterial hat?
 > Dies ist ein technischer Coin und die Dokumentation muss auf dem neuesten Stand sein.
 Jeder ist sehr beschäftigt.
@@ -58,7 +61,7 @@ Telegram blockt Nummern/Nutzer aus nicht englischsprachigen Ländern in englisch
 
 > Meiner Meinung nach werden viele Altcoins und auch Bitcoin sowie verwandte Währungen ein weiteres Hoch durchlaufen.
 
-Ja, sicherlich. 
+Ja, sicherlich.
 Ich sehe Schrottplattformen ohne Nutzen, die bis zu einer Milliarde Handelsvolumen haben.
 Bitcoin könnte die $10.000 im März durchbrechen.
 
@@ -168,23 +171,23 @@ So sieht der Altcoin-Markt gerade aus. Die Nicht-Scam Coins werden aus wirtschaf
 
 Was nun passiert ist:
 
-- Die Mehrzahl der Nutzer handeln mit 15 bis 60 Coins in Ihrem Portfolio. Jemand der 60 Coins besitzt hat nicht 60 Wallet auf seinem Computer installiert. Sogar die Altcoin Investment Funds haben Probleme damit 15 Wallets auf einem Offline-Computer installiert zu haben und Offline-Transactionen hierfür durchzuführen. 
-- Sie haben sogar keine Wallts für irgendeinen Coin installiert. D. h. alle Coins liegen auf einem Exchange und warten darauf abgezogen zu werden. 
+- Die Mehrzahl der Nutzer handeln mit 15 bis 60 Coins in Ihrem Portfolio. Jemand der 60 Coins besitzt hat nicht 60 Wallet auf seinem Computer installiert. Sogar die Altcoin Investment Funds haben Probleme damit 15 Wallets auf einem Offline-Computer installiert zu haben und Offline-Transactionen hierfür durchzuführen.
+- Sie haben sogar keine Wallts für irgendeinen Coin installiert. D. h. alle Coins liegen auf einem Exchange und warten darauf abgezogen zu werden.
 - Wir haben eine Untersuchung mit Ethereum-Nutzern gemacht und die Frage gestellt "Welcher Ethereum Thin Wallet ist der beste? Gibt es so etwas wie Electrum für Ethereum? Welcher Ethereum Wallet ist der beste?". Und die meisten Ethereum-Nutzer haben niemals ein Ethereum Wallet richtig genutzt oder können die Frage nicht beantworten oder wissen es nicht. Dies bedeutet, dass ihr ganzes Geld irgendwo auf Börsen liegt, es ist nicht in ihren Wallets.
 
 Bei den kleineren Coins (sogar Coins mit einem Wert in hunderten Millionen or Milliarden Dollar) haben viele nahezu Null echte Transaktionen, keine Nutzer, die ein Wallet haben. Ich weiß dies aus IP-Statistiken von Knoten and gesammelte Daten, die ich gesehen haben.
 
 Weiterhin ist das Handelsvolumen für die Mehrzahl der Coins unecht. Es gibt Coins mit sehr beachtlichem Handelsvolumen (auf Basis dessen die Börse sehr viel Geld macht) und beeindruckenden Market Caps, aber da ist alles Täuschung. Einfach kompletter Fake. Um genug Handelsvolumen auf Börsen zu bekommen muss man ein Market Maker bezahlen, um das Handelsvolumen zu generieren.
 
-Daher geben manche Coins 3 bis 5 Millionen Dollar in Coins aus, um auf den Börsen zu handeln, um dem Börsenbetreiber Geld einzubringen und Verlierer anzulocken. Und wenn man ein ehrlicher Coin ist und dies nicht mitmacht, dann wird man nicht gelistet und es kommen Beschwerden wie "dein Handelsvolumen ist nicht hoch genug" und Forderungen ihren Freunden Free Coins zum Handel zu geben und der Börse viel Geld einzubringen.  
+Daher geben manche Coins 3 bis 5 Millionen Dollar in Coins aus, um auf den Börsen zu handeln, um dem Börsenbetreiber Geld einzubringen und Verlierer anzulocken. Und wenn man ein ehrlicher Coin ist und dies nicht mitmacht, dann wird man nicht gelistet und es kommen Beschwerden wie "dein Handelsvolumen ist nicht hoch genug" und Forderungen ihren Freunden Free Coins zum Handel zu geben und der Börse viel Geld einzubringen.
 
-Sie kennen die Menschen, die dies tun werden und welche nicht. 
+Sie kennen die Menschen, die dies tun werden und welche nicht.
 
 Die Börsen verdienen so viel Geld mit Scams und Scam ICOs, dass sie nur Scam Coins listen werden (die Ihnen mehr Geld einbringen). Ihr ganzes Geschäftsmodell dreht sich um Handelsvolumen. Sie haben 10 Millionen pro Tag an Volumen, aber das Orderbuch umfasst gerade mal 10 Bitcoin.
 
-Weiterhin veröffentlichen die meisten "Bitcoin News"-Webseiten Fake News, wie "China verbietet Bitcoin" zum fünften Mal, "Russland verbietet Bitcoin". Dann wenn eine Börse dicht macht und tatsächlich etwas passiert (ein Ereignis), dann gibt es überhaupt keine Meldungen, weil echte Meldungen nicht auf ihre Marktbewegungen abgestimmt sind. Die Medienseiten sind buchstäblich darauf ausgerichtet abgestimmte Market Pumps und Dumps mit Falschmeldungen zu steuern. Sie bringen sogar gefälschte, geleakte "Gesetzestexte" von vor vier Jahren wie "Gerade erschienen: China verbietet Bitcoins". Und jeder Tag ist entweder ein "Pump day" or a "Dump day". 
+Weiterhin veröffentlichen die meisten "Bitcoin News"-Webseiten Fake News, wie "China verbietet Bitcoin" zum fünften Mal, "Russland verbietet Bitcoin". Dann wenn eine Börse dicht macht und tatsächlich etwas passiert (ein Ereignis), dann gibt es überhaupt keine Meldungen, weil echte Meldungen nicht auf ihre Marktbewegungen abgestimmt sind. Die Medienseiten sind buchstäblich darauf ausgerichtet abgestimmte Market Pumps und Dumps mit Falschmeldungen zu steuern. Sie bringen sogar gefälschte, geleakte "Gesetzestexte" von vor vier Jahren wie "Gerade erschienen: China verbietet Bitcoins". Und jeder Tag ist entweder ein "Pump day" or a "Dump day".
 
-Für 90 Prozent dieser Projekte und deren Coins wirst du nicht vom Kauf eines Coins profitieren, außer du bist ein Insider und derjenige der den Markt lenkt und im Kartell. Diese Coins sind bereits 100-fach im Wert gestiegen, bevor sie auf den Markt gekommen sind. Sie kommen einfach aus dem Nichts in die Top 20, ohne dass die Öffentlichkeit die Coins vor dem Peak kaufen konnte. Und danach stürzen sie ab. 
+Für 90 Prozent dieser Projekte und deren Coins wirst du nicht vom Kauf eines Coins profitieren, außer du bist ein Insider und derjenige der den Markt lenkt und im Kartell. Diese Coins sind bereits 100-fach im Wert gestiegen, bevor sie auf den Markt gekommen sind. Sie kommen einfach aus dem Nichts in die Top 20, ohne dass die Öffentlichkeit die Coins vor dem Peak kaufen konnte. Und danach stürzen sie ab.
 
 Es gibt fast keine News Website die folgendes überwacht:
 
@@ -239,7 +242,7 @@ Wallet Version 20 ist fertiggestellt.
 
 Alle Knoten wurden aktualisiert.
 
-Von Grund auf neues Wallet. Das neue Wallet ist dutzendfach schneller. 
+Von Grund auf neues Wallet. Das neue Wallet ist dutzendfach schneller.
 
 Die Blockchain-Sychronisierung ist hundertfach schneller und fast schon in Echtzeit. Das alte Wallet hat 1 Sekunden pro Block für die Synchronisation gebraucht. Das neue Wallet sychronisiert ein paar tausend Blocks in ein paar Sekunden.
 
@@ -277,7 +280,7 @@ Wir glauben, dass "Smart Contracts" fad sind. Wenn in Zukunft jeder seine eigene
 
 ## CX
 
-CX ist eine extrem strikte, statisch typisierte, affordance-basierte (basiert auf Alan Kays COLA-Architektur), mathematisch deterministische Sprache. CX ist entworfen worden, um eine ganze von Anwendungen von der Einbettung in Blockchains bis zur Programmierung von GPU, FPGAs zu unterstützen und Energieeffizienz und Leistung auf der nächsten Generation von CPU-Architekturen (RISC-V) zu erreichen, die explizite Cache load/store Instruktionen haben. 
+CX ist eine extrem strikte, statisch typisierte, affordance-basierte (basiert auf Alan Kays COLA-Architektur), mathematisch deterministische Sprache. CX ist entworfen worden, um eine ganze von Anwendungen von der Einbettung in Blockchains bis zur Programmierung von GPU, FPGAs zu unterstützen und Energieeffizienz und Leistung auf der nächsten Generation von CPU-Architekturen (RISC-V) zu erreichen, die explizite Cache load/store Instruktionen haben.
 
 Gerade entwicklen wir einen Prototyp, der OpenGL for CX unterstützt.
 
@@ -287,11 +290,11 @@ https://cx.skycoin.net
 
 Ich will bald Leute sehen, die Videospiele oder eine Poker App oder etwas Ähnliches in CX schreiben. Ich habe gern "GameCoin" gespielt und wir brauchen mehr Experimente, die Videospiele in Blockchains einbinden, wie GameCoin.
 
-Das Sykcoin Bounty-Programm wird auch Belohnungen für Videospiele und Anwendungen, die in CX auf der Skycoin-Plattform geschrieben werden, umfassen. 
+Das Sykcoin Bounty-Programm wird auch Belohnungen für Videospiele und Anwendungen, die in CX auf der Skycoin-Plattform geschrieben werden, umfassen.
 
 Ich mag Huntercoin, weil die Blockchain auf MMO basiert und wir wollen eine Sprache und eine Platform bauen, die Spiele und Kommunikationsanwendungen leicht macht. Wir meinen, mit einer "Smart Contract"-Sprache ist dies nicht möglich. Gerade weil die wichtigsten Anwendungen von Nutzern der Austausch von Nachrichten und die Kommunkation, File Sharing und Spieleanwendungen sind.
 
-Wir wollten Entwicklern auch erlauben, Geschäftslogik und Anwendungen in CXO (das ist wie Blockchain-Lite) zu testen, bevor diese auf einer echten Blockchain veröffentlicht werden, bei der Bug Fixing und die Veröffentlichung von Updates sehr viel komplizierter wird. 
+Wir wollten Entwicklern auch erlauben, Geschäftslogik und Anwendungen in CXO (das ist wie Blockchain-Lite) zu testen, bevor diese auf einer echten Blockchain veröffentlicht werden, bei der Bug Fixing und die Veröffentlichung von Updates sehr viel komplizierter wird.
 
 Skycoin wird auch die erste Plattform sein, mit der es möglich ist, dass Status-Updates der Blockchin global in weniger als 300 ms (anstelle von 15 Minuten oder 30 Sekunden) zu verteilen und dies ist der Minimalwert für Echtzeitinteraktionen, die für viele Anwendungen wie dezentralisierte Poker-Anwendungen, benötigt werden.
 

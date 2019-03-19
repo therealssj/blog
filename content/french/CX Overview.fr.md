@@ -7,6 +7,9 @@ date = "2017-09-06"
 categories = [
     "Overview",
 ]
+aliases = [
+	"/fr/overview/cx-overview/"
+]
 +++
 
 <!-- MarkdownTOC autolink="true" bracket="round" depth="1" -->
@@ -50,10 +53,10 @@ Dans les prochaines sections, les fonctionnalités du CX discutés dans le parag
 
 
 
-# Dépot du Projet 
+# Dépot du Projet
 
 Le code source du projet peut être téléchargé depuis son dépot Github :
-[https://github.com/skycoin/cx](https://github.com/skycoin/cx). Le dépot inclu le fichier de spécification, la documentation, des exemples et le code source. 
+[https://github.com/skycoin/cx](https://github.com/skycoin/cx). Le dépot inclu le fichier de spécification, la documentation, des exemples et le code source.
 
 # Syntaxe
 
@@ -73,7 +76,7 @@ Le CX utilisé dans ce document a comme objectif d'utiliser une syntaxe la plus 
 
 Un programmeur doit prendre une multitude de décisions lors de la construction
 d'un programme. Par exemple, combien de paramètres une fonction doit recevoir, combien
-de paramètres il doit retourner, quelles déclarations sont nécessaires pour obtenir 
+de paramètres il doit retourner, quelles déclarations sont nécessaires pour obtenir
 la fonctionnalité souhaitée, quels arguments doivent être envoyés en tant que paramètres aux fonctions de déclarations... Le système d'attribution de CX peut être interrogé pour obtenir une liste d'actions qu'il est possible d'appliquer à un élement. Dans ce contexte, des exemples d'éléments sont des fonctions, structures, modules et expressions.
 
 Sans avoir un ensemble de règles et de faits qui dictent ce que doit être la logique et le but d'un programme, on peut tout de même déterminer certains éléments de base qui garantissent au moins qu'un programme sera sémantiquement correct. Le système d'attribution fournit des restrictions, en tant que première couche de filtrage, qui sont expliquées ci-dessous.
@@ -89,7 +92,7 @@ out1, out2, ..., outN := op(inp1, inp2, ..., inpM)
 ```
 
 Si l'exemple ci-dessus est correct, alors *op* doit générer *N* arguments. Ce problème peut devenir encore plus difficile si nous
-considérons qu'à l'avenir, la définition de *op* peut être modifiée directement par le système d'attribution ou par l'utilisateur : 
+considérons qu'à l'avenir, la définition de *op* peut être modifiée directement par le système d'attribution ou par l'utilisateur :
 dès que la définition de *op* change, de nouvelles attributions peuvent être appliqué à n'importe quelle expression qui utilise *op* comme son opérateur, étant donné le nombre de variables de l'expression recevant les arguments de sortie de *op* peut également avoir changé.
 
 La logique implique également que si le nombre de variables de réception correspond bien au nombre de paramètres de sortie de l'expression de l'opérateur, l'action d'ajouter de nouvelles variables de réception ne peut plus être exécuté.
@@ -215,7 +218,7 @@ Le parseur attache un type par défaut aux données qu'il trouve dans le code so
 Pour les cas où le programmeur doit déléguer explicitement une valeur d'un type à l'autre, le module de base fournit un certain nombre de fonctions de conversion de type pour fonctionner avec des types primitifs. Par exemple, `byteAToStr` converti un ensemble d'octets en chaîne, et` i32ToF32` converti un nombre entier de 32 bits en un nombre flottant de 32 bits.
 
 
-# Compilation et Interprétation 
+# Compilation et Interprétation
 
 La spécification de CX impose un dialecte CX pour fournir au développeur à la fois un interpréteur et un compilateur. Un programme interprété est beaucoup plus lent que son équivalent compilé mais permettra un programme plus flexible. Cette flexibilité provient de fonctions de méta-programmation et d'attribution qui peuvent modifier la structure d'un programme pendant son exécution.
 
@@ -224,16 +227,16 @@ Un programme compilé nécessite une structure plus rigide qu'un programme inter
 Le compilateur doit être utilisé lorsque la performance est la plus grande préoccupation, alors qu'un programme doit être interprété lorsque le programmeur exige toute la flexibilité offerte par les fonctionnalités de CX. Dans les sous-sections suivantes, certaines de ces fonctionnalités sont présentées sans l'objectif de servir de tutoriel, mais plutôt comme une simple introduction.
 
 
-### Boucle Lecture-Evaluation-Affichage 
+### Boucle Lecture-Evaluation-Affichage
 
-La boucle Lecture-Evaluation-Affichage (REPL) est un outil interactif avec lequel un programmeur peut insérer de nouveaux éléments du programme et les faire évaluer. Le démarrage d'une nouvelle session REPL affichera les messages suivants dans la console : 
+La boucle Lecture-Evaluation-Affichage (REPL) est un outil interactif avec lequel un programmeur peut insérer de nouveaux éléments du programme et les faire évaluer. Le démarrage d'une nouvelle session REPL affichera les messages suivants dans la console :
 
 
 ```
 CX REPL
 More information about CX is available at https://github.com/skycoin/cx
 
-* 
+*
 ```
 
 Le "*" indique au programmeur que REPL est prêt à recevoir une nouvelle ligne de code. La REPL continuera à lire les commentaires de l'utilisateur jusqu'à ce qu'un point-virgule et un nouveau caractère de ligne soient rencontrés.
@@ -245,7 +248,7 @@ Si aucun programme n'a été initialement chargé dans la REPL, CX démarrera av
 * :dProgram true;
 Program
 
-* 
+*
 ```
 
 La REPL n'affiche que le mot "Program" suivi d'une ligne vide. Dans un premier temps, un nouveau module et une nouvelle fonction peuvent être déclarés:
@@ -264,7 +267,7 @@ Program
 	Functions
 		0.- Function: main () ()
 
-* 
+*
 ```
 
 Comme on peut le voir, la structure du programme est affichée chaque fois qu'un nouvel élément est ajouté au programme.
@@ -282,7 +285,7 @@ Ainsi, comme dans de nombreuses autres langages de programmation qui fournissent
 
 ### Stepping
 
-Un programme démarré en mode REPL peut être initialisé avec une structure de programme définie dans un fichier source. Par exemple: 
+Un programme démarré en mode REPL peut être initialisé avec une structure de programme définie dans un fichier source. Par exemple:
 répertoire actuel
 
 
@@ -309,7 +312,7 @@ More information about CX is available at https://github.com/skycoin/cx
 * :step 5;
 2
 
-* 
+*
 ```
 
 Le programme *examples/looping.cx* se déroule en 5 étapes à la fois. Nous pouvons voir que 5 étapes sont nécessaires pour que le programme réévalue la condition *while*, affiche le compteur et ajoute 1 au compteur.
@@ -327,13 +330,13 @@ Le programme *examples/looping.cx* se déroule en 5 étapes à la fois. Nous pou
 * :step 5;
 2
 
-* 
+*
 ```
 
 Après avoir demandé au CX d'avancer à nouveau de 5 étapes, le 2 est à nouveau affiché sur la console. Il faut noter que le compteur n'est pas simplement assigné avec une valeur différente. La pile d'appel est retournée à un état précédent.
 
 
-### Débogage Interactif 
+### Débogage Interactif
 
 Un programme CX entrera en mode REPL une fois qu'une erreur aura été trouvée. Ce comportement donne au programmeur la possibilité de déboguer le programme avant de tenter de reprendre son exécution.
 
@@ -358,7 +361,7 @@ main
 main
 :func main {...
 	* :step 0;
-fn:main ln:0, 	locals: 
+fn:main ln:0, 	locals:
 >> 1
 fn:main ln:1, 	locals: foo: 1
 
@@ -372,14 +375,14 @@ divI32() Arguments:
 0: divI32: Division by 0
 main
 :func main {...
-	* 
+	*
 ```
 
 De même, si un programme est donné en tant qu'entrée à l'interpréteur CX sans appeler la REPL, mais qu'une erreur est soulevée, la REPL sera appelé pour que le programmeur ou l'administrateur système débogue le programme:
 
 
 ```
-$ ./cx examples/program-halt.cx 
+$ ./cx examples/program-halt.cx
 1
 
 Call's State:
@@ -394,14 +397,14 @@ divI32() Arguments:
 CX REPL
 More information about CX is available at https://github.com/skycoin/cx
 
-* 
+*
 ```
 
 # Algorithme évolutif intégré
 
 Le système d'attribution et les fonctions de méta-programmation dans CX apportent une flexibilité permettant de changer la structure du programme de manière supervisée. Cependant les attributions peuvent encore être automatisées en ayant une fonction qui sélectionne l'indice de l'attribution à appliquer.
 
-`evolve` est une fonction native qui construit des fonctions définies par l'utilisateur en utilisant des fonctionnalités aléatoires. 
+`evolve` est une fonction native qui construit des fonctions définies par l'utilisateur en utilisant des fonctionnalités aléatoires.
 
 `evolve` suit les principes du calcul évolutif. En particulier, `evolve` effectue une technique appelée programmation génétique. La programmation génétique tente de trouver une combinaison d'opérateurs et d'arguments qui résoudront un problème. Par exemple, vous pouvez chargé `evolve` de trouver une combinaison d'opérateurs qui, lorsque vous envoyez 10 comme argument, renvoie 20. Cela pourrait sembler banal, mais la programmation génétique et d'autres algorithmes évolutifs peuvent résoudre des problèmes très complexes.
 

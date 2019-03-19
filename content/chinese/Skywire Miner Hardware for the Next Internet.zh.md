@@ -10,6 +10,9 @@ categories = [
     "Skywire",
     "Statement",
 ]
+aliases = [
+	"/zh/statement/skywire-miner-hardware-for-the-next-internet/"
+]
 +++
 
 *Sign up to our mailing list for Skywire Miner updates: http://eepurl.com/c4DyAv*

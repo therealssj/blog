@@ -5,6 +5,9 @@ bounty = 0
 date = "2019-01-14"
 categories = [ "Statement", ]
 image = "img/hardware-store-01.png"
+aliases = [
+	"/statement/skycoin-hardware-store-launch"
+]
 +++
 
 The Skycoin Hardware Store has officially launched! Skyfleet members will now have direct access to Skycoin hardware available through our official Skycoin Store.

@@ -10,6 +10,9 @@ date = "2017-10-04"
 categories = [
     "Statement",
 ]
+aliases = [
+	"/de/statement/project-focus-update"
+]
 +++
 
 ### Mobile Wallet
@@ -69,8 +72,8 @@ ersichtlich, die die Psychologie des Finanzmarktes verstehen und wissen wie Blas
 
 Alle Coins wie IOTA, Litecoin, Byteballs, Bitcoin hatten eine sehr lange Latenzzeit.
 
-Das liegt daran, dass das exponentielle Wachstum einer kleinen Nutzergemeinde, selbst bei 
-1% pro Tag, Jahre dauert, bis das Wachstum so weit fortgeschritten ist, dass es die 
+Das liegt daran, dass das exponentielle Wachstum einer kleinen Nutzergemeinde, selbst bei
+1% pro Tag, Jahre dauert, bis das Wachstum so weit fortgeschritten ist, dass es die
 öffentliche Aufmerksamkeit erreicht.
 
 Die User-Community wächst kontinuierlich und konstant über Jahre hinweg, aber die Wertsteigerung

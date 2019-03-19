@@ -11,6 +11,9 @@ categories = [
     "Skyminer",
 ]
 image = "img/skywire-the-next-internet.png"
+aliases = [
+	"/ko/skywire/skywire-the-next-internet"
+]
 +++
 
 2017년 봄, FCC는 인터넷 서비스 제공 업체가 고객의 검색 습관에 대한

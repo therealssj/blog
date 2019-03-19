@@ -8,6 +8,9 @@ categories = [
     "Development Updates",
 ]
 description = "Release notes highlighting the current development behind Skycoin."
+aliases = [
+	"/development-updates/development-update-45/"
+]
 +++
 
 The Skycoin project is larger than "clone litecoin, change logo and call it Dogecoin". There are multiple parts and it took time from going from a single coder or small group of coders to a structure that can handle the multiple parts of the project. Then there is a larger architectural issue, about what the scope of the project is, what the long term goals are and what the objective for a second generation crypto-currency should be.

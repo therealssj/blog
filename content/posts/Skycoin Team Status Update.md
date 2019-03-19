@@ -6,9 +6,12 @@ categories = [
      "Statement",
 ]
 description = "Skycoin Team Status Update"
+aliases = [
+	"/statement/skycoin-team-status-update/"
+]
 +++
 
-As many skycoin holders are no doubt aware, there was a major selloff over the past two weeks, in the course of which market price levels for skycoin fell significantly. While multiple factors likely contributed to these events, recent events connected to the China marketing team have also had an impact. This impact was in part direct, but in part due to uncertainty caused by these events. In response, steps have been taken to rectify the situation and eliminate any further negative impact on the market. At the same time, this update will hopefully help to dispel the rumors and clarify the actual limited impact on the project. 
+As many skycoin holders are no doubt aware, there was a major selloff over the past two weeks, in the course of which market price levels for skycoin fell significantly. While multiple factors likely contributed to these events, recent events connected to the China marketing team have also had an impact. This impact was in part direct, but in part due to uncertainty caused by these events. In response, steps have been taken to rectify the situation and eliminate any further negative impact on the market. At the same time, this update will hopefully help to dispel the rumors and clarify the actual limited impact on the project.
 
 The trigger for the events was the discovery that the previous Skycoin China marketing team (EVOLAB) had embezzled approximately 100,000 skycoins over the course of the past half year. In light of this discovery and their failure to return or account for the embezzled coins, the relationship with this team was terminated.
 

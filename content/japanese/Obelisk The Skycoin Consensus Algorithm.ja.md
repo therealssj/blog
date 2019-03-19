@@ -9,6 +9,9 @@ categories = [
     "Statement",
 ]
 image = "img/obelisk-the-skycoin-consensus-algorithm.png"
+aliases = [
+	"/ja/statement/obelisk-the-skycoin-consensus-algorithm"
+]
 +++
 
 Skycoinブロックチェーンは、Proof of Work（PoW）とProof of Stake（PoS）の両方を置き換える、新しいタイプの合意形成アルゴリズム「Obelisk」を利用しています。

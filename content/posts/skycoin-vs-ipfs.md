@@ -11,6 +11,9 @@ date = "2017-08-09"
 categories = [
     "Ask the Developers",
 ]
+aliases = [
+	"/ask-the-developers/skycoin-vs-ipfs/"
+]
 +++
 
 We have been asked what is the difference between [CXO](https://github.com/skycoin/cxo) and IPFS.

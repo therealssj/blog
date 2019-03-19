@@ -8,6 +8,9 @@ categories = [
     "Development Updates",
 ]
 description = "Release notes highlighting the current development behind Skycoin."
+aliases = [
+	"/development-updates/development-update-108/"
+]
 +++
 
 ##### We want to have everything done for the coin in three weeks:

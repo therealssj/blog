@@ -11,7 +11,11 @@ categories = [
     "Development Updates",
 ]
 description = "Release notes highlighting the current development behind Skycoin."
+aliases = [
+	"/development-updates/development-update-35/"
+]
 +++
+
 ## Research Update
 
 Incredible breakthrough on consensus. We have been discussing methods for distributed consensus, creating terminology for understanding the consensus process. We think we have a good formal mathematical model now.

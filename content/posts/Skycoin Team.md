@@ -8,15 +8,16 @@ date = "2017-09-28"
 categories = [
     "Statement",
 ]
+aliases = [
+	"/statement/skycoin-team/"
+]
 +++
 
-This is the current Skycoin team.
+This is a brief overview of the Skycoin team as of September 28, 2017.
 
 ## Marketing
 
 Michael Terpin (Coinovate, [CoinAgenda](http://www.coinagenda.com/), BitAngels) and
-Richard Kastelein ([Blockchain News](http://www.the-blockchain.com/),
-[CryptoAssets Design Group](http://www.cryptoassets.io/))
 are advisors to the project and assisting with marketing.
 
 A handful of others are focused on various aspects of communications,
@@ -39,20 +40,7 @@ iketheadore is a developer working on Skycoin core for a few years.
 
 * Github: https://github.com/iketheadore
 
-Monty Crypto (Xa No) is a developer working on the Skycoin wallets (desktop, mobile, web).
-
-* Github: https://github.com/montycrypto
-* Telegram: @xano137
-
-Erich Quist is designing the new Skycoin wallets and website.
-
-* Telegram: @erichquist
-
-meam364 is the website developer.
-
-* Github: https://github.com/meam364
-
-Evan is a developer working on the BBS application.
+Evan is a developer working on the BBS and Skywire applications.
 
 * Github: https://github.com/evanlinjin
 * Telegram: @shinogo
@@ -60,20 +48,8 @@ Evan is a developer working on the BBS application.
 johnstuartmill wrote the most recent Obelisk consensus algorithm whitepaper
 and is working on an implementation. He has a background in mathematics.
 
-nyf is a developer doing frontend work for the bbs and sky-messenger.
-
-* Github: https://github.com/feifeiwoye
-
-Weng Zhiyi is a developer working on Skywire and sky-messenger.
-
-* Github: https://github.com/vyloy
-
 amherag is developing our CX programming language.
 
 * Github: https://github.com/amherag
-
-logrusorgru is developing CXO, our distributed object storage system
-
-* Github: https://github.com/logrusorgru
 
 Two or three people are working on the Skywire miner hardware.

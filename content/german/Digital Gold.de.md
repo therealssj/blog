@@ -7,6 +7,9 @@ date = "2017-08-14"
 categories = [
     "Statement",
 ]
+aliases = [
+	"/de/statement/digital-gold/"
+]
 +++
 
 Satoshis ursprüngliche Vision von Bitcoin war revolutionär. Eine globale Währung, über Staatsgrenzen hinaus existent und außer Reichweite von Inflation und Fonds, Bitcoin hätte die Finanzwelt bis aufs Mark erschüttern sollen. Aber die Vision ist fehlgeschlagen. Anstatt eine neue Ära der Dezentralisierung einzuläuten, wurde Bitcoin selbst zentralisiert. Die Rechenleistung hat sich in drei großen Mining-Pools konzentriert. Die Transaktionsgeschwindigkeit hat sich auf Stunden erhöht. Gebühren sind in den Himmel geschossen, bis zu ihrem aktuellen Level von $40. Heute ist es klar, dass Bitcoin nicht das geliefert hat, was Versprochen wurde, eine dezentrale Peer-to-Peer Währung.

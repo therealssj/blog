@@ -8,6 +8,9 @@ date = "2017-09-27"
 categories = [
     "Statement",
 ]
+aliases = [
+	"/statement/five-pillars-of-skycoin/"
+]
 +++
 
 The Skycoin project is a hermetically contained software/application platform,

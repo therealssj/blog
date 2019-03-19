@@ -11,6 +11,9 @@ categories = [
     "Development Updates",
 ]
 description = "Skycoin BBS 的第一个开发更新。"
+aliases = [
+	"/zh/bbs/bbs-development-update-1/"
+]
 +++
 
 ## An Introduction
@@ -53,5 +56,5 @@ BBS（目前正在开发）的0.2版，不仅提高了性能和代码的清晰�
 ## Participate
 
 欢迎加入我们的[电报小组](https://t.me/skycoinbbs).
-已得到最新Skycoin BBS的开发消息。 
+已得到最新Skycoin BBS的开发消息。
 Skycoin BBS是開源的。源代碼可以遊覽[這裏](https://github.com/skycoin/bbs)。需要注意的是0.2版本的開發是在“V0.2”分支。

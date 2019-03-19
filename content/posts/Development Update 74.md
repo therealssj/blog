@@ -9,6 +9,9 @@ categories = [
     "Development Updates",
 ]
 description = "Release notes highlighting the current development behind Skycoin."
+aliases = [
+	"/development-updates/development-update-74/"
+]
 +++
 
 Here is benchmark of the Skycoin consensus algorithm and rounds to convergence vs other voter based algorithms.

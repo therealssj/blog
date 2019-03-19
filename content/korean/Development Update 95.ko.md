@@ -8,6 +8,9 @@ categories = [
     "Development Updates",
 ]
 description = "스카이코인 관련 최신 개발동향 소개"
+aliases = [
+	"/ko/development-updates/development-update-95/"
+]
 +++
 
 ## 크로스 컴파일

@@ -9,6 +9,9 @@ date = "2017-12-14"
 categories = [
     "Skyledger",
 ]
+aliases = [
+	"/fr/statement/skyledger-blockchains-real-future/"
+]
 +++
 
 Bitcoin était censé inaugurer une nouvelle économie basée sur la technologie décentralisée de la blockchain - mais cela n'a pas été le cas. Et cela n'est pas possible. Bitcoin a des défauts techniques majeurs qui l'empêchent d'atteindre ses objectifs initiaux. Construite sur des concepts défectueux et manipulée jusqu'à la corruption, cette crypto-monnaie est incapable de créer le nouveau monde que ses utilisateurs espéraient.

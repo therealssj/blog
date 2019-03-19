@@ -8,6 +8,9 @@ date = "2017-10-09"
 categories = [
     "Statement",
 ]
+aliases = [
+	"/zh/statement/skycoin-distribution-plan"
+]
 +++
 
 **这是一个关于SKY从现在开始的分发计划的官方公告**

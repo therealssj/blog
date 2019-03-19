@@ -10,6 +10,9 @@ categories = [
     "Statement",
 ]
 description = "Ивент по распространению Skycoin назначен на 8 августа, 2017"
+aliases = [
+	"/ru/statement/skycoin-distribution-event"
+]
 +++
 
 C 8го августа 2017, начиная c 12:00PM GMT начнется [новый раунд продажи Skycoin](https://www.skycoin.net/distribution/).

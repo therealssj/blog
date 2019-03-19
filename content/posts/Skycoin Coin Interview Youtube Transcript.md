@@ -7,14 +7,17 @@ categories = [
     "Ask the Developers",
 ]
 description = "Log of Interview with Synth from Skycoin, held live on Coin Interview's youtube channel (from 2017-10-30)"
+aliases = [
+	"/ask-the-developers/skycoin-coin-interview-youtube-transcript/"
+]
 +++
 
 *originally held October 30, 2017 on the Coin Interview youtube channel (https://www.youtube.com/watch?v=BuY5IbkkbXg)*
 
-*synth is the skycoin representative in this AMA. 
+*synth is the skycoin representative in this AMA.
 christian and evan are the interviewers*
 
-**christian** 
+**christian**
 We're talking to Synth, one of the lead project managers from Skyledger, Skycoin, you know what it is. Just wanted to announce the fact that we still have support from ark.io. If you're interested in sponsoring the show let us know.
 
 **synth**
@@ -32,18 +35,18 @@ Yea, I haven't had Max on the show yet. I don't even know what Lisk is doing, bu
 **synth**
 We are working with the bitseed Mike guy, I think we might be sharing a factory in Shenzen, the Ark guy. He has the bitseed boxes for Ethereum and Bitcoin, we are going to do that for Skycoin, for hardware.
 
-**christian** 
+**christian**
 You want to tell us what Skycoin is? For the people who don’t know. It’s a new blockchain? Is it a blockchain?
 
 **synth**
-Well it’s not new, it’s been around for about six years. So basically, when Bitcoin came out there were a lot of the early Bitcoin people who did the audit on Bitcoin. They were brought in by these financial service firms and they wanted to know is this going to work? Do these algorithms work? Are there problems? If I put money in this am I going to lose it? Is it like a house of cards that is going to fall over tomorrow? So they wanted to know more about Bitcoin and they wanted it audited at a code level and at a cryptographic level. So a lot of people, including the early Skycoin developers were sent in to do this and we looked at it and we found all these problems. There were about three or four different groups that were trying to fix Bitcoin. So we came in and we ended up spending the next six years rewriting the whole thing from scratch like three times. There were things like duplicate coinbase outputs. You have a transaction and a transaction creates an output and the output is what you spend in the transaction. You could have two outputs that had the same hash, so Bitcoin had hash collisions in it. Like Satoshi got 90% right, but there was about 10% that was sort of wonky. So, we fixed duplicate coinbase outputs, signature mutability, transaction mutability, and other issues like that and then later on the consensus algorithm in Bitcoin became a problem. This was around the time of gigahash.io. There was a group of friends in this little city in northern Ukraine who all got involved in Bitcoin very early. One of them started a mining pool, another started a company producing Bitcoin mining hardware, and another started exchanges like BTC-E; so this group of friends had their own mini Bitcoin industry. Gigahash.io ended up controlling over 60-70% of the total mining power for Bitcoin. So we had the Bitcoin network running for years on one single mining pool. They were hiding their hashing power in other mining pools basically because they realized it looked bad if they said that they had over 60% of the network. 
+Well it’s not new, it’s been around for about six years. So basically, when Bitcoin came out there were a lot of the early Bitcoin people who did the audit on Bitcoin. They were brought in by these financial service firms and they wanted to know is this going to work? Do these algorithms work? Are there problems? If I put money in this am I going to lose it? Is it like a house of cards that is going to fall over tomorrow? So they wanted to know more about Bitcoin and they wanted it audited at a code level and at a cryptographic level. So a lot of people, including the early Skycoin developers were sent in to do this and we looked at it and we found all these problems. There were about three or four different groups that were trying to fix Bitcoin. So we came in and we ended up spending the next six years rewriting the whole thing from scratch like three times. There were things like duplicate coinbase outputs. You have a transaction and a transaction creates an output and the output is what you spend in the transaction. You could have two outputs that had the same hash, so Bitcoin had hash collisions in it. Like Satoshi got 90% right, but there was about 10% that was sort of wonky. So, we fixed duplicate coinbase outputs, signature mutability, transaction mutability, and other issues like that and then later on the consensus algorithm in Bitcoin became a problem. This was around the time of gigahash.io. There was a group of friends in this little city in northern Ukraine who all got involved in Bitcoin very early. One of them started a mining pool, another started a company producing Bitcoin mining hardware, and another started exchanges like BTC-E; so this group of friends had their own mini Bitcoin industry. Gigahash.io ended up controlling over 60-70% of the total mining power for Bitcoin. So we had the Bitcoin network running for years on one single mining pool. They were hiding their hashing power in other mining pools basically because they realized it looked bad if they said that they had over 60% of the network.
 
 **synth**
 With Proof of Work, Satoshi originally wanted it to decentralize the Bitcoin network over hundreds of thousands of computers located in different countries, but what has happened is the mining network is now three mining pools in China. So Bitcoin is not decentralized, at all, it is very centralized. And there is only one producer now of ASIC mining hardware for Bitcoin so it is even more centralized. So we wanted to fix the consensus algorithm and that was a huge, huge, huge research project that took like three years. Skycoin started out just improving the Bitcoin blockchain and building Bitcoin into a mature technology that would be usable because Bitcoin still has a lot of rough edges. Over time, the project just expanded and expanded. Now, we have around fifteen development teams working on different projects. So when you say what is Skycoin, well, we have the blockchain, we have a consensus algorithm [obelisk], we now have a programming language called CX, which I wouldn’t call a smart contract language because I think smart contracts are bullshit, but this is an actual programming language for applications. CX.Skycoin.net. We have CXO, which is like an immutable data storage library because we realized that blocks and transactions and outputs were all immutable data objects, so we created a whole library to deal with these objects and replicate them; which was a two year project. And then somehow, we ended up getting a mesh network. A distributed telecom provider called Skywire. So, people are running these nodes and they are exchanging packets and getting paid for the bandwidth that they’re providing to their neighbors. So it’s sort of like a ground up community internet on the blockchain, where you are getting paid for providing these services to people. And we have the ability to tunnel VPN over that, so I can hook up a node in shanghai and a node in Hong Kong and a node in Los Angeles and I can do multihop VPN; so I can bounce through five different locations to anonymize the traffic. I can use it for myself but I can also let other people use it and get coins for that. Skywire I think took four years, which was a huge development effort. The reason that Skywire came out was because there was an attack on Bitcoin, where you could attack people’s IP addresses. So if you had a Bitcoin node and you were connecting out to like five IP addresses and the ISP or the NSA controls your cable modem, then they can hijack all the traffic to that IP address; so you don’t even know if you are connected to the actual Bitcoin network. The government can create a fake Bitcoin network with a thousand nodes that they all control and only let you connect to that network; while you think that you are connected to the Bitcoin network and you are not. So there’s this question of how do you determine if you are connected to the real Bitcoin network or if you are connected to a shadow network where the IP addresses are hijacked.
 
 [pauses to fix microphone]
 
-**christian** 
+**christian**
 See this is the stuff that people don’t even realize...
 
 **evan**
@@ -52,55 +55,55 @@ Yea that was quite the introduction.
 **synth**
 So that’s a massive effort, and we are just starting to get that on, people are just starting running these nodes. Since we have these nodes, we need a lot of hardware to run this network. We don’t want people running this on Amazon, so we’re actually producing our own hardware; which should be shipping in about a month. There are pictures on the website and it’s probably going to be open source. Also, we are getting a hardware wallet. We just hired our first Electrical Engineer last week to start working on our hardware wallet. And then, it turns out people started cloning Skycoin and making their own coins so now we have something called Skyledger. So we have fifteen or twenty coins launching on top of Skycoin as a platform. We say it’s like Skycoin’s ERC-20 platform. Basically, we couldn’t stop people from cloning Skycoin and launching their own coins, so we decided to build a coin platform around this.
 
-**christian** 
+**christian**
 So where did the initial funding come from? And how is this project being sustained?
 
 **synth**
 So when we started, Bitcoin was less than like a $1, so we were just... balling [laughs] so we never really needed money.
 
-**christian** 
+**christian**
 So there’s no state sponsors there’s no corporate sponsors, there’s no bullshit, there’s just developers? Anonymous developers? Well known public developers?
 
 **synth**
-So we have a lot of anonymous people and a lot of early crypto people. The crypto people are really weird like.. 
+So we have a lot of anonymous people and a lot of early crypto people. The crypto people are really weird like..
 
-**christian** 
+**christian**
 Yea I’m sure
 
-**synth** 
+**synth**
 So Bitcoin has had twelve different generations of people. So the people that you see coming in now are just like, “Get rich quick!!” “Make money while you sleep!!” “Ahh high yield” “This coin pays me 10% per month why am I gonna buy your coin if this coin is paying me... etc.” They’re just in it for the greed. The early people in Bitcoin, the first generation, were really paranoid like crypto anarcho capitalist. They wanted to take out the FED. They were like central banking is slavery and we need to get rid of the central banks and that was really why they were building this thing. You see like, Satoshi, one of the messages he embedded in the blockchain was about this engineered banking crisis, which was like a bunch of banks looting... basically they had a crisis and the response to the crisis was the government printed out 20 trillion dollars and put it in their friends pockets.
 
-**christian** 
+**christian**
 Sure
 
 **synth**
 So it’s like, “ohh yea give us twenty trillion dollars or the world’s gonna end tomorrow” [laughs]
 
-**christian** 
+**christian**
 Right. Right.
 
 **synth**
 So these people just getting looted by the central banks. So the early Bitcoin people.. Ironically, a lot of them worked for government, so if you’re a crypto person you’re working for huge corporations, working for government, working for people who have money and you have to sign all these NDAs. They were never publicly associated with the Bitcoin project at all. So Bitcoin had a few public faces, but most of the actual people behind Bitcoin were just in the shadows. I went to a Bitcoin conference in Vegas and I would see one of these guys and he would just sit in the corner and watch people. He would just like never talk to anyone, he would sit there like, “Hmmm what’s going on, who’s a scammer etc.” So these people are watching Bitcoin and the direction it is developing in, but they’re not really participating in the community. Then, every six months we have a completely new crowd coming into cryptos and it has been like that for eight years now. I think we’re on like the twentieth generation of crypto people.
 
-**christian** 
+**christian**
 So there’s a lot of developer communities around the world. I got into this only really at the beginning of 2016. I heard about Bitcoin in 2013 but obviously if you don’t know anything about code and what shit actually does and you just read the news, basically 2010 to 2015 was all negative. It’s all like this is all for darknet shit etc. My question would be, there’s a lot of communities... like there are all of these hacker communities like black hat and there are conferences like devcon. Is there a lot of overlap from those security professionals into this fintech/crypto/money thing? That we know as Bitcoin/Skycoin? Or are they really still separate? Like the guys who are hard core into security, are like yea Bitcoin... but like I’m breaking networks etc.
 
 **synth**
 They’re not... I wouldn’t say separate. What you have to realize is that the groups are very small. You can look at the group in Ukraine as an interesting example. They were just a bunch of friends in a pub and they hear about Bitcoin and they all buy it at a dollar, well they buy it at a penny and then Bitcoin goes to one hundred dollars, now they’re all rich. So one of them starts a Bitcoin mining pool, Gigahash, one of them starts a Bitcoin exchange, BTC-E, one of them starts a Bitcoin mining company, Starfury, and they have their own internal Bitcoin ecosystem. They were actually the first people to invest in... they were called structured ASICs. They’re like FPGA type mining things. So they were the first people to fund GPU mining, and then first people to switch to FPGA mining, and the first people to do ASIC mining because they had the money and they were interested in this for so long. It was just like a small group of friends. So within the security community, you might have like twenty people who are interested in Bitcoin and who are hard core developers and they’re doing their own thing. I wouldn’t say that the communities are that organized. It’s just like a giant blob of people and there’s a little group inside of that that maybe does this or that.
 
-**christian** 
+**christian**
 So when people see something like devcon, they’re like “oh my god these guys can bring down the world” but it’s not really like... it’s just a bunch of people in a room, it’s not like nation state level where they have like 3,000 to 4,000 hackers very organized at the military level.
 
 **synth**
 [laughs] Yea I’ve seen the government hacking squads, they’re running like windows xp... and like [laughs] Yea it’s, it’s a joke.
 
-**christian** 
+**christian**
 I’m sure the NSA has some top level guys though, you know. I’m sure there are some cats that fuck around but there are those guys who are very well funded and they know what the fuck they’re doing.
 
 **synth**
 They’re all private sector.
 
-**christian** 
+**christian**
 Yeah, exactly they’re private sector because they’re not gonna sit there and deal with bureaucratic bullshit. They’re gonna get shit done. You know money talks at the end of the day. Ok so it’s self funded it’s organic, so Skycoin.. I’m sure you have developers all over the place. Is there a sort of a base for Skycoin?
 
 **synth**
@@ -112,43 +115,43 @@ Got it, got it.
 **synth**
 We have people in Russia, people in China, people in the United States, a few in Europe, not so many in South America but it's global mostly.
 
-**christian** 
+**christian**
 So you know, for a lot of people, a very simple question would be... Ok so we have the difference between Skycoin and Bitcoin, but honestly number two in line is Ethereum. And you mention Skyledger so you can print your own sort of ERC-20 like token, what’s the biggest difference between you and Ethereum like why isn’t everyone just using Skycoin instead of something like Ethereum?
 
 **synth**
 Well our scripting language wasn’t finished until two months ago, so that's one reason. Ethereum has really evangelized, sort of, blockchain and they've pushed it out there. They've built this huge development community and they've done a great job, but their stuff isn't really ready for production. An example, you’ll have four thousand applications on Ethereum w/ four thousand ERC-20 tokens and if one token is doing an ICO, the whole network will shut down for two days just to process the transactions for that ICO. So if you’re a company like Siemens, and you’re trying to build a power grid on Ethereum, and the power grid goes out for two days because you know, Catcoin is doing an ICO, that would be ridiculous. So, these companies do like Ethereum, they like the blockchain but they don't want to build their business on it. They want a blockchain that they own. So one of the differences, and one of the reasons we built Skyledger, is because these companies were coming to us and saying, “we want our own blockchain.” We don't want to use their blockchain. We want our own. So they are doing pilots and tests on Ethereum, but for actual production, for legal reasons.. like if there’s a hack and six hundred million dollars is stolen, they need to go in and reset the blockchain and get that money back and Ethereum won't do that for them. Also, they’re worried about all this money. They keep reading these news articles like “twenty million dollars stolen” or something like “my friend sent eight hundred thousand dollars to an unspendable address and now the money is sitting there and you can look at it and can't spend it.”
 
-**christian** 
+**christian**
 Are you fucking serious dude? Eight hundred thousand dollars?Holy shit.
 
 **synth**
 Yea, if someone like did a typo in an address and now the money is stuck in an unspendable address and they’re like, “how do we get it out?” Because they had some scripting bugs or something.
 
-**christian** 
+**christian**
 Oh yea, I did hear that before. Yea there’s this big problem with ICOs, this huge problem, especially with these hardware wallets. I know exactly what you are talking about now, it makes sense.
 
 **synth**
 Yea and some of the money, the amounts of money. It’s like, “Oh I lost a billion dollars.” For Bitcoin that’s normal, I probably had a wallet with like five thousand Bitcoin in it and like oops I deleted it. Like aw I can’t find it where did I put that wallet, and that's really just... losing millions of dollars experimenting with these cryptos is normal, but with businesses [they have regulations]. If you're running a power grid, they have all of these laws about customer billing and if they overcharge the customer by 0.3%, they get a million dollar fine. They like blockchain but they don't like this unreliability. So for Skyledger, we don't put all of the applications on one blockchain. It doesn't make sense for instance to put all of the world’s data on one giant blockchain and then force everyone to download one hundred terabytes of data. It just doesn't make sense to do that. We give each individual application their own blockchain. So we have this platform where we can spin up a million blockchains and this is very interesting. Delaware said that if your company, you know a little small cap company, registers in Delaware, you can put your stock on a blockchain. And if your stock is on a blockchain... you know your little bakery in Delaware and you incorporate and issue shares. People can buy and sell those shares now on the blockchain. It’s very easy and there are no fees. So say that little bakery becomes a publicly traded company and they want to raise money. If they want to sell their shares and the bakery makes more money, their share price might go up; so this is very interesting, but so for that particular company we would just want to give them their own blockchain. Like, here’s your stock ledger, you don't have to interact with anyone else. Here’s your blockchain. We might have ten million other companies in Delaware and they all need their own blockchain. They don't want to all be shoved on to this giant thing that stores all the world’s data.
 
-**christian** 
+**christian**
 Ok, so you solve this by spinning up parallel blockchains, basically making more lanes for traffic right?
 
 **synth**
 Yea
 
-**christian** 
+**christian**
 Ok, I see what you’re saying. Ok so, if I spin up my own blockchain, am I spinning up tokens as well for that chain or?
 
 **synth**
 So that’s the interesting part, everyone is obsessed with tokens because they can do an ICO and sell tokens and make money, but the blockchain is just a database. It doesn't need to be tokens at all. It can be shipping containers. It can be tracking cars or tracking boxes or tracking the delivery status of a package or tracking parts in a machine and when they need to be replaced. People don’t understand what blockchain is, blockchain is just a database. And when you say blockchain is just a database, they get really depressed because they are like well databases are boring, but that's really what the blockchain is. So most of the applications for corporations are just gonna be the company using the blockchain like a database. Thomas Reuters internally, they don't need a token. It doesn't make sense for them, but they have data they want to store and they have operations on the data that they want to perform. So when you start thinking of blockchain as a database you start getting closer to the real world applications. But if you want to make money you have to have a token so that's why everyone is obsessed with ICOs and the tokens. Because once you have a token, you can put it on the market and you can pump it up and you can speculate which is what they’re doing.
 
-**christian** 
+**christian**
 Yea i see what you're saying. So with Skycoin, the actual token I mean. Ethereum will be moving to, hopefully, Proof of Stake with the Casper implementation probably in 2018-2019. How does Skycoin work? Is the token mined? Is there some sort of staking? Is it like a masternode tech? Or is it its’ own kind of thing?
 
 **synth**
 Completely new, this is the next generation.
 
-**christian** 
+**christian**
 Ok so, how to you earn Skycoin without buying them on the market and just accumulating them?
 
 **synth**
@@ -157,44 +160,44 @@ Ah ok so there is two questions here. For Skycoin, we didn’t want the people c
 **synth**
 So we created this new consensus algorithm called Obelisk, it’s sort of a web of trust. You have a consensus network and each node has a public key and each node subscribes to other nodes. It has a trust list of people, for instance if you know me personally you can add my public key to your trust list and the nodes subscribe to each other and they publish messages. Through this process, it’s actually a very old algorithm from the 1980s, the nodes all reach global consensus on what the current block head is. This type of mining doesn't require a lot of electricity. You could run it on a 30 watt cell phone processor. You don't need to have 600 gigawatt power like the Bitcoin mining network rigs. This is a much more efficient, much faster type of consensus process, but it does it in a completely different way. We have some whitepapers, but we have to write a sixty page whitepaper to go over more the implementation specifics because they matter a lot. Because most of the attacks aren’t actually an algorithm and they’re not the math it’s about how the thing is implemented. So since we don't have mining rewards and we don't have transaction fees, we are forced to create all the coins in the genesis block. And this was a problem because a few years ago people would always say “well that's premined!” Now people are sort of used to premined. They don't call them premines anymore it’s just the way it’s done. We had to figure out a way to distribute the coins fairly, so instead of just running this machine and doing mining and like blowing electricity like throwing money in a pit and burning it, we tried to find ways that people can receive coins for providing services that people are willing to pay for. One of the applications is Skywire, which is sort of a decentralized ISP where people will receive coins for forwarding packets. So once that's up, that’s going to be the primary method for distributing the rest of the Skycoin.
 
-**christian** 
+**christian**
 Ok that makes sense because there has to be a way to distribute it, either manually or... so who is in charge of the keys to the master wallet right now? Is it a group of developers, what you have nine out of twelve signatures or something?
 
 **synth**
 Yea, It’s actually worse than that. It would’ve been better if it were nine out of twelve but it’s unanimous, so whenever we say we are going to distribute another million coins we have to get all of the developers to agree; which is why the distribution has been so slow. Because you have one guy who says, “well I don’t think that’s a good use of the coins and we shouldn’t do that etc.” Basically the community was screaming loud enough for enough years that it forced us to distribute this many coins on a set schedule and we finally found an agreement. I don’t think that it’s aggressive enough. I would’ve preferred to distribute 50% of the coins, but we have an agreement to get up to 30% and then to do 5% per year for the next fourteen years.
 
-**christian** 
+**christian**
 So right now, I’m sure that you are paying people for work in Skycoin. Wait let’s slow it down here, coinmarketcap says one hundred million Skycoin? Is that right?
 
 **synth**
 No, well actually there is one hundred million, but only twenty million of them are spendable because they are time locked.
 
-**christian** 
+**christian**
 Oh I see.
 
 **synth**
 That’s actually wrong, they haven’t updated this. The maximum supply, the total that will ever exist is one hundred million. Skycoin has six decimal places before the zero. If you have one million coins, you have 1% of the coins and then it goes six decimal places to the right of the zero. So this is a really human number because I didn't like the twelve zeroes or the 0.05969785 where you screw with the zero and you don’t know if it’s twelve zeroes or eleven zeroes or how many digits the thing is. So there’s one hundred million total and the reason that number was chosen was that one million coins is exactly 1% of Skycoin. The maximum that will ever exists is one hundred million. The total that exist right now that are spendable is actually less than twenty million, but coinmarketcap for some reason hasn’t updated and it still says one hundred million.
 
-**christian** 
+**christian**
 Yea it only says circulating supply of like six million.
 
 **synth**
 Yea, and then six million have been distributed.
 
-**christian** 
+**christian**
 Well let’s slow down, so in terms of how the coins get out right now. There’s an organization of developers and they are choosing where these coins go. Now, so there are strategic partners, I know you said Skywire, there are projects associated with this. Are there any other modes to get in and get coins other than buying on the exchange right now?
 
-**synth** 
+**synth**
 Well you know buying them, doing work, bounties, translations, software development. For the coins, we have to distribute up to 20% and the next 10% are reserved for mining rewards so those will be distributed to the early people running the Skywire nodes. After the 30%, there’s a time lock and there’s a maximum of 5% per year of coins being released from that. So it will take fourteen years to get to the rest. So, essentially there is only thirty million coins and then the rest of the coins are going to take like two decades to get out and I don’t even think that they are going to be distributed at the maximum rate that they have been unlocked. We have twenty million coins unlocked right now and we have only been able to distribute six million so far and we’re distributing as fast as we can. For distribution, there are two major things: in two weeks we are launching an OTC market and we are going to start putting up ten Bitcoin per day of Skycoin on the OTC market so that the whales and the traders can start getting the coins more easily. So one of the complaints that we’ve have is that Skycoin is listed on cryptopia but nobody can buy it because nobody is selling the coin. So if you wanted to buy twenty Bitcoin worth of Skycoin, nobody will sell it to you. So there’s no trading because  you have a market and nobody will sell it to you at the market price.
 
-**christian**  
+**christian**
 I mean, mine are sitting in a private wallet. I don't even know why they are even on exchanges at all right now. I mean I guess people need to spend their money, some people work in crypto like you have to move the coins. Anyways, so let’s keep going, so how are these coins getting out?
 
 **synth**
 Well this is very interesting. So we have some whales and they will buy twenty dollars a day, fifty dollars a day, two hundred dollars a day and they only buy but they won’t sell. Because the attitude is, if there is a coin and it can get listed on a larger exchange or it’s launching all this stuff then they’re expecting the price to increase in the future. They’re like why would I sell now if I could for 150x more in a year from now or six months from now. So we have a lot of really long term holders and they are just taking the coins, putting them in cold store, and they never leave cold store. We tracked down the cryptopia wallet and basically less than like 4-6% of the total Skycoin ended up back on the exchange and there are so few coins on the exchange that you can't day trade on it. So this is a problem with liquidity, because the traders want to trade and they can't trade because there isn't enough depth on the order book. We are trying to get through this distribution phase to add more liquidity and get the volume up a little bit.
 
-**christian** 
-Do you think Skycoin will have their own exchange one day? 
+**christian**
+Do you think Skycoin will have their own exchange one day?
 
 **synth**
 We have github.com/skycoin-exchange, so we actually wrote our own exchange. This is a dark net distributed federated exchange and we wrote it about a year ago, but we haven’t had time to fix it and get it into production. In the end, we ended up scrapping that and then using a third party exchange. Parts of that exchange became the OTC market so now we are gonna have the OTC market and I think that eventually we will have that exchange up. It's more like a dex.
@@ -308,7 +311,7 @@ What? I don’t understand that, fine them for what?
 Anything, the government can pull reasons out of their ass. They can make shit up. They say, well Google is too big we need to fine you for being too big. The reasons that they create for fining these companies are just ridiculous. It’s like, “Google is too big, it’s too successful, so we need to fine you for being a monopoly.” But it isn’t a monopoly because you could just switch to Yahoo, you could switch to Bing, but nobody uses them because they aren’t as good. So it’s not really a monopoly, nobody forced you to use Google with a gun to your head. People just prefer to use it because the service is better, but the European Union could come in and say that you’re market share is too large so we have to break you up into smaller companies or something like that. And they did this remember? They did this to Microsoft. When Microsoft was getting pretty powerful, the government came in and they had some federal lawsuit against Microsoft. They said they are going to break the company up into six or eight pieces, but, “Oh if you do what we say we can help you out here and get rid of this,” and then Microsoft got in bed with the NSA and the government and the department of defense and now they’re one of their boys. So if you get to a certain level of power, you eventually have to get incorporated into this system and cooperate with these people or they’ll crush you like a fly.
 
 **christian**
-So this is where we are going with this narrative right, so we’re going back into crypto because ok well you can’t stop me because you don’t know how much money I own, you don’t know who I’m in bed with, you can’t track all of these IPs. 
+So this is where we are going with this narrative right, so we’re going back into crypto because ok well you can’t stop me because you don’t know how much money I own, you don’t know who I’m in bed with, you can’t track all of these IPs.
 
 **synth**
 So whats happening is very interesting, China wants to control its' population, European Union wants to control its’ population, United States wants to control its’ population, so they are complaining now that Russia is going into the United States and buying ads and influencing the election. They are basically complaining like, “We want to control our population we don’t want Russia interfering with our stuff.” So what is going to happen pretty soon, I think in ten to fifteen years, you are not going to have a global internet. We had this period where there was a global internet. Now we're getting a Chinese internet. We're getting a Russian internet. We're getting a North American internet. We're getting an European Union internet. We're getting a Brazilian internet. If you are on the Chinese internet and you try to use Dropbox or Google Drive, it doesn’t work because the government blocks it. You have to use Baidu’s drive, so the Chinese government can get all of your data. If you are in the United States then you have companies like Dropbox and Amazon. So if you give your data to Dropbox then Amazon has your data and then through Amazon the United States government has your data. So the United States government wants people on Dropbox, so they might stop slowing down or blocking overseas services like Baidu.
@@ -338,7 +341,7 @@ Ok so this is way beyond those sort of programs that you can run today to get ar
 Yea, so for instance, for tweets we store all of our tweets on Twitter and Twitter provides the servers, but since they’re providing the servers they control the data. So if the Chinese government wants to block Twitter, they just block the Twitter servers and then you cant access it. So with this service, your identity is a public key. Your identity is like a Bitcoin address. If you wanted to publish a tweet you sign it with your public key. You take your data you sign it with your public key and you publish it and if a thousand people are subscribed to your data they all get a copy. So once one copy of the data enters the country it just replicates peer to peer. There is no way to block it. There are no web servers. There is no third party. There is no corporation that owns your data. There’s no one that can ban or block you. So this gives people a lot of freedom but then there’s questions like...
 
 **christian**
-So how do you stop the people who are just gonna straight up be like I think it’s funny to post child porn everywhere. Some people are just fucking retarded. 
+So how do you stop the people who are just gonna straight up be like I think it’s funny to post child porn everywhere. Some people are just fucking retarded.
 
 **synth**
 You remember the goatSC the guy who would hold his anus with the hands and people would just spam it everywhere in 2002, you remember that?
@@ -359,7 +362,7 @@ That makes complete sense. That is the answer I didn’t even think of that as e
 Do you think it is because by design, the engineers are fucking stupid? Or I think its because the more logical point is they took on VC money they took on government money and now they cant fucking move as quick. They’re like we have higher fucking obligations over the next five years to pay contracts back to shareholders.
 
 **synth**
-So people, when it came out it was cool, they were like, “Oh yea I can share photos cool and I can etc etc..” But do you really want to be sitting in front of the Facebook all day clicking likes on other people photos? Like don’t you want to go snowboarding or I could go swimming or I could go mountain climbing or I could go build this video game. People want to go do something with their lives. They don’t want to sit online and click like on photos all day, so thats really Facebook’s core audience, the people who are sitting there like zombies all day doing that. 
+So people, when it came out it was cool, they were like, “Oh yea I can share photos cool and I can etc etc..” But do you really want to be sitting in front of the Facebook all day clicking likes on other people photos? Like don’t you want to go snowboarding or I could go swimming or I could go mountain climbing or I could go build this video game. People want to go do something with their lives. They don’t want to sit online and click like on photos all day, so thats really Facebook’s core audience, the people who are sitting there like zombies all day doing that.
 
 **christian**
 So basically, I think, they do appeal to the lowest common denominator and that’s fine because that is legitimate market, but when it comes to an entire generation that is intelligent; it is sort of, well you need to be more and more intelligent every fucking day to keep up with the whole fucking thing. I mean here’s the thing it’s like… I just thought of something when you were talking about storing the data. I mean like soon, people are just going to be launching their own satellites and then they’ll just...
@@ -407,16 +410,16 @@ They are just looting everything.
 Yea thats the thing like the whole fucking thing is coming down and that’s a little different than just, “yea the world is a bad place etc.” What I’m getting to is like, it seems to be a little more engineered now, it seems to be methodically going in and abstracting everything out and dumping all the bullshit on people for people to deal with and thats not sustainable. That’s how we get into this whole fucking global energy crisis and that’s a whole other thing.
 
 **synth**
-So you create problems and then people react, and if people aren’t stupid they fix the problem and they survive and we get to the next level. So one example, in the UK you had this little island and they don’t have many resources, they don’t have much population and this is maybe 1800s and they are burning coal for warmth in the winter and they would freeze to death because they didn’t have enough coal. There weren't enough trees on their little island to heat them. So they are digging for coal and they run out of coal and because they have water lines, they dig deep enough and the coal mine they are digging fills with water, so some guy invented the steam engine to pump the water out. Then somebody took that steam engine and put it on wheels and then somebody put it on railroad tracks and then later somebody puts it on a plane with a propeller and the later on that gets replaced by a jet engine. So if you didn’t have the wells flooding, then people would just keep digging the coal the way they had been digging coal for five hundred years. When you run out of coal, and people’s lives depend on fixing the problem, then you see the innovation. So yea this corruption is bad, but it’s part of a cycle. We see governments cracking down and we see 80% taxes in Europe and they’re banning cash. So they’re like we are going to tax you 80-90%, all your money belongs to us, and you’re lucky we let you keep five cents. People are starving because they cant afford to heat their homes in the winter because it’s too expensive. And the government wants more and more and more and they are banning cash, but at the same time that they are banning cash, cryptos are coming in. So this is, it’s just part of a cycle and eventually it will work out. 
+So you create problems and then people react, and if people aren’t stupid they fix the problem and they survive and we get to the next level. So one example, in the UK you had this little island and they don’t have many resources, they don’t have much population and this is maybe 1800s and they are burning coal for warmth in the winter and they would freeze to death because they didn’t have enough coal. There weren't enough trees on their little island to heat them. So they are digging for coal and they run out of coal and because they have water lines, they dig deep enough and the coal mine they are digging fills with water, so some guy invented the steam engine to pump the water out. Then somebody took that steam engine and put it on wheels and then somebody put it on railroad tracks and then later somebody puts it on a plane with a propeller and the later on that gets replaced by a jet engine. So if you didn’t have the wells flooding, then people would just keep digging the coal the way they had been digging coal for five hundred years. When you run out of coal, and people’s lives depend on fixing the problem, then you see the innovation. So yea this corruption is bad, but it’s part of a cycle. We see governments cracking down and we see 80% taxes in Europe and they’re banning cash. So they’re like we are going to tax you 80-90%, all your money belongs to us, and you’re lucky we let you keep five cents. People are starving because they cant afford to heat their homes in the winter because it’s too expensive. And the government wants more and more and more and they are banning cash, but at the same time that they are banning cash, cryptos are coming in. So this is, it’s just part of a cycle and eventually it will work out.
 
 **christian**
-Yea I mean it’s funny, a lot of people think they are in control, even at the top and they’re actually not. 
+Yea I mean it’s funny, a lot of people think they are in control, even at the top and they’re actually not.
 
 **synth**
 No its complete chaos.
 
 **christian**
-I mean it is chaos because we are all just moving towards death. If you don’t accept that, then I am sorry for those listening but you just gotta wake up in the morning like I’m going to die some day. That should be the number one thing on top of your mind, and number two should be ok what should I do to have a good life. And if you’re a white guy like me, in the United States, whoa, you’re doing pretty fucking good compared to like 99% of the planet, but here’s the scary thing about that. Now everyone just turns around like, “well the United States has everything, or Europe is doing pretty good so I’m gonna go take their shit because they are just like pissing on me.” And that’s kind of scary because I woke up in 1990 like, hey I’m here. Oh look Desert Storm, ok 9/11, ok this is my fucking narrative. That’s another fucking weird thing like you’re born into fucking conflict. 
+I mean it is chaos because we are all just moving towards death. If you don’t accept that, then I am sorry for those listening but you just gotta wake up in the morning like I’m going to die some day. That should be the number one thing on top of your mind, and number two should be ok what should I do to have a good life. And if you’re a white guy like me, in the United States, whoa, you’re doing pretty fucking good compared to like 99% of the planet, but here’s the scary thing about that. Now everyone just turns around like, “well the United States has everything, or Europe is doing pretty good so I’m gonna go take their shit because they are just like pissing on me.” And that’s kind of scary because I woke up in 1990 like, hey I’m here. Oh look Desert Storm, ok 9/11, ok this is my fucking narrative. That’s another fucking weird thing like you’re born into fucking conflict.
 
 **synth**
 [laughs, mocking] “They hate our freedoms! We’re gonna fight the freedom haters.”
@@ -437,7 +440,7 @@ This crypto thing is very funny because if you look the government says, you pri
 [responding to comments in live chat] Wait we need to shout out the guy talking about white guilt. Its not like, dude, its not about being white. I realize I’m way fucking luckier than most fucking... like I’ve been around the world man. I’ve been to a lot of countries. You know go ahead man I'm sorry.
 
 **synth**
-The whole thing is they want people to feel guilty about who they are. 
+The whole thing is they want people to feel guilty about who they are.
 
 **christian**
 Oh sure sure.
@@ -449,7 +452,7 @@ Like, “Oh you’re white you’re etc.”
 Guilt, ok, but you also need to have some fucking degree of empathy for your fellow human being. If you have no mental, like if you have nothing to compare your shit to because you’ve never been outside of the United States. You just like, you know the whole white guilt thing is big right now but its not about being white. Ok lets take out the skin color shit, its just money, like I am way more set up than most people will ever be in their life. So if you need to feel guilty about that then ok so to speak, I’m thankful to even be in a fucking room talking about crypto at this point because its like ten, fifteen years ahead of some people at this point.
 
 **synth**
-Oh so this is uh, so you have these governments these central banks, supposedly there’s fifteen trillion dollars in fiat, like the USD, EUR, YUAN, YEN, and so on and thats the number they officially published, but theres actually all this money and nobody knows how much money there actually is. They lie. They don’t have to report the exact number. They always smudge the numbers. Every country smudges the numbers to make them look better so they can get more loans and all this other stuff. They always understand inflation and they have all these different ways of fudging the numbers. I was talking to this guy and he does some offshore stuff. Basically, they think... there’s documented like seventy trillion, so the government says there is fifteen trillion but there is actually seventy trillion dollars offshore. What’s happening now is the US government is coming in with GACTA and FACTA and the G20 and all these laws and international treaties that are forcing all of the people out of these offshore tax havens. They did the Panama Papers and hacking banks and leaking all of this information about who is storing money overseas and like Putin’s friends, the families in China, and the ruling elite in Britain and basically like saying that you can’t hide your money from us we are going to find you. So this money that is like seventy trillion dollars, is basically being forced into the US because if you are overseas, the US is actually a tax haven. The US government requires data from every other country, but if you put your money in the US, the US government will not give its’ data to any other country. So if you hide your money in the US and you are from like Saudi Arabia, if another country tries to get that money or find where it is and who has it, they’ll just shoot down the lawsuit. But if you are a bank in Saudi Arabia you have to report your data to everyone... so this moves all this money into the US dolars and whats happening though is this seventy trilllion dollars that is offshore is now flooding into crypto. You see a lot, and these people don't know how to use it they are not technically literate it is still early but we are seeing this massive flood of money into crypto. The volume is unimaginable and the crypto market is one hundred and eighty billion right now and i think that it will go to ten trillion before it pops. Deoitte said that it will be worth five trillion dolars by 2030. The growth rate is over 1% a day and it has been that way for ten years now. If you actually plot, if you take the Bitcoin market cap and you put a straight line a regression line, the slope of that line is 1% per day. The boom and the bust cyle hasnt chagned that. This is also going to be a dot com bubble and burst too because most of these coins don’t have any value, so there is a huge amount of money flooding in and people are taking advantage of that. There are fifteen different smart contract platforms. 90% of these smart contract platforms don’t have any users, so if a smart contract platform doesn’t have any users then why is it worth ten billion dollars. 
+Oh so this is uh, so you have these governments these central banks, supposedly there’s fifteen trillion dollars in fiat, like the USD, EUR, YUAN, YEN, and so on and thats the number they officially published, but theres actually all this money and nobody knows how much money there actually is. They lie. They don’t have to report the exact number. They always smudge the numbers. Every country smudges the numbers to make them look better so they can get more loans and all this other stuff. They always understand inflation and they have all these different ways of fudging the numbers. I was talking to this guy and he does some offshore stuff. Basically, they think... there’s documented like seventy trillion, so the government says there is fifteen trillion but there is actually seventy trillion dollars offshore. What’s happening now is the US government is coming in with GACTA and FACTA and the G20 and all these laws and international treaties that are forcing all of the people out of these offshore tax havens. They did the Panama Papers and hacking banks and leaking all of this information about who is storing money overseas and like Putin’s friends, the families in China, and the ruling elite in Britain and basically like saying that you can’t hide your money from us we are going to find you. So this money that is like seventy trillion dollars, is basically being forced into the US because if you are overseas, the US is actually a tax haven. The US government requires data from every other country, but if you put your money in the US, the US government will not give its’ data to any other country. So if you hide your money in the US and you are from like Saudi Arabia, if another country tries to get that money or find where it is and who has it, they’ll just shoot down the lawsuit. But if you are a bank in Saudi Arabia you have to report your data to everyone... so this moves all this money into the US dolars and whats happening though is this seventy trilllion dollars that is offshore is now flooding into crypto. You see a lot, and these people don't know how to use it they are not technically literate it is still early but we are seeing this massive flood of money into crypto. The volume is unimaginable and the crypto market is one hundred and eighty billion right now and i think that it will go to ten trillion before it pops. Deoitte said that it will be worth five trillion dolars by 2030. The growth rate is over 1% a day and it has been that way for ten years now. If you actually plot, if you take the Bitcoin market cap and you put a straight line a regression line, the slope of that line is 1% per day. The boom and the bust cyle hasnt chagned that. This is also going to be a dot com bubble and burst too because most of these coins don’t have any value, so there is a huge amount of money flooding in and people are taking advantage of that. There are fifteen different smart contract platforms. 90% of these smart contract platforms don’t have any users, so if a smart contract platform doesn’t have any users then why is it worth ten billion dollars.
 
 **christian**
 A fucking scam thats why
@@ -458,7 +461,7 @@ A fucking scam thats why
 And it is very funny because I saw one pop up into the top ten or something. They didn’t even do an ICO. They had no ICO, no pre-ICO. They just sold some coins to some people and just put it on Bittrex and were trading it at like a billion dollars or something. Some company I'd never heard of. And um, its like, "Our thing has scale!" but they have no users and its like why is this worth a billion dollars. So whats gonna happen is, people are gonna ride the bubble, they are gonna invest in these speculative things if the marketing is good. Then before the bubble bursts, when it's near its' peak, the smart money is going to start moving all their assets into the coins with actual value. Like you have a coal mine, you have a gold mine, you have a silver mine, you're selling sand for coins. You have an ISP, a distributed utility company, you have actual solar panels. They are going to want physical infrastructure, like collateral that actually ensures these coins. Then we are going to have a bubble in these asset or commodity backed coins because all of this money has nowhere to flee. The other thing is, the money only flows into Bitcoin. If you bought Bitcoin at a penny and it goes to six thousand dollars, you can't sell one hundred fifty million dollars of Bitcoin. They don't even want to be taxed on it. They don't know if they are going to have to pay a 30% tax, a 10% tax or a 15% tax, they would actually rather just sit on the Bitcoin. No one actually ever sells the coins. It comes in they make the money and they just don't want to deal with the problems of running it back into paper money.
 
 **christian**
-It's not really.. it's not that there is a huge problem because there is no money moving. There is no money moving, there is no economy. Ok, you have a whole pile of shit, cool. Are you gonna move it? No you're not? Ok I don't give a fuck then. 
+It's not really.. it's not that there is a huge problem because there is no money moving. There is no money moving, there is no economy. Ok, you have a whole pile of shit, cool. Are you gonna move it? No you're not? Ok I don't give a fuck then.
 
 **synth**
 Well you can buy houses with it now--
@@ -476,7 +479,7 @@ Yea fuck that though, this is like the royal mint England, this is legit like fu
 You know... gold is really weird because you buy a gold ETF or like paper gold and they'll take the same bar of gold and sell the same bar to three hundred different people, giving a piece of paper saying they own the same bar. So I don't even really trust.. I'm very suspicious about it. Like, "Oh yea we have these gold bars!" but when you actually ask for the bars they don't have them. If that is an actually legit one that could be good I don't know. Like just take it and bury it in your backyard or something [laughs].
 
 **christian**
-Well this is all the gold in our city, the royal mint owns it; so it's actually their gold. It isn't like the United States where you get a certificate or something like that. Anyway, umm, 
+Well this is all the gold in our city, the royal mint owns it; so it's actually their gold. It isn't like the United States where you get a certificate or something like that. Anyway, umm,
 
 **synth**
 Oh this is funny, we had a guy who had some mountain with a piece of paper saying he has a bunch of gold on the mountain and he wants to do like an ICO for the mountain.
@@ -491,7 +494,7 @@ What????
 What???? Get that shit dude, get the blocks out and mine the shit out.
 
 **evan**
-What???? 
+What????
 
 **synth**
 Remember sandcoin? That zirconium coin?
@@ -554,7 +557,7 @@ Yea a mesh net, but it's actually more general than the mesh net. Mesh net is a 
 Well I'm happy to hear that. I didn't even know you guys had a discord group. Is it pretty active there?
 
 **synth**
-I don't really use it. We have a telegram and we are active there. We had a slack. We log into the slack and we see that there is like 28,000 messages a day. There are just spam bots spamming each other. One spam bot says, "Hi!" and the other spam bot says, "Hi!" and they just go back and forth in an infinite loop in private messaging and then the message queue ends up filling over. 
+I don't really use it. We have a telegram and we are active there. We had a slack. We log into the slack and we see that there is like 28,000 messages a day. There are just spam bots spamming each other. One spam bot says, "Hi!" and the other spam bot says, "Hi!" and they just go back and forth in an infinite loop in private messaging and then the message queue ends up filling over.
 
 **christian**
 Yea I understand.
@@ -563,13 +566,13 @@ Yea I understand.
 With Telegram too, we have so much.. like every five minutes someone comes in and they're like, "Join our pump groups!! We have the biggest pumps!!" It's like penis pump cartel. "Coin pump, pump, pump, pump!"
 
 **christian**
-Apparently, Skycoin is pumping right now. That's what they're saying in the chat dude. We're not fucking responsible for that shit. 
+Apparently, Skycoin is pumping right now. That's what they're saying in the chat dude. We're not fucking responsible for that shit.
 
 **synth**
 What is it at now?
 
 **christian**
-I have no idea they're probably just fucking with us. 
+I have no idea they're probably just fucking with us.
 
 **synth**
 I gotta check this
@@ -614,7 +617,7 @@ Good luck.. good luck. Yea I just got back from Spain. The whole idea of just be
 Yea exactly [laughs]
 
 **synth**
-How hard is it to get onto Polo? I can't even get a hold of anyone on Polo at this point. 
+How hard is it to get onto Polo? I can't even get a hold of anyone on Polo at this point.
 
 **christian**
 Dude let me tell you a story about Polo. I've been waiting about six months for my ticket to be answered.
@@ -693,7 +696,7 @@ These guys are running Bithumb like how much fucking money do you need. "I've go
 Look at their volume. If their volume is real and they are getting .02% on each trade on the bid and ask and their volume isn't fake. I think that they are rebating the fees for special accounts and institutional investors and they lie and say that they aren't doing that. But if you take the volume and like a billion dollars, and look at the fees they would pay if the fees are actually paid, then you have this exchange that's making ten million dollars a day. It's like this four person exchange is not making four million dollars a day. I think the volume is there just to get the smucks in to buy. Like, "Oh look at this volume, people are trading! Buy this!" For some of these exchanges like HitBTC, if you don't have volume, they have a volume expert and you can go to this guy... like I talked to one of these guys. Not the one from HitBTC, but this was very funny. He wanted three million dollars in coins and all he does is just sit there and day trade on the coin and create volume. I was like, "Why would I give you three million dollars to sit there and day trade?" And he was like well that's what the other coins are giving him so he wouldn't do less than that and he has like four people asking him.
 
 **christian**
-That is fucking insane dude. 
+That is fucking insane dude.
 
 **synth**
 [laughs]
@@ -724,7 +727,7 @@ I mean there are so many coins. They don't have any tangible shit behind it. The
 I like ByteBalls. There are some coins that have developers and they might not know what they're doing, but there are like five coins that have developers and they all fucking blow up from like one penny to $700.
 
 **christian**
-Well ByteBall was actually a fair distribution. 
+Well ByteBall was actually a fair distribution.
 
 **synth**
 Yea they did a really good job.
@@ -757,7 +760,7 @@ Same thing with NEM. Somebody told me to buy in February. They said it was going
 Ooh another thing that I look at when I'm investing um, I look at do people actually have the wallet? So I was talking to this Ethereum whale and he had like $300M in Ethereum and I asked him what Ethereum wallet did he use. I needed an Ethereum thin wallet because I didn't want to download this huge blockchain. I asked him what wallet he was using he was like, "I don't know." Like what do you mean you don't know? You're a freaking Ether whale. I talked to another user and it was the same thing, so if you ask these people like... they have this coin most of the users do not community even have the wallet. Their coins are sitting on an exchange waiting to get stolen and they never install the wallet for that coin. It's just incredible.
 
 **christian**
-I don't hold any coins on the exchanges unless like... right now the Dynamic blockchain is down so they are storing them on their central server. So you're storing them with Duality or you are storing them on the exchange but thats it everything else fucking stays in cold storage dude. You have got to move your shit to cold storage guys. 
+I don't hold any coins on the exchanges unless like... right now the Dynamic blockchain is down so they are storing them on their central server. So you're storing them with Duality or you are storing them on the exchange but thats it everything else fucking stays in cold storage dude. You have got to move your shit to cold storage guys.
 
 **synth**
 Yes. But how can you have a cold store for like 300 coins? I can't even deal with like four wallets. Like how do people?
@@ -811,7 +814,7 @@ Yea we can slow down. We can cut this off in a minute. I don't really see any qu
 That's great. Yea so besides Skycoin, we have a bunch of coins. Spaco is really interesting. They're doing like a filecoin but it's based Skycoin and our CXO and it runs on Skywire. So the people get Spaco and they get Skycoins for running this thing. And then the Solarbankers and then we are actually talking to a company in Mauritius and they are a huge forex site. They have like meta trader four and these people... they are even more hardcore gamblers then these altcoin people. They are just like Forex, like 400x leverage trades on currency pairs and we are going to do a coin for that Forex exchange. With the profits from the Forex exchange, about half of them are going to go back to the coin I think. I saw some coin that was trying to do derivatives and they tried to raise like a billion dollars, so I'm wondering if these guys are going to do a hundred and fifty million dollar ICO or what, but we have some pretty interesting coins signing up now.
 
 **christian**
-Cool. I mean that's what you need right. You just need some volume in and then some cool shit to back it up. Once you have the financial framework down then you can just add like the fun stuff to it right. 
+Cool. I mean that's what you need right. You just need some volume in and then some cool shit to back it up. Once you have the financial framework down then you can just add like the fun stuff to it right.
 
 **synth**
 Yea.

@@ -9,6 +9,9 @@ date = "2017-12-14"
 categories = [
     "Skyledger",
 ]
+aliases = [
+	"/it/statement/skyledger-blockchains-real-future/"
+]
 +++
 
 
@@ -20,13 +23,13 @@ Gli sviluppatori di Skycoin hanno capito che Bitcoin era destinato a fallire, e 
 
 Il problema cruciale di Bitcoin è il suo sistema di mining. I minatori combattono per il controllo della rete attraverso i costi di transazione. Spammando transazioni, intasano la rete e la tengono in ostaggio così che il costo delle transazioni aumenti. Contemporaneamente, i minatori si sono organizzati in pochi gruppi centralizzati che controllano l’intera rete. In questo modo Bitcoin incoraggia una configurazione centralizzata di mining che è antagonista dell’intera comunità.
 
-A Skycoin abbiamo voluto sbarazzarci di tutto questo. Abbiamo eliminato la ricompensa del mining e i costi di transazione. Invece, il consenso di Skyledger si basa sulla volontà della rete – una “rete di fiducia”. 
+A Skycoin abbiamo voluto sbarazzarci di tutto questo. Abbiamo eliminato la ricompensa del mining e i costi di transazione. Invece, il consenso di Skyledger si basa sulla volontà della rete – una “rete di fiducia”.
 
-L’algoritmo del consenso di Skyledger si chiama Obelisk. Obelisk crea una rete di fiducia nella quale ogni nodo ha una chiave pubblica, e ogni nodo sottoscrive a altri nodi. Per esempio, se conosci qualcuno personalmente, puoi aggiungere la sua chiave pubblica alla tua lista di fiducia. I tuoi nodi possono poi sottoscrivere gli uni con gli altri e pubblicare messaggi. Attraverso questo processo, i nodi possono raggiungere un consenso globale. 
+L’algoritmo del consenso di Skyledger si chiama Obelisk. Obelisk crea una rete di fiducia nella quale ogni nodo ha una chiave pubblica, e ogni nodo sottoscrive a altri nodi. Per esempio, se conosci qualcuno personalmente, puoi aggiungere la sua chiave pubblica alla tua lista di fiducia. I tuoi nodi possono poi sottoscrivere gli uni con gli altri e pubblicare messaggi. Attraverso questo processo, i nodi possono raggiungere un consenso globale.
 
 Uno dei grandi vantaggi della rete di fiducia di Skyledger è che è amico dell’ambiente. Potrebbe essere eseguito sul processore di un cellulare da 30 watt. Per apprezzare a pieno questo vantaggio, si provi a considerare l’enorme consumo di risorse prodotto dagli impianti di mining di Bitcoin: più di 32 terawattore nel 2017. È più o meno tanto quanto ha consumato l’intero paese della Serbia. Come riportato da Digiconomist (https://digiconomist.net/bitcoin-energy-consumption), Bitcoin usa abbastanza energia da alimentare 3 milioni di case. Per metterlo in una prospettiva ancora più impressionante, persino il gigante delle carte di credito Visa utilizza solo l’energia necessaria per alimentare 50,000 case.
 
-Il maggior colpevole del consumo dispendioso di Bitcoin è l’algoritmo Proof-of-Work. Ogniqualvolta un blocco è aggiunto nella blockchain, PoW deve attraversare un laborioso, lento, e pesante da processare insieme di requisiti per assicurarsi che il blocco sia valido. Obelisk, al contrario, sostituisce PoW con un processo di consenso più efficace e veloce. 
+Il maggior colpevole del consumo dispendioso di Bitcoin è l’algoritmo Proof-of-Work. Ogniqualvolta un blocco è aggiunto nella blockchain, PoW deve attraversare un laborioso, lento, e pesante da processare insieme di requisiti per assicurarsi che il blocco sia valido. Obelisk, al contrario, sostituisce PoW con un processo di consenso più efficace e veloce.
 
 ## Skyledger alimenta l’innovazione e un’internet aperto
 
@@ -39,11 +42,11 @@ Un esempio è Solar Bankers, un fornitore di energia. Solar Bankers usa la block
 
 Solar Bankers e altre compagnie scelgono di basare la loro valuta sulla tecnologia Skyledger perché Skyledger offre criptaggio, velocità e affidabilità da primi della classe. In più, è assolutamente privato.
 
-Skyledger permette ai suoi utenti di creare le proprie criptovalute usando una piattaforma comune. Diversamente da Ethereum, Skyledger fornisce una blockchain privata che non è condivisa tra le altre valute. Utilizza un criptaggio migliorato e un metodo unico per verificare le transazioni che lo rende immutabile e immune al 51% degli attacchi. 
+Skyledger permette ai suoi utenti di creare le proprie criptovalute usando una piattaforma comune. Diversamente da Ethereum, Skyledger fornisce una blockchain privata che non è condivisa tra le altre valute. Utilizza un criptaggio migliorato e un metodo unico per verificare le transazioni che lo rende immutabile e immune al 51% degli attacchi.
 
-Il vantaggio di una blockchain privata è un’aumentata velocità di transazione. Le aziende hanno bisogno di una propria blockchain dedicata per prevenire rallentamenti causati da altri utenti della rete. Ethereum ha recentemente avuto difficoltà a questo riguardo con il tormentone dei CryptoKitties (http://www.bbc.co.uk/news/technology-42237162), che totalizza ora più del 10% del traffico della rete. CryptoKitties è risultato in un drammatico rallentamento delle transazioni in ETH. La blockchain dedicata di Skyledger fa sì che questo tipo di cose non accadano. 
+Il vantaggio di una blockchain privata è un’aumentata velocità di transazione. Le aziende hanno bisogno di una propria blockchain dedicata per prevenire rallentamenti causati da altri utenti della rete. Ethereum ha recentemente avuto difficoltà a questo riguardo con il tormentone dei CryptoKitties (http://www.bbc.co.uk/news/technology-42237162), che totalizza ora più del 10% del traffico della rete. CryptoKitties è risultato in un drammatico rallentamento delle transazioni in ETH. La blockchain dedicata di Skyledger fa sì che questo tipo di cose non accadano.
 
-Skyledger rappresenta il reale futuro della blockchain. È una rete veramente decentralizzata dove le transazioni sono veloci e sicure. Supporta Skywire, un ISP alternativo che dà agli utenti controllo sul loro uso di internet. È efficiente dal punto di vista energetico e semplificato. Meglio ancora, offre il consenso della comunità attraverso il suo algoritmo Obelisk. Skyledger dà potere agli utenti fornendo loro quello che Bitcoin non può: un’economia internet decentralizzata e peer-to-peer. 
+Skyledger rappresenta il reale futuro della blockchain. È una rete veramente decentralizzata dove le transazioni sono veloci e sicure. Supporta Skywire, un ISP alternativo che dà agli utenti controllo sul loro uso di internet. È efficiente dal punto di vista energetico e semplificato. Meglio ancora, offre il consenso della comunità attraverso il suo algoritmo Obelisk. Skyledger dà potere agli utenti fornendo loro quello che Bitcoin non può: un’economia internet decentralizzata e peer-to-peer.
 
   
 

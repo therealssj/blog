@@ -5,6 +5,9 @@ bounty = 0
 date = "2018-03-17"
 categories = [ "Statement", "Skyminer", ]
 image = "img/Skyminer-Launch-Announcement.jpg"
+aliases = [
+	"/statement/skywire-testnet-coming-soon/"
+]
 +++
 
 {{< youtube id="yl6FtLUKVZw" autoplay="true" >}}

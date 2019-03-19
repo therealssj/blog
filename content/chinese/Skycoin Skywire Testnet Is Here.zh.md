@@ -5,6 +5,9 @@ bounty = 0
 date = "2018-05-15"
 categories = [ "Statement", ]
 image = "img/skywire-testnet-launching-may-22.jpg"
+aliases = [
+	"/zh/statement/skycoin-skywire-testnet-is-here/"
+]
 +++
 
 Skywire的测试网络，将于5月22日，正式发布。

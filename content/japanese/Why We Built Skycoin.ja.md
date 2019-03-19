@@ -9,6 +9,9 @@ date = "2017-12-09"
 categories = [
     "Statement",
 ]
+aliases = [
+	"/ja/statement/why-we-built-skycoin/"
+]
 +++
 
 ナカモトサトシはBitcoinを分散型のデジタル通貨として構想しました。ブロックチェーンネットワークは民主的な金融システムを作り、企業による支配を排除し、ユーザー間に権力を分散させるように意図されていました。

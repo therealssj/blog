@@ -5,6 +5,9 @@ bounty = 0
 date = "2018-11-15"
 categories = [ "Statement", ]
 image = "img/skycoin-mobile-wallet-now-on-ios.png"
+aliases = [
+	"/statement/skycoin-ios-mobile-wallet-announcement/"
+]
 +++
 
 

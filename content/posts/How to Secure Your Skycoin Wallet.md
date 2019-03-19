@@ -7,6 +7,9 @@ date = "2018-01-03"
 categories = [
     "Statement",
 ]
+aliases = [
+	"/statement/how-to-secure-your-skycoin-wallet/"
+]
 +++
 
 ## Intructive guide on how to safely store your Skycoin

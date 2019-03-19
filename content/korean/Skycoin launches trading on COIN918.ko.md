@@ -11,6 +11,9 @@ categories = [
     "Statement",
     "Exchange Listing",
 ]
+aliases = [
+	"/ko/statement/skycoin-launches-trading-on-coin918/"
+]
 +++
 
 스카이코인은 최근 글로벌 디지털 거래 플랫폼인 COIN918에 상장할 것이라고 발표했습니다. 이 새로운 거래소와 함께, 스카이코인은 전 세계의 더 많은 사용자에게 더 나은 암호화폐에 대한비전을 제시할 것입니다. 이것은 자유롭고 열린 네트워크를 위한 한 단계입니다.

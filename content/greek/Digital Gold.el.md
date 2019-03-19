@@ -7,6 +7,9 @@ date = "2017-08-14"
 categories = [
     "Statement",
 ]
+aliases = [
+	"/el/statement/digital-gold/"
+]
 +++
 
 

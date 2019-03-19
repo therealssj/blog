@@ -11,6 +11,9 @@ categories = [
     "Skyminer",
 ]
 image = "img/skywire-the-next-internet.png"
+aliases = [
+	"/de/skywire/skywire-the-next-internet"
+]
 +++
 
 Im Frühling 2017 hat die FCC einen Antrag gestellt, in welchem es den Internetdienstanbietern (ISP)

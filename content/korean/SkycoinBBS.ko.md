@@ -9,6 +9,9 @@ date = "2017-11-15"
 categories = [
     "Statement",
 ]
+aliases = [
+	"/ko/statement/skycoinbbs/"
+]
 +++
 
 ## 개요:

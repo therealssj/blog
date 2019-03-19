@@ -8,6 +8,9 @@ date = "2017-08-26"
 categories = [
     "Overview",
 ]
+aliases = [
+	"/ja/overview/skycoin-overview"
+]
 +++
 
 <!-- MarkdownTOC autolink="true" bracket="round" depth="1" -->

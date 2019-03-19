@@ -10,6 +10,9 @@ date = "2017-12-18"
 categories = [
     "Development Updates",
 ]
+aliases = [
+	"/fr/bbs/bbs-release-v5.0/"
+]
 +++
 
 La version 5.0 de Skycoin BBS a enfin été publiée avec plusieurs changements apportés!
@@ -34,7 +37,7 @@ De plus amples renseignement peuvent être trouvé ici : [github.com/skycoin/bbs
 
 ## Autres améliorations
 
-* Améliorations à l'Import/Export (malheuresement, ceci n'est pas compatible avec l'import/export du BBS v4.x) 
+* Améliorations à l'Import/Export (malheuresement, ceci n'est pas compatible avec l'import/export du BBS v4.x)
 * Simplifications au code et améliorations de la performance pour les soumissions à distance et intéraction avec Skycoin Messenger. Mise à jour pour utiliser la dernière version de Messenger.
 * Améliorations de la performance de la gestion de fichiers
 * Meilleure gestion de racine CXO invalides

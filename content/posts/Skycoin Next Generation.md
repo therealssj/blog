@@ -9,6 +9,9 @@ date = "2017-09-24"
 categories = [
     "Statement",
 ]
+aliases = [
+	"/statement/skycoin-next-generation"
+]
 +++
 
 *This is an archived post from the bitcointalks thread on May 06 2014.*

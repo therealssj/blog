@@ -15,6 +15,9 @@ categories = [
     "Statement",
     "Development Updates",
 ]
+aliases = [
+	"/statement/state-of-the-crypto-market-development-updates/"
+]
 +++
 
 - [Q&A](#q-a)

@@ -11,6 +11,9 @@ categories = [
     "Statement",
 ]
 bounty = 4
+aliases = [
+	"/ja/statement/skywire-miner-hardware-for-the-next-internet/"
+]
 +++
 
 *メールリストに登録してSkyminerの最新情報を受け取りましょう: http://eepurl.com/c4DyAv*
@@ -23,7 +26,7 @@ bounty = 4
 言論の自由を促進します。インターネットの未来を形作るのがSkywireの使命です。
 
 [Skywire](https://github.com/skycoin/skywire)の革新的なネットワーキングプロトコルは、
-私たちの考えるインターネットの姿を既に大きく変えています。Multi-Protocol Label Switching 
+私たちの考えるインターネットの姿を既に大きく変えています。Multi-Protocol Label Switching
 (MPLS)を基礎にSkywireは作られています。MPLSの特徴は速度が速く、質が高く、動作も安定しており、
 セキュリティが高いことです。SkywireはMPLSの水準以上に、速く、質の高いネットワークを提供します。
 最高のパフォーマンスとプライバシーのために設計され、ユーザーはISPの企業を経由することなしに、
@@ -113,7 +116,7 @@ Skywireのネットワークに参加するノードは、トラフィック転�
 
 Skyminerのノードを他と区別するための仕組みについても現在議論を進めています。
 
-ネットワークへの参加報酬の価値と数量の具体的な情報は公式の発表をお待ち下さい。 
+ネットワークへの参加報酬の価値と数量の具体的な情報は公式の発表をお待ち下さい。
 
 ### Errata
 

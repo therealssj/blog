@@ -8,11 +8,14 @@ date = "2017-10-13"
 categories = [
     "Statement",
 ]
+aliases = [
+	"/ko/statement/skycoin-wallet-v0.20.2-released/"
+]
 +++
 
 [스카이코인 지갑 v0.20.2 다운로드](https://www.skycoin.net/downloads/)
 
-이번 발표는 이전 지갑과 관련된 많은 문제를 해결하고 새로운 UI를 제공합니다. 
+이번 발표는 이전 지갑과 관련된 많은 문제를 해결하고 새로운 UI를 제공합니다.
 이 UI는 v0.19보다 개선되었지만 v0.21 또는 v0.22이 발표될 때까지만 대체하여 사용될 것입니다.
 
 가장 중요한 변경 사항 :

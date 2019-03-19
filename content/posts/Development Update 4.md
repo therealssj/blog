@@ -8,7 +8,10 @@ date = "2014-03-03"
 categories = [
     "Development Updates",
 ]
-description = "Release notes highlighting the current development behind Skycoin  "
+description = "Release notes highlighting the current development behind Skycoin"
+aliases = [
+	"/development-updates/development-update-4/"
+]
 +++
 
 ## Software Update:

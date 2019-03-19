@@ -10,6 +10,9 @@ categories = [
     "Infographics",
 ]
 image = "img/Build-A-DIY-Skycoin-Miner.jpg"
+aliases = [
+	"/infographics/build-a-diy-skycoin-miner/"
+]
 +++
 
 ## To be part of Skywire you can build your own Skyminer. All you need are some skills and the following items:

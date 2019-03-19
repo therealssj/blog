@@ -10,6 +10,9 @@ date = "2017-08-09"
 categories = [
     "Ask the Developers",
 ]
+aliases = [
+	"/de/ask-the-developers/skycoin-vs-ipfs/"
+]
 +++
 
 Wir wurden gefragt, was der Unterschied zwischen [CXO](https://github.com/skycoin/cxo) und IPFS ist.
@@ -42,7 +45,7 @@ Skycoin wählt einen strikten und eleganten, mathematischen Ansatz, der mittels 
 
 FileCoin wird sich also in das existierende Internet integrieren und einfach eine zu importierende Javascript-Bibliothek sein. Skycoin will ein neues Internet schaffen, mit zugehörigen Protokollen und Hardware.
 
-Der grobe und falsche Zuordnungsvergeich wird immer geschehen. Skycoin wählt die Herangehensweise, die Komponenten auf das Minimum zu reduzieren, netzunabhängig und mit minimalen Abhängigkeiten der Module. Einer der Gründe, weshalb wir "Proof of Storage" nicht als Anreiz gewählt haben, war, dass Datenspeicherung dann notgedrungen auf der Blockchain stattfinden müsste. Wir finden, dass die Datenspeicherung, auch ohne den Mehraufwand einer Blockchain, schon effizient funktioniert - dies ist also nicht der richtige Weg um den Usern Anreize zu bieten. 
+Der grobe und falsche Zuordnungsvergeich wird immer geschehen. Skycoin wählt die Herangehensweise, die Komponenten auf das Minimum zu reduzieren, netzunabhängig und mit minimalen Abhängigkeiten der Module. Einer der Gründe, weshalb wir "Proof of Storage" nicht als Anreiz gewählt haben, war, dass Datenspeicherung dann notgedrungen auf der Blockchain stattfinden müsste. Wir finden, dass die Datenspeicherung, auch ohne den Mehraufwand einer Blockchain, schon effizient funktioniert - dies ist also nicht der richtige Weg um den Usern Anreize zu bieten.
 
 Wir wollten nicht ein "neues Internet" aufbauen, dass wie ein Spielautomat herunterfährt, weil der User nicht genug Münzen eingeschmissen hat. Wir wollten keine Nutzererfahrung, in der man für jede, eigentlich kostenfreie, Aktion - ob Klick, Datendownload oder sonstige Aktivitäten - bezahlen muss.
 

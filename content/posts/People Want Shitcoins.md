@@ -8,6 +8,9 @@ categories = [
     "Ask the Developers",
 ]
 bounty = 3
+aliases = [
+	"/ask-the-developers/people-want-shitcoins/"
+]
 +++
 
 *Excerpt from the Telegram channel*

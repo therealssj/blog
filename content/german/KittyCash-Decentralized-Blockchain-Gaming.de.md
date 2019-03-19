@@ -10,6 +10,9 @@ categories = [
     "Infographics",
 ]
 image = "img/KittyCash-Decentralized-Blockchain-Gaming.jpg"
+aliases = [
+	"/de/infographics/kittycash-decentralized-blockchain-gaming/"
+]
 +++
 
 ## Die nächste Generation an Blockchain-Spielen mit niedlichen Sammlerobjekten, Aufzucht und mehr.

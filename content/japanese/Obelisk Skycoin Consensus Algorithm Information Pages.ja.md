@@ -12,6 +12,9 @@ categories = [
 ]
 author = "johnstuartmill"
 image = "img/obelisk-the-skycoin-consensus-algorithm.png"
+aliases = [
+	"/ja/overview/obelisk-skycoin-consensus-algorithm-information-pages"
+]
 +++
 
 - [合意形成の要点](#合意形成の要点)

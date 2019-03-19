@@ -9,6 +9,9 @@ date = "2017-09-24"
 categories = [
     "Statement",
 ]
+aliases = [
+	"/zh/statement/skycoin-next-generation"
+]
 +++
 
 *这是2014年5月6日bitcointalks的存档帖子。*

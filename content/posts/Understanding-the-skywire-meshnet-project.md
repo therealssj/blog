@@ -12,6 +12,9 @@ categories = [
     "Skyminer",
 ]
 image = "img/What-is-the-difference-skycoin-vs-skywire.jpg"
+aliases = [
+	"/infographics/understanding-the-skywire-meshnet-project"
+]
 +++
 
 ## 1. Skywire objectives:

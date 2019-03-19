@@ -12,6 +12,9 @@ categories = [
     "Skywire",
     "Skyminer",
 ]
+aliases = [
+	"/es/statement/the-net-neutrality-rollback-and-how-skycoin-can-defeat-it/"
+]
 +++
 
 En el 2015, la FCC instituyó reglas de neutralidad de red clasificando a la Internet como una utilidad pública. Esto impidió que los proveedores de servicios de Internet (ISP) priorizaran ciertos sitios web sobre otros y fomentó una internet libre y abierta donde todas las empresas y personas pudieran prosperar.

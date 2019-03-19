@@ -10,6 +10,9 @@ categories = [
     "Statement",
     "Skyledger",
 ]
+aliases = [
+	"/ru/statement/solar-bankers-is-one-example-of-a-company-adopting-the-revolutionary-skycoin-blockchain/"
+]
 +++
 
 Лучшая скорость, лучшая безопасность, лучшая конфиденциальность - Skycoin предлагает все эти преимущества на платформе с открытым исходным кодом. Инновационная технология, обеспечивающая Skycoin, доступна для всех. Сегодня все больше компаний берут на заметку преимущества Skycoin и используют его для создания своего бизнеса.

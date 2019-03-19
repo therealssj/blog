@@ -8,6 +8,9 @@ date = "2017-09-27"
 categories = [
     "Statement",
 ]
+aliases = [
+	"/fr/statement/five-pillars-of-skycoin/"
+]
 +++
 
 Le projet Skycoin est une plateforme logicielle/d'application intégrée hermétiquement qui fonctionne en parallèle et par dessus l'internet actuel tout en étant complètement indépendante.
@@ -24,7 +27,7 @@ Les cinq piliers du projet Skycoin sont :
  - Un mécanisme de consensus supérieur à tout ce qui existe
    ([Obelisk](/statement/obelisk-the-skycoin-consensus-algorithm/)).
 
-(2) [Skywire](/tags/skywire/), un réseau de maille où vous pouvez être rémunéré en crypto-monnaie pour transmettre le trafic / bande passante. 
+(2) [Skywire](/tags/skywire/), un réseau de maille où vous pouvez être rémunéré en crypto-monnaie pour transmettre le trafic / bande passante.
 Ce principe est similaire à Tor ou à BitTorrent sauf que vous serez payé pour faire fonctionner un nœud.
 
 (3) [Skyledger](https://www.skyledger.net), une plateforme qui représente notre vision de l'ERC20 d'Ethereum mais bien meilleure :
@@ -39,6 +42,6 @@ Ce principe est similaire à Tor ou à BitTorrent sauf que vous serez payé pour
  - [Sky-messenger](http://messenger.skycoin.net/)
  - [Média social distribué (BBS)](https://github.com/skycoin/bbs))
    qui est une sorte de Steemit mais basé sur notre infrastructure et plateforme.
- - Echange de fichiers du même genre que Dropbox. 
+ - Echange de fichiers du même genre que Dropbox.
 
 (5) Notre propre [plateforme matérielle](/statement/skywire-miner-hardware-for-the-next-internet/).

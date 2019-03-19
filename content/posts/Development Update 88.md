@@ -9,6 +9,9 @@ categories = [
     "Development Updates",
 ]
 description = "Release notes highlighting the current development behind Skycoin."
+aliases = [
+	"/development-updates/development-update-88/"
+]
 +++
 
 The crypto library is not deterministic. It is failing for every one in twelve thousand keys.

@@ -8,7 +8,11 @@ categories = [
     "Development Updates",
 ]
 description = "Release notes highlighting the current development behind Skycoin."
+aliases = [
+	"/development-updates/development-update-131/"
+]
 +++
+
 ## Bug Fix:
 
 We found a bug last night, where the node goes into infinite loop when trying to create a new block and transactions on network stopped.

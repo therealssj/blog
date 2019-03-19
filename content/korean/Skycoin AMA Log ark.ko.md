@@ -9,6 +9,9 @@ categories = [
     "Statement",
 ]
 description = "스카이코인 AMA기록은 ark.io/slack/에서 확인할 수 있습니다.(2017-07-02일 부터)"
+aliases = [
+	"/ko/ask-the-developers/skycoin-ama-log-ark/"
+]
 +++
 
 *원본은 2017년 7월 2일자[ark.io 슬랙](https://ark.io/slack/) 에 있습니다.*

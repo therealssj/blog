@@ -7,6 +7,9 @@ date = "2017-08-27"
 categories = [
     "Statement",
 ]
+aliases = [
+	"/de/statement/skycoin-bounty-program-1"
+]
 +++
 
 *Aktualisiert August 30, 2017. Entfernen der GIF Belohnung.*
@@ -19,11 +22,11 @@ categories = [
 
 *Aktualisiert September 12, 2017. Erhöhen der Infografikbelohnung auf 30.*
 
-*Aktualisiert November 8, 2017. Grafik- und Videobounty werden von Fall zu Fall im Bounty-Channel behandelt.
+*Aktualisiert November 8, 2017. Grafik- und Videobounty werden von Fall zu Fall im Bounty-Channel behandelt.*
 
-*Aktualisiert December 7, 2017. Hinzufügen von Portugiesisch.
+*Aktualisiert December 7, 2017. Hinzufügen von Portugiesisch.*
 
-*Aktualisiert December 10, 2017. Hinzufügen von Italienisch.
+*Aktualisiert December 10, 2017. Hinzufügen von Italienisch.*
 
 Bewerben für Belohnungen im [Skycoin-Belohnungsprogramm Telegram Channel](https://t.me/skycoinbounty)
 

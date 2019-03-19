@@ -9,6 +9,9 @@ categories = [
     "Development Updates",
 ]
 description = "Release notes highlighting the current development behind Skycoin."
+aliases = [
+	"/development-updates/development-update-55/"
+]
 +++
 
 There will be a blockchain reset soon. There are some minor last minute changes to block header and I don't want to delay the distribution event further to fix this.

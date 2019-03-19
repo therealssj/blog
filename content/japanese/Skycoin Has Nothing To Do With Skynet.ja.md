@@ -8,6 +8,9 @@ date = "2017-08-28"
 categories = [
     "Statement",
 ]
+aliases = [
+	"/ja/statement/skycoin-has-nothing-to-do-with-skynet"
+]
 +++
 
 「Skycoin」は「Skynet」又は「Superskynet」というプロジェクトを立ち上げているのか？という質問がありました。

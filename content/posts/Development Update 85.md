@@ -9,6 +9,9 @@ categories = [
     "Development Updates",
 ]
 description = "Release notes highlighting the current development behind Skycoin."
+aliases = [
+	"/development-updates/development-update-85/"
+]
 +++
 
 I simplified the lowest level of the networking. I stripped everything out.

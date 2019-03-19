@@ -9,6 +9,9 @@ categories = [
     "Development Updates",
 ]
 description = "Release notes highlighting the current development behind Skycoin."
+aliases = [
+	"/development-updates/development-update-84/"
+]
 +++
 
 The exchange is in progress. As soon as the bitcoin/skycoin withdrawals/deposits are done, then it will take a few hours to get order book working.

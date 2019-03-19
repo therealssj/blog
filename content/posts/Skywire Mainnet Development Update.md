@@ -6,6 +6,9 @@ date = "2019-03-16"
 categories = [ "Development", "Statement" ]
 description = "Skywire Mainnet Development Update"
 image = "img/skywirer-devupdate-3.8.2019-01.png"
+aliases = [
+	"/development-updates/skywire-mainnet-development-update/",
+]
 +++
 
 

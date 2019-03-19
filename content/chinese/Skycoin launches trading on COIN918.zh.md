@@ -11,6 +11,9 @@ categories = [
     "Statement",
     "Exchange Listing",
 ]
+aliases = [
+	"/zh/statement/skycoin-launches-trading-on-coin918/"
+]
 +++
 
 Skycoin最近宣布将在全球数字货币交易平台COIN918上市。随着这一新的上市，Skycoin将会把更好的加密货币的愿景带给全球更多的用户，这是向实现网络自由开放化迈出的又一步。

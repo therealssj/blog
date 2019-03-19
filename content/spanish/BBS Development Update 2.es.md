@@ -10,6 +10,9 @@ date = "2017-08-31"
 categories = [
     "Development Updates",
 ]
+aliases = [
+	"/es/bbs/bbs-development-update-2/"
+]
 +++
 
 ¡Ha pasado poco más de un mes desde el lanzamiento de la versión 0.1, y la 0.2 pronto estará lista!

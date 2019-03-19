@@ -10,6 +10,9 @@ categories = [
     "Statement",
 ]
 description = "스카이코인 배포 이벤트가 2017년 8월 8일 개최됩니다."
+aliases = [
+	"/ko/statement/skycoin-distribution-event"
+]
 +++
 
 스카이코인 [ 배포 이벤트](https://www.skycoin.net/distribution/)가 2017년 8월 8일 12:00PM GMT 부터 시작됩니다.

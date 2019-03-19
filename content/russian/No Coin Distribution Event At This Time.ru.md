@@ -9,6 +9,9 @@ date = "2017-09-23"
 categories = [
      "Statement",
 ]
+aliases = [
+	"/ru/statement/no-coin-distribution-event-at-this-time/"
+]
 +++
 
 В данный момент мы не проводим ICO.

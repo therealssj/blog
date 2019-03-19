@@ -13,6 +13,9 @@ categories = [
     "Development Updates",
 ]
 description = "Release notes highlighting the current development behind Skycoin."
+aliases = [
+	"/development-updates/development-update-75/"
+]
 +++
 
 The coin is done. We are working on networking. There are three different groups working independently on that and its not on github yet.

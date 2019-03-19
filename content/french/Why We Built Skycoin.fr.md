@@ -9,6 +9,9 @@ date = "2017-11-29"
 categories = [
     "Statement",
 ]
+aliases = [
+	"/fr/statement/why-we-built-skycoin/"
+]
 +++
 
 Satoshi envisageait Bitcoin comme une monnaie numérique décentralisée. Les réseaux de blockchain avaient pour but de démocratiser la finance, en éliminant le contrôle des entreprises et en répartissant le pouvoir entre les utilisateurs. Cependant, Bitcoin et les monnaies liées sont devenus centralisés en raison de leur confiance dans les algorithmes de Preuve de Travail (PoW) et de Preuve de Participation (PoS), ainsi que leur utilisation dans l'exploitation minière pour créer des pièces de monnaie. Cette centralisation va à l'encontre de l'objectif initial des monnaies numériques.

@@ -9,6 +9,9 @@ date = "2017-11-29"
 categories = [
     "Statement",
 ]
+aliases = [
+	"/statement/why-we-built-skycoin/"
+]
 +++
 
 Satoshi envisioned Bitcoin as a decentralized digital currency. Blockchain networks were intended to democratize finance, eliminating corporate control and spreading power among users. However, Bitcoin and related currencies have become centralized due to their reliance on Proof of Work (PoW) and Proof of Stake (PoS) algorithms, as well as their use of mining to create coins. This centralization defeats the original purpose of digital currencies.
@@ -41,12 +44,12 @@ It’s clear that both PoW and PoS algorithms are self-sabotaging. These algorit
 
 At Skycoin, we want to bring users what they asked for: a true, decentralized network without central authority. To accomplish this task, we went beyond PoW and PoS to create a wholly new decentralized algorithm that reconfigures the inner workings of blockchain. Our distributed consensus algorithm, Obelisk, succeeds in delivering just such a network.
 
-Obelisk is different from both PoW and PoS because it functions based on distributed influence, also known as a “web of trust.” In this system, each node subscribes to a list of other nodes. The density of a node’s network determines its influence. Nodes have personal blockchains that broadcast and record all actions publicly. Because the node’s communications are public and transparent, the community can verify that nodes are operating fairly. 
+Obelisk is different from both PoW and PoS because it functions based on distributed influence, also known as a “web of trust.” In this system, each node subscribes to a list of other nodes. The density of a node’s network determines its influence. Nodes have personal blockchains that broadcast and record all actions publicly. Because the node’s communications are public and transparent, the community can verify that nodes are operating fairly.
 
-If a node fails to comply with community standards, its actions will be visible in the public record. The network can then sever connections with that node, decreasing its influence over the network. In this way, our web of trust system weeds out malicious nodes and rebalances power according to the collective will of the community. The result is a smaller core of trusted nodes that make network decisions through verified relationships. 
+If a node fails to comply with community standards, its actions will be visible in the public record. The network can then sever connections with that node, decreasing its influence over the network. In this way, our web of trust system weeds out malicious nodes and rebalances power according to the collective will of the community. The result is a smaller core of trusted nodes that make network decisions through verified relationships.
 
 The Skycoin blockchain lets the community audit nodes and hold them accountable. This creates a transparent consensus that allows for collective decision-making and true decentralization of power. By eliminating PoW/PoS issues, Skycoin delivers a digital currency that provides all the benefits of a democratic network.
 
-Obelisk is the key to reinventing blockchain. Its web-of-trust style consensus prevents the development of centralized power. Skycoin requires no mining, so the network is immune to 51% attack. Transactions are significantly faster, occurring in seconds. Decisions are made through community consensus, not based on the wishes of a few majority stakeholders. These features make Skycoin the most secure blockchain option available today. 
+Obelisk is the key to reinventing blockchain. Its web-of-trust style consensus prevents the development of centralized power. Skycoin requires no mining, so the network is immune to 51% attack. Transactions are significantly faster, occurring in seconds. Decisions are made through community consensus, not based on the wishes of a few majority stakeholders. These features make Skycoin the most secure blockchain option available today.
 
 The original purpose of digital currency was to reinvent the economy so that users could be independently empowered to trade in a peer-to-peer fashion, without interference from centralized powers. At Skycoin, we believe strongly in this mission. That’s why the Skycoin blockchain is designed to benefit all users, not just a select few. With Obelisk, we’re solving the problems inherent in PoW- and PoS-based coins to bring you a decentralized and democratic consensus network.

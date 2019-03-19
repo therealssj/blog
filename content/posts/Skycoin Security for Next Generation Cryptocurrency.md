@@ -9,6 +9,9 @@ date = "2017-12-13"
 categories = [
     "Statement",
 ]
+aliases = [
+	"/statement/skycoin-security-for-next-generation-cryptocurrency"
+]
 +++
 
 In 2011, the Skycoin team launched a major research project to correct flaws inherent in Bitcoin. We redesigned Bitcoin from the ground up to create a next-generation cryptocurrency that was faster, more usable, and more secure than any previous coin. The result is Skycoin: the next step in cryptocurrency evolution.

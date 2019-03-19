@@ -8,6 +8,9 @@ date = "2017-07-24"
 categories = [
     "Statement",
 ]
+aliases = [
+	"/statement/skycoin-launches-a-vision-for-the-new-internet"
+]
 +++
 
 Skycoin, a next-generation cryptocurrency with four years of development

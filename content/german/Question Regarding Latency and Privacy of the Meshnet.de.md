@@ -11,6 +11,9 @@ categories = [
     "Skywire",
     "Ask the Developers",
 ]
+aliases = [
+	"/de/ask-the-developers/question-regarding-latency-and-privacy-of-the-meshnet/"
+]
 +++
 
 *Dieser Post bezieht sich auf eine frühere Konfiguration von Skywire, bevor es diesen Namen erhalten hat. Übernommen aus einem Bitcointalk-Post vom 9. August 2014.*

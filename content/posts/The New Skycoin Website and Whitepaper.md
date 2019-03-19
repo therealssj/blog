@@ -5,6 +5,9 @@ bounty = 0
 date = "2018-04-06"
 categories = [ "Statement", ]
 image = "img/skycoin-new-website-whitepaper.png"
+aliases = [
+	"/statement/the-new-skycoin-website-and-whitepaper/"
+]
 +++
 
 We have a lot going on at Skycoin, yet amidst the technical development we also have curated, redesigned, and reimagined our website to include some exciting new features as well as feature the rollout of our official Whitepaper!

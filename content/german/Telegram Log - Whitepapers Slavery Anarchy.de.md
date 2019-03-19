@@ -2,11 +2,13 @@
 title = "Telegram-Mitschnitt: Whitepaper, Sklaverei und Anarchie"
 tags = [
     "Ask the Developers",
-
 ]
 date = "2017-09-18"
 categories = [
     "Ask the Developers",
+]
+aliases = [
+	"/de/ask-the-developers/telegram-log-whitepapers-slavery-anarchy/"
 ]
 +++
 
@@ -14,14 +16,14 @@ categories = [
 
 Hey,
 
-ich habe bemerkt, dass beide Whitepaper über den Consensus-Algorithmus auf Arvix, aufgrund von Fehlern, offline 
-genommen wurden. Ist das wahr? 
+ich habe bemerkt, dass beide Whitepaper über den Consensus-Algorithmus auf Arvix, aufgrund von Fehlern, offline
+genommen wurden. Ist das wahr?
 
 Kann bitte jemand aus dem Team dazu Stellung beziehen?
 
 **Monty Crypto (Xa no)**
 
-Mmm, bezüglich Obelisk? Wir haben mindestens fünf Artikel über die zugrundeliegende Logik, aber es war mir nicht 
+Mmm, bezüglich Obelisk? Wir haben mindestens fünf Artikel über die zugrundeliegende Logik, aber es war mir nicht
 bewusst, dass bereits speziell etwas über Obelisk veröffentlicht wurde.
 
 Welche Artikel fehlen denn?
@@ -34,7 +36,7 @@ Nein. Chen hat sie vom Arvix runtergenommen, denn er wollte dass die Leute aus d
 
 Chen denkt, dass einer der Artikel, wegen eines zu vernachlässigenden Fehlers, zurückgezogen werden sollte.
 
-Der im Artikel beschrieben Algorithmus ist von der dritten Generation, wohingegen wir aktuell in der 
+Der im Artikel beschrieben Algorithmus ist von der dritten Generation, wohingegen wir aktuell in der
 fünften Generation sind und es nötig ist, ein neues Whitepaper zu veröffentlichen.
 
 **Artem Kotelskiy**
@@ -53,21 +55,21 @@ Dasselbe mit dem 'Opinion Dynamics' Artikel.
 
 **Synth**
 
-In einem der Artikel ist ein Fehler, von dem ich ihn bereits Monate vor der Veröffentlichung in Kenntnis gesetzt 
+In einem der Artikel ist ein Fehler, von dem ich ihn bereits Monate vor der Veröffentlichung in Kenntnis gesetzt
 habe.
 
 **Synth**
 
 Aber es ist nicht relevant. Die Idee basiert auf Energieminimierung und begründet sich auf statistischer Physik.
 
-Chen hat versucht mittels merkwürdigem Hashen eine absolute Befehlsordnung zu erreichen, was einfach nicht 
+Chen hat versucht mittels merkwürdigem Hashen eine absolute Befehlsordnung zu erreichen, was einfach nicht
 funktioniert.
 
 **Artem Kotelskiy**
 
-Also sind die Artikel auf der Website und auf Arvix unterschiedlich? 
+Also sind die Artikel auf der Website und auf Arvix unterschiedlich?
 
-Der Kommentar über Arvix gefällt mir überhaupt nicht. Der Autor lehnt seinen eigenen Artikel ab, daran ist etwas 
+Der Kommentar über Arvix gefällt mir überhaupt nicht. Der Autor lehnt seinen eigenen Artikel ab, daran ist etwas
 seltsames.
 
 **Synth**
@@ -84,8 +86,8 @@ Ich finde es mit Google nicht.
 
 **Synth** *[Antwort an Artem Kotelskiy]*
 
-Chens Professor ist Koautor der Artikel und möchte, dass die Artikel nicht veröffentlich werden. 
-Er versteht die Blockchain-Technologie nicht und denkt, dass die chinesische Regierung die Blockchain-Technologie 
+Chens Professor ist Koautor der Artikel und möchte, dass die Artikel nicht veröffentlich werden.
+Er versteht die Blockchain-Technologie nicht und denkt, dass die chinesische Regierung die Blockchain-Technologie
 sowie involvierte Personen angreift und ihn die Artikel in Schwierigkeiten bringen könnten.
 
 **Synth**
@@ -94,8 +96,8 @@ http://njtech.findplus.cn/?h=search_list&query=AR:%22Shu%2C%20Jiwu%22
 
 **Artem Kotelskiy** *[Antwort an Synth]*
 
-Ich denke, dies sollte auf eurer Website addressiert werden. Das gesamte Projekt basiert auf der Sicherheit des 
-Obelisk-Algorithmus. Es sollte glasklar sein, dass der Algorithmus zumindest per Peer-Review von Kryptographen 
+Ich denke, dies sollte auf eurer Website addressiert werden. Das gesamte Projekt basiert auf der Sicherheit des
+Obelisk-Algorithmus. Es sollte glasklar sein, dass der Algorithmus zumindest per Peer-Review von Kryptographen
 geprüft wurde.
 
 Aufgrund eines simplen Grundes - niemand wird sich die Mühe machen und die Artikel auf Korrektheit prüfen, mit
@@ -103,10 +105,10 @@ Ausnahme von Kryptographen.
 
 **Synth** *[Antwort an Artem Kotelskiy]*
 
-Es wird ein sechstes Whitepaper geben, welches 40-60 Seiten lang sein wird und auf Details, wie die Implementierung 
-eingehen wird. Es hat nur keiner Zeit es zu schreiben. 
+Es wird ein sechstes Whitepaper geben, welches 40-60 Seiten lang sein wird und auf Details, wie die Implementierung
+eingehen wird. Es hat nur keiner Zeit es zu schreiben.
 
-Wir haben die Simulation beendet und nachdem nun die peer-to-peer-Verbindung läuft, werden wir die erste Generation 
+Wir haben die Simulation beendet und nachdem nun die peer-to-peer-Verbindung läuft, werden wir die erste Generation
 implementieren und es in der echten, realen Welt testen.
 
 **Synth** *[Antwort Artem Kotelskiy]*
@@ -121,10 +123,10 @@ Das sollte ebenfalls auf der Website zu finden sein. Jedenfalls bedanke ich mich
 
 **Synth**
 
-Der Artikel wurde in einer Top 2 ACM-Konferenz zur Thematik 'Konsens zwischen verteilten Datenbanken' mit 
+Der Artikel wurde in einer Top 2 ACM-Konferenz zur Thematik 'Konsens zwischen verteilten Datenbanken' mit
 zugehörigem Journal veröffentlicht und per Peer-Review geprüft.
 
-Wir sind die einzige Cryptowährung welche über, von Fachleuten geprüfte, wissenschaftliche Artikel verfügt und 
+Wir sind die einzige Cryptowährung welche über, von Fachleuten geprüfte, wissenschaftliche Artikel verfügt und
 darüber hinaus mittels Simulationen validiert.
 
 **Synth**
@@ -142,15 +144,15 @@ Bitte stelle mir einen Link bereit.
 **Synth**
 
 Wir können das nicht auf unsere Website stellen, weil Chen dies nicht möchte. 80% der Menschen, welche in Skycoin
-involviert sind, sei es als Entwickler oder als Advisor, möchten nicht auf der Website erwähnt werden und 
+involviert sind, sei es als Entwickler oder als Advisor, möchten nicht auf der Website erwähnt werden und
 unbekannt bleiben... aus zahlreichen Gründen.
 
 
 **Artem Kotelskiy**
 
-Ja, das ist ein weiteres Problem. 
+Ja, das ist ein weiteres Problem.
 
-Ich verstehe. 
+Ich verstehe.
 
 Warum denn das??
 
@@ -161,16 +163,16 @@ In den USA hingegen sind es steuerrechtliche-, sowie berufliche Gründe.
 
 **Artem Kotelskiy**
 
-Das ist alles so dubios. 
+Das ist alles so dubios.
 
-Warum geht ihr nicht in die Schweiz? 
+Warum geht ihr nicht in die Schweiz?
 
 In der Tat, ich habe Chen im Ethereum-Team gefunden.
 
 **Monty Crypto (Xa no)**
 
-Von allen Coins, gibt es sehr wenige mit einem ähnlichen Github-Repository, einer ähnlichen Geschichte, 
-ähnlichen Artikeln, sowie dem ganzen Rest und du nennst das dubios, weil wir keine unnützen Gesichter und Namen 
+Von allen Coins, gibt es sehr wenige mit einem ähnlichen Github-Repository, einer ähnlichen Geschichte,
+ähnlichen Artikeln, sowie dem ganzen Rest und du nennst das dubios, weil wir keine unnützen Gesichter und Namen
 auf unserer Website preisgeben?😂
 
 **Synth**
@@ -179,18 +181,18 @@ Sein öffentlicher Schlüssel (pubkey) ist in dem Repository der Ethereum-Entwic
 
 **Monty Crypto (Xa no)**
 
-Meiner Meinung nach ist es dubios zehn oder hunderte Millionen in ICOs einzusammeln, ohne eine Zeile Code vorweisen 
+Meiner Meinung nach ist es dubios zehn oder hunderte Millionen in ICOs einzusammeln, ohne eine Zeile Code vorweisen
 zu können.
 
 **Synth**
 
-Der Bitcoin-Entwickler, der das Problem der duplizierten Coinbase-Ausgaben entdeckt hat, war ebenso sehr stark involviert. Außerdem  
-zwei weitere wesentliche Mitglieder, aber wir können sie alle nicht auf unserer Website listen, auch nicht als 
+Der Bitcoin-Entwickler, der das Problem der duplizierten Coinbase-Ausgaben entdeckt hat, war ebenso sehr stark involviert. Außerdem
+zwei weitere wesentliche Mitglieder, aber wir können sie alle nicht auf unserer Website listen, auch nicht als
 Berater.
 
-Es gibt sehr viel Drama deswegen. 
+Es gibt sehr viel Drama deswegen.
 
-Die australische Regierung hat die Häuser von Leuten innerhalb von acht Stunden gestürmt, nachdem sie als 
+Die australische Regierung hat die Häuser von Leuten innerhalb von acht Stunden gestürmt, nachdem sie als
 frühzeitige Bitcoin-Entwickler geoutet wurden.
 
 Viele der ernsthaften Crypto-Leute besitzen eine Sicherheitsfreigabe und möchten, wegen ihres Angestellten-
@@ -202,11 +204,11 @@ Ich habe nur gescherzt, beachte die "))".
 
 **Synth**
 
-Die einzigen Leute, die mit ihrem regulären Github-Account mitgewirkt haben, waren im Grunde genommen Idioten 
-ohne Voraussicht bezüglich betriebsbedingter Sicherheit. Die anderen involvierten Personen sitzen nicht in 
+Die einzigen Leute, die mit ihrem regulären Github-Account mitgewirkt haben, waren im Grunde genommen Idioten
+ohne Voraussicht bezüglich betriebsbedingter Sicherheit. Die anderen involvierten Personen sitzen nicht in
 Beraterpositionen, oder machen Werbung für sich selbst.
 
-Ich weiß nicht einmal weshalb Chen seinen regulären Github-Account verwendet hat. 
+Ich weiß nicht einmal weshalb Chen seinen regulären Github-Account verwendet hat.
 Es wurde ihm geraten dies nicht zu tun.
 
 **Artem Kotelskiy**
@@ -219,7 +221,7 @@ Haha na gut.👍
 
 **Artem Kotelskiy**
 
-Ich werde mit meiner Nachforschung über Skycoin fortfahren. 
+Ich werde mit meiner Nachforschung über Skycoin fortfahren.
 
 Es gibt nur ein Problem, all dies wird wohl oder übel ans Tageslicht kommen...
 
@@ -234,34 +236,34 @@ waren und sind!
 
 **Artem Kotelskiy**
 
-Hoffentlich. 
+Hoffentlich.
 
-Nach wie vor, weshalb nicht alles in die Schweiz verlagern? 
+Nach wie vor, weshalb nicht alles in die Schweiz verlagern?
 
 Und eine absolut transparente Entwicklung wie Ethereum haben?
 
 **Synth** *[Antwort an Artem Kotelskiy]*
 
-Für was? 
+Für was?
 
-Achtzig Menschen sollen also in die Schweiz ziehen? 
+Achtzig Menschen sollen also in die Schweiz ziehen?
 
 **Artem Kotelskiy**
 
 Ok..
 
-Ich meine, dass das Unternehmen in die Schweiz verlegt wird und so irgendwie beschützt ist. 
+Ich meine, dass das Unternehmen in die Schweiz verlegt wird und so irgendwie beschützt ist.
 
 **Synth**
 
-Es ist alles auf Github, also spielt es keine Rolle, in welchem Land sie sich befinden. 
+Es ist alles auf Github, also spielt es keine Rolle, in welchem Land sie sich befinden.
 
 Beschützt vor was? Es hat bisher noch keiner versucht, die Skycoin-Entwickler anzugreifen.
 
 **Artem Kotelskiy**
 
-Aber du sagst doch, dass die Leute so verängstigt sind, dass sie sich nicht trauen zuzugeben, in dem Projekt 
-involviert zu sein? 
+Aber du sagst doch, dass die Leute so verängstigt sind, dass sie sich nicht trauen zuzugeben, in dem Projekt
+involviert zu sein?
 
 Ich verstehe einfach nicht weshalb?
 
@@ -271,9 +273,9 @@ Aus steuerrechtlichen Gründen.
 
 **Artem Kotelskiy**
 
-Nein. 
+Nein.
 
-Ich kann das nicht glauben. 
+Ich kann das nicht glauben.
 
 Warum wollt ihr keine Steuern zahlen?
 
@@ -286,37 +288,37 @@ Lol, jeder liebt es Steuern zu bezahlen.
 
 **Artem Kotelskiy**
 
-Ich kann nicht nachvollziehen, wie die Ablehnung Steuern zu bezahlen, dem Projekt helfen soll. 
+Ich kann nicht nachvollziehen, wie die Ablehnung Steuern zu bezahlen, dem Projekt helfen soll.
 
 Erklärt das bitte.
 
 **Monty Crypto (Xa no)**
 
-Es gibt einen Unterschied zwischen Steuerflucht und Steuervermeidung. 
+Es gibt einen Unterschied zwischen Steuerflucht und Steuervermeidung.
 
 Steuervermeidung ist absolut legal und wird von jeder Firma dieser Welt betrieben.
 
 **Synth**
 
-Stell dir vor du hast 800 Millionen Dollar in Bitcoin. Rennst du die Straße runter und gibst damit an? 
+Stell dir vor du hast 800 Millionen Dollar in Bitcoin. Rennst du die Straße runter und gibst damit an?
 
-Platzieren Leute mit Sicherheitsfreigabe und Geheimhaltungsvereinbarung (NDA) ihr Gesicht auf Websiten? 
+Platzieren Leute mit Sicherheitsfreigabe und Geheimhaltungsvereinbarung (NDA) ihr Gesicht auf Websiten?
 Diese Leute haben nicht einmal einen Facebook-Account und die Geheimhaltungsvereinbarung verbietet es ihnen, ihren Kunden mitzuteilen, wer ihre anderen Kunden sind.
 
 Außerdem existiert die Problematik des geistigen Eigentums bei Angestellten. Wenn jemand in einer Firma tätig ist,
-besagt der Arbeitsvertrag, dass die Firma Besitzansprüche auf alles, was der Angestellte vollbringt besitzt. 
+besagt der Arbeitsvertrag, dass die Firma Besitzansprüche auf alles, was der Angestellte vollbringt besitzt.
 Einschließlich ihrer Arbeit in der Freizeit.
 
-Sie können also nicht einfach öffentlich Code beisteuern, sonst kann die Firma oder der Arbeitgeber sein Besitzrecht 
+Sie können also nicht einfach öffentlich Code beisteuern, sonst kann die Firma oder der Arbeitgeber sein Besitzrecht
 geltend machen und juristische Probleme verursachen.
 
-Das ist ein großer Haufen Drama und Bullshit. Jeder der kompetent ist, ist anonym. 
+Das ist ein großer Haufen Drama und Bullshit. Jeder der kompetent ist, ist anonym.
 Die Leute die sich selbst öffentlich bewerben sind Loser.
 
-ALLE der frühen Bitcoin-Leute erwarteten, dass die US-Regierung gewalttätig dagegen durchgreifen wird. 
+ALLE der frühen Bitcoin-Leute erwarteten, dass die US-Regierung gewalttätig dagegen durchgreifen wird.
 Diese Angst ist nie verschwunden.
 
-Die Menschen, welche heute in die Crypto-Welt einsteigen, erinnern sich nicht mehr an die Krypto-Kriege und 
+Die Menschen, welche heute in die Crypto-Welt einsteigen, erinnern sich nicht mehr an die Krypto-Kriege und
 die Unterdrückung durch die Regierungen in den Neunzigern.
 
 **Vadim 🛌**
@@ -327,19 +329,19 @@ Ich finde es seltsam, dass die Leute von der Anonymität, der an Kryptographie i
 
 Ich halte nichts von gegenseitigen Geheimhaltungsvereinbarungen (NDA).
 
-Ich glaubte, dass kompetente Leute niemals NDAs unterschreiben würden. 
+Ich glaubte, dass kompetente Leute niemals NDAs unterschreiben würden.
 
-Offensichtlich lag ich mit meiner Annahme falsch. 
+Offensichtlich lag ich mit meiner Annahme falsch.
 
-Verträge mit den Firmen... 
+Verträge mit den Firmen...
 
-Eh 
+Eh
 
 Eure Entwickler und Wissenschaftler sind also besorgt um ihr Geld und ihr (vermutlich zugleich mit anderen Projekten eurer Größenordung) zwingt ihnen Regeln auf. Schwer zu glauben.
 
 **Synth** *[Antwort an Vadim 🛌]*
 
-Was für eine Welt. 
+Was für eine Welt.
 
 Sie vergessen, dass ALLE professionellen Mathematiker und Kryptographen entweder für das Militär, oder die Regierung arbeiten.
 
@@ -351,7 +353,7 @@ Jeder der bei Google arbeitet, oder einem anderen der Fortune 500. Wir haben Com
 
 Die Sichheit ist die einzige Sache, wie ich glaube, welche professionelle Wissenschaftler bekümmert.
 
-Ja, ich glaube nur nicht, dass Google/Amazon derart großartige Unternehmen sind. 
+Ja, ich glaube nur nicht, dass Google/Amazon derart großartige Unternehmen sind.
 
 Jedoch sind die Mitarbeiter durchaus kompetent.
 
@@ -375,13 +377,13 @@ Traurig.
 
 **Synth**
 
-Außerdem funktioniert die USA so, dass selbst veröffentlichte Informationen/Forschungsergebnisse der Geheimhaltung unterliegen. 
+Außerdem funktioniert die USA so, dass selbst veröffentlichte Informationen/Forschungsergebnisse der Geheimhaltung unterliegen.
 
 Wenn also eine Person ein Stipendium erhält, oder durch Subventionen der Regierung unterstützt wird und an Source Routing oder ähnlichem gearbeitet hat und dies anschließend veröffentlicht wird, so obliegt diese Person immernoch der gesetzlichen Haftung, wenn die Technologie in späteren Projekten verwendet wird.
 
-Wenn sie während der Entwicklung der Algorithmen an einer Universität tätig waren, dann kann die Universität ihre geistigen Besitzansprüche geltend machen. 
+Wenn sie während der Entwicklung der Algorithmen an einer Universität tätig waren, dann kann die Universität ihre geistigen Besitzansprüche geltend machen.
 
-Jeder, der in den USA lebt, wird also von Anwälten terrorisiert. 
+Jeder, der in den USA lebt, wird also von Anwälten terrorisiert.
 
 **Artem Kotelskiy**
 
@@ -399,7 +401,7 @@ Ah, aber das würde doch Aufmerksamkeit erregen?
 
 **Artem Kotelskiy** *[Antwort an Synth]*
 
-Könntest du einen Link schicken, oder einige Stichworte von Fällen, bezüglich der geistigen Besitzansprüche, nennen? 
+Könntest du einen Link schicken, oder einige Stichworte von Fällen, bezüglich der geistigen Besitzansprüche, nennen?
 
 Google und Cisco sind Unternehmen.
 
@@ -413,29 +415,29 @@ Die Website dreht sich um den Coin und um die Technologie. Wir glauben nicht an 
 
 **Artem Kotelskiy**
 
-Lol, Accounts auf Github bringen auch keine weiteren Informationen mit sich, obwohl ich zugeben muss, 
+Lol, Accounts auf Github bringen auch keine weiteren Informationen mit sich, obwohl ich zugeben muss,
 dass einige von ihnen weitere soziale Medien verknüpfen.
 
-Weißt du, ich möchte dir nicht einreden, dich selbst zu promoten. 
+Weißt du, ich möchte dir nicht einreden, dich selbst zu promoten.
 
 In keinster Weise.
 
-Tatsächlich hasse ich alle diese schönmalerischen "Team"-Seiten und den ganzen Kram. 
+Tatsächlich hasse ich alle diese schönmalerischen "Team"-Seiten und den ganzen Kram.
 
-Aber hier ist ein simpler Fakt. 
+Aber hier ist ein simpler Fakt.
 
-Ich mag das Projekt. 
+Ich mag das Projekt.
 
-Die Zukunft des Projekts liegt vollständig in der Hand der Entwickler. 
+Die Zukunft des Projekts liegt vollständig in der Hand der Entwickler.
 
-Es würde also helfen zu wissen, wer sie sind und was sie für Werte und Überzeugungen vertreten, um zu entscheiden, 
-ob ich lediglich Skycoin-Besitzer sein werde, oder sogar einen Skycoin-Knoten (node) betreiben würde. 
+Es würde also helfen zu wissen, wer sie sind und was sie für Werte und Überzeugungen vertreten, um zu entscheiden,
+ob ich lediglich Skycoin-Besitzer sein werde, oder sogar einen Skycoin-Knoten (node) betreiben würde.
 
 Aber ich versteh schon, du meinst, dass Code und Ausführung für sich selbst sprechen, dass ist in Ordnung.
 
 **Synth**
 
-Geh du los und dox dich selbst, schick all deine Dokumente deiner Regierung und 
+Geh du los und dox dich selbst, schick all deine Dokumente deiner Regierung und
 bezahle deine Steuern an die Zentralbank, die dich besitzt. Menschliches Vieh bitte antreten zur Strichkodierung.
 
 Das ist der exakte Gegensatz des Grunds, aus dem Bitcoin geschaffen wurde.
@@ -450,29 +452,29 @@ Einer der Worte und einer der Taten zu sein?:D
 
 **Artem Kotelskiy**
 
-Ich tendiere zu glauben, dass ein erklärter Krieg gegen bisherige Herrscher, einer friedlichen Überführung 
+Ich tendiere zu glauben, dass ein erklärter Krieg gegen bisherige Herrscher, einer friedlichen Überführung
 in ein besseres System nicht zuträglich ist.
 
-Ich könnte falsch liegen, macht micht also nicht fertig. 
+Ich könnte falsch liegen, macht micht also nicht fertig.
 
 Nur eine Meinung :)
 
 **Synth** *[Antwort an Artem Kotelskiy]*
 
-Die Zentralbanken schöpfen Geld aus dem Nichts. Die Regierung besteuert dann das Geld der Sklaven und holt es sich zurück. 
+Die Zentralbanken schöpfen Geld aus dem Nichts. Die Regierung besteuert dann das Geld der Sklaven und holt es sich zurück.
 
-Man ist entweder Sklave oder man ist frei. Menschen, die für anderer Leute Geld arbeiten, arbeiten nicht für sich selbst. 
+Man ist entweder Sklave oder man ist frei. Menschen, die für anderer Leute Geld arbeiten, arbeiten nicht für sich selbst.
 Sie versklaven sich für ihren Besitzer/Dienstherr.
 
-Da gibt es keine Zwischenstufen. Man wird entweder besessen, ist ein Sklave, hat eine Frachtnummer und 
-lebt unter massivster Überwachung im Polizeistaat, der von der Zentralbank geführten Sklavenplantage, ODER man ist frei. 
+Da gibt es keine Zwischenstufen. Man wird entweder besessen, ist ein Sklave, hat eine Frachtnummer und
+lebt unter massivster Überwachung im Polizeistaat, der von der Zentralbank geführten Sklavenplantage, ODER man ist frei.
 Sklaverei oder Freiheit. Es gibt keine Abstufungen.
 
 **Artem Kotelskiy**
 
-Ich verstehe. Der nächste Diskussionspunkt, wäre also zu erörtern, ob die Regierung gut oder böse ist (sagen wir mal die US-Regierung). 
-Ich weiß, dass ich diese Diskussion verlieren würde, also lassen wir das. Ich verstehe deinen Blickwinkel vollstens. 
-Er unterscheidet sich von meinem dahingehend, dass ich mehr an die Güte im Menschen glaube - dass es ein Spektrum an Freiheitsgraden gibt. 
+Ich verstehe. Der nächste Diskussionspunkt, wäre also zu erörtern, ob die Regierung gut oder böse ist (sagen wir mal die US-Regierung).
+Ich weiß, dass ich diese Diskussion verlieren würde, also lassen wir das. Ich verstehe deinen Blickwinkel vollstens.
+Er unterscheidet sich von meinem dahingehend, dass ich mehr an die Güte im Menschen glaube - dass es ein Spektrum an Freiheitsgraden gibt.
 Es könnte aber sein, dass ich einfach nur jung und unerfahren bin.
 
 **Synth**
@@ -487,11 +489,11 @@ Sieh dir an wie frei diese Leute sind, mit ihren $750.000 Schulden ihres Studien
 
 **Artem Kotelskiy**
 
-Jeder trifft seine eigene Entscheidungen. 
+Jeder trifft seine eigene Entscheidungen.
 
-Manche Leute bauen ihr Essen selbst an und leben davon. 
+Manche Leute bauen ihr Essen selbst an und leben davon.
 
-Ich komme aus einem Land, indem die Hälfte der Bevölkerung auf diese Art und Weise lebt und es läuft gut. 
+Ich komme aus einem Land, indem die Hälfte der Bevölkerung auf diese Art und Weise lebt und es läuft gut.
 
 Ich denke, wenn jemand wirklich frei sein möchte, dann kann er das sein.
 
@@ -511,25 +513,25 @@ Jeder der kein Sklave sein möchte, ist jetzt plötzlich ein Anarchist ? Lol.
 
 **Artem Kotelskiy**
 
-Anarchisten sind Leute, welche der Regierung den Krieg erklären. 
+Anarchisten sind Leute, welche der Regierung den Krieg erklären.
 
 Loool.
 
 **Synth**
 
-Anarchist. 
+Anarchist.
 
-An-archon. 
+An-archon.
 
-An bedeutet ohne. 
+An bedeutet ohne.
 
-Archon bedeutet "Meister", oder "Herrscher". 
+Archon bedeutet "Meister", oder "Herrscher".
 
 Anarchie bedeutet demnach "ohne Meister", oder ohne Herrscher. All diese Wörter werden in ihrer Aussage verdreht, um die Öffentlichkeit und die Ungebildeten zu verspotten.
 
 **Artem Kotelskiy**
 
-Wie auch immer. 
+Wie auch immer.
 
 Bleibt dran mit Skycoin, ich hoffe inständig, dass Skycoin es mehr Menschen ermöglicht, keinem Herrscher zu unterstehen.
 
@@ -547,9 +549,9 @@ Lol.
 
 **Synth** *[Antwort an Artem Kotelskiy]*
 
-Nein, das Problem ist die menschliche Natur. 
+Nein, das Problem ist die menschliche Natur.
 
-Man kann keine Sklaven befreien. Sie werden schlicht und ergreifend einen anderen Herren finden. Sie *wollen* und haben sich dafür entschieden Sklaven zu sein. Sie möchten nur einen Sklaventreiber mit einer angenehmeren Peitsche haben. 
+Man kann keine Sklaven befreien. Sie werden schlicht und ergreifend einen anderen Herren finden. Sie *wollen* und haben sich dafür entschieden Sklaven zu sein. Sie möchten nur einen Sklaventreiber mit einer angenehmeren Peitsche haben.
 
 Sieh dir an wie Menschen spontan einen Herrscher bestimmen, der ihnen sagt was zu tun ist, wie sie zu leben haben und was sie zu fürchten haben. Alles, weil sie es ablehnen, dies selbst zu tun.
 
@@ -563,7 +565,7 @@ Synth, bisher wusste ich nichts von deiner persönlichen Motivation und tiefgrü
 
 **Synth** *[Antwort an matthieu]*
 
-Billionäre lol. Die weltweit ersten Billionäre. Zumindest, bis diese Blase platzt. 
+Billionäre lol. Die weltweit ersten Billionäre. Zumindest, bis diese Blase platzt.
 
 Millionär sein ist so 1994.
 
@@ -573,15 +575,15 @@ Millionär sein ist so 1994.
 
 **Synth**
 
-Bitcoin steigt auf $5000, aber wenn auch nur 1% der Coinbesitzer verkaufen würden, würde der Kurs auf $2000 zurückfallen. 
+Bitcoin steigt auf $5000, aber wenn auch nur 1% der Coinbesitzer verkaufen würden, würde der Kurs auf $2000 zurückfallen.
 Es gibt also einen großen Preisanstieg verglichen mit der Markttiefe.
 
 Ich denke wir könnten kurzzeitig Billionäre miterleben, oder Menschen, welche mehr Wert sind als Bill Gates - solange bis diese Menschen ihr Geld liquidieren und alles implodiert.
 
-Altcoins, ungleich zu Immobilien oder Aktien, haben keine obere Grenze des Preises. 
+Altcoins, ungleich zu Immobilien oder Aktien, haben keine obere Grenze des Preises.
 Es gibt kein ökonomisches oder mathematisches Prinzip, welches verhindert, dass der Preis bis zur Unendlichkeit steigt.
 
-Es gibt keine Einnahmen, keine Verluste und keinen objektiven Weg zu entscheiden, ob eine verbuggte "Smart Contract"-Plattform, die keiner benutzt, nicht $250 Milliarden Dollar wert sein sollte. 
+Es gibt keine Einnahmen, keine Verluste und keinen objektiven Weg zu entscheiden, ob eine verbuggte "Smart Contract"-Plattform, die keiner benutzt, nicht $250 Milliarden Dollar wert sein sollte.
 
 **Steve**
 

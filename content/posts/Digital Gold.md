@@ -8,6 +8,9 @@ date = "2017-08-14"
 categories = [
     "Statement",
 ]
+aliases = [
+	"/statement/digital-gold/"
+]
 +++
 
 Satoshi’s original vision for Bitcoin was revolutionary. A global currency that existed above

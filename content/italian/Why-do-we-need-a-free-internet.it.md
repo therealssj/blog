@@ -12,6 +12,9 @@ categories = [
     "Skyminer",
 ]
 image = "img/Why-do-we-need-a-free-internet.jpg"
+aliases = [
+	"/it/infographics/why-do-we-need-a-free-internet"
+]
 +++
 
 ## Perché stiamo costruendo una connessione internet gratuita?

@@ -7,6 +7,9 @@ date = "2017-08-14"
 categories = [
     "Statement",
 ]
+aliases = [
+	"/ko/statement/digital-gold/"
+]
 +++
 
 비트코인에 대한 사토시의 초기 비전은 혁명적이었습니다.

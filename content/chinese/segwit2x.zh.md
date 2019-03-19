@@ -8,6 +8,9 @@ date = "2017-11-12"
 categories = [
     "Statement",
 ]
+aliases = [
+	"/zh/statement/segwit2x/"
+]
 +++
 
 周三，比特币开发者暂停了具有有争议的更新 "Segwit2x"。这次更新将每个区块的大小从1MB增加到2MB，使得在每区块上比特币的交易容量翻了一番。Segwit2x已经计划了好几个月，原先定于11月16日左右开始实施。

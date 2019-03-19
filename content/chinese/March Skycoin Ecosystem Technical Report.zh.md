@@ -4,6 +4,9 @@ tags = [ "Announcements", ]
 bounty = 0
 date = "2018-04-05"
 categories = [ "Statement", ]
+aliases = [
+	"/zh/statement/march-skycoin-ecosystem-technical-report/"
+]
 +++
 
 #### 3月期间，我们的开发团队在Skycoin生态系统的许多项目中取得了巨大的进展

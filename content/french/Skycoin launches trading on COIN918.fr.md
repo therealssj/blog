@@ -11,6 +11,9 @@ categories = [
     "Statement",
     "Exchange Listing",
 ]
+aliases = [
+	"/fr/statement/skycoin-launches-trading-on-coin918/"
+]
 +++
 
 Skycoin a récemment annoncé qu'il sera disponible sur COIN918, une plate-forme mondiale de trading de devises numériques. Avec cette nouvelle plateforme de trading, Skycoin apporte sa vision pour une meilleure crypto-monnaie à encore plus d'utilisateurs dans le monde entier. C'est un pas de plus vers un réseau libre et ouvert.

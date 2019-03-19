@@ -4,6 +4,9 @@ tags = [ "Announcements", "Skyminer", ]
 bounty = 0
 date = "2018-03-17"
 categories = [ "Statement", "Skyminer", ]
+aliases = [
+	"/zh/statement/skywire-testnet-coming-soon/"
+]
 +++
 
 {{< youtube id="yl6FtLUKVZw" autoplay="true" >}}

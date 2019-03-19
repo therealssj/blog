@@ -11,6 +11,9 @@ categories = [
     "Statement",
 ]
 bounty = 10
+aliases = [
+	"/ja/statement/skywire-a-free-and-open-internet/"
+]
 +++
 
 インターネットを使っていると、時に「インターネットは私たちがコントロールしている」という錯覚に陥ることがあります。

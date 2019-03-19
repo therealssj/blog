@@ -9,6 +9,9 @@ categories = [
     "Development Updates",
 ]
 description = "Release notes highlighting the current development behind Skycoin."
+aliases = [
+	"/development-updates/development-update-97/"
+]
 +++
 
 The interface is just being done in angular for now. The new angular is much cleaner.

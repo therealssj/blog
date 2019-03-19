@@ -10,6 +10,9 @@ categories = [
     "Infographics",
 ]
 image = "img/Skycoin-Fiber.jpg"
+aliases = [
+	"/de/infographics/skycoin-fiber"
+]
 +++
 
 ## Skycoin ist in einer eigenen Liga!
