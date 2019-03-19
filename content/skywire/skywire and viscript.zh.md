@@ -20,7 +20,7 @@ image = "img/old-messenger.png"
 
 #### Viscript GUI Screenshot:
 
-![screenshot](/skywire/skywire-and-viscript/viscript.jpeg)
+![screenshot](/img/viscript.jpg)
 
 我们可以在config.yaml文件中添加应用程序配置，比如meshnet-socks-server：
 
