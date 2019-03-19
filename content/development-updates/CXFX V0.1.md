@@ -9,10 +9,7 @@ aliases = [
 	"/development-updates/cxfx-v0.1/",
 ]
 description = "Introducing CXFX, a graphics library for the CX programming"
-[image]
-    url = "img/Skycoin-CXFXv01.jpg"
-    type = "image/jpeg"
-    length = 17059
+image = "img/Skycoin-CXFXv01.jpg"
 +++
 
 CXFX's objective is to facilitate the development of games and applications using [CX](https://github.com/skycoin/cx),

@@ -5,10 +5,7 @@ bounty = 0
 date = "2019-03-16"
 categories = [ "Development", "Statement" ]
 description = "Skywire Mainnet Development Update"
-[image]
-    url = "img/skywirer-devupdate-3.8.2019-01.png"
-    type = "image/png"
-    length = 513575
+image = "img/skywirer-devupdate-3.8.2019-01.png"
 +++
 
 

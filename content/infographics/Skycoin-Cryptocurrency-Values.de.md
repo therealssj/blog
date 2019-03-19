@@ -1,25 +1,22 @@
 +++
 title = "Skycoin Übersicht: Wofür wir stehen [INFOGRAPHIC]"
 tags = [
-"Skycoin Digest",
-"Infographics",
+	"Skycoin Digest",
+	"Infographics",
 ]
 bounty = 4
 date = "2018-02-03"
 categories = [
-"Infographics",
+	"Infographics",
 ]
-[image]
-url = "img/Skycoin-Cryptocurrency-Values.jpg"
-type = "image/jpg"
-length = 436215
+image = "img/Skycoin-Cryptocurrency-Values.jpg"
 +++
-	
+
 ## Dafür stehen wir...
-	
-* Förderung der Dezentralisierung durch Lösen von Problemen, die Bitcoin nicht lösen kann. 
+
+* Förderung der Dezentralisierung durch Lösen von Problemen, die Bitcoin nicht lösen kann.
 * Unsere Kernelement sind: Geschwindigkeit, Privatssphäre, Sicherheit und ein Ökosystem.
-* Sicherheit (vor 51%-Attacken). 
-* Dezentralisierung - Keine Miner, die das Netzwerk erpressen können und keine Inflation. 
-* Privatssphäre - Skywire ermöglicht wahre anonyme Soziale Netzwerke, VPNs und Messenger Apps. 
+* Sicherheit (vor 51%-Attacken).
+* Dezentralisierung - Keine Miner, die das Netzwerk erpressen können und keine Inflation.
+* Privatssphäre - Skywire ermöglicht wahre anonyme Soziale Netzwerke, VPNs und Messenger Apps.
 * Aufbau eines neuen Internets, frei von der Kontrolle durch Regierungen und Unternehmen.
