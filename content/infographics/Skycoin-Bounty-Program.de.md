@@ -18,6 +18,4 @@ Prüfe, ob du in einer dieser Kategorien aktiv sein kannst: Grafiken und Videos,
 
 > Trete dem Skycoin Bounty Program Telegram Channel unter https://t.me/skycoinbounty bei
 
-> Benötigte Sprachen sind: Deutsch, Español, 日本語, Ελληνικά, Français, Português, Italiano. Lese die Hinweise für die Übersetzung (PDF).
-
 > Wenn du ein Autor oder Multimedia Content Designer bist, erreichst du uns in den Telegram Channels oben. Du kannst auch mehr über das Bounty Programm erfahren unter:

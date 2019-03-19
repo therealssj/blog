@@ -33,6 +33,8 @@ to find out what graphics and video bounties are available.
 
 ## Translations
 
+**The translation bounty program has ended. The information below is for historical purposes**
+
 Translate posts from this blog.
 
 Accepted languages are:

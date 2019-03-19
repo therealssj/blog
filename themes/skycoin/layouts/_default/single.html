@@ -25,17 +25,6 @@
       </div>
       <h1 class="post__title">{{ .Title }}</h1>
       {{ .Content }}
-      {{ if eq .Lang "en" }}
-        <wordcount class="wordcount">
-          {{ if .Params.bounty }}
-            <p>Translation bounty for Русский, 한국어, 日本語, 中文: {{ div .Params.bounty 2.0 }} SKY</p>
-            <p>Translation bounty for other languages: {{ div .Params.bounty 4.0 }} SKY</p>
-          {{ else }}
-            <p>No translation bounty</p>
-          {{ end }}
-          <p>Read about the <a href="https://www.skycoin.net/blog/statement/skycoin-bounty-program-1/">Skycoin Bounty Program</a></p>
-        </wordcount>
-      {{ end }}
     </section>
     {{ partial "tags.html" . }}
   </div>
