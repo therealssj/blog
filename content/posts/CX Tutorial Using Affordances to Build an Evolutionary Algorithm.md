@@ -10,6 +10,9 @@ date = "2017-09-20"
 categories = [
     "Tutorials",
 ]
+aliases = [
+	"/cx/cx-tutorial-using-affordances-to-build-an-evolutionary-algorithm/"
+]
 +++
 
 <!-- MarkdownTOC autolink="true" bracket="round" depth="2" -->

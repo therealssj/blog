@@ -6,6 +6,9 @@ defaultContentLanguage = "en"
 relativeURLs = true
 canonifyURLs = true
 
+buildFuture = true
+buildExpired = true
+
 googleAnalytics = "UA-105234182-1"
 #disqusShortname = ""
 
@@ -20,8 +23,17 @@ pygmentsCodeFences = true
 pygmentsStyle = "murphy"
 
 [permalinks]
-    post = "/post/:year/:month/:day/:slug/"
-    note = "/note/:year/:month/:day/:slug/"
+	posts = "/posts/:filename/"
+	spanish = "/posts/:filename/"
+	greek = "/posts/:filename/"
+	chinese = "/posts/:filename/"
+	russian = "/posts/:filename/"
+	italian = "/posts/:filename/"
+	french = "/posts/:filename/"
+	korean = "/posts/:filename/"
+	japanese = "/posts/:filename/"
+	portuguese = "/posts/:filename/"
+	german = "/posts/:filename/"
 
 [[menu.main]]
     name = "Downloads"
@@ -178,11 +190,11 @@ pygmentsStyle = "murphy"
 [[params.social]]
   name = "Apple"
   url = "https://itunes.apple.com/nl/podcast/skycoin/id1348472259?l=en"
-  image = "images/apple.svg"  
+  image = "images/apple.svg"
 [[params.social]]
   name = "Discord"
   url = "https://discord.gg/EgBenrW"
-  image = "images/discord.svg" 
+  image = "images/discord.svg"
 [[params.social]]
   name = "Telegram"
   url = "https://t.me/Skycoin"
@@ -194,35 +206,35 @@ pygmentsStyle = "murphy"
 
 [Languages]
 [Languages.en]
-  weight = -1
-  title = "Blog"
-  languageName = "English"
+	weight = -1
+	title = "Blog"
+	languageName = "English"
 
 [Languages.zh]
-  weight = 1
-  title = "天空币博客"
-  hasCJKLanguage = true
-  languageName = "中文"
+	weight = 1
+	title = "天空币博客"
+	hasCJKLanguage = true
+	languageName = "中文"
 
 [Languages.ru]
-  weight = 2
-  title = "Блог"
-  languageName = "Русский"
+	weight = 2
+	title = "Блог"
+	languageName = "Русский"
 
 [Languages.ko]
-  weight = 3
-  title = "블로그"
-  languageName = "한국어"
+	weight = 3
+	title = "블로그"
+	languageName = "한국어"
 
 [Languages.es]
-    weight = 4
-    title = "Blog"
-    languageName = "Español"
+	weight = 4
+	title = "Blog"
+	languageName = "Español"
 
 [Languages.de]
-    weight = 5
-    title = "Blog"
-    languageName = "Deutsch"
+	weight = 5
+	title = "Blog"
+	languageName = "Deutsch"
 
 [Languages.ja]
     weight = 6
