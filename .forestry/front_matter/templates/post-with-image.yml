@@ -17,13 +17,8 @@ fields:
   default: ''
   config:
     required: true
+    display_utc: true
   description: Publication date (dates in the future will still be published)
-- name: categories
-  label: Categories
-  type: tag_list
-  hidden: false
-  default: ''
-  description: Categories appear below the header
 - name: tags
   label: Tags
   type: tag_list
@@ -33,7 +28,8 @@ fields:
 - type: text
   name: description
   label: Description
-  description: Brief description of the post, will appear in Google search results
+  description: Brief description of the post, will appear in Google search results.
+    Important for SEO.
 - name: image
   label: Image
   type: file
