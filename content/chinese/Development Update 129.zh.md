@@ -1,7 +1,7 @@
 +++
 title = "开发更新 #129"
 tags = [
-    "Development Updates",
+    "Development",
 ]
 date = "2017-04-26"
 aliases = [

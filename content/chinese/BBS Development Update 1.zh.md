@@ -1,7 +1,7 @@
 +++
 title = "Skycoin BBS开发 更新＃1"
 tags = [
-    "Development Update",
+    "Development",
     "BBS",
     "CXO",
 ]

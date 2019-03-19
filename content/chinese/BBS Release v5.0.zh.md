@@ -1,7 +1,7 @@
 +++
 title = "天空币BBS v5.0发布公告"
 tags = [
-    "Development Updates",
+    "Development",
     "BBS",
     "CXO",
 ]

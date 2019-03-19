@@ -1,7 +1,7 @@
 +++
 title = "Skycoin上线coin918交易所"
 tags = [
-    "Announcement",
+    "Announcements",
 ]
 bounty = 4
 date = "2018-01-08"

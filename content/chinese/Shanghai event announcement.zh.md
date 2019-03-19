@@ -1,7 +1,7 @@
 +++
 title = "Skycoin生态系统2018发布会"
 tags = [
-	"Announcement",
+	"Announcements",
 ]
 bounty = 0
 date = "2018-03-27"

@@ -1,7 +1,7 @@
 +++
 title = "Skycoin startet den Handel auf COIN918"
 tags = [
-    "Announcement",
+    "Announcements",
 ]
 bounty = 4
 date = "2018-01-08"

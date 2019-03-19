@@ -1,7 +1,7 @@
 +++
 title = "天空币BBS开发更新#2"
 tags = [
-    "Development Updates",
+    "Development",
     "BBS",
     "CXO",
 ]

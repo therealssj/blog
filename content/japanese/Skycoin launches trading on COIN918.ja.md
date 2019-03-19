@@ -1,7 +1,7 @@
 +++
 title = "Skycoinが新しい取引所に上場：COIN918"
 tags = [
-    "Announcement",
+    "Announcements",
 ]
 bounty = 4
 date = "2018-01-08"

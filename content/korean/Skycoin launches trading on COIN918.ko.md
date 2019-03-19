@@ -1,7 +1,7 @@
 +++
 title = "스카이코인이 COIN918에 상장되었습니다."
 tags = [
-    "Announcement",
+    "Announcements",
 ]
 bounty = 4
 date = "2018-01-08"

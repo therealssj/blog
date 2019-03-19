@@ -3,7 +3,7 @@ title = "Skywire Mainnet - Public Testing Announcement"
 tags = [
     "Skywire",
     "Statement",
-    "Announcement",
+    "Announcements",
 ]
 date = "2019-03-04"
 image = "img/mainnet.jpg"

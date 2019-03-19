@@ -1,7 +1,7 @@
 +++
 title = "Skycoin BBS v4.1 发布公告"
 tags = [
-    "Development Updates",
+    "Development",
     "BBS",
     "CXO",
 ]
