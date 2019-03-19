@@ -1,14 +1,11 @@
 +++
 draft = true
-title = "Cross Blockchain Transactions:"
+title = "Cross Blockchain Transactions"
 tags = [
-    "Cross Blockchain Transactions",
+	"Skycoin",
+	"Development",
 ]
 date = "2014-04-16"
-categories = [
-    "Cross Blockchain Transactions",
-    "Information",
-]
 description = "Current Stance on Cross Blockchain Transactions"
 +++
 

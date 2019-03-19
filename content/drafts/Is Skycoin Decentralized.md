@@ -3,12 +3,10 @@ draft = true
 title = "Is Skycoin Decentralized?"
 tags = [
     "Decentralization",
+    "Skycoin",
+    "Skywire",
 ]
 date = "2014-04-19"
-categories = [
-    "Ideology",
-    "Information",
-]
 description = "To prototype Skycoin, we used a mix of centralized and decentralized components for prototyping.  We prototyped Skycoin and the emphasis was getting each component working. Over time the centralized components have been replaced by fully decentralized components."
 +++
 

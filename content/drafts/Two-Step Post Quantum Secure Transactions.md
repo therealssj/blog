@@ -4,15 +4,8 @@ title = "TwoStep: Post Quantum Secure Transactions"
 tags = [
     "Development",
     "Security",
-    "TwoStep",
-    "Bitcoin",
 ]
 date = "2014-01-11"
-categories = [
-    "Development",
-    "Information",
-]
-description = "Future advances in mathematics may render Bitcoin insecure. This is a draft protocol for securing cryptocoin transactions against future advances in mathematics or computing which render discrete logarithm based public key cryptography insecure."
 +++
 # TwoStep: Post Quantum Secure Transactions
 

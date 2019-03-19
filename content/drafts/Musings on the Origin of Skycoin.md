@@ -2,14 +2,9 @@
 draft = true
 title = "Musings on the Origin of Skycoin"
 tags = [
-    "Decentralization",
+    "Skycoin",
 ]
 date = "2014-08-23"
-categories = [
-    "Ideology",
-    "Information",
-]
-description = "Skycoin development started two years after Bitcoin was released. The Skycoin Project is almost as old as Litecoin. I cant even remember if Bitcoin had hit a dollar yet or if there were even exchanges when project started."
 +++
 Skycoin development started two years after Bitcoin was released. The Skycoin Project is almost as old as Litecoin. I cant even remember if Bitcoin had hit a dollar yet or if there were even exchanges when project started.
 

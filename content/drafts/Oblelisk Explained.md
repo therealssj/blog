@@ -6,10 +6,6 @@ tags = [
     "Consensus",
 ]
 date = "2014-03-24"
-categories = [
-    "Obelisk",
-    "Information",
-]
 +++
 
 ## What is Obelisk?

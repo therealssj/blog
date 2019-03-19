@@ -3,13 +3,10 @@ draft = true
 title = "Skycoin Perspective on Monetary Policy"
 tags = [
     "Decentralization",
+    "Bitcoin",
+    "History",
 ]
 date = "2014-12-18"
-categories = [
-    "Ideology",
-    "Information",
-    "Monetary Policy",
-]
 description = "There are two aspects of Bitcoin. There is a idea of \"technological determinism\" and that it was inevitable. The idea that technology is a force of nature that shapes society and determines its rules. Then there is Bitcoin as a political ideology of liberation. The idea that Bitcoin can liberate us from the power of control, the fines, the fees of oppressive financial institutions.  Institutions which were imposed upon us and whose power over society allowed them to outlaw or marginalize alternatives."
 +++
 What makes me the most sad, is that there are developers who bought in to Bitcoin at pennies. They made a lot of money already and very few of them gave back to the community or created something that moved the community forward. Everything is a money grab.

@@ -3,13 +3,10 @@ draft = true
 title = "How Well Does the Meshnet Work?"
 tags = [
     "Decentralization",
+    "Skywire",
+    "Development",
 ]
 date = "2014-06-19"
-categories = [
-    "Ideology",
-    "Information",
-    "Meshnet",
-]
 description = "Can the Meshnet Bypass the Great Firewall of China?."
 +++
 Quote from: **Korean** on September 26, 2014, 05:45:00 AM
