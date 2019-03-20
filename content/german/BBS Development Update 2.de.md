@@ -73,6 +73,6 @@ Für Version 0.2 gibt es zwei Implementierungen der `Ansicht`; eine für den Inh
 
 Während dieser Post verfasst wird, ist das Vorgestellte schon fast fertig gestellt. Hier ist ein Youtubevideo des Fortschritts:
 
-[![Skycoin BBS Vorzeigeprojekt 4](https://i.ytimg.com/vi/Oue3WVkmGh4/0.jpg)](https://youtu.be/Oue3WVkmGh4)
+[![Skycoin BBS Vorzeigeprojekt 4](/img/bbs-4.jpg)](https://youtu.be/Oue3WVkmGh4)
 
 Um auf dem Stand der Dinge der Skycoin BBS-Entwicklung zu bleiben, schaut hier regelmäßig rein und tretet unserer [Skycoin BBS Community](https://t.me/skycoinbbs) bei, sowie unserer Gruppe auf Telegram.

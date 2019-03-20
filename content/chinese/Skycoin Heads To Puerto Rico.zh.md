@@ -10,7 +10,7 @@ aliases = [
 ]
 +++
 
-![Skycoin Heads To Puerto Rico](https://cdn.discordapp.com/attachments/415262336782303232/421119490399404033/twitter-puertorico.png)
+![Skycoin Heads To Puerto Rico](/img/puerto-rico.png)
 
 图片文字：Skycoin下一站：波多黎各
 

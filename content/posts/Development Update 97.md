@@ -117,7 +117,7 @@ Both Bitcoin and Skycoin and the meshnet are cooperative multi-agent systems.
 
 The meshnet nodes are not just calling data APIs on each each, but need to communicate in both data and programs.
 
-![](http://i.imgur.com/1A8uYW6.png)
+![](/img/dev-update-97-1.png)
 
 If you have a metric that you can measure or a goal, and you have multiple programs or methods for accomplishing that goal, the program will be able to evaluate the scripts and choose the best or most effective one. It will also be able to do this at the system level and the system of system of level because the description of the programming language is closed under reification.
 

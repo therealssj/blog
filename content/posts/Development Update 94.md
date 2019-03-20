@@ -14,7 +14,7 @@ aliases = [
 
 Cross compilation is now working flawlessly! We have builds for Windows, OSX, Linux, BSD, Plan9, Arm, NaCL. It is completely automated.
 
-![](http://i.imgur.com/k97S8TY.png)
+![](/img/dev-update-94-1.png)
 
 ## Deterministic Builds:
 
@@ -66,7 +66,7 @@ Multi Named VDHT Routing
 - https://www.freedomlayer.org/multi-named-vdht-routing.html
 - https://www.freedomlayer.org/experimenting-with-virtual-dht-routing.html
 
-![](http://i.imgur.com/8SXnMDz.png)
+![](/img/dev-update-94-2.png)
 
 We have a few graduate students, who are only interested in this problem and bench marking and trying different algorithms and writing papers.
 

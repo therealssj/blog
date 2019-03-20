@@ -13,11 +13,11 @@ aliases = [
 The Skycoin CLI is done. We can do exchange listing now.
 The v2.0 of the Skycoin.net website is done (but needs dozens of changes)
 
-![](http://i.imgur.com/7UeF8DW.png)
+![](/img/dev-update-111-1.png)
 
-![](http://i.imgur.com/KOPf8vb.png)
+![](/img/dev-update-111-2.png)
 
-- The CLI tool is in skycoin/cmd/cli .
+- The CLI tool is in `skycoin/cmd/cli`.
 - We will have documentation for usage and exchange integration
 - Right now, there are help commands
 

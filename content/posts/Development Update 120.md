@@ -26,15 +26,15 @@ aliases = [
 
 ## Infographics
 
-![](http://i.imgur.com/hQKAhdL.png)
-![](http://i.imgur.com/8YvFOcH.png)
-![](http://i.imgur.com/mXKMANO.png)
-![](http://i.imgur.com/cwl95f5.png)
-![](http://i.imgur.com/kTHUEk5.png)
-![](http://i.imgur.com/oklJWfj.png)
-![](http://i.imgur.com/2OWXQCY.png)
-![](http://i.imgur.com/5uT1jol.png)
-![](http://i.imgur.com/WBahBBc.png)
+![](/img/dev-update-120-1.png)
+![](/img/dev-update-120-2.png)
+![](/img/dev-update-120-3.png)
+![](/img/dev-update-120-4.png)
+![](/img/dev-update-120-5.png)
+![](/img/dev-update-120-6.png)
+![](/img/dev-update-120-7.png)
+![](/img/dev-update-120-8.png)
+![](/img/dev-update-120-9.png)
 
 ## CXO
 

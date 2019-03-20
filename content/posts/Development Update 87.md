@@ -34,11 +34,11 @@ Major progress. There was no GUI to allow it to do what was needed, so decided o
 
 You can generate things like this in a few lines. Its a lot better than HTML or gui interface.
 
-![](http://i.imgur.com/QY4lJuN.gif)
+![](/img/dev-update-87-1.gif)
 
 The idea is to have a small scripting language like C/Go and have shell, where users can patch together scripts. If HTTPS is unblocked out of country, you might run script to tunnel out going connection over HTTPS or embed the data stream in another protocol, like email.
 
-![](http://i.imgur.com/d30CtFL.gif)
+![](/img/dev-update-87-2.gif)
 
 A node has "severlets" which are these small scripts, that communicate by sending length prefixed messages to each other (simple format). A node will be running multiple scripts at once. A script might expose an API, so other scripts can grab data from it (like a webserver) and then another script locally might render an animated graph. Or you can sub-divide the terminal into panes or sub-windows, with a script that has scripts running in the sub-windows.
 
@@ -50,7 +50,7 @@ I want something that a 12 or 14 year old can monkey patch or improve. The kind 
 
 This is technically a "multi-agent system", which is one step beyond "peer to peer". It is "cybernetic" instead of peer to peer. You have multiple agents with their own state, resources and set of actions they can do. They exchanging messages with each other and try to cooperatively achieve a goal, but each agent only has its local view of what is going on and needs to communicate with the other agents to coordinate.
 
-![](http://i.imgur.com/h6GUFwR.jpg)
+![](/img/dev-update-87-3.jpg)
 
 This is a new research area, but there are very simple algorithms that appear to work pretty well.
 

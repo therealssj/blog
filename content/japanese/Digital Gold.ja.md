@@ -33,7 +33,7 @@ Skycoinの革新的なコンセンサスアルゴリズムにより、数時間�
 これにより、ブロックチェーンベースの支払いと集中化されたクレジットカードのネットワークとの間でのパフォーマンスのギャップが解消されます。
 トランザクション料金が0で、驚異的なスピードであるSkycoinは、集中型バンキングの最初の実行可能な代替手段です。
 Bitcoinができなかったこと、すなわち世界中のみんなのための金融界の変革、を実現しようとしています。
-![Skycoin transaction speed comparison chart](https://i.imgur.com/i0KNIIr.jpg)
+![Skycoin transaction speed comparison chart](/img/digital-gold-1.jpg)
 ## Digital Gold: インフレはありません
 Satoshiは、財産をインフレから守るためにBitcoinを設計しました。
 Bitcoinは不変の通貨であり、供給量は2100万枚に制限されています。

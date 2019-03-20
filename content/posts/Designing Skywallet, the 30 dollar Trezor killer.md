@@ -18,17 +18,17 @@ After months in the making, we're excited to announce that prototypes for Skywal
 
 Development started back in July and was worked on through September. We looked at the state of other hardware wallets in the market and wanted to create a new kind of wallet that's accessible to everyone, not just power users. That meant creating an affordable and easy-to-use device. Our first prototype was a simple rectangular model with rounded corners, a UI screen, micro USB 2.0 port, and two buttons. The shell for the first batch was made using 3D printers, which work by melting plastic filament and setting it layer by layer, line by line.
 
-![](https://cdn-images-1.medium.com/max/2000/0*7WCULRcsaMfu7wVN)
+![](/img/skywallet-1.jpg)
 
 3D printing allows you to quickly go from computer-aided design to physical prototypes, so that you can go back to the drawing board and make rapid revisions if needed. 3D-printed parts are essentially pieces of plastic with visible threads and unfinished surfaces, so once we were satisfied with the shape we moved on to making the second model. The second round of models was made using a computer numerical control (CNC) machine. CNC machines work by carving aluminum plates, producing prototypes that more closely resemble the final product.
 
-![](https://cdn-images-1.medium.com/max/2000/0*-JYAHbiBM6E6Pwj0)
+![](/img/skywallet-2.jpg)
 
 #### User Testing & Challenges
 
 In testing the prototype we found problems with the button feedback. The pressure from the feedback felt flat, and we wanted users of Skywallet to feel a satisfying click sensation when working with the device. To get that ideal button feedback our designers set the buttons on a separate layer from the case, allowing for a deeper press. We also realized that the buttons were not placed optimally for a user-friendly experience. The placement of options in the UI screen software did not match the physical locations of the buttons. We improved this in the next phase by moving the buttons under the screen for better finger-eye coordination and more intuitive operation.
 
-![](https://cdn-images-1.medium.com/max/2000/0*bLHLayGwD13EkDUr)
+![](/img/skywallet-3.jpg)
 
 Up to this point, carving prototypes was slow and cumbersome, and that's when we realized that to continue updating our hardware we needed better equipment. Our team purchased a more robust, heavy-duty CNC machine that could carve out models faster and with better precision. With these lessons learned and changes made we reached the second prototype phase.
 
@@ -36,7 +36,7 @@ Up to this point, carving prototypes was slow and cumbersome, and that's when we
 
 The second prototype was developed in September and resulted in a fresh new form factor, a balanced square shape with rounded sides and the buttons placed under the screen.
 
-![](https://cdn-images-1.medium.com/max/2000/0*SeTxRu8aHhlyBI75)
+![](/img/skywallet-4.jpg)
 
 After 3D printing the first set of models we knew we had a winning design that would not feel out of place in an Apple store, with a hardware wallet that draws your eyes and compels you to pick it up. While other wallets feel like a timer or USB stick, Skywallet rounded sides feel good to hold in your hand and the satisfying click of its buttons add an extra dimension of tangibility to the abstract cryptographic values it stores for the keys.
 
@@ -50,7 +50,7 @@ Skywallet's final design consists of a UI screen, two buttons and a micro USB 2.
 
 We believe in a future where hardware wallets are as ubiquitous as cell phones, and the build quality should match the value that's stored inside. Skywallet's zen styling replaces the clunky hardware wallets crypto power users are used to now and casual consumers are afraid to touch. This is a hardware wallet you can gift to friends and family and you can be sure they'll use it. It's fun and easy to use and has a premium feel to it at an affordable price.
 
-![](https://cdn-images-1.medium.com/max/2000/0*lb2H2yS6f8ux7TL-)
+![](/img/skywallet-5.jpg)
 
 #### Skywallet Software
 
@@ -64,4 +64,4 @@ Launching hardware comes with challenges not faced in software, such as manufact
 
 We aim to begin mass production in December and ship out the first units in January 2019. Join our mailing list to be notified when Skywallet is ready for ordering and stay tuned for our Skywallet launch story.
 
-![](https://cdn-images-1.medium.com/max/2000/0*0BtOBPgiaT6XS3Sj)
+![](/img/skywallet-6.jpg)

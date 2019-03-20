@@ -76,7 +76,7 @@ type View interface {
 
 在写这篇文章的时候，几乎已经完成了。 下面链接是关于这项工作的YouTube视频：
 
-[![天空币 BBS展示4](https://i.ytimg.com/vi/Oue3WVkmGh4/0.jpg)](https://youtu.be/Oue3WVkmGh4)
+[![天空币 BBS展示4](/img/bbs-4.jpg)](https://youtu.be/Oue3WVkmGh4)
 
 
 

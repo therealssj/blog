@@ -19,7 +19,7 @@ Wie können wir ein wirklich freies und offenes Internet schaffen? Um diese Frag
 
 Skycoin ist die Währung von Skywire und gibt Skycoin damit einen praktischen Zweck, der über den einer digitalen Währung hinausgeht. Wenn Nutzer Datenverkehr weiterleiten oder Netzwerkressourcen zur Verfügung stellen, erhalten Sie Skycoins. Auf der anderen Seite werden Skycoins benötigt, um Netzwerkressourcen oder Medien zu nutzen. Nutzer können ihre Skycoins auf zwei Arten maximieren: Durch hohe Bandbreiten in Gebieten mit hoher Auslastung oder durch Inhalte, die häufig nachgefragt werden.
 
-![Skywire Miner](https://i.imgur.com/ASFEeYi.jpg)
+![Skywire Miner](/img/skyminer-1.jpg)
 
 Der Skywire "Miner" is als Rückrad für das neue Internet entwickelt und konfiguriert. Seine speziell gebaute Hardware übertrifft technische Spezifikationen, um maximale Leistung zu liefern. Skywire hat die Funktion eines "Miners" für Skycoins. Es fungiert als spezialisiertes virtuelles private Netzwerk (VPN) und nutzt die folgende Hardware:
 
@@ -32,7 +32,7 @@ Der Skywire "Miner" is als Rückrad für das neue Internet entwickelt und konfig
 
 Jedes Board ist mit einem ARM Prozessor, 2 GB RAM und mit 32 bis 256 GB Flashspeicher ausgestattet. Die Hardware ist so unterteilt, dass selbst bei einer Kompromittierung eines Services die anderen Services auf derselben Maschine nicht kompromittiert werden. Ein OpenWRT Router mit striken Paketweiterleitungsregeln und Zugriffskontrollen erhöht die Sicherheit. Der Aufbau kann weiter individualisiert werden, um 4, 8, 16 oder 32 Boards aufzunehmen.
 
-![Skywire miner](https://i.imgur.com/2zj4CUV.jpg)
+![Skywire miner](/img/skywire-new-internet-skyminer.jpg)
 
 Nutzer können Knoten manuell bereitstellen, aber automatische Bereitstellung ist einfach verfügbar. [Sky-Messenger](https://github.com/skycoin/net) wird Nutzern einen Chatbot zur Verfügung stellen, um Cluster über einen öffentlichen Schlüssel zusammenzuschließen. Wenn Gebührenzähler und Vereinbarungen implementiert sind, generiert Skywire Skycoins als Gegenleistung für den Netzwerkbetrieb.
 

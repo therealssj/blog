@@ -23,7 +23,7 @@ aliases = [
 - Visa交易（10秒钟）
 - 天空币交易（2秒钟）
 
-![Skycoin transaction speed comparison chart](https://i.imgur.com/i0KNIIr.jpg)
+![Skycoin transaction speed comparison chart](/img/digital-gold-1.jpg)
 
 ##数字黄金：没有通货膨胀
 

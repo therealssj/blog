@@ -52,7 +52,7 @@ This protocol is very good for peer-to-peer replication of static content like w
 
 We are doing UML protocol sequence diagrams for the meshnet now.
 
-![](http://i.imgur.com/fYSKxb0.png)
+![](/img/dev-update-117-1.png)
 
 The network is very similar to I2P, except that it is designed to be fast. I want to get this working (again) soon.
 

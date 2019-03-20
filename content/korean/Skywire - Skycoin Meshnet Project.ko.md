@@ -9,7 +9,7 @@ aliases = [
 ]
 +++
 
-![Skywire: The New Internet](https://i.imgur.com/9Jk0gLe.jpg)
+![Skywire: The New Internet](/img/skywire-new-internet.jpg)
 
 <!-- MarkdownTOC autolink="true" bracket="round" -->
 
@@ -137,7 +137,7 @@ aliases = [
 
 ## 보상 : 지불 프로토콜
 
-![스카이와이어 채굴자](https://i.imgur.com/2zj4CUV.jpg)
+![스카이와이어 채굴자](/img/skywire-new-internet-skyminer.jpg)
 
 *[스카이와이어 "채굴자"](/statement/skywire-miner-hardware-for-the-next-internet/)*
 

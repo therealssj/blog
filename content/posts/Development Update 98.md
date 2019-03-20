@@ -12,7 +12,7 @@ aliases = [
 
 Meshnet adaption is growing. The hardware problems are solved.
 
-http://i.imgur.com/FI0EnT6.png
+![](/img/dev-update-98-1.png)
 
 https://motherboard.vice.com/read/how-a-diy-network-plans-to-subvert-time-warner-cables-nyc-internet-monopoly
 http://www.shareable.net/blog/sarantaporo-residents-create-commons-in-rural-greece-through-a-diy-wireless-mesh-network

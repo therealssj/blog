@@ -15,7 +15,7 @@ aliases = [
 
 
 
-![Skyminer Unboxing](https://raw.githubusercontent.com/skycoin/blog/master/content/img/Skyminer-unboxing.jpg)
+![Skyminer Unboxing](/img/Skyminer-unboxing.jpg)
 
 
 
@@ -109,7 +109,7 @@ aliases = [
 ***重要提示：币时和Skycoin的奖励将不会在这个阶段发放。一旦建立了模型，奖励将会根据追溯的数据发放。***
 
 
-![Skyminer Preview](https://raw.githubusercontent.com/skycoin/blog/master/content/img/Skyminer-preview.jpg)
+![Skyminer Preview](/img/Skyminer-preview.jpg)
 
 ### 7\. 什么样的硬件将能够参加测试网？
 

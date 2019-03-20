@@ -13,7 +13,7 @@ aliases = [
 
 Exchange GUI is in progress.
 
-![](http://i.imgur.com/6H4x6eQ.png)
+![](/img-dev-update-91-1.png)
 
 - The exchange client is a very light weight terminal application.
 - When exchange app starts, you put in your pass phrase for deterministic wallet generation

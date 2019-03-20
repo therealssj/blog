@@ -11,7 +11,7 @@ aliases = [
 
 Blockchain explorer almost working. All of the API functions are in.
 
-![](http://i.imgur.com/4i5x5hv.png)
-![](http://i.imgur.com/qYWsPLT.png)
-![](http://i.imgur.com/IOxjBEz.png)
+![](/img/dev-update-118-1.png)
+![](/img/dev-update-118-2.png)
+![](/img/dev-update-118-3.png)
 

@@ -30,7 +30,7 @@ Avec zéro frais de transaction et une vitesse rapide comme l'éclair, Skycoin r
 première alternative viable à la banque centralisée. Il est prêt à faire ce que Bitcoin n'a pas réussi:
 transformer le monde financier pour toute personne vivant sur Terre.
 
-![Graphique de comparaison des vitesses de transaction de Skycoin](https://i.imgur.com/i0KNIIr.jpg)
+![Graphique de comparaison des vitesses de transaction de Skycoin](/img/digital-gold-1.jpg)
 
 ## L'or digital : Pas de l'inflation
 

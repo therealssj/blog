@@ -19,7 +19,7 @@ Die einzigartige Eigenschaften von Skycoin heben ihn von anderen Cryptowährunge
 Skycins revolutionärer Konsensalgorithmus lässt Transaktionen innerhalb von Sekunden geschehen, nicht in Stunden.
 Dies eliminiert die Leistungslücke zwischen blockchain-basierten Zahlungen und zentralisierten Kreditkartennetzwerken. Mit keinen Transaktionsgebühren und blitzschneller Geschwindigkeit, repräsentiert Skycoin die erste, brauchbare Alternative zum zentralisierten Bankenwesen. Es wird das umgesetzt, was Bitcoin nicht in der Lage war zu tun: Die Transformierung der finanziellen Welt für jeden auf der ganzen Welt.
 
-![Skycoin Transaktionsgeschwindigkeitsvergleichsdiagramm ](https://i.imgur.com/i0KNIIr.jpg)
+![Skycoin Transaktionsgeschwindigkeitsvergleichsdiagramm ](/img/digital-gold-1.jpg)
 
 ## Digitales Gold: Keine Inflation
 

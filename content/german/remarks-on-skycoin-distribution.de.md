@@ -70,7 +70,7 @@ Wie auch immer, jemand (wir nehmen an, wer früh ein paar Dutzend BTC von Skycoi
 
 Die Nachfrage ist ziemlich konstant und ich nehme an, dass ihm letztlich die Skycoins ausgehen werden.
 
-![SKY/CNY chart](https://i.imgur.com/htVlc3H.png)
+![SKY/CNY chart](/img/remarks-sky-dist-1.png)
 
 ### Weitere Bemerkungen
 

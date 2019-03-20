@@ -74,7 +74,7 @@ So we should be able to have skycoin node and meshnet nodes running completely f
 For instance for servers in Singapore, japan and Tokyo we are getting errors like this.
 
 
-![](http://i.imgur.com/AwWSsB5.png)
+![](/img/dev-update-119-1.png)
 
 
 So for reliability we need to internalize all our dependencies to eliminate the possibility of disruption of access to network resources, preventing deployment and installation.

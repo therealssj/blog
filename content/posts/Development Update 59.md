@@ -117,4 +117,4 @@ https://www.crowdsupply.com/inverse-path/usb-armory
 
 We may be able to get this down to $10 and then move all the cryptographic and key storage operations to this. Locking down the coins and making cryptocoins safe for average user will be a long journey.
 
-![](http://i.imgur.com/i8PXeNz.png)
+![](/img/dev-update-59-1.png)

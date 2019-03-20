@@ -31,7 +31,7 @@ The Skycoin Mobile wallet API is done. For Bitcoin and Skycoin. Will add Litecoi
 - You can run current version with cd skycoin; ./run-mesh.sh
 - also the mesh command in skycoin/src/mesh. ( `cd skycoin/cmd; go run ./mesh/mesh.go` )
 
-![](http://i.imgur.com/rgOV1Xp.png)
+![](/img/dev-update-107-1.png)
 
 I will explain this more, as it is closer to working.
 

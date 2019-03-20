@@ -15,7 +15,7 @@ aliases = [
 ### Comment:
 
 Quote from: td services on March 23, 2014, 04:01:09 PM
-![](https://ip.bitcointalk.org/?u=http%3A%2F%2Fi.imgur.com%2FRZmvkTI.jpg&t=578&c=4bqYFb1wxQ9oRQ)
+![](/img/ask-devs-3-1.jpg)
 >Does the above display look right, or should I be seeing some numbers or transaction activity?
 
 >I'm trying it out an ArchLinux install now to run it on Beaglebone once I get it running on Virtualbox on the Indiebox stack.

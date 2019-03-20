@@ -155,7 +155,7 @@ Skywire просто предваряет пакеты идентификато�
 
 ## Стимулирование: Протокол платежей
  
-![Skywire miner](https://i.imgur.com/2zj4CUV.jpg)
+![Skywire miner](/img/skywire-new-internet-skyminer.jpg)
  
 *[Skywire "miner"](/statement/skywire-miner-hardware-for-the-next-internet/)*
  

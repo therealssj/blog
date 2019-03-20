@@ -27,10 +27,10 @@ http://boingboing.net/2016/06/15/intel-x86-processors-ship-with.html
 
 https://github.com/skycoin/skycoin-exchange
 
-![](http://i.imgur.com/IryXjeW.png)
-![](http://i.imgur.com/DmpXhpD.png)
-![](http://i.imgur.com/QLyX6FC.png)
-![](http://i.imgur.com/0wM8kwB.png)
+![](/img/dev-update-104-1.png)
+![](/img/dev-update-104-2.png)
+![](/img/dev-update-104-3.png)
+![](/img/dev-update-104-4.png)
 
 We are integrating the API into the angular GUI prototype and making incremental improvements.
 - The "local wallet" and bitcoin/skycoin thin client API is being implemented
@@ -50,7 +50,7 @@ Hit "Load Wallet From Seed", to generate a wallet deterministically from seed
 
 Command line address generation:
 
-![](http://i.imgur.com/UQgAgz5.png)
+![](/img/dev-update-104-5.png)
 
 Bitmessage  BM-2cU8XJp3GPVQG75ZwMjiyzdDEa9eD4B7iM, with
 

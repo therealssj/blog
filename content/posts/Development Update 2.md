@@ -37,7 +37,7 @@ http://godoc.org/github.com/skycoin/skycoin/src/daemon
 # Wallet Development:
 New version of Wallet is out:
 
-![](http://i.imgur.com/fJJDUZc.png)
+![](/img/dev-update-2-1.png)
 
 # Milestones:
 - The first client synced the blockchain on Feb 6, 2014. Will be publishing best testing instructions for testnet soon.

@@ -38,11 +38,11 @@ The website is a flat file. No-script (no javascript).
 
 This was first version of website, which was visually unacceptable.
 
-![](http://i.imgur.com/oSESsji.jpg)
+![](/img/dev-update-114-1.png)
 
 ##### Second version is much better.
 
-![](http://i.imgur.com/Vg1zMBb.png)
+![](/img/dev-update-114-2.png)
 
 ##### In the third version:
 - Will be stripped down (fewer text, fewer icons, nothing that is not needed)
@@ -57,7 +57,7 @@ This is the new internet
 ##### The first version of Skyhash/Aether is done:
 - https://www.youtube.com/watch?v=fXD_rdwoKsc
 - https://github.com/gagliardetto/skyhash-pub-sub
-- github.com/skycoin/skyhash
+- https://github.com/skycoin/skyhash
 
 - A person takes their public key and publishes content
 - The content is replicated peer-to-peer to all subscribers to the public key

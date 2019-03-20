@@ -9,6 +9,7 @@ date = "2018-03-17"
 aliases = [
 	"/zh/statement/skywire-testnet-coming-soon/"
 ]
+image = "img/Skyminer-Launch-Announcement.jpg"
 +++
 
 {{< youtube id="yl6FtLUKVZw" autoplay="true" >}}
@@ -21,9 +22,3 @@ aliases = [
 所有已发货的官方Skyminer矿机将被授权参与测试网，我们也很乐意将社区的DIY矿机纳入白名单。
 
 请查看我们最新发布的 [信息图](https://www.skycoin.net/blog/infographics/skycoin-digest-skywire-overview/)，了解Skywire的概况。同时，敬请期待更多即将公布的精彩细节
-
-
-
-![Skywire Testnet Coming Soon](https://raw.githubusercontent.com/skycoin/blog/master/content/img/Skyminer-Launch-Announcement.jpg)
-
-图片文字：在这里

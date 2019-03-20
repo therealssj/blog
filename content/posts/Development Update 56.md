@@ -11,7 +11,7 @@ aliases = [
 
 The button for loading deterministic wallets from seed is now in interface.
 
-![](http://i.imgur.com/72R1j1u.png)
+![](/img/dev-update-56-1.png)
 
 The wallet backend needs to be refactored, but can happen later.
 

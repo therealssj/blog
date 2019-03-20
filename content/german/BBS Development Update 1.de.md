@@ -25,7 +25,7 @@ Skycoin BBS liegt eine selbstreplizierende Peer-to-Peer Datenbank mit dem Namen 
 
 Skycoin BBSs Datenstruktur (Version 0.2 - In Entwicklung) enthält Boards (Foren), Threads (Themen) und Posts (Beiträge). Über das Ranking von Boards und Threads kann abgestimmt werden. So sieht das alles in einem CXO-Baum aus:
 
-![](https://raw.githubusercontent.com/skycoin/bbs/v0.2/doc/cxo_data_structure.jpg)
+![](/img/cxo_bbs_datastructure_v0.2.png)
 
 Dies ist ein vereinfachtes Diagramm.
 

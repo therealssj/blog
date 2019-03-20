@@ -28,8 +28,8 @@ aliases = [
 ## Milestones:
 
 - The first Skycoin transaction executed on Jan 14, 2014.. Public builds will be ready within week.
-- Run "go run wallet.go" to start wallet
-![](https://ip.bitcointalk.org/?u=http%3A%2F%2Fi.imgur.com%2FfVfGcwo.png&t=578&c=t7Q4apEWV_NY0Q)
+- Run `go run wallet.go` to start wallet
+![](/img/dev-update-1-1.png)
 
 ## Ongoing Development:
 

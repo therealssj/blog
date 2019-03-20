@@ -15,7 +15,7 @@ One of the ways that we show support is to give our community as many options as
 
 We are pleased to announce that Skycoin will now be trading on Cryptowolf!
 
-![Cryptowolf](https://cdn.discordapp.com/attachments/415878438734266373/419260996750934027/SkycoinExchangeListingCryptoWolf.gif)
+![Cryptowolf](/img/cryptowolf.gif)
 
 [Cryptowolf](https://cryptowolf.eu/) is a European exchange which acts similar to Shapeshift, allowing you trade several different cryptocurrencies for Skycoin directly, at market price!
 

@@ -35,7 +35,7 @@ There is a cloud of sybil nodes and they only refer you to other nodes in the sy
 
 To deal with this, in Skycoin, we will do a mixture of hard-coded network links between nodes (allowing users to have preferred peer lists, that users can edit by hand) and peer-to-peer connections, to augment the network. The objective is to prevent the sybil nodes from controlling propagation of transaction, block and consensus propagation.
 
-![](http://i.imgur.com/XwzIK7H.png)
+![](/img/ask-devs-7-1.png)
 
 ---
 ## Comment:

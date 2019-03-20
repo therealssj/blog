@@ -71,7 +71,7 @@ The decision nodes, themselves may be state machines themselves (hierarchical st
 These diagrams are simplifications of a more precise hierarchical state transition model which is still on paper. Issues such as netsplits, clients joining the network are ignored as special cases.
 
 ## System 1
-![](http://i.imgur.com/ghO0He1.png)
+![](/img/dev-update-35-1.png)
 
 ###### Rules:
 - Normal Bitcoin
@@ -95,7 +95,7 @@ The client reaches S2 and the 51% attack succeeds only if the new chain is longe
 ## System 2:
 System two is system 1 but with a developer run timestamp server, to prevent 51% attack
 
-![](http://i.imgur.com/n31a9sn.png)
+![](/img/dev-update-35-2.png)
 
 ###### Rules:
 - Client accepts longest chain
@@ -150,7 +150,7 @@ Here we use a timestamp server to rule out chains that were mined in secret and 
 - **S3** state literally means "Accept new longest chain"
 - **S1** state literally means "remain on current chain"
 
-![](http://i.imgur.com/isnd8qE.png)
+![](/img/dev-update-35-3.png)
 
 ###### End States:
 **S1**: Extend current chain by one block or do nothing

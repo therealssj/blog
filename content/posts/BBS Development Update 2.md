@@ -74,7 +74,7 @@ For version 0.2, there are two `View` implementations; one for content (Boards/t
 
 In the time of this post, this is near completion. Here is a youtube video of this work in progress:
 
-[![Skycoin BBS Showcase 4](https://i.ytimg.com/vi/Oue3WVkmGh4/0.jpg)](https://youtu.be/Oue3WVkmGh4)
+[![Skycoin BBS Showcase 4](/img/bbs-4.jpg)](https://youtu.be/Oue3WVkmGh4)
 
 
 

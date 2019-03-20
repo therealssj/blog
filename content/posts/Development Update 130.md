@@ -36,16 +36,16 @@ We are working on an infographics deck. We will have ~240 infographics and diagr
 
 These are uncorrected examples with a lot of errors.
 
-![](http://i.imgur.com/80cfRN2.png)
-![](http://i.imgur.com/EGLW5cM.png)
-![](http://i.imgur.com/yQ2Jkab.png)
-![](http://i.imgur.com/mUb23E4.png)
-![](http://i.imgur.com/VUrTAHl.png)
-![](http://i.imgur.com/vduioVn.png)
-![](http://i.imgur.com/EpDo0DO.png)
-![](http://i.imgur.com/cjg8G3Z.png)
-![](http://i.imgur.com/1qPFEYU.png)
-![](http://i.imgur.com/dhhZHYW.png)
+![](/img/dev-update-130-1.png)
+![](/img/dev-update-130-2.png)
+![](/img/dev-update-130-3.png)
+![](/img/dev-update-130-4.png)
+![](/img/dev-update-130-5.png)
+![](/img/dev-update-130-6.png)
+![](/img/dev-update-130-7.png)
+![](/img/dev-update-130-8.png)
+![](/img/dev-update-130-9.png)
+![](/img/dev-update-130-10.png)
 
 ## Video and Marketing:
 

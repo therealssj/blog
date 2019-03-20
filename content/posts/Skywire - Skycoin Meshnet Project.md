@@ -10,7 +10,7 @@ aliases = [
 ]
 +++
 
-![Skywire: The New Internet](https://i.imgur.com/9Jk0gLe.jpg)
+![Skywire: The New Internet](/img/skywire-new-internet.jpg)
 
 <!-- MarkdownTOC autolink="true" bracket="round" -->
 
@@ -140,7 +140,7 @@ Notes:
 
 ## Incentives: Payment Protocol
 
-![Skywire miner](https://i.imgur.com/2zj4CUV.jpg)
+![Skywire miner](/img/skywire-new-internet-skyminer.jpg)
 
 *[Skywire "miner"](/statement/skywire-miner-hardware-for-the-next-internet/)*
 

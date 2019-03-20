@@ -34,7 +34,7 @@ Skycoin BBSのプラットフォームは、CXO（Skycoinエコシステムの�
 Skycoin BBS（バージョン0.2 - 開発中）のデータ構造には、ボード、スレッド、および投稿が含まれています。
 ボードやスレッドに投票することができます。 これがCXOツリー内のすべての外観です。
 
-![](https://raw.githubusercontent.com/skycoin/bbs/v0.2/doc/cxo_data_structure.jpg)
+![](/img/cxo_bbs_datastructure_v0.2.png)
 
 これは簡略化された図です。
 

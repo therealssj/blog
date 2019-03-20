@@ -111,7 +111,7 @@ echo "foo bar baz qix" | sha256sum --
 ```
 
 The app appears to see the wallet:
-![](https://ip.bitcointalk.org/?u=http%3A%2F%2Fi.imgur.com%2FAlOl7mi.png&t=578&c=IOX8XE2jXy466A)
+![](/img/ask-devs-6-1.png)
 
 
 >Is the above info on generating a valid wallet correct?   I have no currency so I cannot test sending to or from any of the addresses I've created, but they don't crash the app
@@ -142,11 +142,14 @@ Then there should be an array. The array should be
 We do not want people giving out private key by confusing it with public key
 
 Maybe an array of maps
+
+```json
 {
- "address" "..."
- "seckey" : "...",
- "pubkey" : "...",
+  "address": "...",
+  "seckey" : "...",
+  "pubkey" : "...",
 }
+```
 
 Also, "ID" I am not sure if ID should be in the wallet itself. Seed should be at the top of the wallet. The wallet format needs to be improved, cleaned up, simplified.
 
@@ -154,22 +157,25 @@ JSON API
 
 Now that you found the wallet files, try this
 
+```
 go run ./cmd/skycoin/skycoin.go -web-interface=true
-http://127.0.0.1:6420
+```
 
-Now look in
-/src/gui/wallet.go
+And open http://127.0.0.1:6420
+
+Now look in `/src/gui/wallet.go`
 
 See Bottom
 
-![](http://i.imgur.com/NC8LvZv.png)
+![](/img/ask-devs-6-2.png)
 
 These functions you can call in browser
+
 http://127.0.0.1:6420/wallets
 
 You get an array of your wallets
 
-![](http://i.imgur.com/Dq2tEYO.png)
+![](/img/ask-devs-6-3.png)
 
 ##### I am adding functions for
 - getting all unspent outputs

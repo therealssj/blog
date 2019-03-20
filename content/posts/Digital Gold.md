@@ -35,7 +35,7 @@ card networks. With zero transaction fees and lightning-fast speed, Skycoin repr
 first viable alternative to centralized banking. It’s poised to do what Bitcoin couldn’t:
 transform the financial world for everyone across the globe.
 
-![Skycoin transaction speed comparison chart](https://i.imgur.com/i0KNIIr.jpg)
+![Skycoin transaction speed comparison chart](/img/digital-gold-1.jpg)
 
 ## Digital Gold: No Inflation
 
