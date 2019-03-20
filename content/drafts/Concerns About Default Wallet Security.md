@@ -1,12 +1,10 @@
 +++
-draft = true
-title = "Concerns about Default Wallet Security"
-tags = [
-    "Security",
-    "Development",
-]
 date = "2015-02-25"
 description = "Discussion regarding Default Wallet Security."
+draft = true
+tags = ["Security", "Development", "Skywallet"]
+title = "Concerns about Default Wallet Security"
+
 +++
 We are also concerned about "**Default Security**" for average user.
 
@@ -117,4 +115,3 @@ For generating and loading keys on to a hardware key storage devices, we will ne
 This is a $1 ARM processor, 32 bit, 50 Mhz, 16 Kb of flash memory. Just enough for a program and a few private keys. The cost is $1.15 to manufacture. The PCB board is $0.10, the other components are less than a penny each and total unit will cost $0.30 within two years and the 500 Mhz ARM processors will be $1 soon.
 
 ![](/img/default-wallet-security-2.jpg)
-
