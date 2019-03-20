@@ -5,67 +5,12 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: directory
-  path: content/posts/**/*
-  label: posts
+  path: content/posts
+  label: Posts
   create: all
   match: "**/*"
   templates:
   - post-with-image
-- type: directory
-  path: content
-  label: Pages
-  create: all
-  match: "*"
-- type: directory
-  path: content/cx
-  label: Cx
-  create: all
-  match: "**/*"
-- type: directory
-  path: content/ask-the-developers
-  label: Ask the developers
-  create: all
-  match: "**/*"
-- type: directory
-  path: content/bbs
-  label: Bbs
-  create: all
-  match: "**/*"
-- type: directory
-  path: content/infographics
-  label: Infographics
-  create: all
-  match: "**/*"
-- type: directory
-  path: content/development-updates
-  label: Development updates
-  create: all
-  match: "**/*"
-- type: directory
-  path: content/statement
-  label: Statement
-  create: all
-  match: "**/*"
-- type: directory
-  path: content/skywire
-  label: Skywire
-  create: all
-  match: "**/*"
-- type: directory
-  path: content/img
-  label: Img
-  create: all
-  match: "**/*"
-- type: directory
-  path: content/guest-post
-  label: Guest post
-  create: all
-  match: "**/*"
-- type: directory
-  path: content/overview
-  label: Overview
-  create: all
-  match: "**/*"
 - type: directory
   path: content/drafts
   label: Drafts
