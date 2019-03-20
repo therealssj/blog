@@ -12,7 +12,7 @@ aliases = [
 
 Here is benchmark of the Skycoin consensus algorithm and rounds to convergence vs other voter based algorithms.
 
-![](http://i.imgur.com/IbY6R5N.png)
+![](/img/dev-update-74-1.png)
 
 I think there is an improvement, but current method out performs all methods in literature that we have found so far. The important part is that it converges rapidly in a small number of rounds (less than 10 or 20) and that it does not get stuck in a non-convergent state.
 

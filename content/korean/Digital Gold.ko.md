@@ -33,7 +33,7 @@ Obelisk 라는 혁신적인 새로운 프레임워크를 기반으로 개발된 
 또한 0 트랜젝션 수수료와 초고속 스피드를 통해, 스카이코인은 중앙 은행을 대체할 첫번째 대안으로 떠오르고 있습니다.
 비트코인은 할 수 없었던 일을 할 준비가 되어있습니다. : 전세계 모든 사람들을 위해 금융계를 바꾸다.
 
-![Skycoin transaction speed comparison chart](https://i.imgur.com/i0KNIIr.jpg)
+![Skycoin transaction speed comparison chart](/img/digital-gold-1.jpg)
 
 ## 디지털 자산: 인플레이션이 없다.
 

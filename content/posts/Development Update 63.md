@@ -53,8 +53,8 @@ There are watches that have micron machined titanium components, a minimum of co
 
 Each design choice, each material has a very specific reason. Some of the materials are extremely exotic. The owner probably does not understand the neutron irradiation process for breeding tritium, the design of the fast neutron reactor, the tritium extraction process or how  radioluminescence and tritium beta decay can be used for illumination. See: https://en.wikipedia.org/wiki/Tritium_illumination
 
-![](http://i.imgur.com/xCeVaVV.jpg)
-![](http://i.imgur.com/zCVtyW4.jpg)
+![](/img/dev-update-63-1.jpg)
+![](/img/dev-update-63-2.jpg)
 
 The owner of the watch will never open it. They will never see the inside. They will never know the material it was made from. They will never see the bearings or have any idea that there is tritium in the watch or where it came from. Yet that level of engineering and the use of the best materials and engineering for each respective function is what defines luxury. Luxury is quality, purposeful design and the best in each aspect.
 

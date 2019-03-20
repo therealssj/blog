@@ -34,7 +34,7 @@ SkywireではSkycoinが通貨として使われ、電子通貨の役割を超え
 Skycoinの使用用途には２つあります。回線が混雑しているエリアで高い帯域を得るか、または需要の高い
 コンテンツを消費することです。
 
-![Skyminer](https://i.imgur.com/ASFEeYi.jpg)
+![Skyminer](/img/skyminer-1.jpg)
 
 Skyminerは、次世代のインターネットSkywireの根幹となるマイニング機器で、精巧に設計されています。
 Skywireのために特別にカスタマイズされたハードウェアは一般的なスペックを大きく超えており、最大の出
@@ -54,7 +54,7 @@ ARMプロセッサー、2 GBのRAM、32~256GBのフラッシュストレージ�
 ルーターを搭載して、セキュリティに更なる強化をしています。CPUボードを４,8,16,32で調整すること
 も可能です。
 
-![Skywire miner](https://i.imgur.com/2zj4CUV.jpg)
+![Skywire miner](/img/skywire-new-internet-skyminer.jpg)
 
 ユーザーはノードを手動でセットアップすることができますが、自動設定の実装も開発中です。公開鍵
 を[Sky-Messenger](https://github.com/skycoin/net)のchatbotに入力すると、ユーザー

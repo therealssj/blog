@@ -36,7 +36,7 @@ lui o lei riceve Skycoin. Allo stesso modo, quando l'utente consuma risorse di r
 media, lui o lei spende Skycoin. Gli utenti possono massimizzare le loro monete in due modi:
 avere una larghezza di banda elevata nelle aree ad alto traffico o avere contenuti altamente ricercati.
 
-![Skywire miner](https://i.imgur.com/ASFEeYi.jpg)
+![Skywire miner](/img/skyminer-1.jpg)
 
 Il "minatore" di Skywire è meticolosamente progettato e configurato per fornire una spina dorsale
 per il nuovo internet. Il suo hardware personalizzato supera le specifiche tecniche
@@ -57,7 +57,7 @@ archiviazione flash. L'hardware è segmentato in modo tale che anche se un servi
 il router con regole di inoltro dei pacchetti e controllo dell'accesso aumenta la sicurezza.
 La configurazione può essere ulteriormente personalizzata per inserire di 4, 8, 16 o 32 schede.
 
-![Skywire miner](https://i.imgur.com/2zj4CUV.jpg)
+![Skywire miner](/img/skywire-new-internet-skyminer.jpg)
 
 Gli utenti possono distribuire i nodi manualmente, ma la distribuzione automatica è solo intorno al
 angolo. [Sky-Messenger] (https://github.com/skycoin/net) fornirà un chatbot

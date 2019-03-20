@@ -77,7 +77,7 @@ I need system that is just plug and play and takes less than five seconds to sta
 
 I also want a raspberry pi node that has a 3" or 4" touch screen, that can be used as a hardware wallet
 
-![](http://i.imgur.com/8bD1k9x.jpg)
+![](/img/dev-update-75-1.jpg)
 
 So you would have computer (possibly insecure), communicate back to this. Then approve transaction on the device.
 

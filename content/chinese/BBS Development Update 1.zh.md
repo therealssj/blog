@@ -28,7 +28,7 @@ Skycoin BBS 的根基是一个名为CXO（Skycoin生态系统的一部分），�
 Skycoin BBS（0.2版本 - 正在开发）的数据结构包含不同的板，主题和帖子。板和帖子都可以给与正／负评。
 这是大概CXO树的样子：
 
-![](https://raw.githubusercontent.com/skycoin/bbs/v0.2/doc/cxo_data_structure.jpg)
+![](/img/cxo_bbs_datastructure_v0.2.png)
 
 这是一个简化图。
 

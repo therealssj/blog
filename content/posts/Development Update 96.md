@@ -35,11 +35,11 @@ He was able to implement a full operating system from scratch, with document edi
 
 The mesh network requires something like this and may have to implement a simple scripting language for this.
 
-![](http://i.imgur.com/WIhTjDl.png)
-![](http://i.imgur.com/ajvqTSP.png)
-![](http://i.imgur.com/SR5moPn.png)
-![](http://i.imgur.com/USDAR66.png)
-![](http://i.imgur.com/mLOcSi7.png)
+![](/img/dev-update-96-1.png)
+![](/img/dev-update-96-2.png)
+![](/img/dev-update-96-3.png)
+![](/img/dev-update-96-4.png)
+![](/img/dev-update-96-5.png)
 
 After two weeks, I figured out how to implement it in very few lines but still has to be implemented and debugged.
 
@@ -58,7 +58,7 @@ This is extremely occult tier mathematics.
 
 When we use the computer, we do not interact with software objects. We interact mediated through the computer but not on "computer objects", but rather interact with twitter, facebook, youtube mediated by the computer object, tool, interaction
 
-![](http://i.imgur.com/lSYUkKs.png)
+![](/img/dev-update-96-6.png)
 
 There is a triangle like this, with
 - the object on the left (representation, visual thing, object)

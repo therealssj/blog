@@ -67,14 +67,14 @@ The primary applications for deployment on these types of clusters are
 
 ---
 
-![](http://i.imgur.com/OPhdyx1.jpg)
-![](http://i.imgur.com/UGiSF2L.jpg)
-![](http://i.imgur.com/BIhUyel.png)
-![](http://i.imgur.com/m4xVhzJ.png)
-![](http://i.imgur.com/KicfoWp.png)
-![](http://i.imgur.com/zZBEeed.jpg)
-![](http://i.imgur.com/vQJq4vL.jpg)
-![](http://i.imgur.com/Uv2PYYp.jpg)
+![](/img/dev-update-133-1.jpg)
+![](/img/dev-update-133-2.jpg)
+![](/img/dev-update-133-3.png)
+![](/img/dev-update-133-4.png)
+![](/img/dev-update-133-5.png)
+![](/img/dev-update-133-6.jpg)
+![](/img/dev-update-133-7.jpg)
+![](/img/dev-update-133-8.jpg)
 
 
 This is being built now. Because we have too many daemons and things that need to be running for the system to work, so make senses to have deployment and orchestration framework and a cluster configuration. We need a plug and play, zeroconf solution.

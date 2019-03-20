@@ -75,7 +75,7 @@ type View interface {
 
 이 게시물의 시점에, 이것은 거의 완료되었습니다. 여기 이 작업 진행현황에 대한 유튜브 비디오가 있습니다:
 
-[![스카이코인 BBS 쇼케이스 4](https://i.ytimg.com/vi/Oue3WVkmGh4/0.jpg)](https://youtu.be/Oue3WVkmGh4)
+[![스카이코인 BBS 쇼케이스 4](/img/bbs-4.jpg)](https://youtu.be/Oue3WVkmGh4)
 
 
 

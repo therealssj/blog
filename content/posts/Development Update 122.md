@@ -12,4 +12,4 @@ aliases = [
 
 ## Infographics
 
-![](http://i.imgur.com/fGv4fgE.jpg)
+![](/img/dev-update-122-1.jpg)

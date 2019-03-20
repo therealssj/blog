@@ -10,7 +10,7 @@ aliases = [
 ]
 +++
 
-![Skycoin Heads To Puerto Rico](https://cdn.discordapp.com/attachments/415262336782303232/421119490399404033/twitter-puertorico.png)
+![Skycoin Heads To Puerto Rico](/img/puerto-rico.png)
 
 It is our pleasure to announce that the Skycoin Team will be attending the Blockchain Unbound and CoinAgenda Caribbean conferences in Puerto Rico this month to present our vision to the public and speak about our future development and plans. We were invited to join the elite of blockchain and cryptocurrency speakers to spread the news about Skycoin and its reputation as one of the best projects in cryptocurrency.
 

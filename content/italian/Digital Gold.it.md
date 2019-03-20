@@ -34,7 +34,7 @@ Con zero commissioni di transazione e velocità fulminee, Skycoin rappresenta la
 prima valida alternativa al sistema bancario centralizzato. È pronto a fare ciò che Bitcoin non può:
 trasformare il mondo finanziario per tutti in tutto il mondo.
 
-![Grafico di comparazione delle velocità di transazione con Skycoin](https://i.imgur.com/i0KNIIr.jpg)
+![Grafico di comparazione delle velocità di transazione con Skycoin](/img/digital-gold-1.jpg)
 
 ## Oro Digitale: Nessuna Inflazione
 

@@ -14,7 +14,7 @@ aliases = [
 
 스카이코인 BBS v4.1이 출시되었습니다!
 
-[![스카이코인 BBS 쇼케이스 4 - 유튜브](https://i.ytimg.com/vi/6ZqwgefYauU/0.jpg)](https://youtu.be/6ZqwgefYauU)
+[![스카이코인 BBS 쇼케이스 4 - 유튜브](/img/bbs-4.jpg)](https://youtu.be/6ZqwgefYauU)
 
 ## 변경 사항
 - 사용자 인터페이스 개선

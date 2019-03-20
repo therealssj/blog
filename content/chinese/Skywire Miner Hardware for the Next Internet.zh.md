@@ -18,7 +18,7 @@ aliases = [
 
 天空币(Skycoin)是Skywire的货币，它让天空币在数字货币之外有了实际的应用。当用户递送流量或者提供网络资源的时候，他或她将得到天空币作为报酬。同样地，当用户消费网络资源或者媒体时，他或她也将花费天空币。用户可以通过这两种方式将他们的天空币最大化：在高流量区域有高的带宽，或者有广受欢迎的网络资源内容。
 
-![Skywire miner](https://i.imgur.com/ASFEeYi.jpg)
+![Skywire miner](/img/skyminer-1.jpg)
 
 Skywire的“矿机”的设计和配置都一丝不苟，它作为“节点”为新型互联网提供主干网。它定制化的硬件超越技术参数，实现最大功率和性能。Skywire作为天空币的矿机，它可以起到专业VPN的功能作用，矿机的硬件配置如下：
 
@@ -31,7 +31,7 @@ Skywire的“矿机”的设计和配置都一丝不苟，它作为“节点”�
 
 每个主板的特点是独立拥有一个ARM处理器，2GB的RAM和32GB到256GB之间任意大小的闪存。硬件是按照这样的方式分割的：即便一个服务受到了削弱，在相同机器上的其它服务不会受到削弱。一个OpenWRT的路由器和严格的数据包发送规则和登录控制提高了安全性。设置可以进一步定制化含有4, 8, 16, or 32个主板。
 
-![Skywire miner](https://i.imgur.com/2zj4CUV.jpg)
+![Skywire miner](/img/skywire-new-internet-skyminer.jpg)
 
 目前用户可以手动部署节点，但是很快就可以自动部署节点了。 [Sky-Messenger](https://github.com/skycoin/net)将会提供一个聊天机器人，允许用户通过公钥进行点对点集群。一旦打表计量和结算功能实施后，Skywire操作网络时将会产生代币。
 

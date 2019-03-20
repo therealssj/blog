@@ -50,7 +50,7 @@ If you need security, we recommend using a SHA256 hash as the seed. Or take a de
 
 Look at the interface, see **"import from seed button"**. This lets you type in a need seed/passphrase and generate a wallet
 
-![](http://i.imgur.com/2nm1pkD.png)
+![](/img/default-wallet-security-1.png)
 
 New Wallet: creates a new wallet, with a random pass phrase (also called a seed)
 
@@ -96,7 +96,7 @@ lower and upper case letters and numbers:
 lower,upper case letters, numbers and symbols
 - 6.2 bits per character
 
-So a 10 digit number will have 3.3*10 bits = 33 bits of entropy. That password will be cracked in 0.0004 seconds and your coins will be looted.
+So a 10 digit number will have 3.3\*10 bits = 33 bits of entropy. That password will be cracked in 0.0004 seconds and your coins will be looted.
 
 You think your wallet password is secure. Someone has a GPU cluster than can break that password. So once they get the wallet file, its over. If they are able to get your wallet file, it probably means you have key logger on your computer, so they just have to wait anyways.
 
@@ -116,5 +116,5 @@ For generating and loading keys on to a hardware key storage devices, we will ne
 
 This is a $1 ARM processor, 32 bit, 50 Mhz, 16 Kb of flash memory. Just enough for a program and a few private keys. The cost is $1.15 to manufacture. The PCB board is $0.10, the other components are less than a penny each and total unit will cost $0.30 within two years and the 500 Mhz ARM processors will be $1 soon.
 
-![](http://i.imgur.com/9Njo470.jpg)
+![](/img/default-wallet-security-2.jpg)
 

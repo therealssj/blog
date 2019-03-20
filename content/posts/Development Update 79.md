@@ -13,7 +13,7 @@ I have switched the peer list to json instead of csv and am merging in the black
 
 The new peer list format looks like.
 
-![](http://i.imgur.com/MtJrUwL.png)
+![](/img/dev-update-79-1.png)
 
 This is first step to adding new fields to the peer list state and renabling PEX (peer-exchange). Fake peers were being spammed when we were using DHT for peer-discovery. This meant it could take up to two minutes to find a valid peer and begin downloading the blockchain. Under the new protocol, a peer will only be announced to peers if they have a port that is open for incoming connections. This will decrease the time to find other peers further.
 

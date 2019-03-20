@@ -11,7 +11,7 @@ aliases = [
 
 I pushed a few fixes. The wallet is still buggy but looks great.
 
-![](http://i.imgur.com/wj4zndy.png)
+![](/img/dev-update-48-1.png)
 
 Refactoring is not as easy as I would like. If you split two modules in golang, that have minor depedencies, it will not compile because of circular dependencies. Golang can handle circular dependencies, but the language developers force this constraint upon the developer. This makes refactoring some things, drawn out. I cannot do a series of small, incremental refactors, but am forced to refactor five things at once. It is like untangling a ball of yarn.
 
@@ -36,5 +36,5 @@ https://github.com/skycoin/skycoin/wiki/Brain-Wallet-Sigils
 
 There is a square with 4 quadrant. Each quadrant has a 3x3 grid, with 16 states per element. The advantage is that the format can be written on paper, can be inputted onto hardware device or can be remembered easily compared to a 64 bit hex string. There is also built-in human check-able error correction to prevent transcription errors.
 
-![](http://i.imgur.com/nLEW5Kk.png)
-![](http://i.imgur.com/NQXYm9D.png)
+![](/img/dev-update-48-2.png)
+![](/img/dev-update-48-3.png)

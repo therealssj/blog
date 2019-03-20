@@ -36,7 +36,7 @@ media, he or she spends Skycoin. Users can maximize their coins in two ways:
 having high bandwidth in high-traffic areas, or having highly sought-after
 content.
 
-![Skywire miner](https://i.imgur.com/ASFEeYi.jpg)
+![Skywire miner](/img/skyminer-1.jpg)
 
 The Skywire “miner” is meticulously designed and configured to provide a backbone
 for the new internet. Its custom-built hardware exceeds technical specifications
@@ -57,7 +57,7 @@ is compromised, the other services on the same machine can’t be. An OpenWRT
 router with strict packet forwarding rules and access control increases security.
 The setup can be further customized to consist of 4, 8, 16, or 32 boards.
 
-![Skywire miner](https://i.imgur.com/2zj4CUV.jpg)
+![Skywire miner](/img/skywire-new-internet-skyminer.jpg)
 
 Users can deploy nodes manually, but automatic deployment is just around the
 corner. [Sky-Messenger](https://github.com/skycoin/net) will provide a chatbot

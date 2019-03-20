@@ -118,9 +118,9 @@ At a basic level the "Do random things until it works" strategy can be automated
 
 Look at the military requirements and systems the DoD has used and naval communication systems has helped a lot.
 
-![](http://i.imgur.com/loqyB9x.jpg)
+![](/img/dev-update-88-1.jpg)
 
-![](http://i.imgur.com/oX9QqgW.jpg)
+![](/img/dev-update-88-2.jpg)
 
 They want
 - horizontal links between devices at each layer

@@ -36,7 +36,7 @@ La estructura de datos de Skycoin BBS (versión 0.2 - en desarrollo) contiene ta
 hilos y publicaciones. Puede haber votaciones en los tableros y los hilos. Así es
 como se ve todo en un árbol de CXO:
 
-![](https://raw.githubusercontent.com/skycoin/bbs/v0.2/doc/cxo_data_structure.jpg)
+![](/img/cxo_bbs_datastructure_v0.2.png)
 
 Este es un diagrama simplificado.
 

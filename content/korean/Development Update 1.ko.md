@@ -30,7 +30,7 @@ aliases = [
 
 - 첫 번째 스카이코인 거래가 2014 년 1 월 14 일에 이루어졌습니다. 공개 빌드는 일주일 이내에 준비됩니다.
 - 지갑을 실행하려면 "go run wallet.go"를 실행하십시오.
-![](https://ip.bitcointalk.org/?u=http%3A%2F%2Fi.imgur.com%2FfVfGcwo.png&t=578&c=t7Q4apEWV_NY0Q)
+![](/img/dev-update-1-1.png)
 
 ## 개발 진행현황 :
 

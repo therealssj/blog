@@ -14,28 +14,28 @@ We have a data guy doing models.
 
 This is the linear scale Bitcoin price over time
 
-![](http://i.imgur.com/G7LpHbK.png)
+![](/img/economic-policy-1.png)
 
 This is log scale Bitcoin price, with regression line. When Bitcoin is over the line its over priced, when its below the line its underpriced.
 
-![](http://i.imgur.com/RDuDX33.png)
+![](/img/economic-policy-2.png)
 
 This is the total number of subscribers in /r/bitcoin
-![](http://i.imgur.com/phRMyL2.png)
+![](/img/economic-policy-3.png)
 
 This is the daily growth rate of subscribers in /r/bitcoin . Notice the massive spikes of new users rushing into Bitcoin
 
-![](http://i.imgur.com/8FgHook.png)
+![](/img/economic-policy-4.png)
 
 This is subscribers on /r/bitcoin against daily rate of return of Bitcoin. Rapid increases in new users, cause price volatility, run ups and crashes.
 
-![](http://i.imgur.com/zYAxPz7.png)
+![](/img/economic-policy-5.png)
 
 This is subscriber growth rate in /r/bitcoin against log Bitcoin price. This is log plot, so a small price swing can be $290 to $90 or $7 to $150.
 
 A price swing from 5 to 4 on this graph is ~3x change in price from $150 to $50 (~3x). A swing from 6 to 4 is a ~9x change in price.
 
-![](http://i.imgur.com/IBdCbRv.png)
+![](/img/economic-policy-6.png)
 
 What these graphs show, is that news attention to Bitcoin drives a massive influx of new users all at once. The price goes up dramaticly as new users buy into Bitcoin and crashes once the capital inflows return to the long term trend. With Bitcoin, there is a fixed supply of coins in the short term and influx of capital inflows, driving up price in short term. The price collapses back to former levels after the capital inflows end.
 

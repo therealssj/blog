@@ -29,5 +29,3 @@ aliases = [
 
 
 在此，我们要一如既往地感谢我们忠实的Skyfleet社区成员，感谢他们对Skycoin项目的持续投入和支持。
-
-[![Shanghai Event Announcement](https://i.imgur.com/BGiyuGu.jpg)](https://i.imgur.com/BGiyuGu.jpg)

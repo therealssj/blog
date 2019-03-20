@@ -14,7 +14,7 @@ aliases = [
 
 Skycoin BBS v4.1 wurde veröffentlicht!
 
-[![Skycoin BBS Vorzeigeprojekt 4 - YouTube](https://i.ytimg.com/vi/6ZqwgefYauU/0.jpg)](https://youtu.be/6ZqwgefYauU)
+[![Skycoin BBS Vorzeigeprojekt 4 - YouTube](/img/bbs-4.jpg)](https://youtu.be/6ZqwgefYauU)
 
 ## Änderungsprotokoll
 - Verbesserungen der Benutzeroberfläche.

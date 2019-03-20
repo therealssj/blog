@@ -74,7 +74,7 @@ Pour la version 0.2, il existe deux implémentations `View`; un pour le contenu 
 Au moment de cette publication, ceci est presque terminé. Voici une vidéo sur youtube de ce travail en cours:
 
 
-[![Démonstration 4 du BBS de Skycoin](https://i.ytimg.com/vi/Oue3WVkmGh4/0.jpg)](https://youtu.be/Oue3WVkmGh4)
+[![Démonstration 4 du BBS de Skycoin](/img/bbs-4.jpg)](https://youtu.be/Oue3WVkmGh4)
 
 
 Pour être tenu au courant du développement de Skycoin BBS, rejoignez notre [Communauté Skycoin BBS](https://t.me/skycoinbbs) sur Telegram ou continuez à surveiller notre blog.

@@ -38,7 +38,7 @@ utilisateurs peuvent exploiter au maximum leurs Skycoins de deux manières : en 
 une bande passante importante dans des zones à fort trafic ou en fournissant
 du contenu convoité.
 
-![Skywire miner](https://i.imgur.com/ASFEeYi.jpg)
+![Skywire miner](/img/skyminer-1.jpg)
 
 Le “mineur” Skywire a été conçu de façon méticuleuse et configuré pour être un
 pilier de l'Internet de demain. Son matériel construit sur mesure dépasse les
@@ -61,7 +61,7 @@ d'accès augmente le niveau de sécurité.
 L'installation peut être davantage personnalisée pour être composée de 4, 8, 16 ou 32
 panneaux.
 
-![Skywire miner](https://i.imgur.com/2zj4CUV.jpg)
+![Skywire miner](/img/skywire-new-internet-skyminer.jpg)
 
 Les utilisateurs peuvent déployer manuellement les nœuds, mais le déploiement
 automatique sera bientôt disponible. [Sky-Messenger](https://github.com/skycoin/net)

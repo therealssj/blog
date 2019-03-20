@@ -25,7 +25,7 @@ Underlying Skycoin BBS is a peer-to-peer self-replicating database named CXO (pa
 
 The data structure of Skycoin BBS (version 0.2 - in development ) contains boards, threads and posts. Boards and threads can be voted on. This is how it all looks in a CXO tree:
 
-![](https://raw.githubusercontent.com/skycoin/bbs/v0.2/doc/cxo_data_structure.jpg)
+![](/img/cxo_bbs_datastructure_v0.2.png)
 
 This is a simplified diagram.
 

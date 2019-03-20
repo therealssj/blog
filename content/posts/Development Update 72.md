@@ -18,7 +18,7 @@ After the coin distribution receipts are done, then schedule is cleared for cons
 
 This is the CJDNS networking stack
 
-![](http://i.imgur.com/r4J2f5g.png)
+![](/img/dev-update-72-1.png)
 
 Skywire is similar, but is simpler.
 

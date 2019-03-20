@@ -87,6 +87,6 @@ una para contenido (Tableros/hilos/mensajes/votos) y otra para compilar una list
 
 En el momento de esta publicación, esto está cerca de ser completado. Aquí hay un video de youtube de este trabajo en progreso:
 
-[![Skycoin BBS Showcase 4](https://i.ytimg.com/vi/Oue3WVkmGh4/0.jpg)](https://youtu.be/Oue3WVkmGh4)
+[![Skycoin BBS Showcase 4](/img/bbs-4.jpg)](https://youtu.be/Oue3WVkmGh4)
 
 Manténgase al día con el desarrollo de Skycoin BBS, vigilando esta sección y uniéndose a nuestra [Comunidad de Skycoin BBS ](https://t.me/skycoinbbs) en Telegram.

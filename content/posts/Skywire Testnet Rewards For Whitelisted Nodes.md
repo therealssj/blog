@@ -22,11 +22,11 @@ DIY Skyminers are rewarded with a portion of the 10K Skycoin rewards pool
 Official Skyminers are rewarded with a portion of the 15K Skycoin rewards pool
 All whitelisted nodes will receive rewards that are divided equally amongst the Skycoin pool.
 
-![](https://lh4.googleusercontent.com/m-vm-n3tRT-J8u7b59ZQcQPUNhus04T_WNWrA8YBoXE_5G0QP6mdLxCBmbM8qxoZycU5JjfVSrhdsKPT6NrRRvxMta_WSqcXF5pZb_aLSVcVfsRZyHrSfMQ9IQtivcvGpYQh32Zu)
+![](/img/testnet-rewards-1.png)
 
 Skyminer nodes, whether Official or DIY, must achieve a minimum duration of 75% uptime for a given month to be eligible to receive reward payment for that month. As long as this threshold is met, the full reward amount for that qualified month is earned.
 
-![](https://cdn-images-1.medium.com/max/800/1*ekrGuEGtPIsvietTBE9YTA.jpeg)
+![](/img/testnet-rewards-2.jpg)
 
 
 #### When Are Rewards Distributed?
@@ -43,4 +43,4 @@ You can update the public keys for your nodes by submitting new keys with the sa
 
 Thank you, Skyfleet, for your ongoing participation in Skywire and support of Skycoin!
 
-![](https://cdn-images-1.medium.com/max/1400/1*_Yx0mBxtCXsBuNCuyhLFRQ.png)
+![](/img/testnet-rewards-3.png)

@@ -102,8 +102,8 @@ For GUI we are using Electron, which embeds chrome with the wallet. Instead of u
 
 New tabs are being added to the wallet, to make data more accessible.
 
-![](http://i.imgur.com/OTfA1jP.png)
-![](http://i.imgur.com/hxUOps7.png)
+![](/img/dev-update-103-1.png)
+![](/img/dev-update-103-2.png)
 
 - There is now a tab for seeing the unspent output balances.
 - There is another tab for modifying default node connection lists.

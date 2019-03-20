@@ -15,7 +15,7 @@ aliases = [
 **White paper Draft**: http://128.199.188.22:1337/consensus.pdf
 **Graphs**: http://128.199.188.22:1337/
 
-![](http://i.imgur.com/vKjRjaS.png)
+![](/img/dev-update-54-1.png)
 
 This is a histogram of convergence times. The x-axis is "rounds" the network takes to reach consensus (all nodes in the same state) for a single round consensus process.  The top algorithm is hill climbing, the middle algorithm is simulated annealing and the bottom algorithm is changing randomly between hill climbing and simulated annealing.
 
@@ -33,7 +33,7 @@ In the third graph (each node switches random between simulated annealing and hi
 
 This is a graph of the commutative convergence probability function for each algorithm. Even with a real world social network graph, the probability of convergence for algorithm 3 is 1 for 20 rounds. This corresponds to 4 second blocks. The majority of blocks will achieve consensus within one second. This is competitive with credit card transactions. Bitcoin transaction confirmation times are 10 minutes.
 
-![](http://i.imgur.com/jPnam0h.png)
+![](/img/dev-update-54-2.png)
 
 There is an even faster one round consensus algorithm, based upon the method of 1-Replica Symmetry Breaking and the cavity method for spin glass systems in statistical mechanics. The existing algorithm is fast enough for now.
 

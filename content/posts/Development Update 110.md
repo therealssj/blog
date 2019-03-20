@@ -16,4 +16,4 @@ aliases = [
 
 Now we are on meshnet and distribution. We are working on pilot, to distribute coins for people running nodes.
 
-![](http://i.imgur.com/oUoWDbJ.png)
+![](/img/dev-update-110-1.png)

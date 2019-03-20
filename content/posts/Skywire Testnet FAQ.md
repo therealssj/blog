@@ -37,9 +37,7 @@ Note that any computer can become a node on the network, however, only whitelist
 There are three main categories of Skyminers:
 
 1.  Official Skywire Miner
-
 2.  DIY Equivalent Skyminers
-
 3.  Other nodes and hardware
 
 The initial whitelist will include the Official Skyminers that have shipped to users around the globe. These will become the baseline for early DIY Skyminers. Since we are entering into uncharted skies, we want to initially reduce any variables possible and test the network in a controlled manner.
@@ -60,19 +58,13 @@ While Official Skyminers will be on the whitelist by default (upon submission an
 
 The first generation Skyminer hardware configuration is as follows:
 
--   8 hardware nodes made up of 8 Orange Pi Prime PCB boards
-
--   8+1 100Mbps router (custom 16-port OpenWRT in production)
-
--   16GB RAM (8 x 2GB DDR3)
-
--   ARM Cortex-A53 CPU
-
--   Hexa-core Mali450 GPU
-
--   LAN Bandwidth: 8 x 1000Mbps
-
--   64-bit Linux (Alpine Linux)
+- 8 hardware nodes made up of 8 Orange Pi Prime PCB boards
+- 8+1 100Mbps router (custom 16-port OpenWRT in production)
+- 16GB RAM (8 x 2GB DDR3)
+- ARM Cortex-A53 CPU
+- Hexa-core Mali450 GPU
+- LAN Bandwidth: 8 x 1000Mbps
+- 64-bit Linux (Alpine Linux)
 
 ***The DIY Skyminer whitelisting application will be released at a later date, stay tuned.***
 
@@ -123,13 +115,13 @@ It is simple!  All you have to do is keep the node online so that other Skywire 
 
 Chinese community:
 
--   Follow Skycoin China official Wechat Account - "SkycoinFans", and join our Wechat discussion group
+- Follow Skycoin China official Wechat Account - "SkycoinFans", and join our Wechat discussion group
 
--   Join Skywire Chinese Telegram community: <https://t.me/SkywireCN>
+- Join Skywire Chinese Telegram community: <https://t.me/SkywireCN>
 
 Global community:
 
--   Join Skywire official Telegram community: https://t.me/skywire
+- Join Skywire official Telegram community: https://t.me/skywire
 
--   Join Skywug forum: <https://skywug.net/forum/Forum-Skywire>
+- Join Skywug forum: <https://skywug.net/forum/Forum-Skywire>
 

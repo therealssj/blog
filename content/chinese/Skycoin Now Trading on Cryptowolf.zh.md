@@ -16,7 +16,7 @@ Skycoin的首要任务是支持和扩大发展我们的社区，其中一点是�
 
 
 
-![Cryptowolf](https://cdn.discordapp.com/attachments/415878438734266373/419260996750934027/SkycoinExchangeListingCryptoWolf.gif)
+![Cryptowolf](/img/cryptowolf.gif)
 
 [Cryptowolf](https://cryptowolf.eu/) 是一个类似于Shapeshift的欧洲交易所，用户以市场价直接使用Skycoin和其他不同的加密货币。
 

@@ -9,7 +9,7 @@ aliases = [
 ]
 +++
 
-![](http://i.imgur.com/f6fCapW.png)
+![](/img/dev-update-52-1.png)
 
 There is a major problem. All of the coins are in the genesis address and I cannot spend them for an unknown reason. The output is not being found. I working on this.
 

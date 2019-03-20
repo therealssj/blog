@@ -31,11 +31,11 @@ We have +50 tickets on development tasks for wallet QA, bugs, improvements and u
 
 We are transitioning towards an electrum style wallet.
 
-![](http://i.imgur.com/bNujGY9.png)
-![](http://i.imgur.com/YQ98nB1.png)
-![](http://i.imgur.com/IJKQW4Y.png)
-![](http://i.imgur.com/XTejwZv.png)
-![](http://i.imgur.com/iWqazAK.png)
+![](/img/dev-update-106-1.png)
+![](/img/dev-update-106-2.png)
+![](/img/dev-update-106-3.png)
+![](/img/dev-update-106-4.png)
+![](/img/dev-update-106-5.png)
 
 ## Exchange Listing Checklist
 

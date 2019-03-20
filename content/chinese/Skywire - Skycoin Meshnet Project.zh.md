@@ -135,7 +135,7 @@ Skywire通过简单地将数据包增加一个路由ID的前缀来实现。
 ## 激励措施：付款协议
 
 
-![Skywire 矿机](https://i.imgur.com/2zj4CUV.jpg)
+![Skywire 矿机](/img/skywire-new-internet-skyminer.jpg)
 
 *[Skywire "矿机"](/statement/skywire-miner-hardware-for-the-next-internet/)*
 

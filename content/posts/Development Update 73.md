@@ -37,7 +37,7 @@ We might be able to do a libbitcoin RPC in golang. There is very little document
 This infrastructure is required for several things
 - we can generate bitcoin addresses deterministically with `go run ./cmd/address_gen/address_gen.go --seed="passphrase" -n=3 -b`
 
-![](http://i.imgur.com/XFSMwGS.png)
+![](/img/dev-update-73-1.png)
 
 - If you change n, you can generate as many or as few addresses/keys as you want
 - if you put -b, they are bitcoin addresses, if there is no -b, they are skycoin addresses
@@ -52,7 +52,7 @@ This toolchain completely eliminates the need for wallet files or computers for 
 
 This is being designed to run on portable open source ARM software/hardware, like a raspberry pi. This will be even easier once the crypto library port to pure golang is done. So this tool chain should enable secure hardware wallets. There will be $9 to $20 single chip ARM computers that can run the tool chain soon.
 
-![](https://ip.bitcointalk.org/?u=http%3A%2F%2Fi.imgur.com%2Fcfo99GM.jpg&t=578&c=tMBizPqOluFo2g)
+![](/img/dev-update-73-2.jpg)
 
 
 A hot wallet would be loaded from a deterministic wallet seed, then discard the seed and only retain the private keys/addresses. A cold wallet device would load the seed from a secure input device, load keys into ram, do operations (check balances/send) and then forget everything.

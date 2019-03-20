@@ -20,19 +20,20 @@ Download the wallet here: <https://www.skycoin.net/downloads/>
 
 A functional and secure mobile wallet is essential in the democratization of any peer-to-peer monetary system. This initial version of our mobile wallet includes all the basic and some advanced features as well.
 
-![](/img/skycoin_screen_wallet_list.png)![](/img/skycoin_screen_wallet_details.png)
+![](/img/skycoin_screen_wallet_list.png)
+![](/img/skycoin_screen_wallet_details.png)
 
 Basic features such as:
 
--   Creating a new wallet and loading an existing wallet
+- Creating a new wallet and loading an existing wallet
+- Quick view of your transaction history
+- QR-code scanner and generator
+- New address generator
 
--   Quick view of your transaction history
-
--   QR-code scanner and generator
-
--   New address generator
-
-![](/img/skycoin_screen_qr-code.png)![](/img/skycoin_screen_transactions.png)![](/img/skycoin_screen_basic_send.png)![](/img/skycoin_screen_tx-detail.png)
+![](/img/skycoin_screen_qr-code.png)
+![](/img/skycoin_screen_transactions.png)
+![](/img/skycoin_screen_basic_send.png)
+![](/img/skycoin_screen_tx-detail.png)
 
 We also included a more advanced feature where you can select the specific UTXO (unspent outputs) for sending Skycoin. This allows a more flexible customization of Coin Hours usage for your needs.
 

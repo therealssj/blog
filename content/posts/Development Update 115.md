@@ -13,7 +13,7 @@ aliases = [
 - The Command Line Interface is done.
 - The first version of the WebRPC interface is in the repo
 
-![](http://i.imgur.com/s0pUbvx.png)
+![](/img/dev-update-115-1.png)
 
 Almost done with check box for floating on exchange.
 

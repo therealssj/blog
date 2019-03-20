@@ -121,7 +121,7 @@ We are designing, specifically for a balkinized internet, with intermediate node
 
 The internet came out of DoD ARPANET. Tor came out of Navy being able to access their secure network web-mail email servers from a public network without NSA snooping in (secure access over public networks). Skywire came out of research on store-and-forward networks for disruption-tolerant networking, mobile ad-hoc networking and diversity routing in mesh networks.
 
-![](http://i.imgur.com/FloFuOH.jpg)
+![](/img/dev-update-66-1.jpg)
 
 Store and forward is useful for emergency communication networks. In theory it can tolerate minutes, hours or day of latency as long as the protocol is designed to minimize round trips. It is already used for downloading files and data from space craft, where there are sporadic communication windows.
 

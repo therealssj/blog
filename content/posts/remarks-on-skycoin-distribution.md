@@ -70,7 +70,7 @@ However, someone (we presume who bought a few dozen BTC of skycoin early on) kee
 
 The demand is pretty constant and I assume he will run out of Skycoin eventually.
 
-![SKY/CNY chart](https://i.imgur.com/htVlc3H.png)
+![SKY/CNY chart](/img/remarks-sky-dist-1.png)
 
 ### Further remarks
 
