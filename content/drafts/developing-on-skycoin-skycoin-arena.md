@@ -7,9 +7,6 @@ tags = ["Skycoin", "Skycoin Arena", "Development", "Golang", "coding"]
 title = "Developing on Skycoin: Skycoin Arena"
 
 +++
-
-**Developing on Skycoin: Skycoin Arena**
-
 The quality of Skycoin code is a reflection of the high standards of Skycoin developers.
 
 As part of the process to become a Skycoin developer, new candidates first pass through the Skycoin Arena, which is a proving ground to demonstrate and show off your coding skills.
@@ -27,8 +24,6 @@ Guidelines are provided for the Skycoin coding style and conventions.
 We currently have 54 public GitHub repositories, and a number of private repositories, covering the aspects of the Skycoin project. Due to the size and scope of the project, there are many opportunities to make unique and meaningful contributions. Current Skycoin development team efforts are focused on:
 
 * Skywire mainnet testing and bug fixing
-
-
 * CX, with integration into the blockchain
 * Skycoin Core
 
