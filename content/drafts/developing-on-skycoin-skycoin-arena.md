@@ -3,7 +3,7 @@ date = "2019-03-21T00:00:00+00:00"
 description = ""
 draft = true
 image = "/img/arena-01-01.png"
-tags = ["Skycoin", "Skycoin Arena", "Development", "Golang", "Coding", "Mainnet", "Bounties", "Hiring", "Skyfleet"]
+tags = ["Skycoin", "Skycoin Arena", "Development", "Golang", "Coding", "Mainnet", "Bounties", "Hiring", "Skyfleet", "Developers", "Skybian OS"]
 title = "Developing on Skycoin: Skycoin Arena"
 
 +++
