@@ -35,3 +35,5 @@ fields:
   type: file
   hidden: false
   default: ''
+pages:
+- content/drafts/developing-on-skycoin-skycoin-arena.md
