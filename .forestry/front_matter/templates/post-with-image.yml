@@ -35,6 +35,3 @@ fields:
   type: file
   hidden: false
   default: ''
-pages:
-- content/drafts/skycoin-ledger-integration.md
-- content/drafts/developing-on-skycoin-skycoin-arena.md
