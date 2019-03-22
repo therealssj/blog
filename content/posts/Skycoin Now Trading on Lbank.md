@@ -36,7 +36,7 @@ Skycoin Holders Airdrop
 
 The following week from February 4th to the 10th, LBank and Skycoin will be Airdropping 100 SKY to eligible participants. Snapshots will be taken of LBank's account between 0:00 & 24:00 GMT+8. Users with more than 100 SKY will be eligible for a 100 SKY Airdrop when specific criteria are met, namely, if the total volume of a participant's SKY held is in the top 100 list of our holders and they hold more than 100 SKY per day for the entire week, starting February 4th to February 10th. KYC certification of the account must be completed in order to participate in this event and each participant will only eligible for one airdrop per day. Participants can receive a total of one airdrop for the full week.
 
-![](/img/lbank-listing.jpeg)
+![](/img/lbank-listing.jpg)
 
 The Skycoin team is pleased to continue with positive news and updates for Skyfleet members. Exchange listings, hardware availability and development of Skywire will continue while the enthusiasm and development of our platform continues.
 
