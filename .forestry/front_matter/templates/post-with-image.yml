@@ -1,6 +1,7 @@
 ---
 label: Post
 hide_body: false
+display_field: date
 fields:
 - name: title
   label: Title
