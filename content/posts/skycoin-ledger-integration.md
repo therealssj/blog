@@ -2,9 +2,9 @@
 date = "2019-03-21T00:00:00+00:00"
 description = "Ledger or Skywallet? Why not both?  Skycoin is a complete blockchain ecosystem that has been in development for years. Skycoin is not an ERC20 token or fork, and each part of the Skycoin platform has been carefully built from the ground up. As the Skywire Mainnet and our suite of hardware devices come to fruition, we’ve aligned the release of our Ledger integration with our drive to increase the adoption and usage of Skycoin. Ledger integration allows Ledger users to add Skycoin to their portfolios, and gives existing Skycoin holders an additional option to secure their Skycoin."
 image = "/img/skywallet.png"
-tags = ["Ledger", " Skywallet", "Cold Storage", "Skycoin", "Hardware"]
+tags = ["Skywallet", "Skycoin"]
 title = "Skycoin Ledger Integration"
-
+aliases = ["/drafts/skycoin-ledger-integration/"]
 +++
 ## Use a Ledger or Skywallet to Securely Store Your Skycoin ![](/img/skywallet6.png)
 
