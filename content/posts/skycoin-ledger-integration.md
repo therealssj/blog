@@ -4,7 +4,7 @@ description = "Ledger or Skywallet? Why not both?  Skycoin is a complete blockch
 image = "/img/skywallet.png"
 tags = ["Ledger", " Skywallet", "Cold Storage", "Skycoin", "Hardware"]
 title = "Skycoin Ledger Integration"
-
+aliases = ["/drafts/skycoin-ledger-integration/"]
 +++
 ## Use a Ledger or Skywallet to Securely Store Your Skycoin ![](/img/skywallet6.png)
 
