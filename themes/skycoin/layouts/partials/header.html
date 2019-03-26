@@ -23,7 +23,13 @@
     <meta property="og:url" content="{{ .Permalink }}">
     <meta property="og:site_name" content="{{ .Site.Title }}">
     {{ if .Params.image }}
-    <meta property="og:image" content="{{ .Params.image | absURL }}">
+    	{{/* hugo's absURL ignores the path component of the baseURL if
+    	     the input to absURL has a leading slash.
+    	     Forestry uses a leading slash in the front matter image parameter,
+    	     so strip it if present before passing it to absURL */}}
+      {{ with strings.TrimLeft "/" .Params.image }}
+		    <meta property="og:image" content="{{ . | absURL }}">
+    	{{ end }}
     {{ end }}
     {{ range .Params.tags }}
     <meta property="og:tags" content="{{ . }}">

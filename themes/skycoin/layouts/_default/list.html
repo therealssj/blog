@@ -18,9 +18,15 @@
               <a class="list__link" href="{{ .URL | relLangURL }}">
                 <div class="list__item-inner">
                   {{ if .Params.image }}
+                  	{{/* hugo's absURL ignores the path component of the baseURL if
+                  	     the input to absURL has a leading slash.
+                  	     Forestry uses a leading slash in the front matter image parameter,
+                  	     so strip it if present before passing it to absURL */}}
+                    {{ with strings.TrimLeft "/" .Params.image }}
                     <div class="list__item-image">
-                        <div style="background-image: url({{ .Params.image | absURL }})" class="list__image"></div>
+                        <div style="background-image: url({{ . | absURL }})" class="list__image"></div>
                     </div>
+                    {{ end }}
                   {{ else }}
                     <div class="list__item-image">
                       <img src="{{ "img/placeholder.svg" | relURL }}" class="list__image list__image-placeholder">
