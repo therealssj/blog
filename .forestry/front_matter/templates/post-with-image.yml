@@ -37,5 +37,15 @@ fields:
   type: file
   hidden: false
   default: ''
+- type: list
+  name: aliases
+  label: Aliases
+  description: URL aliases. Put the old URL path here if the title was changed. The
+    path is everything AFTER https://www.skycoin.net/blog
+  config:
+    min: '0'
+    use_select: false
+    source:
+      type: documents
 pages:
 - content/posts/developing-on-skycoin-skycoin-arena-1.md
