@@ -3,7 +3,7 @@ date = "2019-03-25T00:00:00+00:00"
 description = "The quality of Skycoin code is a reflection of the high standards of Skycoin developers.  As part of the process to become a Skycoin developer, new candidates first pass through the Skycoin Arena, which is a proving ground to demonstrate and show off your coding skills."
 draft = true
 image = "/img/arena-01-01.png"
-tags = ["Skycoin Arena", "Development"]
+tags = ["Development"]
 title = "Developing on Skycoin: Skycoin Arena"
 
 +++
