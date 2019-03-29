@@ -7,7 +7,7 @@ tags = [
  ]
 bounty = 0
 date = "2019-03-16"
-image = "img/skywirer-devupdate-3.8.2019-01.png"
+image = "img/skywirer-devupdate-3.8.2019.png"
 aliases = [
 	"/development-updates/skywire-mainnet-development-update/",
 ]
