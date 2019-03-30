@@ -1,19 +1,12 @@
 +++
-title = "Skywire Mainnet Development Update"
-tags = [
-	"Announcements",
-	"Skywire",
-	"Development",
- ]
+aliases = ["/development-updates/skywire-mainnet-development-update/"]
 bounty = 0
 date = "2019-03-16"
-image = "img/skywirer-devupdate-3.8.2019.png"
-aliases = [
-	"/development-updates/skywire-mainnet-development-update/",
-]
+image = "/img/skywirer-devupdate-3.8.2019.png"
+tags = ["Announcements", "Skywire", "Development"]
+title = "Skywire Mainnet Development Update"
+
 +++
-
-
 The initial launch of Skywire mainnet is here! The coordinated work and development from our team was a massive effort to launch all the components of Skywire mainnet. Skywire consists of multiple components that all need to work together to allow the user to encrypt and successfully route traffic to peers, while still maintaining the ability to use applications on top of Skywire. The launch involved development of the following:
 
 -   Auto Deployment Mechanism
