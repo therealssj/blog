@@ -4,7 +4,7 @@ date = "2019-03-29T00:00:00+00:00"
 description = "Skywire has seen work on mainly two areas of the project: the Skywire Manager and automated testing.  The Skywire Manager has been picked up again and we have finished the login/logout of the Manager. Users can sign in and use cookies to authenticate themselves when managing their nodes. This is required for security reasons."
 image = "/img/skywire-devupdate-3.29.2019-01-2.png"
 tags = ["Skycoin", "Announcements", "Skywire", "Development"]
-title = "Skywire Development Update - Week 11"
+title = "Skywire Development Update - Week 13"
 
 +++
 **Skywire Update:**
