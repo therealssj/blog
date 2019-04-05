@@ -2,7 +2,7 @@
 aliases = []
 date = "2019-04-05T00:00:00+00:00"
 description = "During the past week, the bulk of the work dedicated to Skywire was focused on the Skywire Manager and on improvements to the network protocol."
-image = "/img/skywire-devupdate-3.29.2019-01-2.png"
+image = "/img/skywirer-devupdate-5.4.2019-01.png"
 tags = ["Skycoin", "Skywire", "Development", "Announcements"]
 title = "Skywire Development Update - Week 14"
 
@@ -41,6 +41,14 @@ The UI was refactored to improve on the user experience and to comply with the L
 
 In closing then, another productive week is under the belt of the Skycoin development team as milestones are closed in on and glitches straightened out.
 
-* Github: [https://github.com/skycoin](https://github.com/skycoin "https://github.com/skycoin")
-* Website: [https://www.skycoin.net/](https://www.skycoin.net/ "https://www.skycoin.net/")
-* Telegram: [https://t.me/Skycoin](https://t.me/Skycoin)
+**Skycoin Store:** [https://store.skycoin.net/](https://store.skycoin.net/ "https://store.skycoin.net/")
+
+**Website:** [https://www.skycoin.net/](https://www.skycoin.net/ "https://www.skycoin.net/")
+
+**Telegram:** [https://t.me/Skycoin](https://t.me/Skycoin)
+
+**Twitter:** [https://twitter.com/Skycoinproject](https://twitter.com/Skycoinproject "https://twitter.com/Skycoinproject")
+
+**Reddit:** [https://reddit.com/r/Skycoin](https://reddit.com/r/Skycoin "https://reddit.com/r/Skycoin")
+
+**YouTube:** [https://www.youtube.com/channel/UCzLASufel2No4vSt4rudHSQ](https://www.youtube.com/channel/UCzLASufel2No4vSt4rudHSQ "https://www.youtube.com/channel/UCzLASufel2No4vSt4rudHSQ")
