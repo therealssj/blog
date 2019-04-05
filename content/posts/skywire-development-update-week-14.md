@@ -41,4 +41,6 @@ The UI was refactored to improve on the user experience and to comply with the L
 
 In closing then, another productive week is under the belt of the Skycoin development team as milestones are closed in on and glitches straightened out.
 
-![](/img/skywire-schematic-2-01.png)
+* Github: [https://github.com/skycoin](https://github.com/skycoin "https://github.com/skycoin")
+* Website: [https://www.skycoin.net/](https://www.skycoin.net/ "https://www.skycoin.net/")
+* Telegram: [https://t.me/Skycoin](https://t.me/Skycoin)
