@@ -67,6 +67,6 @@ Twitter: [https://twitter.com/Skycoinproject](https://twitter.com/Skycoinproject
 
 Reddit: [https://reddit.com/r/Skycoin](https://reddit.com/r/Skycoin "https://reddit.com/r/Skycoin")
 
-YouTube: [https://www.youtube.com/channel/UCzLASufel2No4vSt4rudHSQ](https://www.youtube.com/channel/UCzLASufel2No4vSt4rudHSQ "https://www.youtube.com/channel/UCzLASufel2No4vSt4rudHSQ")
+YouTube: [https://www.youtube.com/c/skycoin](https://www.youtube.com/c/skycoin "https://www.youtube.com/c/skycoin")
 
 LinkedIn: [https://www.linkedin.com/company/skycoin](https://www.linkedin.com/company/skycoin "https://www.linkedin.com/company/skycoin")

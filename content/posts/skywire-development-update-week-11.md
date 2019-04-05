@@ -39,4 +39,6 @@ Many large and exciting milestones are just on the horizon as development contin
 
 **Reddit:** [https://reddit.com/r/Skycoin](https://reddit.com/r/Skycoin "https://reddit.com/r/Skycoin")
 
-**YouTube:** [https://www.youtube.com/channel/UCzLASufel2No4vSt4rudHSQ](https://www.youtube.com/channel/UCzLASufel2No4vSt4rudHSQ "https://www.youtube.com/channel/UCzLASufel2No4vSt4rudHSQ")
+**YouTube:** [https://www.youtube.com/c/skycoin](https://www.youtube.com/c/skycoin "https://www.youtube.com/c/skycoin")
+
+
