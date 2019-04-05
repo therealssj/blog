@@ -28,3 +28,15 @@ Furthermore, we have further improved the entropy pool by mixing in multiple sal
 A major milestone was reached: the first Skycoin transaction has been signed with a ledger device. Due to memory limitations of the device, we stream transaction inputs and outputs to the device, interlaced with user confirmation of the outputs, rather than sending all inputs and outputs before requesting user confirmation of the outputs. This way, the number of inputs and outputs that can be used for a transaction is almost unrestricted by the device’s memory.
 
 Many large and exciting milestones are just on the horizon as development continues, the near future is looking very bright for Skycoin and Skywire.
+
+**Skycoin Store:** [https://store.skycoin.net/](https://store.skycoin.net/ "https://store.skycoin.net/")
+
+**Website:** [https://www.skycoin.net/](https://www.skycoin.net/ "https://www.skycoin.net/")
+
+**Telegram:** [https://t.me/Skycoin](https://t.me/Skycoin)
+
+**Twitter:** [https://twitter.com/Skycoinproject](https://twitter.com/Skycoinproject "https://twitter.com/Skycoinproject")
+
+**Reddit:** [https://reddit.com/r/Skycoin](https://reddit.com/r/Skycoin "https://reddit.com/r/Skycoin")
+
+**YouTube:** [https://www.youtube.com/channel/UCzLASufel2No4vSt4rudHSQ](https://www.youtube.com/channel/UCzLASufel2No4vSt4rudHSQ "https://www.youtube.com/channel/UCzLASufel2No4vSt4rudHSQ")
