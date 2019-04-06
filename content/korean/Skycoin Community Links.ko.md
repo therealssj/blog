@@ -38,7 +38,7 @@ Mailing List
 Media
 -----
 
-* [스카이코인 Youtube](https://www.youtube.com/channel/UCzLASufel2No4vSt4rudHSQ)
+* [스카이코인 Youtube](https://www.youtube.com/c/skycoin)
 * [스카이코인 Instagram](https://www.instagram.com/skycoinproject/)
 
 소프트웨어
