@@ -38,7 +38,7 @@ Neuigkeiten und Updates
 Media
 -----
 
-* [Skycoin Youtube](https://www.youtube.com/channel/UCzLASufel2No4vSt4rudHSQ)
+* [Skycoin Youtube](https://www.youtube.com/c/skycoin)
 * [Skycoin Instagram](https://www.instagram.com/skycoinproject/)
 
 Software

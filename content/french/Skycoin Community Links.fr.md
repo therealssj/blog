@@ -38,7 +38,7 @@ Les dernières informations de Skycoin
 Media
 -----
 
-* [Youtube de Skycoin](https://www.youtube.com/channel/UCzLASufel2No4vSt4rudHSQ)
+* [Youtube de Skycoin](https://www.youtube.com/c/skycoin)
 * [Instagram de Skycoin](https://www.instagram.com/skycoinproject/)
 
 Logiciel

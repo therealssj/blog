@@ -39,7 +39,7 @@ Skycoin团队电报(Telegram)最为火热活跃
 媒体
 -----
 
-* [Skycoin Youtube](https://www.youtube.com/channel/UCzLASufel2No4vSt4rudHSQ)
+* [Skycoin Youtube](https://www.youtube.com/c/skycoin)
 * [Skycoin Instagram](https://www.instagram.com/skycoinproject/)
 
 软件
