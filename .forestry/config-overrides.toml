@@ -1,0 +1,4 @@
+# Overrides for forestry preview
+# Use like:
+# hugo server --config config.toml,.forestry/config-overrides.toml
+baseURL = ""

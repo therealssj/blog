@@ -11,11 +11,84 @@ sections:
   match: "**/*"
   templates:
   - post-with-image
+- type: heading
+  label: Languages
+- type: directory
+  path: content/chinese
+  label: Chinese
+  create: documents
+  match: "**/*"
+  templates:
+  - post-with-image
+- type: directory
+  path: content/french
+  label: French
+  create: documents
+  match: "**/*"
+  templates:
+  - post-with-image
+- type: directory
+  path: content/german
+  label: German
+  create: documents
+  match: "**/*"
+  templates:
+  - post-with-image
+- type: directory
+  path: content/greek
+  label: Greek
+  create: documents
+  match: "**/*"
+  templates:
+  - post-with-image
+- type: directory
+  path: content/italian
+  label: Italian
+  create: documents
+  match: "**/*"
+  templates:
+  - post-with-image
+- type: directory
+  path: content/japanese
+  label: Japanese
+  create: documents
+  match: "**/*"
+  templates:
+  - post-with-image
+- type: directory
+  path: content./korean
+  label: Korean
+  create: documents
+  match: "**/*"
+  templates:
+  - post-with-image
+- type: directory
+  path: content/portuguese
+  label: Portuguese
+  create: documents
+  match: "**/*"
+  templates:
+  - post-with-image
+- type: directory
+  path: content/spanish
+  label: Spanish
+  create: documents
+  match: "**/*"
+  templates:
+  - post-with-image
+- type: directory
+  path: content/russian
+  label: Russian
+  create: documents
+  match: "**/*"
+  templates:
+  - post-with-image
 upload_dir: content/img
 public_path: "/img"
 front_matter_path: ''
 use_front_matter_path: false
 file_template: ":filename:"
+instant_preview: true
 build:
   preview_command: hugo -E -F -D -d public
   publish_command: hugo -d public
@@ -28,5 +101,5 @@ build:
   preview_output_directory: public
   output_directory: public
   instant_preview_command: hugo server -D -E -F --port 8080 --bind 0.0.0.0 --renderToDisk
-    -d public
+    -d public --config config.toml,.forestry/config-overrides.toml
 version: 0.54.0
