@@ -33,6 +33,7 @@ The daemon for communication with Skycoin hardware devices was improved on and i
 
 Research was conducted on the correct procedure for validating the device’s Random Number Generator so that sufficient and appropropriate tests can be carried out for this functionality.
 
+
 A [Skywallet user manual](https://github.com/skycoin/hardware-wallet/wiki) is currently in draft form. 
 
 
