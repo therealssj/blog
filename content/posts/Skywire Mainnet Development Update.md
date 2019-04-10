@@ -30,7 +30,7 @@ On the protocol level we added acknowledgement (ACK) packets for routes. Since r
 
 ### Skywire Updater
 
-We also release the Skywire updater within the Skywire software, which allows for a very convenient way to update the node. Skywire updater allows a user to call either the `Check`or the `Update` function, to check whether a new version of Skywire is available, and then to update to the new version. For now, these can only be called over the CLI, but they will be integrated with the Manager UI when it is updated. This allows the user to update conveniently, until we have integrated Skywire with the most common packet managers.
+We also released the Skywire updater within the Skywire software, which allows for a very convenient way to update the node. Skywire updater allows a user to call either the `Check` or the `Update` function, to check whether a new version of Skywire is available, and then to update to the new version. For now, these can only be called over the CLI, but they will be integrated with the Manager UI once it is updated. This allows the user to update conveniently, until we have integrated Skywire with the most common package managers.
 
 ### Skywire Interface
 
