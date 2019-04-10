@@ -161,7 +161,7 @@ pygmentsStyle = "murphy"
 
 [[params.social]]
   name = "Medium"
-  url = "https://medium.com/@Skycoinproject"
+  url = "https://medium.com/skycoin"
   image = "images/medium.svg"
 [[params.social]]
   name = "Twitter"
@@ -185,7 +185,7 @@ pygmentsStyle = "murphy"
   image = "images/youtube.svg"
 [[params.social]]
   name = "Reddit"
-  url = "https://www.reddit.com/r/SkycoinProject"
+  url = "https://www.reddit.com/r/Skycoin"
   image = "images/reddit.svg"
 [[params.social]]
   name = "Apple"
