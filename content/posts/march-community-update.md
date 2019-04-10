@@ -53,9 +53,9 @@ A major milestone was reached integrating Skycoin within the Ledger brand of thi
 
 Stay tuned for more updates as we work hard on both hardware wallet projects, as ensuring security is our highest priority before we will enable use of these devices.
 
-![Ledger support for Skycoin is a currently being worked on as we strive to give the Skyfleet as many options for secure coin storage.](/img/ledger-ui.png)
+![Ledger support for Skycoin is currently being worked on as we strive to give the Skyfleet as many options for secure coin storage.](/img/ledger-ui.png)
 
-For detailed developer updates on Skywire, CX and hardware wallet progress, follow the [Skyblog](http://www.skycoin.net/blog). For real time updates on major Skycoin milestones, follow Skycoin on [Blockfolio](https://blockfolio.com/coin/SKY).
+For detailed development updates on Skywire, CX and hardware wallet progress, follow the [Skyblog](http://www.skycoin.net/blog). For real time updates on major Skycoin milestones, follow Skycoin on [Blockfolio](https://blockfolio.com/coin/SKY).
 
 ### Synth Speaks
 
@@ -162,21 +162,33 @@ There are several meetups around the world scheduled for April. Olemis Lang host
 
 It can be hard to keep track of the all the different Telegram groups in the Skycoin project. Here are some groups that you may not yet have joined: 
 
-- [Skywire Mainnet](https://t.me/SkywireMainnet) - a place for interested devs who are exploring the first versions of Skywire mainnet, and for support and to discuss features/issues
-- [Skywire Antenna Group](https://t.me/SkywireAntenna) - discussion and support for Skyfleet working on building out the Skywire wireless mesh network
-- [Skycoin Game Dev](https://t.me/skycoin_game_dev/4738) - discussions on game development written in CX
-- [Skycoin CXFX](https://t.me/Skycxfx) - a Telegram group for those building and using the CXFX game engine
-- [Skycoin 3D Print](https://t.me/Skycoin3DPrint) - the place to go for all Skycoin 3D-printing-related discussion
-- [Skycoin Meetups Worldwide](https://t.me/MeetupsWorldwideSkycoin) - the place for posting/announcing your Skycoin meetup
+- [Skywire Mainnet](https://t.me/SkywireMainnet) - a place for interested devs who are exploring the first versions of Skywire mainnet, and for support and to discuss features/issues.
+- [Skywire Antenna Group](https://t.me/SkywireAntenna) - discussion and support for Skyfleet working on building out the Skywire wireless mesh network.
+- [Skycoin Game Dev](https://t.me/skycoin_game_dev/4738) - discussions on game development written in CX.
+- [Skycoin CXFX](https://t.me/Skycxfx) - a Telegram group for those building and using the CXFX game engine.
+- [Skycoin 3D Print](https://t.me/Skycoin3DPrint) - the place to go for all Skycoin 3D-printing-related discussion.
+- [Skycoin Meetups Worldwide](https://t.me/MeetupsWorldwideSkycoin) - the place for posting/announcing your Skycoin meetup.
 - [Skyfleet News](https://t.me/SkyfleetNews) - only Skyfleet news links, no chat. Great for keeping up to date with the growing amount of ecosystem development and content.
-- [Skycoin Rewards Room](https://t.me/SkycoinRewards) - for submitting Skyfleet content and claiming your tickets to the monthly Skycoin Rewards Program (SRP) raffle run by MacSkyver
+- [Skycoin Rewards Room](https://t.me/SkycoinRewards) - for submitting Skyfleet content and claiming your tickets to the monthly Skycoin Rewards Program (SRP) raffle run by MacSkyver.
 - [Skycoin Sticker Blast](https://t.me/SkycoinStickerBLAST) - the Skyfleet continue to plaster the cities of the world with Skycoin stickers. Jump on here to access sticker templates to print yourself or message Daken to get some stickers sent out to you. 
-- [Skycoin memes](https://t.me/skycoinmemecontests) - the dankest Skycoin memes live here 
+- [Skycoin memes](https://t.me/skycoinmemecontests) - the dankest Skycoin memes live here. 
 
 ![](/img/sticker-2.jpg)
 
-That’s everything from March, another incredibly busy month of building and development. Stay engaged with across Telegram, Twitter, Medium, Reddit and YouTube and GitHub and get your entries in for the first Skycoin Rewards Program raffle. Onwards and upwards, Skyfleet!
+That’s everything from March, another incredibly busy month of building and development. Stay engaged with the community across Telegram, Twitter, Medium, Reddit and YouTube and GitHub and get your entries in for the first Skycoin Rewards Program raffle. Onwards and upwards, Skyfleet!
 
 ![](/img/skywire-graphic.png)
+
+**Skycoin Store:** [https://store.skycoin.net/](https://store.skycoin.net/ "https://store.skycoin.net/")
+
+**Website:** [https://www.skycoin.net/](https://www.skycoin.net/ "https://www.skycoin.net/")
+
+**Telegram:** [https://t.me/Skycoin](https://t.me/Skycoin)
+
+**Twitter:** [https://twitter.com/Skycoinproject](https://twitter.com/Skycoinproject "https://twitter.com/Skycoinproject")
+
+**Reddit:** [https://reddit.com/r/Skycoin](https://reddit.com/r/Skycoin "https://reddit.com/r/Skycoin")
+
+**YouTube:** [https://www.youtube.com/c/skycoin](https://www.youtube.com/c/skycoin "https://www.youtube.com/c/skycoin")
 
 

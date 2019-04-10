@@ -21,7 +21,7 @@ Launching Skywire not only entailed publishing the software, but also required u
 
 ### Skywire General Improvements
 
-Improvements have been implemented for user run nodes, creating solutions for bugs encountered while running nodes in different environments. We have improved the Skywire node CLI and added some convenience functions such as the option to generate a default configuration file for the Skywire node.This facilitates the testing of the software, as it is easier to wipe and rebuild the node without having to manually create its configuration files.
+Improvements have been implemented for user run nodes, creating solutions for bugs encountered while running nodes in different environments. We have improved the Skywire node CLI and added some convenience functions such as the option to generate a default configuration file for the Skywire node. This facilitates the testing of the software, as it is easier to wipe and rebuild the node without having to manually create its configuration files.
 
 ### Protocol Additions
 
@@ -41,6 +41,14 @@ We will soon be publishing a more comprehensive documentation of the Skywire sys
 
 Documentation has mostly been added in the [Skywire wiki](https://github.com/skycoin/skywire/wiki). 
 
-- [Github](https://github.com/skycoin)
-- [Website](https://www.skycoin.net/)
-- [Telegram](https://t.me/Skycoin)
+**Skycoin Store:** [https://store.skycoin.net/](https://store.skycoin.net/ "https://store.skycoin.net/")
+
+**Website:** [https://www.skycoin.net/](https://www.skycoin.net/ "https://www.skycoin.net/")
+
+**Telegram:** [https://t.me/Skycoin](https://t.me/Skycoin)
+
+**Twitter:** [https://twitter.com/Skycoinproject](https://twitter.com/Skycoinproject "https://twitter.com/Skycoinproject")
+
+**Reddit:** [https://reddit.com/r/Skycoin](https://reddit.com/r/Skycoin "https://reddit.com/r/Skycoin")
+
+**YouTube:** [https://www.youtube.com/c/skycoin](https://www.youtube.com/c/skycoin "https://www.youtube.com/c/skycoin")
