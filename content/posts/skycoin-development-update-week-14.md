@@ -13,7 +13,7 @@ title = "Skycoin Development Update - Week 14"
 
 During the past week, the bulk of the work dedicated to Skywire was focused on the Skywire Manager and on improvements to the network protocol.
 
-Work on the Skywire manger re-commenced with a strong push to complete the login/logout functionality of the manager. Tests were written, run and passed. The login/logout function, critical to the security of the Skywire manager, is now complete and changes have been documented.
+Work on the Skywire manager re-commenced with a strong push to complete the login/logout functionality of the manager. Tests were written, run and passed. The login/logout function, critical to the security of the Skywire manager, is now complete and changes have been documented.
 
 The integrity of the network protocol was improved with the fixing of two bugs. The first bugfix was for a major bug that was corrupting ACK packages and causing applications to hang. The second was for an intermittent bug that affected transport creation. It would randomly create a second transport in addition to the one required and continue creating additional transports whenever the unnecessary transport was removed. The transport bug was caused by an issue related to the creation of UUID’s. Both the ACK bug and the transport bugs are now mostly resolved but more work is required on a race condition that appears in the messaging transport and causes system instability.
 
