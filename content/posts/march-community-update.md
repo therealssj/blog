@@ -88,45 +88,10 @@ If you are interested in working directly on various aspects of Skycoin with the
 
 The Skycoin Rewards Program spearheaded by MacSkyver (see below), has had an immediate impact on the amount of quality Skyfleet content released this month. We saw a spike in Skycoin-themed content, with a range of awesome articles and videos. 
 
-### Community articles
-
-[Lawrence Qholloi](https://medium.com/@lawrenceqholloi) came through with a trio of strong articles. He helped put the [final nail in the kidnapping FUD coffin](https://medium.com/skyfleet-captains-log/driving-home-a-final-nail-in-the-skycoin-kidnapping-fud-coffin-the-court-papers-8e02aaaa8fc5?source=---------2------------------), he explained the latest in the [McAfee saga](https://medium.com/skyfleet-captains-log/skycoin-terminates-their-relationship-with-mcafee-7191e089678d) and told the world how to pick a winner in the [post-shitcoin shakedown cryptoverse](https://medium.com/skyfleet-captains-log/picking-a-winner-in-the-post-shitcoin-shakedown-cryptoverse-d5a66f1e07ce). 
-
-[Christian Ott](https://christianott.co/skycoin) updated his go-to explainer on [Skycoin Distribution](https://christianott.co/skycoin_distribution_en/) with the latest information. He also performed a superb [Skycoin liquidity analysis](https://twitter.com/footballelixir/status/1110629353812119553), showing Binance to have the deepest orderbooks for buying and selling SKY. 
-
-[MacSkyver](https://medium.com/@skyfleet) continues his sterling job of building the Skycoin community with [Creating a Blockchain Game Engine](https://medium.com/skyfleet-captains-log/creating-a-blockchain-game-engine-5d4481b0b788), which outlines our plan to develop blockchain gaming applications written in our CX programming language. He followed it up with [Blockchain Gaming Anyone?](https://medium.com/skyfleet-captains-log/blockchain-gaming-anyone-23593ebc3545) an overview of the CXFX gaming engine currently being developed by rd2dbug. His last piece was an announcement of the impending [support of Skycoin within BTCPay Server](https://medium.com/@skyfleet/sky-x-btcpay-skyfleet-project-1-acce514d278e), a self-hosted, censorship-resistant payment processing platform. 
-
-[Marco Casino](https://medium.com/@macrobusinesstv) reminded us again why [the World Needs Skywire More than Ever](https://medium.com/skyfleet-captains-log/now-more-than-ever-the-world-needs-skywire-73aaacd7b346), explaining how ISPs in Australia and New Zealand used national tragedy as an excuse to block access to websites that they can’t censor. He also exposed the [Anti-Skycoin Paid-FUD](https://medium.com/skyfleet-captains-log/anti-skycoin-paid-fud-exposed-2d4685c9a4e2) and wrote an explainer article on the [official Skyminers](https://medium.com/skyfleet-captains-log/free-skyminers-if-held-for-2-years-61dde7ba636c). 
-
-[Fray](https://medium.com/@cryptofray) enjoyed a breakout month with the release of several fantastic articles. He explained [Why Skycoin is Still Under the Radar in 2019](https://medium.com/skyfleet-captains-log/why-skycoin-is-still-under-the-radar-in-2019-e7d310361cd7), and how [Skycoin is an ecosystem](https://medium.com/skyfleet-captains-log/skycoin-is-an-ecosystem-wait-what-aed0d546f6c1). These provide another great community explanation of the project. He also authored [How to Buy Skycoin in 2019](https://medium.com/skyfleet-captains-log/how-to-buy-skycoin-in-2019-35b9bc1d2155?source=---------7------------------), [how to send your newly bought Skycoins](https://medium.com/skyfleet-captains-log/sending-skycoin-like-a-pro-3987e5375502) and [how to engage with the Skycoin community online](https://medium.com/skyfleet-captains-log/i-bought-skycoin-now-what-b519b0321777).
-
-[Blevenec](https://medium.com/@agbanoublevenec), one of our strongest Skyfleet ambassadors in West Africa, also made his writing debut. For all you Francophone SKY fans, read [Pourquoi j’ai décidé d’investir dans le Skycoin?](https://medium.com/@agbanoublevenec/pourquoi-jai-d%C3%A9cid%C3%A9-d-investir-dans-le-skycoin-d053236fcbca?source=---------3------------------) (Why I decided to invest in Skycoin) and his two follow-up pieces on the [Skycoin ecosystem](https://medium.com/@agbanoublevenec/skycoin-le-meilleur-projet-que-lunivers-des-crypto-monnaies-a-pu-m%C3%A9riter-2789e20e6ea7) and [how to use the Skycoin wallet](https://medium.com/@agbanoublevenec/comment-poss%C3%A9der-la-crypto-monnaie-du-si%C3%A8cle-b028f8913c72), explained in French. 
-
-**Spencer Daemore** of cryptocurrency mining outfit CryptoKings published his complete [DIY Skyminer Build Guide](https://medium.com/@spencerdaemore/diy-skycoin-miner-build-guide-b9ba9aaf77ac). This is an in-depth guide with many photos and concise explanations of every step. 
-
-There were also articles from new contributors including [Frahane Bio](https://medium.com/@frahanebio) with [Avec Skycoin nous pouvons désormais vaincre le chômage et la pauvreté dans le monde](https://medium.com/@frahanebio/avec-skycoin-nous-pouvons-d%C3%A9sormais-vaincre-le-ch%C3%B4mage-et-la-pauvret%C3%A9-dans-le-monde-3bb265ece4c5) and RaneVagora on [Synth‘s beef with Upwork](https://medium.com/@ranevagora/skycoins-synth-declares-upwork-com-2f589d00f6e3). 
-
-All of the Skyfleet articles are published on Medium for everyone to read and share. The [SkyFleet Captain's Log](https://medium.com/skyfleet-captains-log) collates the highest quality Skycoin community content in one place. It features prolific Skyfleet writers who have contributed the most so far to Skycoin with their writing skills. Follow all the Skyfleet writers and support them with your claps.
 
 ### Community videos
 
-Skycoin supporters Larry and Joe did an excellent [round-table video discussion](https://www.youtube.com/watch?v=U8v_CCrdzcw) with lead CX developer Amaury, community manager MacSkyver and Skyfleet members Fray, golfmike. They cover a heap of interesting topics, and demonstrate the strength of the support for Skycoin.  
-
-**CryptoRich** did a [video reading of the February 2019 Update](https://www.youtube.com/watch?time_continue=1&v=4y85pMc5KaY), which also covers the great new website [SKYFUD](http://www.skyfud.com/). MacSkyver did his usual awesome [monthly video summary](https://www.youtube.com/watch?v=e3hUan4cCds), which includes a pre-view of the Skycoin rewards event on April 7th. 
-  
-{{< youtube id="U8v_CCrdzcw" autoplay="true" >}}
-
-<br>
-
 Loyal Skyfleet member and proficient coder **BigOokie** released two excellent walkthroughs for the [installation of Skywire mainnet on MacOS](https://asciinema.org/a/232357) and installing [CX Language on MacOS via Homebrew](https://asciinema.org/a/233371). These have been re-posted to YouTube on the Skyfleet channel [here](https://www.youtube.com/watch?v=HJFP4RoQgsE) and [here](https://www.youtube.com/watch?v=HNuJQzNJFlE). 
-
-[Fray](https://www.youtube.com/channel/UC41FZquwlKSIVxgMhwJrsiw/videos) matched his writing work with the fantastic narration and production of four videos to help newcomers to Skycoin. Check out [Intro to Coin Hours](https://www.youtube.com/watch?v=-syucOO5JAc), a [Roadmap to the Skycoin Community](https://www.youtube.com/watch?v=yvnL_nDE1MA), [Sending Skycoin like a Pro](https://www.youtube.com/watch?v=NvK12rR9AC8) and [How to Buy SKY in 2019](https://www.youtube.com/watch?v=jEzi4t8WANA). 
-
-**Casino** released several videos on his new YouTube channel - [Skywire Revolution](https://www.youtube.com/watch?v=NSJnrHw_Qw4) and the hilarious subtitled parody [Skycoin Synth interview](https://www.youtube.com/watch?v=JXdVzLekp4o). 
-
-{{< youtube id="jEzi4t8WANA" autoplay="true" >}}
-
-<br>
 
 ### Skycoin Rewards Program
 
