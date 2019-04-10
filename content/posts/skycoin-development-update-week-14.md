@@ -1,10 +1,12 @@
 +++
-aliases = []
+aliases = [
+	"/posts/skywire-development-update-week-14/"
+]
 date = "2019-04-05T00:00:00+00:00"
 description = "During the past week, the bulk of the work dedicated to Skywire was focused on the Skywire Manager and on improvements to the network protocol."
-image = "/img/skywirer-devupdate-5.4.2019-01.png"
+image = "/img/skycoin-development-update-14.png"
 tags = ["Skycoin", "Skywire", "Development", "Announcements"]
-title = "Skywire Development Update - Week 14"
+title = "Skycoin Development Update - Week 14"
 
 +++
 **Skywire Update**
@@ -23,7 +25,7 @@ Next steps for Skywire will be the addition of endpoints for loop management and
 
 Work on both the design and the development aspects of Skywallet continued this week. A design for the user interface was completed but it didn’t meet the requirements and is now being reworked. We do feel that we are approaching the final version of the UI though and are confident that the look and feel of the UI will be on point.
 
-On the development side, the team focused on improving security. An entropy pool was implemented, that mixes in a few salts from device-specific data, the device’s internal entropy and external entropy from the host machine.
+On the development side, the team focused on improving security. An entropy pool was implemented that mixes in a few salts from device-specific data, the device’s internal entropy and external entropy from the host machine.
 
 Other than that, work was done to increase test coverage of the hardware wallet. Additionally, efforts were dedicated to the automation of testing. To that end, work commenced on improving the functionality of the Skywallet emulator by allowing buttons to be programmatically pressed.
 
@@ -31,7 +33,8 @@ The daemon for communication with Skycoin hardware devices was improved on and i
 
 Research was conducted on the correct procedure for validating the device’s Random Number Generator so that sufficient and appropropriate tests can be carried out for this functionality.
 
-A user manual, currently in draft form, has been created for Skywallet and can be viewed at: github.com/skycoin/hardware-wallet/wiki.
+A [Skywallet user manual](github.com/skycoin/hardware-wallet/wiki) is currently in draft form. 
+
 
 **Ledger**
 
