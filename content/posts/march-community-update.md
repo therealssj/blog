@@ -3,8 +3,8 @@ aliases = []
 bounty = 0
 date = "2019-04-09"
 image = "/img/march-update-header.jpg"
-tags = ["Announcements", "Development", "Community"]
-title = "March 2019 community update"
+tags = ["Announcements", "Development"]
+title = "March 2019 Community Update"
 
 +++
 
@@ -19,7 +19,7 @@ After ten months of intensive testing on 10,000 nodes of the Skywire testnet, th
 
 Over the course of the next few months we will be releasing new iterations of the Skywire mainnet software with new features, facilitated by an updater that will provide the ability to conveniently install new iterations. Stay tuned for additional information, technical details, and further updates from the team.
 
-Developers are encouraged to install the mainnet software from the [Skywire GitHub](https://github.com/skycoin/skywire/tree/mainnet) on a new Pi node and begin testing. Bug reporting should be done through the repo, with steps taken to reproduce the bug, and include any feedback. Details of the process will be available in the README.md and CONTRIBUTE.md. Documentation can be found at the [Skywire GitHub Wiki](https://github.com/skycoin/skywire/wiki). General discussion and support for mainnet happens on [Telegram](https://t.me/SkywireMainnet).
+Developers are encouraged to install the mainnet software from the [Skywire GitHub](https://github.com/skycoin/skywire/tree/mainnet) on a new Pi node and begin testing. Bug reporting should be done through the repo, with steps taken to reproduce the bug, and include any feedback. Details of the process will be available in the README.md and CONTRIBUTE.md. Documentation can be found at the [Skywire GitHub Wiki](https://github.com/skycoin/skywire/wiki). General discussion and support for mainnet happens on the [Skywire Mainnet Telegram channel](https://t.me/SkywireMainnet).
 
 Upcoming features for Skywire mainnet include:
 

@@ -21,7 +21,7 @@ Launching Skywire not only entailed publishing the software, but also required u
 
 ### Skywire General Improvements
 
-Improvements have been implemented for user run nodes, creating solutions for bugs encountered while running nodes in different environments. We have improved the Skywire node CLI and added some convenience functions such as the option to generate a default configuration file for the Skywire node. This facilitates the testing of the software, as it is easier to wipe and rebuild the node without having to manually create its configuration files.
+Improvements have been implemented for user-run nodes, creating solutions for bugs encountered while running nodes in different environments. We have improved the Skywire node CLI and added some convenience functions such as the option to generate a default configuration file for the Skywire node. This facilitates the testing of the software, as it is easier to wipe and rebuild the node without having to manually create its configuration files.
 
 ### Protocol Additions
 
