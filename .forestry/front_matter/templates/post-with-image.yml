@@ -48,7 +48,5 @@ fields:
     source:
       type: documents
 pages:
-- content/posts/skywire-development-update-week-14.md
 - content/posts/inside-the-skywire-mainnet.md
-- content/posts/skywire-development-update-week-11.md
 - content/posts/developing-on-skycoin-skycoin-arena-1.md
