@@ -21,15 +21,16 @@ Launching Skywire not only entailed publishing the software, but also required u
 
 ### Skywire General Improvements
 
-Improvements have been implemented for user run nodes, creating solutions for bugs encountered while running nodes in different environments. We have improved the Skywire node CLI and added some convenience functions such as the option to generate a default configuration file for the Skywire node.This facilitates the testing of the software, as it is easier to wipe and rebuild the node without having to manually create its configuration files.
+Improvements have been implemented for user-run nodes, creating solutions for bugs encountered while running nodes in different environments. We have improved the Skywire node CLI and added some convenience functions such as the option to generate a default configuration file for the Skywire node. This facilitates the testing of the software, as it is easier to wipe and rebuild the node without having to manually create its configuration files.
 
 ### Protocol Additions
 
 On the protocol level we added acknowledgement (ACK) packets for routes. Since routes span multiple hops and rely on the forwarding efforts of other nodes, these ACK packets allow the sender of a packet to know whether the packet arrived at the intended destination. These ACK packets function similar to TCP ACKs.
 
+
 ### Skywire Updater
 
-We also release the Skywire updater within the Skywire software, which allows for a very convenient way to update the node. Skywire updater allows a user to call either the `Check`or the `Update` function, to check whether a new version of Skywire is available, and then to update to the new version. For now, these can only be called over the CLI, but they will be integrated with the Manager UI when it is updated. This allows the user to update conveniently, until we have integrated Skywire with the most common packet managers.
+We also released the Skywire updater within the Skywire software, which allows for a very convenient way to update the node. Skywire updater allows a user to call either the `Check` or the `Update` function, to check whether a new version of Skywire is available, and then to update to the new version. For now, these can only be called over the CLI, but they will be integrated with the Manager UI once it is updated. This allows the user to update conveniently, until we have integrated Skywire with the most common package managers.
 
 ### Skywire Interface
 
@@ -41,6 +42,15 @@ We will soon be publishing a more comprehensive documentation of the Skywire sys
 
 Documentation has mostly been added in the [Skywire wiki](https://github.com/skycoin/skywire/wiki). 
 
-- [Github](https://github.com/skycoin)
-- [Website](https://www.skycoin.net/)
-- [Telegram](https://t.me/Skycoin)
+**Skycoin Store:** [https://store.skycoin.net/](https://store.skycoin.net/ "https://store.skycoin.net/")
+
+**Website:** [https://www.skycoin.net/](https://www.skycoin.net/ "https://www.skycoin.net/")
+
+**Telegram:** [https://t.me/Skycoin](https://t.me/Skycoin)
+
+**Twitter:** [https://twitter.com/Skycoinproject](https://twitter.com/Skycoinproject "https://twitter.com/Skycoinproject")
+
+**Reddit:** [https://reddit.com/r/Skycoin](https://reddit.com/r/Skycoin "https://reddit.com/r/Skycoin")
+
+**YouTube:** [https://www.youtube.com/c/skycoin](https://www.youtube.com/c/skycoin "https://www.youtube.com/c/skycoin")
+
